@@ -1,0 +1,7 @@
+# Obsidian 的本机窗口布局，不在电脑之间同步
+.obsidian/workspace.json
+
+# 操作系统与临时文件
+.DS_Store
+Thumbs.db
+*.tmp

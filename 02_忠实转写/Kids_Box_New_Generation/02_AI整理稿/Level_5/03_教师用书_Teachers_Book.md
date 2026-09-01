@@ -1,0 +1,12555 @@
+# Kid's Box New Generation 5 - Teacher's Book
+
+> OCR整理版 - 按单元结构重组的教师用书教学内容
+
+> 原始文件: Kids_Box_New_Generation_5_Teachers_Book
+
+
+## Table of Contents
+
+- **Front Matter**
+  - [Cover and Copyright](#cover-and-copyright)
+  - [Contents](#contents)
+  - [Language Summary](#language-summary)
+- [Introduction](#introduction)
+- [Welcome Unit: Welcome to our blog](#welcome-unit-welcome-to-our-blog)
+- [Unit 1: Time for television](#unit-1-time-for-television)
+- [Unit 2: People at work](#unit-2-people-at-work)
+- [Review: Units 1 & 2](#review-units-1--2)
+- [Unit 3: City life](#unit-3-city-life)
+- [Unit 4: Disaster!](#unit-4-disaster)
+- [Review: Units 3 & 4](#review-units-3--4)
+- [Unit 5: Material things](#unit-5-material-things)
+- [Unit 6: Senses](#unit-6-senses)
+- [Review: Units 5 & 6](#review-units-5--6)
+- [Unit 7: Natural world](#unit-7-natural-world)
+- [Unit 8: World of sport](#unit-8-world-of-sport)
+- [Review: Units 7 & 8](#review-units-7--8)
+- [Values](#values)
+- [Grammar Reference](#grammar-reference)
+- [A2 Flyers Exam Folder](#a2-flyers-exam-folder)
+- [Activity Book Answer Key](#activity-book-answer-key)
+- [Consolidation and Extension Activities](#consolidation-and-extension-activities)
+
+## Front Matter
+
+### Cover and Copyright
+
+
+
+Official
+Cambridge
+Exam
+Preparation
+Kid's,
+BOX
+New Generation
+British English
+JaneRitterwith
+CarolineNixon&
+MichaelTomlinson
+5
+Teacher's Book
+CAMBRIDGE
+withDigital Pack
+
+CAMBRIDGE
+UNIVERSITYPRESS&ASSESSMENT
+ShaftesburyRoad,CambridgeCB28EA,UnitedKingdom
+OneLibertyPlaza,20thFloor,NewYork,NY10006,USA
+477WilliamstownRoad,PortMelbourne,VIC3207,Australia
+314-321,3rdFloor,Plot3,SplendorForum,JasolaDistrictCentre,NewDelhi-110025,India
+103PenangRoad,#05-06/07,VisioncrestCommercial,Singapore238467
+CambridgeUniversityPress&Assessmentisadepartmentof theUniversityofCambridge.
+WesharetheUniversity'smissiontocontributetosocietythroughthepursuitof
+education,learningandresearchat thehighestinternationallevelsofexcellence.
+www.cambridge.org
+Informationonthistitle:www.cambridge.org/9781108890045
+CambridgeUniversityPress&Assessment2009,2015,2017,2023
+Thispublicationisincopyright.Subjecttostatutoryexceptionandto theprovisions
+ofrelevantcollectivelicensingagreements,noreproductionofanypartmaytake
+placewithoutthewrittenpermissionofCambridgeUniversityPress&Assessment.
+Secondedition2015
+Updatedsecondedition2017
+Thirdedition2023
+2019181716151413121110987654321
+PrintedinXXXX
+Acataloguerecordforthispublicationisavailablefrom theBritishLibrary
+ISBN978-1-108-89004-5Teacher's BookwithDigital Pack
+Additionalresourcesforthispublicationatwww.cambridge.org/kidsboxng
+cambianestextentsimpaynorenesitesfortrederintense
+publicationanddoesnotguaranteethatanycontentonsuchwebsitesis,orwill
+remain,accurateorappropriate.
+
+### Contents
+
+Contents
+Languagesummary4
+Introduction 6
+T4
+Welcome to our blog
+1Time for televisionT10
+Media:Howcanwemakenaturedocumentaries?T16
+2People at workT18
+Social science:Howcanwestaysafe?T24
+T26 Review:units1and2
+3City lifeT28
+T34 Geography:Whatarethebestmodesoftransport?
+4Disaster!
+T36
+T42 GeographyandHistory:Wherecanwefinevolcanoes?
+Review:units3and4T44
+T52 Art:Whatcanyoumakewithrecycledmaterials?
+6SensesT54
+Science:Howdowemakenoises?T60
+Review:units5and6T62
+7Natural worldT64
+Geography:Howcanwehelpendangered species?T70
+8World of sportT72
+Physical education:Howdopeopletrainfordifferentsports?T78
+Review:units7and8T80
+Values
+T82
+Grammar reference
+T86
+A2 FlyersExam folderT88
+Activity BookAnswerkeyT96
+Consolidation andextensionactivities
+T104
+
+### Language Summary
+
+Languagesummary
+Key vocabularyKey language Soundsandlife skills
+Schoolsubjects:art,computerLike/Love+-ing/nouns,'dlike+Connectedspeech
+Welcomestudies,English,French,geography,infinitive
+Communication toourblogGerman,history,maths,science,Presentsimplequestionsand
+Spanish,sport,music
+short answers:Doyoulive
+page4
+School:competition,dictionary,nearyourschool?Yes,Ido./
+exam,language,lesson,prize,study,No,Idon't.
+subject
+Thetime:half,o'clock,past,quarter,to Thetime:Whattimeisit?Consonantclusters
+1TVprogrammes:actionfilm,cartoon, TimeforIt'squarterpastone.shandch
+televisioncomedy,documentary,news,quiz(finish,channel)
+show,rockmusicvideo,sport,weathercollaboration
+page10
+TV:channel,episode,series,stream,
+turnon
+Adjectives:amazing,bad,boring,
+exciting,funny,good,interesting
+Media:naturedocumentaries page16
+Jobs:actor,artist,cook,dentist,Plans,intentionsandThe/a/sound
+2
+Peopleatdoctor,footballplayer,journalist,predictionswithgoingto:(doctor)
+workmechanic,nurse,pilot,sportsWhat'sWilliamgoingtobe
+commentator,videogamedesigner,whenhegrowsup?He'sgoingECreativethinking
+page18writertobeadesigner.
+Social science:safetyprocedures page24
+Reviewunits1and2page26
+City life:airport,bridge,castle,Directions:Goalong/across/
+Consonantclusters 3
+City lifefirestation,gym,hotel,museum,straighton/past,Takethefirst/str,standsp
+second/thirdstreet,Turnleft/(street,stadium,sports)
+page28rightinto/at/onthecorner
+plasouturinesatisoflice,
+Criticalthinking street,taxi,theatre,zooPrepositions:behind,
+Directions:across,along,corner,left,between,next to,opposite
+past,right,straighton
+Geography:citylifepage34
+Disasters:earthquake,hurricane,Pastcontinuousandpast 4Disaster!iceberg,lightning,storm,tsunami,simple:Iwashavingapicnic(sailing,sea,sky,hello,rescue) Thevowelsounds
+volcanowhenitstartedtorain.What
+page36wereyoudoing?ECreativethinking Verbs:break(leg),catchfire,cut,
+destroy,drop,erupt,falldown,hit,
+hurt,lose
+Months
+GeographyandHistory:naturallandscapes page42
+Reviewunits3and4page44
+4
+
+Key vocabularyKey languageSoundsandlife skills
+Materials:brick,card,fur,glass,Describingobjects:What'sConnectedspeech
+5
+Materialgold,grass,leather,man-made,theschoolmadeof?Ithinkit's
+thingsmetal,natural,paper,plastic,recycle,madeofstone.Communication
+rubber,silver,stone,sugar,wood,
+page46wool
+Art:sculptures page52
+6doesitlooklike?Itlookslikea Senses:hear,see,smell,taste,touchDescribingsensations:What
+Sentencestress
+SensesCooking:bowl,cheese,cut,flour,fork,Creativethinking
+ingredients,knife,mix,olives,onion,cat'snose.
+page54oven,pepper,pizza,plate,recipe,
+salamisausage,salt,spoon,topping
+Science:soundwaves page60
+Reviewunits5and6page62
+Nature:beetle,bin,butterfly,clean-Givingadvice:Howshouldwe 7 Sentencestress
+Naturalup,endangered species,extinct,field,lookafterourworld?People
+worldground,habitat,indanger,insect,shouldn'tdroptheirrubbish.
+ESocialresponsibilities
+protect,rubbish,treeTheyshouldputitinabin.
+page64Ithinkweshouldallrecycle
+Describingspecies:female,male,
+bottles.Yes,Iagree./No,I
+spots,spotted,striped,stripes,wing
+don'tagree.
+Geography:endangered speciesandconservationpage70
+Sports:athletics,badminton,PresentperfectforlifeEndings
+World cycling,golf,iceskating,racing,experiences:Haveyouever/t/,/d/and/id/
+ofsportrunning,sailing,skiing,sledging,wonaprize?Yes,Ihave./No,I(jumped,climbed,decided)
+snowboarding,volleyballhaven't.I'veneverwonaprize.
+page72
+Seasons:spring,summer,autumn,Presentperfectforrecently Emotionaldevelopment
+wintercompletedactions:He's
+visitedhisgrandmotherthis
+afternoon.
+Presentperfectforcompleted
+actionswithpresent
+relevance:Hehasn'tdonehis
+homework.
+Physical education:aerobicandanaerobicexercisepage78
+Reviewunits7and8page80
+Values
+Units1&2Respectin theclassroompage82
+Units3&4Peoplewhohelpus page82
+Units5&6Tellthetruthbutdon'thurtpage84
+Units7&8Valueyourfriendships page85
+Grammar reference pages86-87
+A2 FlyersExam Folderpages88-95
+5
+
+## Introduction
+
+### Page 6
+
+Welcome to
+KidsBox
+Kid'sBoxNew Generationisanewand
+enhancededitionof thetrustedcoursethat
+hasinspiredthousandsofteachersand
+awholegenerationofpupilsalloverthe
+worldtoteachandlearnEnglish.
+Hi!We'reMeera,Lennyand
+Kid'sBoxNew Generationrepresentstheidealcombination
+Stella.We'lltakeyourpupils on
+ofcontemporary,research-backedmethodologywith
+alearningjourney.We'llalso
+learner-friendlycontent.Ourcoursecharacterswilltake
+practisepronunciationandlife
+yourpupils onanEnglish-language learningjourney,with
+skillstogether.
+lessonsonvalues,suchasrespectingothersandvaluing
+friendships,andSubjectpagesaboutmedia,socialscience,
+geography,history,art,scienceandphysicaleducation,all
+thewhiledevelopingthelanguagetheyneedtosucceedin
+theCambridgeEnglishQualificationsforyounglearners. We'reLolaandLucas.We'llhelp
+yourpupilsconsolidatethekey
+Kid'sBoxNew Generationtakesablendedapproachto
+language.
+learningEnglishandincludesawidevarietyofprintand
+digitalcomponents:
+• ThePupil's BookwitheBookfeaturesall theClassVideos
+andembeddedClassAudio.
+TheSubjectpageswillhelp
+• TheActivity BookwithDigital PackincludesPractice
+Extra,oursuiteofonlinepracticeactivities,aswellastheyourpupils withmedia,social
+science,geography,history,art, ClassAudioandadownloadableLearnerResourceBank.
+scienceandphysicaleducation!
+• TheTeacher's BookwithDigital Packincludesahostof
+resources,suchasPresentation Plus,TestGeneratorand
+anextensiveTeacherResourceBank.
+ThedigitalcomponentsaredeliveredI'mDiggoryBones.Throughmy
+throughournew-generationlearning stories,yourpupilswillhavefun
+environmentCambridge One.andlearn.
+6
+
+### Page 7
+
+Weaskedteachersfromaroundtheworldtotelluswhat theylikeabout
+Kid'sBox,aswellaswhat theywouldliketoseeinKid'sBoxNew Generation.
+Resources Coursecharactersanddesign
+"WhatIwouldhighlightmostabout
+"Fromthestart,pupilsseemtoidentify
+with thecharactersand thetopics."Kid'sBoxisthequalityof thematerial
+thatcomplementsthebook:theaudio,
+flashcardsandActivity Book."
+So,Stella,LennyandMeeraarebackagainto
+continueinspiringlearners.AlthoughthesamecourseTherearenowevenmoreresourcesavailable.
+charactersareback,theartworkandpagedesignSeepages10andIlofthisintroductionforafull
+havebeencompletelyupdated.overviewof thecoursecomponents.
+LanguagefocusEnhancedTeacher's Book
+Fromtheoutset,ouraimhasbeentoprovideevenmore
+"Thegrammartopicsareexactlysupporttoteachersthroughthenewandenhanced
+whatwewanttoteachourpupils."Teacher's Book.Thisrangesfromhowtostructurea
+lessontodifferentwaysofprovidingextrasupportand
+challengestopupils.Eachpageclearlyspecifiesthe
+Thelanguagefocusofeachlessonisclearlyindicated
+objectives,targetlanguageandmaterialsneeded.
+bothin theTeacher's Book,asitwaspreviously,andDigital ClassroomcomponentsandExtra Resourcesfor
+nowat thebottomofeachpagein thePupil's Book.
+eachlessonareindicatedat theendofeachpage.
+Audioandvideo
+"Thelargenumberofaudiorecordingsthat
+thebookoffersseemstomeaveryuseful
+resourcethatmultipliesthepercentageof
+whatlearnerswillabsorb."
+Kid'sBoxNew Generationcontinuestoofferlots
+ofaudiomaterial,aswellasevenmorevideo
+content,includingvideosforallunitopener,
+language practice,andsubjectpages.Wehavealso
+recreatedthestoryanimationsandsongvideosina
+contemporarystyle.
+7
+
+### Page 8
+
+Unitwalkthrough
+Time for televisionCanyeurememberthelastlesson?Watchthelonguagevideo.
+Readandlabeltheclock.tenpestfivepasttwenty-fiveto
+Presentation
+Introducestheunittopicandkey
+Twenty-fivepast)
+languagethroughlive-action
+wakeup videoswith thecharacters.Whatdoyoudoeveryday?
+901030
+WhatTVshewdotheyallwanttowatch?Watchandcheck.
+oLook at theclocks.
+Watchagain.Say"yes'or'no!STUDY1 Listen and saytheletter.
+TheThefosbellgilswantistoonTVwotchattenaprogrammepastfour.colledTopTolent.
+Thegolffishesattwentybeseven.
+Read and match.
+bottwentytoseven.
+attwentyfivepostfour. 🔊Thechildrenarrivein theEvingroomotupat thelinton
+Play thegomer.Mondays,Whattime1sit? Ask and answer. *Thegotstatohavetobehome
+Witeaboutyourday.
+21AskWhatWouldanddoyouyouanswer.likeandtoyourwatchfomilyTopTalent?dowhenWhyryouWhywantsee?towatchdifferentTvprogrammes?Write20-30words.
+Langsopethetime
+Videos
+Awidevarietyofcontentpresentsandreviews
+keylanguageandvocabulary,includingnew
+Blogs LanguagevideosfeaturingLolaandLucas.
+Thecharacters'blogpostspresent
+thekeyvocabularyinarelevant
+andinterestingcontext.
+Readtheblog.Whichisthebusiestairportin theUK?Icomplete.Listen and check.Thendokaraoke. Ob3538Listena
+bridgecastlemuseum
+Theatre,carma,parkrestaurantstationstreettoxitheatre100 ReportsLondonKid'sBor
+Restaurantandhotel,
+Mytrainwasin thes AMuseum,torytocandle,tell.Andwentto the*Itwashallparteight.
+Iwenttogo
+WETHEDONTOF4
+ToTohavegotoaalowly'*museumday.endIsetoutsideand
+foraplay.Ihadsomethingtoeat. colanebedin theint Songs
+Ask and answer.
+Thesepractiseandextend
+policeofficerteacher
+theunitvocabularyand
+language.Songvideos
+ThisisaLondontail,I'scalledaandkaraokeversionsare
+ThiscasteimetteTowerInlooks availableinPresentation
+PlusandPractice Extraon
+GYMSTADIUM
+Ask and answer.Cambridge One.
+ITHEATRE
+Readagainandcorrectthesentences.
+1AkingcanofEnglandseeThelivedRosetteinStonethefirstof theScotlandMaturalVard.History1DoyouthinkLondonis
+ShakespearepaintedshowedthefinthisLandonflmspostat theboxGloberedinTheotre.1974.
+inisadifficultplacetoeatoutThinkConyourofapartnerplaceyouguess?know.Givedirectionsonhowtogettherefromyourschool.
+youliketogotWhy? *TheoneotondaapotoketormanyyearsTalketogotheGlobe
+verabularycityile Popctice:citylife
+8
+
+### Page 9
+
+TalkingSoundsaboutandlitedittarentskillsideas•DiggoryBones
+Watchthevideo.Whichshopsdotheypsin?
+Pronunciationfocus
+Soundsandlife skillsBadandlater.Whethertethe
+ROARR
+Pupilsfocusonnaturalpronunciation
+Listen and complete.Procticewith a partner. andcompleteaLifeCompetencies
+speakingtask. aLooki
+Look at thegame.Litentoyoungpopleplayingitandtickthephrases
+Theyes/nogame
+isitbig?
+laitmadeofpaper?
+Hasitgotlegs?
+SubjectpagesHasitgetpages
+Doyouuseittoplayf
+Doyouuseittolearn?
+Learnaboutmedia,social
+Usefullanguage Comeon.
+science,geography,history,art,
+Isitmodeof..?
+scienceandphysicaleducationInpairs,playthegome. Deyouuseitto..?
+withnewaudio andvideo.WheredifferentwasbowlsBrutusmadecarryingof?TheBaloneyStone?Whichtwomateriolsarethe
+"Howdopeopletraindifferentforsports?Readtheleaflet.Whyis DIDIYOUKNOWLE
+swimmingagoodhobby?Story
+credforan
+letgodaswithme
+LET'SGETACTIVE!Newstoryanimationsrecycle Tryswimming
+andreinforcethevocabulary
+andlanguagefrom theunit.
+abeathometobeatinandnearwier.
+talongtime.Oilbackinthatpoolandenjoyl
+Underlinewordsthathelperganisethewritersideasin theleafletinActivity1. 1Itmakesyoufitter.Readytowrite Readegainandchoesethecorrectword.
+2Irasescogen.Organisingideas
+aItusesenergyfrom thebodygeiintotreflsecondly,anotherreasonis,lastu Guidespupilsthroughthewriting
+sItisshotthat
+5Itmakesyourmiredlesstronger.processandhelpsthemtowrite
+Whatsportsdoyoulikedoingandwhy?
+FINDOUTMORE-yourInpairs,notebook.discussothersportsandwhytheyaregood.Writeyourideasinavarietyoftexttypes.
+ReadytowriterProject
+postertopresentto theclass. 19casetanang
+ReviewUnits7and8Play the game.
+Look at thepicture.Talk aboutitin pairs.
+FINISH
+Review
+mlistenanddrewlines.ThereIseneexample.
+ReadthestoryChosetherightwordsandwitethemonthelines. clothes
+Revisethelanguageandvocabularyarequietsandwiches
+Wesoperaditileatingtotalonthe coveredin theprecedingtwounitsIwentto thebeachwithSamondhisdoelastweskand.
+throughCambridgeExam-styleimlonowered."Conyouswim?"
+questionsandgames.
+sald."Theseowas8
+leavefoedonthebeechSamsdadaid.Thebirdsalwayseati.Losh
+Itwestrue.Wesawlotsofbigwhitebidsectingour
+Nowchoosethebestnamefor thestory.Tick(/)onebox.
+Igotobed
+Adayetthebeach STARTathal
+Thedangerousbirds
+Alovelyswimanddelicious.
+9
+
+### Page 10
+
+Kid'sBoxNew Generation
+forLearners
+Welcome to our blog!
+Pupil's BookwitheBook
+Learnerscanlistentoall the
+audio andwatchall thevideos
+Whogetsanencitingmessoge?Watchandcheck.
+from thecoursein theireBook.Watchagain.Order
+documentary
+Ask and answer.
+1WhatdidyouthinkofMeese'skeeforablogpostabout theirlintdoyofschool?
+Activity BookwithDigital Pack
+TheActivity Bookpractisesthetarget
+languageandvocabularyfrom thePupil's
+Bookandincludesgamesandpuzzlesto
+addenjoymenttovocabulary practice.
+AccessingtheDigital Packviathecode
+insidethefrontcover,learnershavea
+furtherchancetopractisethelanguage
+andexamsskillsonline.Practice Extra
+includesaselectionofactivitiesand
+gamesdesignedtoreinforcethe
+languageineachunit.
+10.30
+2.30
+4.30
+5.50
+3Look at thelettersontheclockandwritethewords.sch stra 1It'sfivetoone.straightight
+3It'stentosix.
+lESbenDOStnine
+5It'stwenty-thepostfour.col
+adiumsh
+Vocobulary:cityle
+10
+
+### Page 11
+
+Kid'sBoxNew Generation
+forTeachers
+TheDigital Packincludes:
+Teacher's Bookwith
+Digital Pack*DigitalFlashcards
+galPresentation Plus
+TheinterleavedTeacher's BookmakesCPractice Extra
+#TeacherResource
+yourlessonplanningandteachingBank
+1)ClassAudio
+experienceasstraightforwardas
+ETestGenerator
+ClassVideo possible.Lessonsarestructuredlogically
+andprovideinstructionsforwarmers,
+presentation,activitiesandclassgames,
+group workandpair work,andending
+lessons.Youcanfindwhat'sin theDigital
+Packforeachlessonbylookingat theend
+ofeachpageforreferences.
+Extra Resources
+Digital Classroom
+Presentation Plus:Unit3CPractice Extra •Videc
+• T113-Consolidationactivity:Followingdirections
+Presentation Plus
+Thesoftwareincludesinteractive
+activitiesfrom thePupil's Booksand
+Activity Booksandall thecoursevideos.
+Teacher Resources
+Thisincludesall theAudio,worksheets,
+additionalphotocopiableactivitiesand
+exam practicetosupplementyourclasses.
+Time for television
+Posters
+Thereare8colourfulposterswhichfocus
+onkeylanguagefrom thePupil's Book,
+providingteacherswithaneye-catching,
+engagingresourceforlanguage practice.
+Whattimedoesitfinish,MrSharma?
+Itfinishesattwentytoseven!Kids.•BOX
+11
+
+### Page 12
+
+CambridgeEnglishQualifications
+Cambridge
+andKid'sBoxNew Generation
+EnglishQualifications
+CambridgeEnglishQualificationsKid'sBoxNew Generation
+CambridgeEnglish'sthreeexamsforyounglearners,PreAlTheKid'sBoxNew Generationsyllabusisbuiltaround
+Starters,AlMoversandA2 Flyers,arethefirststepsinatheCambridgeEnglishexamsforyounglearners,which
+languagelearner'sjourney.Learnersbetweentheagesofmeansyourpupilswillbewellpreparedforanyexamsthey
+6and12cantaketheseexamstostartlearningEnglishintake.Webreakdownexampreparationintosmallsteps
+apositiveandpracticalway.Theexamsarefun,colourfulandmakepupilsawareof theprogresstheyaremaking
+andactivitybased,motivatingchildrentolearn.Theyhelptowardstheirendgoal.
+pupilsdeveloptheskillsneededforeverydaylifeandbuild
+Pupil's Book
+theirconfidencestepbystep.
+Eachunitof thePupil's Bookprepareslearnersfor their
+Eachexamfocusesonalevelof theCommonEuropean
+exambypractisingthevocabularyandlanguagethey
+FrameworkofReference(CEFR),helpinglearnersimprove
+seeontheexam.TheExam folderat thebackof the
+theirspeaking,writing,readingandlisteningskills.
+book,helpsfamiliarisepupils with thelevelandtasktypes
+in theexam.Warmeractivitiesin theTeacher's Bookhelp
+"95%ofteachersandschoolleadersagreethat introducethelanguagelearnersneedtoknowbefore
+preparingforCambridgeEnglishQualificationseachtask.
+improvestheirlearners'English."
+TheCambridgeEnglishQualificationsSchoolSurvey*
+ManyReviewactivitiesarebasedontheListening,
+SpeakingandReadingandWritingexamtasks.
+Exam folder
+ReviewUnits5and6
+Readthetext.Choosetherightwordsfrom thetableandwritethemonthelines. FlyersReadingandWiftingPara
+etethesentences.1Look.Usethecodetocolourthesquares.Hial.
+Heresreafeelinestotellyouabout"
+ribridge 1Pleaseabovepaintthesignamount:woodtrainersastronautIndoorfootbollIat the
+thedoor,passengerwool
+Key:
+uniform passengerpilotskiingfridgePujamasclothes=brown2called
+with3ploysplaying
+MyfavouriteistheoneplayedogoinsttheteemfromOrosestle.Theyplayed41s
+FOCREEbandagegolfplatformairportcookerairtravel=blue
+thelinsgoolbutthentheyscoredbout trgintravel=purplehenoutfour.We'regoingtowinournestgamethough.
+Iprefergoingonasport"green
+stationovenmedicineglasshospital=pinkbeautiful
+swimmingkitchen=crange
+materials=grey
+Ibrokemy0#Listenandtick(/)thebox. 2€ThereLookisandoneread.example.Choosethecorrectwordsandwritethemonthelines.1WhenaDavid'sbirthooy:•englameistheporty?
+7Hitseishegoingtodo arallwayThispersonfliesaplaneandusually
+wearsauniform.
+Myfavouriteis 1Peopletravelincarsolongtheselorgeroadsepilet
+theonewith thepujamaswhentheygoonlongjourneys.
+A2 &ThisisthenameforapersonwhotravelsonвС
+aplaneortrain,orinataxi.pockets TONES3Peoplewalkoverthiswhentheywanttocross&Whotwouldheliketoget
+Woodori
+14903
+4Youcanstayinthiswhenyouarecamping
+aplotion241490054298
+5Peopleusucilywortheseon theirfuetwhen
+amechanic6Youcanfindtheseoncootsandjackets.
+Peopleputthingslikekeysandmoneyinto them.
+7Thismaterialcomesfromsheepandpeople
+envelopesoftenuseittomakesweaters.
+&Thispersonrepairscorsandothermachines.
+gyouwalkalongthisinastationwhenyoumotorways metalPetonoraretin
+10youputlattersinsidetheseandwritethe
+abridge
+AZFlyersExam folder:ReodingandWritingPart1
+*CambridgeEnglishQualificationsSchoolsSurveyaskedteachersandschoolleaderstheirviewsabout theimpactCambridgeEnglishQualifications
+12haveonlearningandteaching.Itreceivedatotalof5,789responsesfrom109countries.
+
+### Page 13
+
+FlgersListeningPert8
+9138
+Activity Book
+IntheActivity Bookthereisonetaskperunit
+thatfamiliarisespupils with theformatof the
+examtasks.
+Fromthe
+Teacher's
+Book
+EXAMSKILLS
+Teacher's Book •istantitorspecificinformation(schooltrips,museums
+TherearealsousefulExamskillsandExamtipsEXAMTIPS
+in theTeacher's Book.Seepage14ofthis•Makesurepupilshaveall thenecessarycolourswith them.
+• Therearesixdialogues;thefirstoneistheexample.Pupils
+introductionformoretipsonpreparingyoung
+shouldlookat thepictureandlisten.
+learnersforexams.
+• Theyneedtodraw,colouranitemorwriteaword.
+• Theinformationispresentedinadialogue.Theinformation
+refersto thepicture.
+waitstery
+A2 FlyersSpeakingPart2
+Practice Extra
+Practice Extrafeaturesoneexampreparation*
+activityperunit.Thisallowspupils topractiseTip:Ifyoudor'tunderstand,say."Canyou
+repectthat,pleose?
+targetlanguageandexamtechniqueswhile
+workingon theirown.
+*CAMBRIDGE
+TestGeneratorTest GeneratorKid's,
+TheTestGeneratorincludesevenmoreexam BOX User:(
+taskstosupportexampreparation.Password:
+New Generation
+13
+
+### Page 14
+
+Preparingyounglearnersforexams
+Motivatingandsupportinglearnersastheyapproachexamday
+andonexamdayitselfarekeyto theirsuccess.Hereissome
+practicaladvicetohelpyoudothis.
+LookbackandreflectOnexamday
+Allowtimeforpupils tolookbackontheexamtasksInyourlastlessonbeforetheexam,remindlearners
+theyhavecompletedand theprogresstheyaremaking.ofanythingtheyneedtobringandof thestructure
+TheExam folder(onpages88-95of theKid'sBoxNew andlengthof theexam.Communicatewithparentsto
+GenerationPupil's Book)providesausefulrecordofshareinformationandworkwith themtohelprelaxand
+progressforlearnerstoreference.Seepages12-13ofthisreassurelearners.Makesurethateveryoneknowswhat
+introductionformoreinformationonwhereexam-styletimetheexamwillstartandhowlongitwilllast!When
+activitiescanbefoundin thePupil's Book,Activity Book,pupilsarrive,smileanddoyourbesttoputthematease.
+Practice ExtraandTestGenerator.Remindthemthat theyhavepreparedwellfor theexam.
+PractiseexamtasksinclassAftertheexam
+PractisingexamtasksinclassgivespupilsachancetoPraiselearnersforcompletingtheexam.Allowthem
+showwhat theyknowandwhat theycando,aswellastimetoreflectandsharehowtheyfeltabout the
+anopportunitytopractisetheexamstrategiesyouhaveexperience.Asklearners questionsandencouragethem
+taughtthem.Doingafullmockexamalsohelpstomaketoaskquestions,too.Trytobuildupapositiveattitude
+pupilsawareof thetaskstheyhavetodoand thetimetowardsexamination.Thispositiveoutlookisinvaluable
+theyhavetocompletetheexam.tolearners'long-termacademicsuccess.
+ooaroororairare
+aw
+TERL
+14
+
+### Page 15
+
+TheCambridgeLife
+CompetenciesFramework
+Kid'sBoxNew Generationisalignedto theCambridgeLifeSoundsandlife skills,ValuesandSubject
+CompetenciesFramework.TheFrameworkoutlinessixkeypages
+areasofcompetencythatareimportantforbothpersonal ThesepagesaredesignedtodeveloptheCambridge
+andeducationaldevelopment:creative thinking,critical
+LifeCompetencies.Thecompetencybeingdevelopedis
+thinking,learningtolearn,communication,collaboration
+flaggedat thebottomofeachpage.
+andsocial responsibilities.
+ThroughtheSubjectpages,pupilslearnusefulknowledge
+Developingthesecompetenciesnotonlyhelpspupils to
+andskillsformedia,socialscience,geography,history,
+learn,butalsotocommunicateandcollaboratein the
+art,scienceandphysicaleducation,whileengagingwith
+classroomand theworldoutside.
+topicscriticallyandcreatively.Theprojectsonthesepages
+Competenciescombineknowledge,skillandattitudes:encouragepupils touseanddevelopusefulskills,suchas
+planningandpresenting.
+• Knowledgeiswhatyouneedtoknowtodo
+somethingwell. TheSoundsandlife skillsandValues pageshelppupils
+• Skillrefersto thelevelofmasteryorfluency toappreciateculturaldiversity,respectdifferences
+whenyouapplyacompetency.anddevelophumanvalues.Theyalsoencouragepupils
+• Attitudesinvolvemindsetandawillingness tounderstand the
+todevelopandusecompetencies. importanceofrespecting
+FormoreinformationontheCambridgeLifeCompetenciesandprotectingourReadytowrites
+Framework,visitourdedicatedwebpage.Thewebpagenaturalenvironment.GotoActivity Bookpage60.
+featuresdownloadablecompetency-specificandlearning
+Readytowrite.
+stage-specificbooklets,whichhelpyoutointroducethese
+skillstoyourlearners.Thesesectionswalkpupilsthroughthestagesofwriting
+atext.
+TheCambridge
+LifeCompetencies
+Framework
+Criticalcolinge
+Thinkingashowltheytimthetoteslowlyascortsywo
+wethetoholewith?Wig:
+forTeachersand
+Project
+surinatebot 15
+
+### Page 16
+
+Inclusiveclasses
+Oneinevery10learnersislikelytoexhibitsignsofspecificlearningdifficulties
+(SpLDs).Thesepagesoutlinesomestrategiesforsupportingalllearnersin
+ordertocreateaninclusiveenvironmentinwhicheveryonecanthrive.
+Supportingalllearners Languageskills
+Asweallknow,everylearnerisunique.SpLDlearnersWhenreading,somelearnersmay:
+oftenhavestrengths,suchasholisticthinking,and
+• Readmoreslowlyandlessaccurately.
+problem-solvingandvisuospatialskills.Individual
+• Misreadwordswhichcanresultinmisunderstanding.
+strengthsshouldberecognisedandusedtoeach
+learner'sbenefit.
+Whenlistening,somelearnersmay:
+Manyof thefollowingsuggestionsarebeneficialfor
+• Finditchallengingtolistentolongertextsand
+SpLDlearners,andforalllearnersinyourclasses.rememberspecificinformation.
+• Finditdifficulttodistinguishbetweensimilarsounds Raiseself-esteemandself-confidence
+inEnglishorsoundsthataredifferentfrom the
+Regularpraiseandacknowledgementoflearners'
+soundsystemof theirfirstlanguage.
+workandeffortarecrucial.Settingshort-term,
+achievablegoalsandrewardinglearnersforreachingWhenwriting,somelearnersmay:
+themaregreatwaysofboostingself-confidenceand
+• FinditparticularlyhardtospellinEnglish.
+self-esteem.
+• Havedifficultiesorganisingideas.
+Createaninclusiveenvironment•findhandwritingchallenging.
+• Ifpossible,speakwithlearnersand theirparents•makemoregrammaticalerrors.
+toestablishwhatadjustmentsandassistancethey•belessskilledatreviewingtheirwork.
+mightfinduseful.
+Whenspeaking,somelearnersmay:
+• Assessprogressregularlyandmakeadjustmentsto
+• Finditchallengingtoexpresstheirideascoherently.
+learninggoalsandinstructionalmethods.
+• Struggletoretrievewordsquicklyfrommemory
+• Assesslearningoutcomesfairly:focusonmorethan
+underthepressureoforalcommunication.
+testsofspellingandvocabularyknowledgeas
+theseareareasthatsomelearnerswithSpLDsfind•havedifficultypayingattentiontoaccuracyand
+contentat thesametime,wheneitherspeakingor challenging.
+writing.
+Practicaltips
+• MakeallowancesforlearnerswithSpLDswhowork
+moreslowlyandneedextratimetocompletetasks.
+• Givelearnersextendedtimeandadditionalbreaks
+tocompleteassessmenttasks.
+• Givelearnerstheopportunitytowork(or
+participate)inavarietyofgroupandpairactivities,
+inrolesbasedon theirstrengths.
+• Organisepeersupportforlearners.
+16
+
+### Page 17
+
+Supportprogrammesandstrategies Readingcomprehension
+strategies
+Thesecanbeappliedinregularclassroomteachingand
+Teacherscanuseavariety
+arebeneficialforalllearners.
+ofstrategies,suchas:setting
+Phonologicalawareness-raisingreadinggoals;previewingthe
+Theseprogrammessupportlearnersindevelopingtextandpredictingwhat the
+phonologicalprocessingskills,whicharethekeytextwillbeabout;verifying
+foundationsofreadingandspelling.Learnersare andrevisingthesepredictions;
+explicitlytaughthowtomanipulatesoundsandsyllables.drawinginferencesbasedon
+thetextandbackground
+Readingcomprehensionenhancement
+knowledge;andmonitoring
+Akeyelementof theseprogrammesisthedevelopmentcomprehension.
+oflearners'vocabularyknowledge.Thisinvolvesexplicit
+vocabularyteaching,forexample:
+• Pre-teachingkeywordsbeforereadingatext
+• Providingglossarieswithreadingtexts
+• Doingpracticeactivitiesusingthetargetvocabulary
+• Teachingtechniquesthathelpwithmemorisingnew
+words.
+17
+
+### Page 18
+
+Learnerpreferences
+Researchandexperienceshowthatpupilshavedifferentneedswhenit
+comestolearningEnglish.Therewillprobablybeamixtureoflevelsin
+yourclassroom,withsomelearnersneedingmoresupportorperhaps
+moretimetocompleteanactivity.
+Extra supportandchallenges
+TheTeacher's Bookisfullofsuggestionsonhow
+• Extra supportPupilscanwritekeywordsfrom theirlinesin togivelearnersextrasupport.Therearealsoextra
+challengesforpushingstrongerlearnersfurther.theirnotebooks.
+TheExtra supportandExtra challengefeaturesExtra challengeThegroupscanchangesomewordsfrom the
+story,e.g.ugly,walk,talk,fly.
+arehighlightedinyellowin theTeacher's Bookto
+makethemeasytospot.
+Cateringfordiversity
+Classesalsodisplaydifferencesin thewaytheyHowdothesculpturesmakeyoufeelandwhy?Whato thersculpturesdoyou
+liketolearn.Somepupilsarequieterandmightknowabout?
+Thissculpturemakesmelaugh.-FINDOUTMORE-
+prefersittingdownandreading.OthersmayenjoyWhatisthebiggestsculpture
+in theworld?
+moreactionandmovement.Allpupilsneedtohaveandretocenteofbair.
+opportunitiestopractiseandrevisenew language
+andvocabulary.Kid'sBoxNew Generationfeatures
+avarietyofactivitiesandskillswork,soallpupilswill
+findthingstoenjoyandhelpthemlearn.
+Recylingandreinforcing
+Vocabularyandlanguagearereinforcedandrecycled:
+pupilshavemultipleopportunitiestoputtheminto
+practicethroughsongsandgames,aswellasthrough
+traditionalactivities.Thisapproachalsohelpsimprove
+memoryandretentionascontentispresentedand
+practisedindifferentmodesandcontexts.
+Reedandchoosetherightwords.
+Readtheblog.What'sthemostimportantmateriatiwhy?
+woodcomesfrom theground/trees/Mon
+Kid'sBos
+Reports
+MaterialsOk#sListenandorder.Listen and check.Thendekarooke.
+aThistablersmadeofwood.
+1ThesThatbaxwatchismadeismadeofofsiver,gold:
+• Proraraces,Partofaffil
+Orfromafamory*Fenghing'smateral,
+Evengthingmein.
+€Thistearfimadeofwool,"Bodeseemadeofreper.
+AndIwearitwhenitscold.
+dThischairamadeofmutal,
+eSomethingsaremadeofPark,
+Seepages16-17of
+Closeyourbook.Whatconyou
+thisintroductionforrememberfrom thesong?It'smadeofglov. What'sthebowlmadeoff
+informationandadviceLookaroundyourclassreom.Findandwritetwothingsforeachmaterial.
+oncreatinganinclusive Readagainand answer.
+1Wheredowemakemanmodematerials5&WhereWheredodoescordwoolandcomepaperfrom?comefrom?
+classroomenvironment.7&WhatWhataredoestherecysle"cushionmean?coversmodeen
+4Howmuchgoldisin thecar?
+Whatarethingsmadeofinyourclassroom?Write20-30words.
+Chooselivematerials.Tellyourpartneraboutthingsmadeof
+Proctice:molerich
+18
+
+### Page 19
+
+Kid'sBoxNew GenerationOnline
+TeacherTrainingonCambridge One
+Weliveinanever-changingworldwith
+disruptionstoteachingbecomingmoreand
+morefrequent.Wehaveworkedhardto
+Teaching
+Bite-sized
+providesupportfor thesenewchallenges withKid'sBox
+bydevelopingarangeofprintanddigital
+materialtohelpteachersandlearnersget
+themostoutof theirlessons,regardlessof
+Certificate
+whetherclassesarein-person,hybrid,orHelpfulvideos
+ofcompletion
+fullyremote.
+Forfurthersupport,we'vedevelopedanProgress
+tracking
+onlinetrainingcourseforteachersonour
+learningenvironment,Cambridge One.
+Afinalword
+Dearteachers,
+Wearehonouredandexcitedtobe
+presentingKid'sBoxNew Generation.
+Wearedeeplygratefultoall theschoolsand
+teachersworldwidewhohavecontinued
+toputtheirfaithin theefficiencyofour
+teachingmethodthroughouttheyears-this
+newversionisforyou.Wehopeyouhaveas
+muchfunteachingitaswe'vehadwritingit.
+CarolineNixonandMichaelTomlinson
+TheclassiccourseforaNew Generation
+
+### Page 20
+
+Classroomlanguage
+Stella,LennyandMeerahavesharedsomeusefulphrasesandexpressions
+foruseindifferentteachingcontexts.Whateverthescenario,alwaysstart
+eachclassbysmilingandsayinghellotoeveryone.
+Whenteachingfrom thepage
+Openyourbooks Listenand answer/
+complete/check.
+atpage...
+Look at thepicture.Work in pairs/groups.
+Whatdoyou
+Listenandpoint.
+rememberabout...?
+Completethetable.
+Ask and answer.
+Haveyougotapen/
+Dokaraoke.
+pencil/colouredpencils?
+Underline...Closeyourbooks.
+Putyourhandupifyouknowtheanswer.
+20
+
+### Page 21
+
+Whenteachingonline
+Turnon/off
+Putupyourhands.
+yourcamera.
+Mute/UnmuteType(youranswer)
+into thechat. yourmicrophone.
+Look at thescreen.It'syourturn.
+It'sat thetop/at thebottom/on the left/on the rightof thescreen.
+Otherusefullanguage
+Quietly,please.Welldone!
+I'mverypleased
+Oneatatime,please.
+withyoutoday.
+Muchbetter.Thankyou.Goodbye.
+See younextclass!
+21
+
+## Welcome Unit: Welcome to our blog
+
+### Teaching Notes
+
+#### Page T4 (Pupil's Book p.4)
+
+Welcome UnitWelcome to our blog
+Pupil's Bookp.4
+PB4.ACTIVITY2 Objectives
+To reviewpresent simplequestionsandshort answers.Watchagain.Order.
+• Nowtellpupils towatchthe•Videoagainandtoorderthe
+Target language
+statementsandquestionsaccordingtowhentheyhearthem.
+• Key language:Hi,Didyouhaveagoodholiday?How •Dothefirstoneasanexample.Play the•Videoagainand
+come?Howarethings?Areyoureadyfor thenew schoolpauseonDidyouhaveagoodholiday?SayThat'sthefirst
+year?Yeah,Iam.Shallwe...?Let's...,blog,competition,
+one.Nownumbertheothers.
+• Extra challengeAddextraquestionsfrom the•Videoon
+• Additionallanguage:characternames,See you!wi-fi,online
+theboard,e.g.Areyoureadyforanew school year?Whatcan
+• Revision:past simple,present simple,canforabilityand
+wewriteabout?andencouragepupils toaskeachotherthe
+permission,shallforsuggestions,school vocabulary
+questionsandoneextraquestion.
+Warmer
+Presentation
+• Withbooksclosed,writeSchoolon the board anddrawa•Focus pupils ontheSTUDYbox.Elicitwhoaskedthese
+circlearoundit.SayWhatschool thingscanyouremember? questions.Gettheclass to repeatafteryou.Provideashort
+• Brainstormintwominutesall theschool wordspupilsdialogueforpractice:A:Howarethings?B:Goodthanks.
+remember.Buildamindmapon the board.Pupils copyitDidyouhaveagoodholiday?Pupils practisewithclassmates.
+into theirnotebooks.
+Key:4,6,5,(1),3,2
+PB4.
+PB4.ACTIVITY3
+Whatdoyouneedforschool?
+• Showpage4on the whiteboard.Focus pupils onthephotoAnswerthequestions.
+andintroducethecharacters(Stella,LennyandMeera).Elicit •AskDotheywanttoenterthecompetition?Whatdotheyget
+wheretheyare(ataschool).Elicit/Pre-teachblog.for thebestblog?
+• Pupils answerthequestion.Elicitanswers from theclass.Tick
+• Focus pupils onActivity3.Inpairs,pupils answerthe
+anyschool wordsmentionedonthemindmap.questionsorally.Elicitanswers,remindingpupils tousefull
+sentences.
+Presentation
+Ask pupils towritethefullanswersin theirnotebooks.
+PB4.ACTIVITY1Key:1TheirnamesareMeera,StellaandLenny.2Shedidn'thave
+wi-fi.3Theyareatschool.4It'sfor thebestbloginschool.5The
+Whogetsanexcitingmessage?Watchandcheck.
+prizeisfor thebestblog.6Theycanwriteaboutanythingtheylike.
+• Tell pupilstheyaregoingtowatchaVideoabout the
+characters'first dayatschool.Tell pupils toopentheirPupil's
+Booksatpage4.Focusthemonthephoto.SayThereisaEEPB4.ACTIVITY4
+message.Whoisitfor?Ask pupils toguesswhoitisfor. Ask and answer.
+Acceptsomeguesses.Pupils watchthe•Videoandcheck.
+• Ask pupils toreadthequestionsandthinkofanswers.Elicit
+oneortwoexamplesfrom them.
+Key:Meera
+• Askthemtocomparetheiranswersin groups.Askoneperson
+fromeachgrouptofeedbackto theclass.
+VideoScriptscanbedownloadedfromTeacher Resourceson
+AB4.Answerkey,seepageT96 Cambridge One.
+Ending the lesson
+• Reviewwithpupilswhat theylearntinthis lesson.AskWhat
+didwedotoday?Whatnew wordsdidyoulearn?Dothis
+orally.SaySee youon(day).Pupilsreplywith thesame.
+Digital ClassroomExtra Resources
+Presentation Plus:•Teacher Resources:Welcome Unit,DownloadableActivity BookTeaching Notes
+CPractice Extra
+Welcome Unit•Teacher Resources:Welcome Unit,Reinforcementworksheet1
+Video•T110-Consolidationactivity:Makingfriends
+• T110-Extensionactivity:Wordrace
+
+#### Page T5 (Pupil's Book p.5)
+
+Welcome UnitWelcome to our blog
+Pupil's Bookp.5
+PB5.ACTIVITY3 Objectives
+To reviewdailyroutines,likesandpreferences.Listen and saythename.
+• Focus pupils ontheactivityinstructionandontheexample.
+Target language
+Playnumber1onthe,)Audioasademonstration.Check
+• Key language:present simpleforroutines,like/love+understandingofthistypeofshortanswer.
+-ing/nouns,'dlike+infinitive,questionwords,short•Play therestof theel)Audio.Pausetogivepupilstimetocheck
+answers,so,beforefor theanswerandtowhispertheanswerto theirpartner.
+• Additionallanguage:characternames •Play the🔊)Audioagain.Elicitresponsesfrompairsofpupils.
+• Revision:sports,activities,schoolsubjects,superlative
+Key:2Stelladoes.3Lennydoes.4Meeradoes.5Lennydoes.
+adjectives
+6Stelladoes.7Meeradoes.8Lennydoes.
+Warmer(1)2
+• Writethreethingsyoudoeverydayon the board(e.g.train,1Wholivesneartheschool?
+lunch,swimming).Ask pupils toaskyouquestions.Useyour2Wholivesoutsidethetown?
+answerstomodelIcomeby..,Ihave...,Iloveverb+-ing.
+3Whosometimeshasbreakfastatschool?
+• Ask pupils towritethreethingstheydoeverydayin their 4Whowalkstoschool?
+notebooks.5Wholovesplayingfootballandbasketball?
+6Wholikessinging?
+Presentation
+7Whowantstowriteabout thenaturalworld?
+PB5.ACTIVITY18Whowantstowriteaboutcomputers?
+Canyourememberthelastlesson?Watchthe
+EPB5.ACTIVITY4
+language video.
+• Showpage5on the whiteboard.Ask pupils towatchandAsk and answer.
+completetheactivityin theVideo.•Focus pupils onActivity4.Elicitquestionsfrom theprompts
+• Play the•Video.asnecessary.Pupils writethequestionsin theirnotebooks.
+• Pupilstaketurnstoaskand answerin pairs.Checkpupils
+usetheshort answersYes,Ido./No,Idon'tinthis activity.
+VideoScriptscanbedownloadedfromTeacher Resourceson Monitorandhelpwherenecessary.Pupilsmakenotesof their
+Cambridge One.
+partner'sresponses.
+• Extra supportWriteDoyou_at/a/the_?onthe
+#PB5.ACTIVITY2
+board andelicitexamples.Leavethemon the board toreferto.
+Read and answer.WriteYes,Ido./No,Idon't.aswell.
+• WriteMeera,StellaandLennyon the board.Elicitwhat the
+pupilsrememberabout them.Askquestions,e.g.WhoisLEPB5.ACTIVITY5
+interestedinsport/photography/music?Elicitwhat they'dlike
+Writemorequestions.
+toknowabout thecharacters.
+• Pupilsthinkoftwomorequestionseachtoaskand answerin •Focusonthecharacterprofiles.Point to thephotosonthe
+theirpairs.
+board.Tell pupils toopentheirPupil's Booksatpage5.Aska
+pupiltoreadtheintroductionaloud.Write thesequestionson
+LEJAB5.Answerkey,seepageT96
+theboard:1Whowantstowriteaboutnature?2Who's11?
+3Wholikessingingandmusic?
+Ending the lesson
+• Pupils readtheprofilesquicklytofindtheanswers.Theycheck
+• Saysometrue/falsesentencesaboutMeera,StellaandLenny. in pairs.Check with theclass(1Meera,2Lenny,3Stella).
+Ifthesentenceistrue,pupilsstandup(orsitdown).Ifit's
+• Focus pupils onActivity2.Pupils readtheprofilesagainand
+false,theydon'tmove.Examplesentences:Meeralivesina
+thenanswerthequestionsorallyin pairs.Check with theclass.
+village(false).Lennysometimesgoesto theschoolbreakfast
+Key:1ablog,2CitySchool,3drawingandtakingphotos,4ten,club(true).
+5musicandscience,6Herideshisbike.7Lenny,8Lenny
+Digital ClassroomExtra Resources
+Practice Extra•Teacher Resources:Welcome Unit,DownloadableActivity BookTeaching Notes Presentation Plus:
+Welcome Unit•Teacher Resources:Welcome Unit,Extensionworksheet1
+Video
+(1)Audio2•T110-Consolidationactivity:Profiles
+• T110-Extensionactivity:Mimegame
+T5Welcome to our blog|Welcome Unit
+
+#### Page T6 (Pupil's Book p.6)
+
+Welcome UnitWelcome to our blog
+Pupil's Bookp.6
+PB6.ACTIVITY2 Objectives
+To readaboutschoolsubjectsandchoosetheirfavourites.Readagainandsay'same'or'different'foryourclass.
+• Focus pupils onActivity2.Pupilstaketurnstoreadthe
+Target language
+statementsfor theclasstosaysameordifferentaccordingto
+• Key language:numbers,adjectives,subject,exam,secondwhathappensin theirschool.Demonstratewith thefirsttwo
+language,dictionary,science,geography,lesson,history,statementsand thenaskpupils toreadthem.
+competition,prize,study •Iftheygotodifferentschools,pupilscancomparetheir
+• Additionallanguage:Weallagreethat...,Weallwant..., schools.Finishtheactivityin groupsoffour:pairssayoneof
+thepasttheirownstatementstoanotherpair.
+• Revision:schoolsubjects:English,French,geography,
+• Extra challengeAsk pupils towritefourmorestatements.
+German,history,maths,science,Spanish,sport,music
+Monitorandhelpwherenecessary.Inpairs,pupilstaketurnsto
+readastatementaloudandsaysameordifferent,referencing
+Warmer
+theirownschool.
+• Writesixknownschoolsubjectsasanagramson the board.
+Pupils workin pairsandracetounscramblethem.Elicitthe
+PB6.ACTIVITY3
+correctspellings.
+• Elicito therschoolsubjectnamesthatpupilsknowinEnglish.Ask and answer.
+Ask pupilsWhat'syourfavouriteschoolsubject?Askthemto •Focus pupils onActivity3.Demonstratewithapupiland then
+telltheirpartner.getthemtoaskand answerthequestionsin pairs.
+• Extra challengeAsk pupils towritesomefactsabout their Presentation
+school.Givethemthefollowingpromptstoguidethem:Name
+PB6.ACTIVITY1ofschool?Where?Subjectsyoustudy?Yourfavouritesubject?
+Readtheblog.What'stheirfavouritesubject?LEAB6.Answerkey,seepageT96
+• Showpage6on the whiteboard.Focus pupils onActivity1
+Ending the lesson
+and theactivityinstructions.Tell pupils toopentheirPupil's
+Booksatpage6.•Playawordassociationgame.Say,e.g.science.Pupilscallout
+wordswhichtheyassociatewithit,e.g.experiments,Tuesday,
+• Focus pupils onthequestion,theheading,thephotosand
+animals.Afteraboutsixwords,calloutanewsubjectword,
+theshorttexts.Pupils readthetextssilently.Feedbackthe
+answer.e.g.maths.Pupilscanplaythisgamein groupsofsix.
+• Checkcomprehensionbyasking,e.g.Whichsubjectsdoes
+everyonehavetostudyinCitySchool?Whatarethepupils
+learningaboutinsciencethisyear?Aftereachquestion,ask
+theclassWhataboutourschool?togetthemtorelatethe
+informationto theirownschoolcontext.Checkunderstanding
+ofsecondlanguage.Checkpupilsunderstand therelationship
+betweenthetextsand thephotos.
+Key:history
+Digital ClassroomExtra Resources
+0]Presentation Plus:•Teacher Resources:Welcome Unit,DownloadableActivity BookTeaching Notes
+EPractice Extra
+Welcome Unit •Teacher Resources:Welcome Unit,Reinforcementworksheet2andExtension
+worksheet2
+• T110-Consolidationactivity:Blogpage
+• T110-Extensionactivity:Dictionarygame
+
+#### Page T7 (Pupil's Book p.7)
+
+Welcome UnitWelcome to our blog
+Pupil's Bookp.7
+PB7.ACTIVITY2
+Objectives
+TohavefurtherpracticewithschoolsubjectsandsingaRead and choosetherightwords.
+song.•Focus pupils onActivity2.Readthefirstsentenceandelicit
+therightwordtocompletethesentence(history).Ask pupils
+Target language
+toworkin pairs.Thencheck with theclass.
+• Key language:definitions,rhymingwords,computer
+studies,artKey:2languages,3adictionary,4science,5geography,6exams
+• Additionallanguage:hockey,map
+• Revision:schoolsubjects,present simple,study,learnSong
+about,too+adjective,cool
+PB7.ACTIVITY3
+WarmerRead and write.Listen and check.Thendokaraoke.
+• Calloutschoolsubjectsinturnforpupils tospellaloud.•Showthesongon the whiteboard.Point to thepicturesand
+Alternatively,theycanwritethewordsin theirnotebooks.thefirstmissingword.Elicittheanswer(geography).Ask
+pupils towritetheremainingmissingwords.
+Presentation•Play the🔊AudioorVideo.Pupils listenandcheck.They
+thencheckin pairs.
+PB7.ACTIVITY1 •Play the•Video.Pupilsrepeatlinebylineand thenverseby
+Listen and saythesubject.verse.Pupilsstandupandsingthesongoncewith thefirst
+• Showpage7on the whiteboard andaskpupils toopentheirversionand thenwith thekaraokeversion.
+Pupil's Booksatpage7.FocusonActivity1.Tell pupilstheyKey:1geography,2history,3science,4music,5computerstudies,
+willhearcluestohelpthemguessthesubject.6sport,7languages,8dictionary
+• Play the&Audioandpauseafterthefirstclue.Elicitthe
+(1)4
+answer(geography)and thenplaytherestof thetrack.
+AsinPupil's BookKaraokeVersion
+• Ask pupils tocomparetheiranswers with a partner.Play the
+1)Audioagainand thencheck with thewhole class.
+PB7.ACTIVITY4
+Key:2music,3maths,4science,5history,6computerstudies,
+7sportReadabout theschool words.Whatarethey?
+• Focus pupils onActivity4.Dothefirstoneasanexamplewith
+theclass.Pupils readtherestof thedefinitionsandthinkof
+1AlotofpeoplethinkthecapitalofAustraliaisSydney,but
+thematchingschool words.
+itisn't.It'sCanberra.
+2[Soundofrecorders] Key:languages,science,geography,dictionary
+3Onenineisnine.Twoninesareeighteen.Threeninesare
+twenty-seven
+PB7.ACTIVITY5
+4Plantshavegreenleaves.Theyusetheirleavestogetfood
+from thesun.Plantsgiveusoxygen.Writethreemoredefinitions.Ask and answer.
+5Magellanwasthefirstmantosailroundtheworld.He•Focus pupils onActivity5.PupilsusethepromptsinActivity4
+sailedroundtheworldin1642.
+towritethreemoredefinitions.
+6OK,Mary,nowholdthemouseinyourhandandclickon•Usingthedialogueprompts,askpupils totaketurnstoread
+theleftbutton. theirdefinitionsandguesstheschool words.
+7[Soundofbouncingballsandreferee'swhistle!
+• Extra challengeAsk pupils towritemoredefinitions.
+AB7.Answerkey,seepageT96
+Ending the lesson
+• Pupilssingthesongfrom thelessonagain.
+Digital Classroom
+Extra Resources
+Presentation Plus:•Teacher Resources:Welcome Unit,DownloadableActivity BookTeaching Notes
+LPractice Extra
+Welcome UnitTeacher Resources:Welcome Unit,Songworksheet
+Video
+1)Audio3-5 •T110-Consolidationactivity:Schoolsong
+• T110-Extensionactivity:Wordpoems
+T7Welcome to our blog|Welcome Unit
+
+#### Page T8 (Pupil's Book p.8)
+
+Welcome UnitWelcome to our blog
+Pupil's Bookp.8
+PB8.ACTIVITY3 Objectives
+To practiseconnected speechandcommunication.Listenandcirclethewordsthatsoundconnected.
+Practisewith a partner.
+Target language
+• Write theexamplequestionon the board,separatingeach
+• Key language:Hi,Howcome?Howarethings?Didyou partof thesentence:How/are/things?Readoutthe
+haveagoodholiday?Areyoureadyfor thenew school year?sentenceexaggeratingtheseparatewords.Elicithowthe
+• Additionallanguage:shortresponses:Yeah,great,thanks!sentencewouldsoundinanormalconversation.CircleHoware.
+Goodthanks!Yeah,Iam. •Play the🔊Audio.Ask pupils tocirclethewordsthatrun
+• Revision:holidayactivities,regular/irregularverbsinsimple together.
+pasttense,e.g.travelled,went,watched,walked,played •Play the1)Audioagain.Checkanswersandaskpupils torepeat.
+• Pupils practiseaskingand answeringquestionswith a partner.
+Warmer
+Key:AreyouDidyou
+• Ask pupils tomimeanactivityfrom theirsummerholidaysat theirdeskandlookato thersmiming.7
+AsinPupil's Book
+Presentation
+BEJPB8.ACTIVITY1LEPB8.ACTIVITY4
+Watchthevideo.WherearetheyoungpeopleandhowInpairs,lookat thequizandaddmoreschoolholiday
+dotheyfeel?activities.
+• Tell pupils toimagineitistheirfirst daybackatschoolafter •Showpage8on the whiteboard.Tell pupilstheywillwatchthe
+• Videoagainand answerthequestion.aholidayand theyaregoingtotalk about theirholidayswith
+friends.Writeholidayactivitieson the board andelicitwhat •Withbooksclosed,playthe•Videoand thendiscussthe
+pupilscanseein thequiz. answer.
+• Elicitmoreideasandcreateamindmapon the board.Pupils
+Key:Theyareatschool.Theyfeelgoodandarereadyfor the addtwoactivitiesto theirquizzes.
+school year.Theyareexcitedabout thenewblogcompetition.
+• Ask pupils towritemorequestionstoshowinterest,e.g.Did
+youtravelbytrain?Whodidyougowith?
+VideoScriptscanbedownloadedfromTeacher Resourceson
+Cambridge One. EEPB8.ACTIVITY5
+Findaclassmatewhodideachactivity.Askextra
+Pronunciationfocus
+questions.
+PB8.ACTIVITY2•Point to theUsefullanguageboxandreadtheexamples.
+• Tell pupils toaskeachclassmateDidyouhaveagoodholiday?
+Listen and complete.
+and thenaskextraquestions.
+• Tell pupils toopentheirPupil's Booksatpage8.Focusthem
+• Pupilsmingleandaskquestionsfrom theirquizzes,andwrite
+ontheconversationinActivity2.
+anameforeachactivity.
+• Ask pupils tolistenandcompletetheconversation.Play the
+d))Audio.•Extra challengeAsk pupils toshowinterestbyaskingextra
+• Ask pupils tocheckin pairs,thenas a class.Elicitthatwequestions.
+knowtheyarehappytoseeeachotherbecausetheyare
+AB8.Answerkey,seepageT96
+askingquestionstoshowinterest.
+Key:Didyou,howcome,Howare,Areyou,IamEnding the lesson
+• Putpupils intopairstodiscusswhat theyfoundoutin the
+mingleactivity.Whohadthemostinterestingholiday?
+IAsinPupil's BookandKey
+Digital ClassroomExtra Resources
+Presentation Plus:•Teacher Resources:Welcome Unit,DownloadableActivity BookTeaching Notes
+Practice Extra
+Welcome Unit•Teacher Resources:Welcome Unit,DownloadableActivity BookAudioScript
+Video
+1)Audio6-7•T110-Consolidationactivity:Aboutoursummerholiday
+• T110-Extensionactivity:Answeringquestions
+
+#### Page T9 (Pupil's Book p.9)
+
+Welcome UnitWelcome to our blog
+Pupil's Bookp.9
+DExtra challengeSetfurtherquestions:What'sthestorycalled?
+Objectives
+What'stheoldman'sname?What'stheyoungman'sname?
+To readastoryandreviewlanguagefrom theunit. What'sthegirl'sname?Aretheyrelated?Play theVideoagain
+forpupils towatchand answerthequestions.
+Target language
+• Key language:languagein thestory,DiggoryBones,
+Dad:Sauropodus...Thebiggestdinosaur...Thisisthelast
+stones,archaeologist,dinosaur,ancient,TheRosettaStone,
+neckbone. program
+• Additionallanguage:SchoolofArchaeology,classesDiggoryBones:Wow!It'salmost30metreslong!
+• Revision:neck,bone,museum,adjectives,languagefromDad:Howareyourclassesgoingin theSchoolof
+theunitArchaeology,Diggory?
+DiggoryBones:Finethanks,Dad.
+WarmerDiggoryBones:I'mteachingthehistoryoflanguage.
+Mystudentsarelearningabout theRosettaStone!
+• WriteHistoryon the board andintroducethetopicof
+Dad:Ah!TheRosettaStone.Ithelpedustounderstand archaeology.Brainstorm(usingamindmap)pupils'ideas
+aboutwhatpeopledo/find outthrougharchaeology.Elicit/ancientlanguages.
+Providebones,dig,rocks,stones.DiggoryBones:I'malsoworkingonTheBaloneyStone.It'san
+importantnewcomputer program.
+Song Dad:Hello!Hello!Canyouhearme?
+DiggoryBones:It'sOK,Dad.It'smyphone.
+PB9.ACTIVITY1
+DiggoryBones:Hello,Emily.
+What'sDiggoryBonesteaching?What'sTheBaloneyEmily:Dad,comequickly!Somebodywentintoyour
+classroomlastnightandtookyourcomputer! Stone?
+DiggoryBones:No!TheBaloneyStone programwasonit!
+• Showpage9on the whiteboard.Focusonthefirstsceneof
+Dad:Aagh! thestoryon the whiteboard.Elicitwherethecharactersare(at
+themuseum)andwhatisin themuseum(dinosaurskeletons).
+AB9.Answerkey,seepageT96-97
+SayLook at thedinosaurbones.Howmanykneeshasthis
+dinosaurgot?Doyouthinkthisdinosaurhasgotelbows?(no).Ending the lesson
+Look at thedinosaurin theposter.Hasitgotelbows?(Yes,
+• Singtheunitsongagaintogethertoendthelesson.
+• Focusonthestoryingeneral,usingthistointroducethe
+context(archaeology,archaeologist).Tell pupils toopentheir
+Pupil's Booksatpage9.Play theVideo.Pupils watchand
+readtoanswerthequestions.Askthemtocomparewitha
+partnerbeforefeedingback.
+• Play the•Videoagain.Pauseafter eachframeforpupils to
+Who'sonthephone?Whathappened?
+• ProvideinformationinL1forpupils aboutTheRosettaStone.
+Elicitfrompupils inL1examplesofancientlanguages,and
+what theyknowaboutdinosaursandarchaeologyfinds
+aroundtheworld.
+Key:He'steachingthehistoryoflanguage.TheBaloneyStoneisa
+computer program.
+Digital ClassroomExtra Resources
+Presentation Plus:•Teacher Resources:Welcome Unit,DownloadableActivity Book
+LPractice Extra
+Welcome UnitTeaching Notes
+• Video
+1)Audio8•Teacher Resources:Welcome Unit,Story
+• T110-Consolidationactivity:Roleplay
+TestGenerator:Welcome UnitTest
+• T110-Extensionactivity:Secretmessage
+T9Welcome to our blog|Welcome Unit
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 22
+
+Welcome to our blog ?Whatneeddoforschoschool?
+Whogetsanexcitingmessage?Watchandcheck.
+Watchagain.Order.
+1Canwewriteaboutsportandtechnology? STUDY
+2Let'smeetoutsideschoolatfouro'clock.
+Howarethings?
+3Well,it'sourfirst daybackatschool,solet'swriteaboutthat.
+4Didyouhaveagoodholiday?
+5It'saboutanew school blog.
+Canwewriteabout
+sport?
+6Areyoureadyforanew school year?
+Answerthequestions.
+1Whatarethechildren'snames?4What'sthecompetitionfor?
+2Whywasn'tMeeraonline?5What'stheprizefor?
+3Wherearethey?6Whatcantheywriteabout?
+Ask and answer.
+1WhatdidyouthinkofMeera'sideaforablogpostabout theirfirst dayatschool?
+2Imagineyouarewritingablogpostforacompetition.Whatwouldyouliketowriteabout?
+4Language:present simplequestionsandshort answers
+PB4Welcome to our blog|Welcome Unit
+
+#### Scan Page 25
+
+Canyourememberthelastlesson?Watchthelanguage video.
+Read and answer.
+Allaboutus
+Kid'sBoxisanexcitingnewblogforyoungpeople.Meera,StellaandLennywanttowriteapostfor
+theblog.Theyallgoto thesameschool.It'scalled'CitySchool'.
+MeeraStella
+I'mten.Iliveneartheschool,soI'mten.Iliveinavillageoutside
+Iwalkineveryday.Ihavelunchthetown,soIcatchabusto
+atschoolwithmyfriends.Iloveschooleverymorning.Ilike
+drawingandtakingphotos,singingandmusicandIenjoy
+soIwanttoputmyphotosinplayingthepiano.Ilovereading
+theblogandwriteabout theandstudying.I'dliketowrite
+naturalworld.aboutmusicandsciencein the
+blog.
+Lenny
+1What'sKid'sBox?
+I'melevenyearsold.Ialways
+2Whichschooldotheygoto? ridemybiketoschool.I
+sometimeshavebreakfastin3WhatdoesMeeralovedoing?
+theschoolbreakfastclubbefore4HowoldisStella?
+myclasses.Iloveplaying
+5WhatwouldStellaliketowriteabout?
+footballandbasketball.I'm
+6HowdoesLennygotoschool?
+alsointerestedincomputers.
+7Who'sinterestedintechnology?
+I'dliketowriteaboutsportand
+technologyin theblog.8Who'stheoldest,Meera,StellaorLenny?
+Listen and saythename.1Wholivesneartheschool?Meeradoes.
+Ask and answer.Doyoulivenearyourschool?No,Idon't.
+live/nearschool
+lunch/homelike/sport
+read/magazines
+play/musicalinstrument
+use/internet
+Writemorequestions.
+Practice:present simplequestionsandshort answers5
+
+#### Scan Page 26
+
+Readtheblog.What'stheirfavouritesubject?
+ALLBLOGSMYBLOGNEWPOST
+Forourfirstblogpost,wewentroundour Kid'sBox
+schooltofind outmoreaboutwhatwelearn.
+Reports
+Weallstudytheseschoolsubjects:maths,
+English,science,music,sport,artand
+computerstudies.
+Ourschool
+Scienceisanimportant Olderstudentshave
+subject,sowestudyit
+tostudymoreschool
+everyday.Thisyearwe're subjectsandtake
+learningaboutplants
+importantexams.
+and thehumanbody.
+Hello-BonjourInourgeography
+Westudyasecond
+language.Wecanlessons,welearnabout
+differentpeopleand chooseFrench,German
+theircountries.
+orSpanish.
+erci
+ThankYou
+Weusethedictionaries
+Thebestsubjectis
+in theschoollibraryto history.Welovelearning
+helpustounderstandabout thepast!
+new words.
+Weallagreethat thebestthingaboutschoolat themomentistheblogcompetition.
+Weallwanttowinthatprize!
+Readagainandsay'same'or'different'foryourclass.
+1AtCitySchool,theyallstudymusic.5Theystudyscienceeveryday.
+2Olderstudentstakeimportantexams.6Theyarelearningaboutplantsand thehumanbody.
+3Theycanchooseasecondlanguage. 7Theylearnaboutdifferentpeopleand theircountries.
+4Therearedictionariesin theschoollibrary.8Theythinkhistoryisbetterthangeography.
+Ask and answer.
+1Whichlanguagescanyoulearnatschool?IcanlearnFrenchatmyschool.
+2What'syourfavouriteschoolsubject?MyfavouriteschoolsubjectisEnglish.
+6Vocabulary:schoolsubjects
+PB6Welcome to our blog|Welcome Unit
+
+#### Scan Page 29
+
+1AlotofpeoplethinkthecapitalofAustralia
+Listen and saythesubject.isSydney,butitisn't.It'sCanberra.
+Geography.
+Read and choosetherightwords.
+1Westudythepastinscience/geography/4Westudyplantsand thehumanbodyin
+history.maths/sport/science.
+2French,SpanishandGermanare5Welearnaboutpeopleandcountriesin
+languages/exams/maths.geography/computerstudies/music.
+3Whenwedon'tunderstandaword,wecan6Teacherssometimesfind outwhatweknow
+useabook/adictionary/art.bygivingussubjects/computers/exams.
+04-5Read and write.Listen and check.Thendokaraoke.
+Becauseschooliscool,it'swherewego Beforelunchwehave(4)
+FromMondaytoFriday,I'msureyouknow.
+Westudyandweplay,that'swhatwedo.Andthen(5)
+Wedoitin themorningand theafternoon!
+AndonWednesdaywedo(6)
+Ireallylove("
+That'saclasswhichistooshort!
+AndIenjoy(2)
+AndIliketodo(7)
+Iliketostudy(3)too!
+Spanish,FrenchandJapanese.
+Lotsofwordsin the(8)
+Myfavouritesubjectin theafternoon.
+Formetostudyandtoread.
+Readabout theschool words.Whatarethey?
+Withthissubjectwecanlearntotalktopeoplefromanothercountry.
+Inthis lessonwelearnaboutplantsand thehumanbody.
+Whenwestudythiswelearnaboutdifferentcountriesandpeople.
+Weusethistolearnnew words.
+Writethreemoredefinitions.Ask and answer.
+Withthissubjectwecanlearnaboutnumbersandshapes.Whatisit?Isitmaths?Yes,itis.
+Practice:schoolsubjects7
+
+#### Scan Page 30
+
+Soundsandlife skills
+Chattingwithfriends
+Watchthevideo.Wherearethe
+youngpeopleandhowdotheyfeel?
+Pronunciationfocus
+6Listen and complete.
+STELLA:Hi,Meera.have
+agoodholiday?
+MEERA:Yeah,great,thanks.
+STELLA:Ididn'tseeyouonline-
+?
+Listenandcirclethewords
+MEERA:It'sbecausewedidn'thaveanywi-fi,
+butIcanshowyouthepicturesifthatsoundconnected.
+youwant.Oh,look!Here'sLenny!Practisewith a partner.
+STELLA:Hi,Lenny. 1Howarethings?
+things?
+2Areyouhappytobeback?
+LENNY:Goodthanks,Stella.3
+Didyouhaveagoodsummer?
+readyfor thenew school
+year?
+STELLA:Yeah,
+Inpairs,lookat thequizandaddmoreschoolholidayactivities.
+Find outwho...Extrainformation
+Didyouhave
+Whowith? travelledbytrain.Where?
+agoodholiday?
+Where?Whatrides?
+wenttoafair.
+Whatfilm?Whowith?
+watchedafilm.
+walkedin thecountryside.Where?Whowith?
+playedlotsofsports.Whatsports?
+Whowith?
+Usefullanguage
+Findaclassmatewhodideachactivity.
+Howarethings?
+Askextraquestions.
+Wheredidyougo?
+Whodidyougowith?
+8
+Soundsandlife skills:connected speechcommunication
+PB8Welcome to our blog|Welcome Unit
+
+#### Scan Page 33
+
+• DiggoryBones
+Sauropodus...
+Thebiggestdinosaur...
+Thisisthelastneckbone.
+TAPSAP
+GREET
+ТАР
+CITYMUSEUM THETERRIBLE
+LIZARDS
+(CHIE)
+Exhibition startsswow!It'salmost
+SirDougBonesTONK30metreslong!
+tomorrowInthe
+ExhibitionRooms
+Ah!TheRosettaStone.It
+helpedustounderstand
+Howareyourclasses
+ancientlanguages.
+goingin theschoolof
+Archaeology,Diggory?
+SWISH
+SWISH
+I'mteachingthe
+historyoflanguage.
+mystudentsare
+Finethanks,Dad.
+learningaboutTheI'malsoworkingonTheBaloney
+RosettaStone!Stone.It'sanimportantnew
+computer program.
+Hello!Hello!Can
+youhearme?
+Hello,Emily.
+No!TheBaloney
+Stone program
+wasonit!
+Aagh!
+It'sOK,Dad.
+It'smyphone.
+Dad,comequickly!
+somebodywentintoyour BUMPY
+classroomlastnightand
+tookyourcomputer!
+What'sDiggoryBonesteaching?What'sTheBaloneyStone?
+Story:unitlanguageincontext9
+
+## Unit 1: Time for television
+
+### Teaching Notes
+
+#### Page T10 (Pupil's Book p.10)
+
+Unit1Time for television
+Pupil's Bookp.10
+PB10.ACTIVITY2 Objectives
+To review TVprogrammespupilsknow,andwatchashortWatchagain.Say'yes'or'no'.
+video thatpresentsthetimeincontext.•Focus pupils onActivity2.Play the•Videoagain.Pupils
+watchandwhispertheanswers.
+Target language
+• Play the•Videoagain.Pauseafter eachitemtoelicit the
+• Key language:time:o'clock,past(e.g.ten,quarter,half),response.For'no'answers,elicit thecorrections.
+to(e.g.twenty,quarter) Askwhattimeitisin thephoto.
+• Additionallanguage:in a minute,at thesametime,just
+Key:2yes,3yes,4no-hewantstowatchthegolf,5yes, intime
+6no-athalfpastsix
+• Revision:characternames,TVprogrammes,canfor
+permissionandability
+EPB10.ACTIVITY3
+Warmer
+Read and match.
+• WriteordrawaTVon the board anddrawacirclearound•Focus pupils onActivity3.AskWhattimearethechildrenin
+it.AskWhatwordsdoyouknowaboutTV?Brainstormall thekitchen?(1e).Askthemtoworkin pairsandmatchthe
+thedifferentthingspupilscansayaboutTVintwominutes actionswith thetimes.Play the•Videoagainforpupils to
+andcreateamindmapon the board.Supplywordsin
+check.Check with theclass.
+Englishwherenecessary.Pupils copythemindmapinto their
+notebooks. Key:1e,2a,3d,4c,5b,6f
+PresentationPresentation
+• Tell pupilswhattimeyouhadbreakfasttoday,e.g.7.45a.m.
+PB10.Drawthetimeonaclockandteachquartertoeight.Dothe
+sameforwhenyou,e.g.arrivedatschool:8.15a.m.andteach
+Whatkindsofprogrammesandvideosdoyouwatch?
+quarterpasteight.
+• Showpage10on the whiteboard andfocuspupils onthe
+• Point to theSTUDYboxon the whiteboard.Drawacircleon
+photo.Elicitthenamesof thecharactersandwhat theymight
+theboard(torepresentaclock)toshowpastandto.Use
+belookingat.
+differentcolours.Drawclockswithdifferenttimeson the board
+• Focus pupils onthequestionandelicitsomeof theiranswers. topractisehowtotellthetime,e.g.12.00,1.25,4.50,3.15,
+9.45,5.30.
+PB10.ACTIVITY1 •Pupils writethetimeson the board.
+WhatTVshowdotheyallwanttowatch?Watchand
+0Extra supportProvideashortdialogueforpractice:A:What's
+check.thetime,(name)?B:It's-,(name).Thankyou.
+• Tell pupils toopentheirPupil's Booksatpage10.Focuson
+thequestionandelicitideas,butdon'tconfirmthematthis PB10.ACTIVITY4
+stage.Tell pupilstheyaregoingtowatchaVideo.Play the
+Ask and answer.
+• Video.Pupils watchandcheckin pairs.Usethemindmap
+on the board tocheckanyotherneworrevisedvocabulary•Ask pupils toreadthequestionsin theactivityanddiscussin
+pairs.Theythencomparetheirideasinsmallgroups.Askeach
+with theclass.
+groupfor theirideas.
+• Checkpupilsunderstandwhatcatchupis(theycanwatchitat
+alaterdateviaatelevisionplatform).
+(EEAB10.Answerkey,seepageT97
+Key:TopTalent
+Ending the lesson
+• ChooseabouteightTVwords.Write theminascrambled
+VideoScriptscanbedownloadedfromTeacher Resourcesonformon the board forpupils toreorder.
+Cambridge One.
+Digital ClassroomExtra Resources
+• Video
+• Teacher Resources:Unit1,DownloadableActivity BookTeaching Notes Presentation Plus:Unit1Practice Extra
+• Teacher Resources:Unit1,Reinforcementworksheet1
+• AB94andPB94-95-Grammar reference1
+• T111-Consolidationactivity:Matchinggame
+• T111-Extensionactivity:Myday
+
+#### Page T11 (Pupil's Book p.11)
+
+Unit1Time for television
+Pupil's Bookp.11
+PB11.ACTIVITY4 Objectives
+To practisetellingthetimeandtalk aboutschoolroutines.Look at theclocks.Listen and saytheletter.
+• Focus pupils onActivity4.Elicitthetimesontheclocks.Say
+Target language
+Nowwearegoingtolistentopeopletalkingabout these
+• Key language:time,Whattimeisit?present simpleclocks.Dothefirstoneasanexample(1a).
+forroutines(affirmative),present simple(questions•Play thee)Audio.Pupilswhisperthelettersin pairs.
+andaffirmative)
+• Play the🔊/)Audioagaintocheck with theclass,pausingafter
+• Revision:daysof theweek,schoolsubjects
+eachconversationtoelicit theanswer.
+Warmer Key:2c,3b,4b
+• PlayClockbingo.Draweightclockswithdifferenttimeson (1)09
+theboard.Numbertheclocks.Pupils drawa2x2gridin their
+1Interviewer:Wheredoyouhavelunch?
+notebooks,and thenumberofanyof thefourclocksthatare
+Boy:Ihaveitatschool.
+on the board.
+Interviewer:Whattimedoyouhaveit? •Calloutthetimesinarandomorder,andpupilscrossoutthe
+squareswhichmatchthetimesyousay.ThepupilwhocrossesBoy:Ihavelunchatquartertooneeveryday.
+outall theirsquaresfirstsaysBingo.Elicitthetimestocheck.2Interviewer:Whattimedoyougetupduring theweek?
+Boy:Onschooldays,Ihavetogetupearly.Igetupat
+Presentation twentypastseven.
+Interviewer:Ooh,that'searlierthanme!
+PB11.ACTIVITY1
+3Interviewer:Doyouwalkhomefromschool?
+Canyourememberthelastlesson?Watchthe
+Boy:No,Icatchthebus.
+language video.Interviewer:Doyouhavetowaitforit?
+• Showpage11on the whiteboard.Ask pupils towatchandBoy:Sometimes,butthebususuallycomesattwenty-five
+completetheactivityin the•Video. pastfour.
+• Play the>Video.
+4Interviewer:Doyoustudygeographyatschool?
+Boy:Yes,it'smyfavouritesubject.
+VideoScriptscanbedownloadedfromTeacher ResourcesonInterviewer:Whendoyouhaveit?
+Cambridge One. Boy:AttentotenonTuesdaysandFridays.
+PB11.ACTIVITY2
+PB11.ACTIVITY5
+Readandlabeltheclock.
+Play the game.Ask and answer.
+• Tell pupils toopentheirPupil's Booksatpage11.Point to the
+• Focus pupils ontheinstructionsandprompts.
+clockand thetimeson the whiteboard.Pupils labeltheclock
+• Givepupilsfiveminutestowriteasequenceoftimesduring
+usingthetimesfrom thebox.
+thedaywhentheydofivedifferentthings.
+• Pupils checkin pairs.Check with theclass.
+• Inpairs,pupilstaketurnstoplaythegame.
+Key:(clockwisefrom1)fivepast,tenpast,twenty-fiveto,quarterto
+LEJPB11.ACTIVITY6
+PB11.ACTIVITY3 Write aboutyourday.Write20-30words.
+• UsingtheirnotesfromActivity5,pupilswriteabout theirday. Whatdoyoudoeveryday?Order.
+• Ask pupils tolookat theactivities.Theyputtheminorderand
+AB11.Answerkey,seepageT97
+thencomparewith a partner.
+• Remindpupilsthatanswerscanbedifferentastheorder
+Ending the lesson
+reflectswhat theyeachdo.
+• PlayanothergameofClockbingotoendthelesson.
+0Extra challengeAsk pupils todothesametaskforaschoolday
+andaweekendday.
+Digital ClassroomExtra Resources
+• •Teacher Resources:Unit1,Extensionworksheet1
+Presentation Plus:Unit1•Teacher Resources:Unit1,DownloadableActivity BookTeaching Notes
+[Practice Extra
+(1)Audio09 Video
+• Teacher Resources:Unit1,Photocopiable1
+• AB94andPB94-95-Grammar reference1
+• T111-Consolidationactivity:Talkingaboutyesterday
+T11Time for television|Unit1
+
+#### Page T12 (Pupil's Book p.12)
+
+Unit1Time for television
+Pupil's Bookp.12
+PB12.ACTIVITY3 Objectives
+To readandtalk aboutTVprogrammes. Ask and answer.
+• Focus pupils ontheActivity3instructionand theexamples.
+Target language
+Ask pupils todiscussthequestionsin pairsand thenfeedback
+• Key language:TVprogrammes:cartoon,weather,toanotherpair.Asksomeindividualpupils totellyouabout
+documentary,comedy,news,quizshow,sport;TV:theirpartner.
+episode,series,stream
+• Extra challengeAsk pupils todrawapictureof theirfavourite •Revision:sports,adjectives
+programmeorvideo andtopresentittoasmallgroup.Give
+thempromptstohelp,e.g.Where/Whencanyouwatchit?What Warmer
+typeofprogrammeisit?What'sitabout?Whydoyoulikeit?
+• Write thenamesordisplayimagesofTVprogrammespupils
+knowon the board andaskthemtoguesswhattypeofEElAB12.Answerkey,seepageT97
+programmestheyare.
+Ending the lesson
+• Showpage12on the whiteboard.Pupilsidentifythetypes
+ofprogrammesin thephotos.Pupilsthenmatchthemto the•Playamimegametoendthelesson.Mimesomethingrelated
+wordson the board.tooneof theprogrammetypes.Pupilstrytoguessthe
+programmeand thentaketurnstodosimilarmimes(using
+theirownideas)for therestof theclasstoguess.Formore
+PB12.ACTIVITY1
+reservedpupils,askthemtoplayin pairsorsmallergroups.
+Readtheblog.WhichprogrammeisonTVat thesame
+timeeveryday?
+• Tell pupils toopentheirPupil's Booksatpage12.Focusthem
+onActivity1andontheactivityinstructions.Askapupilto
+readthemaloud.Checkunderstanding.
+• Pupils readthetextsilentlyandthinkabout theiranswersto
+thequestion.Discusstheirideasas a class.Checkgeneral
+comprehensionbyaskingquestions,e.g.Whatdoesthe
+weathertellus?Whichseriesdoyoulike?Checkpupilsrealise
+thatnewsissingular.
+Key:thenews
+PB12.ACTIVITY2
+Readagainand answer.
+• Focus pupils onActivity2.Theyworkin pairsandtaketurns
+toreadoutaquestionandsaytheanswer.Theydon'thaveto
+askthequestionsinorder.
+• Check with theclass,elicitingexampleswherepossible.
+• Extra challengePupils writetheanswersasfull sentencesin
+theirnotebooks.
+Key:1adocumentary,2acartoon,3thenews,4football,
+5theweather,6aseries,7aquiz,8comedyprogrammes
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit1,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit1LPractice Extra
+• Teacher Resources:Unit1,Reinforcementworksheet2
+• AB94andPB94-95-Grammar reference1
+• T111-Consolidationactivity:TVprogrammesurvey
+• T111-Extensionactivity:MakingaTVprogramme
+
+#### Page T13 (Pupil's Book p.13)
+
+Unit1Time for television
+Pupil's Bookp.13
+8Newsreader:TheEducationMinisterisvisitinganewlibrary
+Objectives
+inLiverpooltoday.Thelibraryhasgotonemillionbooks.
+TohavefurtherpracticeinreadingandtalkingaboutTV
+programmesandsingasong.
+BEPB13.ACTIVITY2
+Target language Choosewordstotalk about thedifferentprogrammes.
+• Key language:TVprogrammes:rockmusicvideo,action
+films;comparativeandsuperlativeadjectives:interesting, •Ectsomesothersandproposreneshamazing.
+exciting,boring,good,bad,funny,amazing;past simple,promptsandcomparativesandsuperlatives.
+channel,turnon•Makegroupsoffour.Pupilstaketurnstomakecomments
+• Additionallanguage:notmything,therest,until,theabout theprogrammes.Eachpupilthenwritessixsentences
+swings,wait about theprogrammes,usingthecomparativeorsuperlative.
+• Revision:time,comparatives,superlatives
+• Extra supportWrite theadjectiveformson the board.
+Warmer
+Song
+• DisplayimagesofTVprogrammespupilsknowon the board
+andaskthemtoguesswhattypeofprogrammestheyare.BEPB13.ACTIVITY3
+• Introduceactionfilmsandmusicvideosandwritethesewords
+Listen and completetheclocks.Listen and check.Then
+on the board.
+dokaraoke.
+Presentation•Tell pupils tolookat thesong.Explainthat theywilldrawthe
+timesontheclocks.
+PB13.ACTIVITY1
+• Play thee)Audioor•Video.Ask pupils tolistenandcheck.
+Listen and saytheprogramme.•Elicitthetimesbyaskingquestions,e.g.Whattimeisthe
+• Showpage13on the whiteboard.Ask pupils toopentheirdocumentaryon?Elicitthemeaningofnotmything.
+Pupil's Booksatpage13.Point to theinstruction.•Play the•Video.Pupilsrepeatlinebyline.Thentheystand
+• Play the🔊)Audioandpauseaftertheexample.Elicitwhatupandsingthesong,oncewith thefirstversionand thenwith
+typeofTVprogrammeitis(sport).Play therestof the thekaraokeversion.
+1)Audio.Ask pupils towhispertheprogrammesin pairs.
+Key:tenpastthree,fivetotwo,seven,halfpastthree,quarterpast
+• Play the🔊')Audioagain.Check with theclass.
+four,tenpastseven
+Key:2quizshow,3documentary,4cartoon,5weather,
+0)11
+6rockmusicvideo,7comedy,8news
+AsinPupil's BookKaraokeVersion
+*10
+1Commentator:Goal!
+PB13.ACTIVITY4
+Crowd:Yeah!
+Read and complete.
+2Quizmaster:Questionone.What'sthecapitalofVenezuela?
+Boy:Caracas.•Focus pupils onActivity4.Setthequestion:What'sthename
+of theprogrammeTimandJenwantedtowatch? Quizmaster:Yes.Twopoints.
+3Presenter:Thisisaforest.Therearelotsofbirdshidingin •Pupilsquicklyreadtofindtheanswer(Friendly).Theycheckin
+itstrees.Let'sgoandfindthem.pairs.
+4Meow!Meeeooow!•Pupils readthetextinmoredetailtofillthegaps.
+5Weatherpresenter:Goodmorning.Itwassunnyyesterday,
+Key:2past,3waited,4arrived,5turnedon,6news
+buttodayit'sraining.
+6Schooliscool,it'swherewego,fromMondaytoFriday,
+AB13.Answerkey,seepageT97
+I'msureyouknow.Westudyandweplay,that'swhatwe
+do.Wedoitin themorningand theafternoon!
+Ending the lesson
+7Comedian1:Whydidn'ttheskeletongoto thepark?
+• Pupilssingthesongfromearlierin thelesson.
+Comedian2:Ithadnobodytogowith!
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit1,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit1_Practice Extra
+• Video•Teacher Resources:Unit1,Extensionworksheet2;Songworksheet 1)Audio10-12
+• AB94andPB94-95-Grammar reference1
+• T111-Consolidationactivity:Readingrace
+• T111-Extensionactivity:Presentations
+T13Time for television|Unit1
+
+#### Page T14 (Pupil's Book p.14)
+
+Unit1Time for television
+Pupil's Bookp.14
+*')13
+Objectives
+AsinPupil's Book
+Toidentifyanddiscriminatebetweenthesoundsshandch,
+andtopractisecollaboration. EEPB14.ACTIVITY3
+Target languageThinkandcomplete.Practisewith a partner.
+• Key language:Whatcanwewatch?Can'tweallwatch...?•Quicklyelicitdifferenttypesofprogrammesandaskpupils to
+Canwechangethechannel?Well,wecanwatchitanothergiveexamples.
+day.OK.Icanalsowatchit(tomorrow/onmyphone). •Focusontheactivityinstructions.Ask pupils tocompletethe
+Whattimedoesitfinish?Itfinishesat..dialoguewith a partnerandtopractisesayingittogether.
+• Revision:time,responses:That'sagoodidea!Perfect!Monitorpronunciation.
+Great!I'msorry.
+PB14.ACTIVITY4
+Warmer
+Look at theTVguide.Whichtwoprogrammeswould
+• Writethistonguetwisteron the board:IfSharonchooses
+youliketowatchandwhy?
+achildren'schannel,canCharliechangeit?Readitandask
+• Ask pupilswhattypesofprogrammestheycansee. pupils tosaythesentencequickly.
+• Askabout theprogrammes,e.g.Whatsportcanyouwatch? •Readthetonguetwisteragain,butsayitslowlyandelicit
+answersto thequestion.(Charlieshouldaskfirst.TheyshouldWhowillsingin thecontest?
+talkandtrytofindonetheybothlike.)•Tell pupils tochoosetwoTVoptionsfrom theguide.They
+writetheprogrammenameandareasontowatchitin their
+Presentationnotebooks.
+• Pupils comparechoicesandreasonswith a partner,and then
+PB14.ACTIVITY1
+feedbackwith theclass.
+Watchthevideo.Whatistheproblemandwhatdo
+theydoaboutit?EEPB14.ACTIVITY5
+• Showpage14on the whiteboard.Tell pupilsthat theywill Inagroup,discusstheTVprogrammesanddecide
+watchthe•Videoagainand answerthequestion.
+whattowatchtogether.
+• Withbooksclosed,playthe•Video.Thendiscusstheanswer.
+• Tell pupilstheyaregoingtowatchTVtogether.Organise
+Key:Theywanttowatchatalentshow,butMeera'sdadiswatchingpupils intogroups.Theymustplanwhat theywillwatchso
+golf.Theyresolvethisbydecidingtowatchthetalentshowonthateveryonein thegroupishappyandagreeswith the
+catchup.decision.
+• Point to theexpressionsin theUsefullanguageboxandelicit
+afewmoreideas,e.g.Whydon'twe..?Let's...Ithinkwe
+VideoScriptscanbedownloadedfromTeacher Resourcesonshould...Wecould...
+Cambridge One.
+• Highlighttheimportanceoflisteningtoeachother'sreasons
+andrespondingappropriatelyandpolitely.
+Pronunciationfocus
+• Groupsplanwhat theywanttowatchtogether.
+• Askeachgrouptosharewhichprogrammestheydecidedto
+BEJPB14.ACTIVITY2
+watch.
+Listenandunderlinethesoundsshandch.
+DExtra challengeMoreconfidentpupilscanrecordthemselves
+• Ask pupils toreadthedialogueoutloudwith a partnerandto
+andlistenbackto theirconversationstogether.Groupscanthen
+underlineexamplesof thesoundsshandch.
+repeat theirdiscussiontotrytoimprovetheirnegotiating.
+• Play the🔊1)Audioforpupils tolistenandcheck.Highlighthow
+wordsruntogetherwhentheyendwithaconsonantandstart LEAB14.Answerkey,seepageT97
+withavowel,e.g.finishesat/catchup.
+Ending the lesson
+Key:change,channel,watch,finish,Sharma,finishes
+• Ask pupilswhichTVprogrammestheyaregoingtowatch
+afterschooltoday.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit1CPractice Extra•Teacher Resources:Unit1,DownloadableActivity BookTeaching Notes
+)Audio13Video•Teacher Resources:Unit1,DownloadableActivity BookAudioScript
+• AB94andPB94-95-Grammar reference1
+• T111-Consolidationactivity:Minimalpairs
+
+#### Page T15 (Pupil's Book p.15)
+
+Unit1Time for television
+Pupil's Bookp.15
+Objectives
+DiggoryBones:Oh,no!
+To readastoryandreviewlanguagefrom theunit. Reporter:WhatisTheBaloneyStone?
+DiggoryBones:It'sthemostimportantcomputer programof
+Target language
+oldlanguagesin theworld.
+• Key language:languagein thestory:TVscreen,
+Reporter:Whatcanthethiefdowiththisprogram?
+cameraman,thief,password,treasure,reporter,past simple
+DiggoryBones:Thethiefcanfindtheworld'smostbeautiful
+• Additionallanguage:I'vegotnotimetolose,ofcourse
+• Revision:languagefrom theunittreasures.
+DiggoryBones:Imustgonow.I'vegotnotimetolose.
+Thankyou.
+Warmer
+DiggoryBones:It'shalfpastnine.Let'sturnonthenews.
+• Reviewthestorywithpupils.Writewordsrandomlyacross
+Emily:OK,Dad.
+theboard,e.g.archaeology,Diggory,Emily,bones,Rosetta
+Reporter:EarlythismorningsomebodytookTheBaloney
+Stone.Elicitwhat theycanrememberabout thestorywithout
+StonefromCityUniversity.
+lookingin theirbooks.
+Emily:What'shappening?
+Dad:Why'stheTVscreenblack? Story
+BrutusGrabbe:Thatwasthenews.Nowthisisacomedy.
+PB15.DiggoryBones:BrutusGrabbe!Ofcourse!Thecameraman!
+BrutusGrabbe:YouwantTheBaloneyStoneandIwantyour
+DiggoryBones
+secretpassword,solistentomecarefully...
+• Showpage15on the whiteboard.Focus pupils onthefirst
+sceneof thestory.Pre-teachthiefandTVscreenandset
+thequestions:WhyisTheBaloneyStoneimportant?WhatEEPB15.ACTIVITY1
+happensto theTVscreen?WhoisontheTV?Play the
+WhatcanthethiefdowithTheBaloneyStone
+• Videowithbooksclosed.Pupils watchtofindtheanswers.
+program?WhatdoesBrutusGrabbewant?
+Theycheckin pairswithbooksopen.
+• Ask pupils toreadthestoryagainand answerthequestionsin
+• Check with theclass.(It'sthemostimportantcomputer
+pairs.Getthemtofeedbackto theclass.
+programofoldlanguagesin theworld./Youcanfindthe
+world'smostbeautifultreasureswithit.Itgoesblackwhenthe
+Key:Thecomputer programcanfindtheworld'smostbeautiful
+newsison.BrutusGrabbe.)
+treasures.Brutuswantsthepasswordfor theprogram.
+• Play the•Videoagain.Pupils listenandread.Pauseafter
+• Extra challengeAsk pupils toactoutshortsequencesinsmall eachframeforpupils torepeat.
+groups.Theythenperformtheirpartsof thestoryforeachother. •Attheend,checkcomprehensionbyasking,e.g.Whattime
+isthenewson?HowisBrutusGrabbeontheTV?Whatdoes ElAB15.Answerkey,seepageT97-98
+DiggorywantandwhatdoesBrutuswant?Checkthatpupils
+understandwhyBrutuswantsDiggory'spassword.
+Ending the lesson
+• Ask pupilswhichrhyme/songthey'dliketodoagainfrom the
+unit.Doittogethertoendthelesson.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit1•Teacher Resources:Unit1,DownloadableActivity BookTeaching Notes
+LPractice Extra
+• AB94andPB94-95-Grammar reference1 )Audio14Video
+• T112-Consolidationactivity:Roleplay
+• T112-Extensionactivity:Thenews
+T15Time for television|Unit1
+
+#### Page T16 (Pupil's Book p.16)
+
+Unit1Time for television
+Pupil's Bookp.16
+Key:HowDinosaursLived
+Objectives
+To learnabouttechnologyusedtofilmnaturedocumentaries*15
+andtalk aboutwhichprogrammestheyfindinteresting.
+AsinPupil's Book
+Target language
+2EPB16.ACTIVITY2 •Key language:cameraoperator,computer-generated
+images,drone,extinct,factual,incredible,landscape, Readagainandcompletethediagram.
+long-lifebatteries,low-lightcamera,migration,special •Pupils readtheinformationabout thenaturedocumentariesin
+effects,technician,underwater
+Activity1againandfocusonthechangesintechnologyused
+• Revision:channel,dinosaur,documentary,episode,series,tofilmtheTVprogrammes.
+amazing,incredible,exciting,helicopter,nature,technology •Look at theexampleswith theclass.Ask pupils toreadthe
+textsagainandcompletetheVenndiagramwithdifferences
+Warmerandsimilaritiesbetweentheoldandnewtechnology.
+• Elicitdifferenttypesofprogrammes.AskWhattypeof•Allowtimeforpupils tocheckanswersin pairsbefore
+programmesdidyouwatchyesterday?checkingwith theclass.
+• Elicitanswers fromindividualpupils.Ifnopupilhaswatched
+DExtra supportWithlessconfidentpupils,copythediagram
+adocumentary,say/watchedadocumentaryyesterdayand
+onto theboard andcompleteitas a class.
+encouragepupils toaskquestions.Tell pupilsthey'regoingto
+learnaboutnaturedocumentaries.Key:Past:batteriesdidn'tlastlong
+Present:long-lifebatteries,filmfromdrones,computeranimations
+Both:filmfromhelicopter
+BEPB16.
+Howcanwemakenaturedocumentaries?
+PB16.ACTIVITY3
+• Displaypage16.Pupils discussthequestiontogether.Elicit
+ideasfrom theclass,butdon'tconfirmthematthisstage.Whichprogrammesoundsmoreinterestingtomake
+• Play the•Videoforpupils towatchand answer.Pupilsandwhy?
+compareideasin pairs.Checktheanswerwith theclass. •Inpairs,askpupils todiscussthedocumentariesanddecide
+whichonemostintereststhemandwhy.Theyshouldthink
+aboutwhat thedocumentariesareaboutandalsothespecific
+VideoScriptscanbedownloadedfromTeacher Resourceson
+jobsandwhat theyinvolve.
+Cambridge One.
+• Ask pupils tofeedbackabout theprogrammetheyfindmost
+interestingandwhy.
+PB16.ACTIVITY1
+Listenandread.Whichprogrammedoesn'tshowrealFINDOUTMORE
+animals?•Point to theFINDOUTMOREboxandreadthequestion
+• Tell pupils toopentheirPupil's Booksatpage16.Focus pupils togetherwithpupils.Tellthemtheyaregoingtosearchfor
+onthephotosandelicitwhat theycansee.Pre-teachextincttheanswerto thequestiononline.Modeltheactivityby
+searchingforalternativeinformation. andspecialeffects.Beforereading,find outhowpupilsthink
+thenaturedocumentariestheywatchonTVaremade.•Assignthis activityashomeworkandtellpupilstheywillshare
+Focus pupils onthetextsandActivity1.Play the8)Audio.theirfindingsin thenextclass.
+Pupils listenandreadthetexts,and thenanswerthequestion.•Ask pupils todoaninternetsearchathometofind outthe
+• Pupils checkin pairs.Check with thewhole class.answerto thequestion.Remindthemtoaskanadultfor
+permissionfirst. •Afterreading,putpupils intopairs.Askthemtofindthenew
+technologyusedin themakingofeachdocumentaryand Ending the lesson
+underlinethesewords.Checkanswersas a class.
+• Ask pupilswhat themostinterestingthingwastheylearnt
+QExtra challengeAskfurtherquestions,e.g.Whatequipmentdo
+aboutinthis lesson.
+theyuse?Howdotheycreateanimalsthatdon'texistanymore?
+Whydoesacameraoperatorneedlong-lifebatteriestogodeep
+underthewater?
+Digital Classroom
+Extra Resources
+Presentation Plus:Unit1[Practice Extra•Teacher Resources:Unit1,Subjectworksheet
+(1)Audio15•Video•AB94andPB94-95-Grammar reference1
+• T112-Consolidationactivity:Writingtogether
+
+#### Page T17 (Pupil's Book p.17)
+
+Unit1Time for television
+Pupil's Bookp.17
+PB17.ACTIVITY2 Objectives
+To practiseusingadjectivestodescribeanatureUnderlinetheadjectivesin thechatmessagein
+documentarytheywatchedrecentlyandsaywhypeopleActivity1.
+shouldwatchit.•Focus pupils ontheLearningtowritebox.Askaconfident
+pupiltoreadtheexamplesaloud.Elicitthat thewordsinbold Target language
+areadjectives.Askwhatanadjectivedoes(describesanoun).
+• Key language:adjectives
+• Ask pupils toreadthetextinActivity1againandunderline
+• Additionallanguage:insects,butterflies,bees,pollinating
+anyadjectivestheyfind.Reviewas a classandwritethe
+• Revision:documentary,nature,amazing,interesting, adjectivesinaliston the board.Ineachcase,elicitwhat the
+incredibleadjectivedescribesin thetext.
+Key:amazing,big,interesting,cute,frightened,shy,natural, Warmer
+awesome,incredible
+• ShowtheFINDOUTMOREfeaturefrompage16onthe
+whiteboard.Readoutthequestion.
+• Inpairs,askpupils totalk aboutwhat theylearntfrom theirEEPB17.ACTIVITY3
+internetsearch.Feedbackas a class. Inpairs,discussanaturedocumentaryyouknow.
+Writeyourideasinyournotebook.
+DIDYOUKNOW...?
+• Focus pupils onActivity3.Tell pupilstheyaregoingtodiscuss
+• Showpage17on the whiteboard.Point to thepictureandask
+anaturedocumentarytheyhaveseenrecentlyorthat they
+Whatisit?(agiantsquid).Inviteavolunteertoreadthefact
+knowabout.Ifnecessary,suggestthenamesofsomepopular
+aloudto theclass.
+documentarieswhichpupilsareawareof.
+• Ask pupilsiftheyaresurprisedby theinformation.AskWould
+• Readthethreequestionswithpupils.Remindthemtoinclude
+youliketoknowmoreabout thegiantsquid,orabouto ther
+theanswersto thesequestionsin theirnotesandtoreferto
+deep-seacreatures?
+themodeltextforguidanceaboutwhato therinformation
+• Encouragepupils tosharetheirinterestsaboutunderwater
+theyshouldtrytoinclude.
+animals,anddescribeanycreaturestheyfindparticularly
+• Makesurebothpartnersmakenotesastheywillneedthem
+fascinating.
+for theActivity BookReadytowriteactivityonpage16.
+PB17.ACTIVITY1FEAB17.Answerkey,seepageT98
+Readthechatmessage.Whydidtheythinkthe
+FEPB17. programmewasinteresting?
+• Ask pupils toopentheirPupil's Booksatpage17.Focuson •PROJECT
+Activity1.Ask pupilswhattypeoftextitis(chatmessage).
+• Teachingnotesfor theProjectcanbedownloadedfrom the
+Point to thephotoandelicitwhatitshows.Readthequestion
+Teacher ResourcesonCambridge One.
+in therubrictogetherandaskpupils toreadthemessageto
+findtheanswer.
+Ending the lesson
+• Ask pupils toreadthetextagain.Askfurtherquestions
+• Putpupils intosmallgroups.Setatimelimit.Askthemtolook
+about thetextas a class,e.g.Whattypeofprogrammeis
+at theadjectivesfromActivity2andwriteonesentencefor
+themessageabout?Wheredidthewriterseeit?Whyshould
+eachadjective.
+Fahadwatchtheprogramme?Whydofoxesliveincities?
+• Elicitasentencefromeachgroup.Awardonepointforeach
+• Ask pupilsifanyotheranimalsliveincities.
+correctsentenceandgiveextrapointsforanyinteresting
+sentences.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit1,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit1LPractice Extra
+• Teacher Resources:Unit1,DownloadableActivity BookAudioScript ETestGenerator:Unit1Test
+• AB94andPB94-95-Grammar reference1
+• T112-Consolidationactivity:Naturedocumentariesvocabulary
+• T112-Extensionactivity:Definitions
+T17Time for television|Unit1
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 34
+
+Time for televisionWhatkindsofprogrammes
+1
+andvideosdoyouwatch?
+IIIII$17
+WhatTVshowdotheyallwanttowatch?Watchandcheck.
+Watchagain.Say'yes'or'no'.
+No.
+STUDY
+Thechildrenarein thesupermarketat thebeginningof thestory.
+2ThefootballisonTVattenpastfour.It'squartertofour.
+It'squarterpastfour.
+3ThegirlswanttowatchaprogrammecalledTopTalent.
+4MrSharmawantstowatchthesameprogrammeasthem.
+5Thegolffinishesattwentytoseven.
+6LennyandStellahavetobehomeatquarterpastsix.
+Read and match.
+1Thechildrenarein thekitchenaattenpastfour.
+2Thefootballisonbattwentytoseven.
+3TopTalentisoncattwentypastfour.
+4Thechildrenarrivein thelivingroomdattwenty-fivepastfour.
+5Thegolffinisheseatquarterpastfour.
+6LennyandStellahavetobehomefathalfpastsix.
+Ask and answer.
+1WouldyouliketowatchTopTalent?Why?Whynot?
+2WhatdoyouandyourfamilydowhenyouwanttowatchdifferentTVprogrammes?
+10
+Language:thetime
+PB10Time for television|Unit1
+
+#### Scan Page 37
+
+Canyourememberthelastlesson?Watchthelanguage video.
+Readandlabeltheclock.tenpastfivepasttwenty-fivetoquarterto
+o'clock
+fiveto
+12
+tento1 11
+102
+to 9past3
+quarterpast
+84
+twentytotwentypast 5
+twenty-fivepast
+halfpast
+wakeupcleanmyteeth
+getup gotobed
+Whatdoyoudoeveryday?
+getdresseddomyhomework
+Order.
+gotoschoolhavebreakfast
+9Look at theclocks.
+1Ihavelunchatquartertooneeveryday.
+Listen and saytheletter.
+13
+4 2
+Play the game.Igetupatthistimeon
+Mondays.Whattimeisit?
+Ask and answer.
+Twentypastseven.
+No.
+Write aboutyourday.
+Twentytoeight.
+Write20-30words.
+Yes.
+Practice:thetime11
+
+#### Scan Page 38
+
+Readtheblog.WhichprogrammeisonTVat thesametimeeveryday?
+anE ALLBLOGSMYBLOGNEWPOST
+Kid'sBox
+Today'sblogpostisaboutdifferentkindsof Reports
+TVprogrammes.YoucanwatchthemonTV
+orstreamthemtoyourphoneortablet.
+TVprogrammes
+Lotsofpeopleenjoywatchingsport
+Cartoonsaremovingpictures.
+onTV.Someof themostpopular
+Childrenandgrown-upslove
+them.Theycanbeshortsportsin theworldarefootball,
+programmesorcompletefilms.basketball,tennisandgolf.What
+They'reusuallyfunny.sportsarepopularinyourcountry?
+herNews
+Wewatchtheweatherto Aquizisakindofcompetition.
+find outifit'ssunny,rainy,Onepersonasksotherslotsof
+windyorcloudy.What'sthedifferentquestions.Thewinneris
+weatherliketoday?thepersonwith themostpoints.
+Adocumentaryisa
+BREAKINGThenewsisaboutthings
+NEWS programmewhichgivesus
+whicharehappeningin the
+informationaboutourworld.
+world.It'sonTVat thesame
+Itcanbeaboutanimals,
+timeeveryday.
+historyorgeography.
+AcomedyisafunnyWewatchaseriesinparts.These
+programmewhichmakesus partsarecalledepisodes.You
+laugh.What'syourfavouritecansometimeswatchanepisode
+comedy?everyday.
+Readagainand answer.Ask and answer.
+1Whichprogrammecantellusthingsaboutanimals?
+1What'syourfavourite
+2Whichprogrammecanbeshortoracompletefilm?TVprogramme?
+3Whichprogrammeisaboutthingswhichare MyfavouriteTVprogramme
+happeningin theworld?isthenews.
+4Whichisoneof themostpopularsportsin theworld?
+5Whichprogrammecantellustotakeanumbrella2Whydoyoulikeit?
+withus?
+Ilikelearningaboutwhat's
+6Whichprogrammeisinepisodes?happeningin theworld.
+7Whichprogrammeisakindofcompetition?
+8Whichprogrammesarefunny?3What'sitabout?
+It'sabout thenewsaroundtheworld.
+12Vocabulary:TVprogrammesandadjectives
+PB12Time for television|Unit1
+
+#### Scan Page 41
+
+110Listen and saytheprogramme.Sport.
+91Goal.
+cartooncomedydocumentarynews
+quizshowrockmusicvideosportweather
+Choosewordstotalk about thedifferentprogrammes.
+amazingbadboringexcitingfunnygoodinteresting
+IthinkquizshowsaremoreIthinkrockmusic
+interestingthantheweather.videosarethebest.
+011-12Listen and completetheRead and complete.
+clocks.Listen and check.
+arrivedfournewspast
+Thendokaraoke.
+turnedonwaited
+Idon'tlikeTV,Idon'tlikeitmuch,
+Buttherearesomeprogrammesthat
+Isometimeswatch.
+Onchanneloneat
+There'sareallygooddocumentary
+Aboutanimalsandwheretheylive,
+What theydoandwhat theyeat.
+Andonchannelfourat
+Theyputonagreatcartoon.
+Atoneo'clockand thenatTimandJenwentto theparklastSaturday.They
+ranonthegrass,playedwithaballandwenton
+theswings.Attento(1)fourtheysatdown
+Theyshowthenewsand thentheweather.
+becausetheyweretired.Theysawanewspaper
+They'renotmything,they'renotforme,onthebench.Theyopeneditat theTVpageand
+lookedtoseewhatwasonthedifferentchannels.
+ButIlikethesportat
+TimwantedtogohomeandwatchFriendlyathalf
+(2) four.Theywentto thebusstopand
+ButwhatIlike,whatIlovethebest,(3) •Thebusdidn'tcomeuntilquarter
+Aretheactionfilms,morethantherest.pastfour.They(4)homeattwenty-fiveto
+the five,raninto thelivingroomand(5)
+They'reonat
+TV.Theprogrammewasn'tFriendly,itwasthe
+(6) Theylookedat thenewspaperagain.
+AndatbutIwantmore.Itwasanoldone!TheyshowedFriendly
+onFriday,notonSaturday.
+Practice:TVprogrammesandadjectives13
+
+#### Scan Page 42
+
+Soundsandlife skills
+Decidingtogether
+Watchthevideo.Whatistheproblemandwhatdotheydoaboutit?
+Pronunciationfocus
+13
+Listenandunderlinethesounds
+shandch.
+MEERA:Hi,Dad.Canwepleasechangethe
+channel?WewanttowatchTopTalent.
+MRSHARMA:Oh,I'msorry,Meera.Notnow.The
+golf'son-andyouknowIlovegolf!
+STELLA:Whattimedoesitfinish,MrSharma?
+MRSHARMA:Oh,don'tworry.Itfinishesattwenty
+toseven!
+Thinkandcomplete.Practisewith a partner.
+A:Canwepleasechangethechannelandwatch?
+B: No,I'msorry.I'mwatching
+A:Whattimedoesitfinish?
+B:Itfinishesat
+Look at theTVguide.WhichtwoprogrammeswouldInagroup,discuss
+youliketowatchandwhy?theTVprogrammes
+anddecidewhatto
+watchtogether.
+SPORT4ULive
+Channel1TVDOC3
+17.00SingUp!17.10FootballCrazy
+18.00SharkShow
+Inthisevening'ssemi-Inthisdocumentary,Live:SportingGalaxyv
+finalcontest,foursingers ChesterCity.
+SharkDaveshowsusone
+singtheirbestsongswith of thefastestfishonthe18.30American
+famousmusicians.Voteplanet:theshortfinmako.BasketballSpecial
+toseeyourfavouriteinLive:NewYorkv
+18.30Insect
+nextweek'sfinale!
+Investigation:Orlando.
+18.30Film:StarshineExploretheworldof
+DrDarkhasaplanto MagicalDragonflies
+takeawaystarlightfrom 19.00
+theuniverse.Canfive TheCuriousChefUsefullanguage
+youngscientistsandoneShonatravelsto
+spaceshipstophim? ChinatodiscovernewCan/Can'twewatch...?
+Whattimeisiton? lunchdishestocookat
+home.
+14Soundsandlife skills:consonant clustersshandch|collaboration
+PB14Time for television|Unit1
+
+#### Scan Page 45
+
+14Diggory
+Bones
+It'sthemost
+WhatisThe
+important
+BaloneyStone?
+computer
+programof
+oldlanguages
+in theworld.
+Oh,no!
+SKREEK
+CITYUNIVERSITY
+SCHOOLOFARCHAEOLOGY
+Thethiefcan
+findtheworld's Imustgonow.
+Whatcanthethiefdo mostbeautifulI'vegotnoIt'shalfpast
+withthisprogram? treasures.timetolose.nine.Let's
+Thankyouturnonthe
+news.
+ОК,
+Dad.
+CLICK
+BrutusGrabbe!of
+Thatwasthenews.
+course!Thecameraman!
+Nowthisisacomedy.
+Earlythismorning
+somebodytookThe
+BaloneyStonefrom
+CityUniversity.
+NEWS
+YouwantTheBaloney
+What'sStoneandIwantyour
+Why'stheTV
+secretpassword,so happening?
+screenblack?
+listentomecarefully...
+WhatcanthethiefdowithTheBaloneyStone program?
+WhatdoesBrutusGrabbewant?
+15
+Story:unitlanguageincontext
+
+#### Scan Page 46
+
+• Howcanwemakenaturedocumentaries?
+Listenandread.Whichprogrammedoesn'tshowrealanimals?
+FILMINGNATURE
+Therearesomegreatnaturedocumentariescomingoutthis
+month,sowewantedtohearfromsomeof thepeoplebehind
+themagic.Theytoldusabouthownewtechnologybrings
+viewersclosertonature.
+IstartedworkingasanunderwaterNewtechnologymeanswecan
+cameraoperator30yearsago.Makingnowmakereallyexcitingnature
+documentarieswasverydifferentthen.documentaries.InMigrations,weused
+Myvideocamerawasbigandheavy, dronecamerastofilmanimalsfrom
+withbatteriesthatdidn'tlastlong.theair.Wefilmhundredsofanimals
+Unfortunately,thereisn'tmuchlightWorkingonHowDinosaursLived movingacrossthelandtogether.Inthe
+underwater,sothecamerasdidn'tfilmpast,wefilmedfromahelicopter.Somewassomuchfun!Icreatecomputer
+verywell.Now,thetechnologyisamazing!peoplestilldothat,butIthinkusingdronesanimationsofanimalsandmakethem
+lookreal.Dinosaursareextinct,sowe Weusesmall,low-lightcamerasandlong-ismuchbetter.Youcangetcloserto the
+lifebatteries,sowecanstayunderwaterforanimals.Inthefirstepisode,Ifilmedthefilmedthelandscapetheyoncelivedin.
+longer.amazingelephantmigrationinBotswana.Icreatedthedinosaurswithcomputer-
+generatedimages(CGI),andweadded
+ForDiscovertheDeep,IwentdeeperintoLucyHall,DirectorofPhotography
+themto thelandscape.Theeffectsare
+theoceanthaneverbefore.Ifilmedsomeexcellent-muchbetterthantheones
+incredibleunderwateranimalswenever
+Iusedonfilmsin thepast.Icreated
+knewabout!
+someamazingdinosaurfights!
+AdrianHems,CameraOperator
+BenSharp,SpecialEffectsTechnician
+Readagainandcompletethediagram.
+PastPresent
+big,heavycamerassmall,low-lightcameras
+Whichprogrammesoundsmoreinterestingtomakeandwhy?
+I'dliketowatchCreatingdinosaurswith
+FINDOUTMORE-
+DiscovertheDeep.specialeffectsmustbe
+Filmingdeepalotoffun,soIreallyWhatisthemostexpensive
+underwater wanttowatchHownaturedocumentaryevermade?
+soundsamazing!DinosaursLived!
+16Media:naturedocumentaries|critical thinking
+PB16Time for television|Unit1
+
+#### Scan Page 49
+
+1
+DIDYOUKNOW...? Readthechatmessage.Why
+didtheythinktheprogramme
+Thegiantsquidisoneof the
+wasinteresting?
+world'smostdifficultanimalsto
+filmbecauseitlivessodeepin the
+ocean.Cameraoperatorsfirstfilmedthis
+seaanimalin2012!
+12:00
+Fahadisonline
+HiFahad,howareyou?
+Yesterday,Iwatchedanamazingdocumentary
+calledCityAnimals.It'saboutanimalsthatlivein
+bigcities.YoucanwatchitontheWildlifeChannel
+everySunday.
+Lastnight'sepisodewasaboutfoxesincities.
+Ifounditreallyinterestingbecausethere'safox
+thatcomesintoourgarden.Look at thephoto
+thatItookofit.Isn'titcute?
+Somepeoplearefrightenedoffoxes,butthey'reshy
+animals.Inthedocumentary,theyexplainedthat
+foxesnowliveamonghumansintownsbecausewe
+aredestroyingtheirnaturalhabitat.
+Youmustwatchitbecauseyoucanlearnabout
+somereallyawesomeanimals.Nextweek'sepisode
+isaboutowls.Thephotographyisincredible,too!
+Learningtowrite:
+Underlinetheadjectivesin thechatmessage
+inActivity1.Adjectives
+Weuseadjectivestodescribethings.
+Inpairs,discussanaturedocumentary
+Myvideocamerawasbig
+youknow.Writeyourideasinyournotebook.andheavy.
+Icreatedsomeamazing
+What'sthenameof thedocumentary?
+dinosaurfights!
+What'sitabout?Whyisitinteresting?
+Project
+Readytowrites
+Makeapresentationabout
+GotoActivity Bookpage16.
+anaturedocumentary.
+Media:naturedocumentaries|learningtolearn17
+
+## Unit 2: People at work
+
+### Teaching Notes
+
+#### Page T18 (Pupil's Book p.18)
+
+Unit2People at work
+Pupil's Bookp.18
+• Play the•Video.Pupils watchagainandcompletethe
+Objectives
+sentences.Play the•Videoagainandcheck with theclass.
+To reviewjobsandtalk aboutplans,intentionsand
+Key:1job,2nurse,3dentist,4school,5firefighter,6jobs
+predictionsusinggoingto.
+Target language
+Presentation
+• Key language:plansandintentions:goingto(affirmative,
+• Writeon the boardtwoorthreeexamplesentencesfrom the
+negative,interrogative),IthinkI'mgoingto...,jobs:nurse,
+• Video,whichincludegoingto.
+firefighter,teacher,dentist;burndown,exhibition
+• Focus pupils ontheconcept,formanduseofgoingtoin the
+• Revision:jobs
+sentences.Elicitifthepeoplearetalkingaboutnoworthe
+future.Checkunderstanding,e.g.IsLennyanursenow?Does
+Warmerhewanttobeanursein thefuture?Elicitpupils'plansforjobs
+• Mimeaknownjobforpupils toguess.Inviteoneortwopupils/thefuture,e.g.IthinkI'mgoingtobe(adoctor).
+tomimejobsfor theclass.Theclasscanguessusingonlyyes/•FocusontheSTUDYbox.Practiseusingopenpairs,e.g.ask
+noquestions.ElicitthewordJobsandwriteiton the board. apupilWhatjobareyougoingtodowhenyou'reolder?The
+• DrawacirclearoundthewordJobson the board andelicitpupilanswersusinggoingto.Pretendthatyoumisheardtoelicit
+jobstostartthemindmap.Brainstormjobsintwominutesand thenegative,e.g.Teacher:IsTomgoingtobeateacher?Pupil:
+No,heisn'tgoingtobeateacher.He'sgoingtobeapilot. createamindmapon the board.SupplywordsinEnglishwhere
+necessary.Pupils copythemindmapinto theirnotebooks.
+PB18.ACTIVITY3
+PB18.
+Read and orderthewords.
+Whatjobsdoyouknow?
+• Pupils workin pairstoreorderthesentences.Theywritethe
+• Showpage18on the whiteboard andaskpupils tofocusonthecorrectsequencein theirnotebooks.Check with theclass.
+photo.Elicitthenamesof thecharactersandwheretheyare.
+Key:1Whatarewegoingtowriteaboutforourblogpost?
+• Pre-teach/Checkexhibition.Ask pupilswhatjobstheysee.
+2I'mgoingtobeanursewhenI'molder.3Meeraisn'tgoingtobe
+Whentheyfeedback,addthewordsto thejobsmindmap.
+adoctor.4Theschoolisn'tgoingtoburndown.5We'regoingto
+winthatprize!6Whatareyougoingtodotomorrow?
+PB18.ACTIVITY1
+DExtra supportWrite theanswerson the boardsopupilscan
+Whydoeseveryonehavetoleavetheschool?Watch
+checkwordordermorecarefully.
+andcheck.
+• Tell pupils toopentheirPupil's Booksatpage18.Focus pupilsLEEPB18.ACTIVITY4
+onActivity1.Elicitsomepredictionsfrompupils,butdon't
+confirmanswersatthisstage.Ask and answer.
+• Play the•Video.Pupils watchandcheck theiranswer.Feed•Focus pupils onActivity4.Ask pupils todiscussthequestions
+backwith theclass.Tickanyof thejobsseenonthemindmap.in pairsand thencomparetheiranswers withanotherpair.
+AB18.Answerkey,seepageT98
+VideoScriptscanbedownloadedfromTeacher Resourceson
+Cambridge One. Ending the lesson
+Presentation
+• Arter3,89Contreseein themorefromitBook
+workoutthesecretmessage.
+PB18.ACTIVITY2
+Watchagain.Completethesentences.
+• Focus pupils onActivity2.Givethemreadinganddiscussion/
+prediction time.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit2,DownloadableActivity BookTeaching Notes Presentation Plus:Unit2Practice Extra
+• Teacher Resources:Unit2,Reinforcementworksheet1
+• Video
+• AB94andPB94-95-Grammar reference2
+• T112-Consolidationactivity:Sentenceparts
+• T112-Extensionactivity:Numbercode
+
+#### Page T19 (Pupil's Book p.19)
+
+Unit2People at work
+Pupil's Bookp.19
+🔊')168)17
+Objectives
+AsinPupil's Book•KaraokeVersion
+To practiseusinggoingtoforplansandintentionsandsing
+asong.Presentation
+Target language
+EEJPB19.ACTIVITY3
+• Key language:plans,intentionsandpresentevidence:goingLookandsay.Whataretheygoingtodo?
+to,rhymingwords,questionwords:where,who,when,What
+• Focus pupils onActivity3on the whiteboard.Elicitwhat
+time..?tellingthetime,brush(her)teeth,show,goodrules
+theycansee,e.g.inpicturea(agirlin thebathroom)andask
+• Revision:actions,verbsfordailyroutines,sports
+What'sshegoingtodo?(She'sgoingtobrushherteeth.)
+• Pupilsdotheactivityin pairs,takingturnstoaskand answer Warmer
+about thephotos.Check with thewhole class.
+• Reviewjobsvocabularybywritingjobsfrom theprevious
+Key(possibleanswers):bThey'regoingtogorollerskating.
+cThey'regoingtobuyacomputer.dShe'sgoingtoplayfootball.
+eThey'regoingtohavelunch.fHe'sgoingtogotobed/sleep.
+completethewords.
+PB19.ACTIVITY4
+PB19.ACTIVITY1
+Canyourememberthelastlesson?WatchtheCorrectthesentences.
+language video.•Focus pupils ontheActivity4example.Checktheyrealisethe
+sentencesareabout thephotosinActivity3.
+• Showpage19on the whiteboard.Ask pupils towatchand
+• Inpairs,pupilstaketurnstoreadoutasentenceandcorrect
+completetheactivityin theVideo.
+it.Check with theclass.Pupils writethecorrectedsentences
+• Play the•Video. in theirnotebooks.
+Key:bNo,theyaren'tgoingtogotoamusicfestival.cNo,they
+VideoScriptscanbedownloadedfromTeacher Resourceson
+aren'tgoingtoturnonacomputer.dNo,sheisn'tgoingtoplay
+Cambridge One.
+tennis.eNo,theyaren'tgoingtowatchTV.fNo,heisn'tgoingto
+wakeup.(SeealsoActivity3Key)
+Song
+PB19.ACTIVITY2LEPB19.ACTIVITY5
+Listenandorder.Listenagainandcheck.Thendo Writetwomorequestions.Thenaskyourpartner.
+karaoke.•Focus pupils onthequestions.Eachpupilwritestwomore
+questionsin theirnotebook.Remindthemtousegoingto.
+• Tell pupils toopentheirPupil's Booksatpage19.Point to
+Activity2on the whiteboard andfocusthemonthefirstpart•Makenewpairs.Pupilstaketurnstoaskall theirquestions.
+of theactivityinstructions(Listenandorder).
+• Givethemtimetoreadthesong.Play the🔊1)Audio.PupilsLEEPB19.ACTIVITY6
+listenandorder.
+Whatareyougoingtodoafterschool?Write20-30
+• Theycheckin pairs.Play the1)Audioagain.Pauseafter each
+words.
+sectiontocheck,andforpupils torepeat.
+• NowplaytheVideo,withpupilsjoiningin.Pupilsrepeat the•Focus pupils onActivity6.Elicitoneortwoactivitiesfrom
+themandaskWhatareyougoingtodoafterschool? songas a classand thenin groups,eachgroupsingingone
+section.•Askthemtowritetheiranswerin theirnotebooks.
+Key:a4,b6,c7,d3,e5,f2EElAB19.Answerkey,seepageT98
+DExtra challengeDividetheclassintothreegroupsandaskthemEnding the lesson
+topractisethesong.Eachgroupperformsthesongfor theclass
+• Singthesongagainwith theclass.
+and theclassvotesfor themostenthusiasticperformance.
+Digital ClassroomExtra Resources
+Practice Extra•Teacher Resources:Unit2,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit2
+• Teacher Resources:Unit2,Extensionworksheet1andSongworksheet (1)Audio16-17Video
+• Teacher Resources:Photocopiable2
+• AB94andPB94-95-Grammar reference2
+• T112-Consolidationactivity:Songtime
+• T112-Extensionactivity:Mydiary
+T19People at work|Unit2
+
+#### Page T20 (Pupil's Book p.20)
+
+Unit2People at work
+Pupil's Bookp.20
+PB20.ACTIVITY2 Objectives
+To practisetalkingaboutpeopleand thejobstheydo.Readagainand answer.
+• Focus pupils ontheActivity2instructionandquestions.Ask
+Target language
+themtoreadtheblogagainindividuallyandtothinkabout
+• Key language:jobs:actor,artist,cook,dentist,doctor,theiranswersto thequestions.
+footballplayer,journalist,manager,mechanic,nurse,pilot,•Pupils comparetheiranswers with a partner.
+sportscommentator,videogamedesigner,writer
+• Feedbackasawhole class,referringbackto theblogas
+• Additionallanguage:repair,design
+necessarytoclarifyanswers.Focusoneachtextinturn,
+• Revision:mixedtenses,questions
+checkinggeneralcomprehensionbydiscussingtheperson
+and thejob(s)theydo.
+Warmer
+Key:1themechanic,2Formula1cars,3AnimalFarmand1984,
+• Givepupils oneminutetowritealistofasmanyjobsasthey 4apoliceofficer,5UEFAWomen'sPlayerof theYearAward,Ballon
+can.Pupilsstopwriting.Theymakegroupsoffourandwrited'OrFéminin,TheBestFIFAWomen'sPlayer,6HefoundedWorld
+a'master'listofall thejobstheyhave.Elicitthejobsfrom the CentralKitchen,7AngelinaJolie,8DonkeyKongandSuperMario
+classontoamindmapon the board.Thegroupwith themostBros,9AngelinaJolieandJoséAndrés,10two
+jobsisthewinner.
+PB20.ACTIVITY3
+PB20.ACTIVITY1
+Ask and answer.
+Readtheblog.WhichthreejobsdidGeorgeOrwell•Focus pupils ontheActivity3instructionand theexamples.
+have?Elicitthepeople'sdifferentjobsfrompupils.Givepupilstime
+• Tell pupils toopentheirPupil's Booksatpage20.Showthetothinkabout theiranswersindividuallyfirst.
+pageon the whiteboard.Focus pupils onthetextandelicit•Ask pupils todiscusstheirideasin pairs,remindingthemto
+thatit'sablogpostaboutpeoplewithinterestingjobs.saywhythejobtheychoseisthemostexciting.Join pairs
+• Ask pupils tolookat thephotosin theblogpostandsaywhattogetherintosmallgroupstodiscusstheiranswersfurther.
+jobstheycansee.•Feedbackwith thewhole class.Find outwhichjobsarethe
+• Focus pupils onActivity1and theactivityinstructions.Askmost/leastpopularwith theclass.
+themtoreadtheblogquicklyandfindtheanswerto the 0Extra challengeAsk pupils towritesentencesabout their
+question.Reassurethemthat theywillreadtheblogagain
+partner's answers,e.g.Katyathinks...Shewouldliketobe...
+laterin thelesson.
+• Ask pupils tocheckin pairs.Checkanswers with thewholeLEEAB20.Answerkey,seepageT98
+class.Checktheyunderstandallthreejobsandelicitcorrect
+pronunciationofjournalist. Ending the lesson
+• Pupilslookbackthroughthelessontoseehowmanydifferent Key:writer,journalist,policeofficer
+jobstheycanfindwhichtheytalkedaboutin thelesson.
+kbng
+Digital Classroom Extra Resources
+• Teacher Resources:Unit2,DownloadableActivity BookTeaching Notes
+@Presentation Plus:Unit2CPractice Extra
+• Teacher Resources:Unit2,Reinforcementworksheet2
+• AB94andPB94-95-Grammar reference2
+• T112-Consolidationactivity:Disappearingtext
+• T112-Extensionactivity:Famouspeople'slives
+
+#### Page T21 (Pupil's Book p.21)
+
+Unit2People at work
+Pupil's Bookp.21
+PB21.ACTIVITY2 Objectives
+Tohavefurtherpracticeusinggoingtototalk aboutListenagainandchoosetherightwords.
+people'sjobs.•Play the🔊Audioagain.Pupils listenandchoose.
+• Play the1)Audioagain,pausingtocheckpupils'answers.
+Target language
+Key:1London,2quickly,3chocolatecake,4halfpastten, •Key language:plans,intentionsandpredictions:goingto,
+5tired,6basketballplayer
+presentcontinuous,present simple,jobs,repair
+Warmer
+Astrack18
+• Reviewjobsbyplayingaspellinggame,e.g.Teacher:Giveme
+ap(p).Givemeani(i).GivemeanI(l).Givemeano(o).Give
+PB21.ACTIVITY3
+meat(t).Whatdoesthatspell?(pilot)
+Play the game.Guessitinten.
+• Pupils playin pairs.PupilAsecretlywritesajobandPupilB
+PB21.ACTIVITY1
+asks questions.IfBguessesinten,he/shewinsapoint.
+Listenandmatch.Saythejob.
+• Extra supportElicitjobsonto theboard.
+• Showpage21on the whiteboard.Focus pupils onthephotos
+andaskthemwhat theycanseeandwhatjobstheyremember.
+PB21.ACTIVITY4 •Tell pupils toopentheirPupil's Booksatpage21.Focusonthe
+activityinstructions.Play the🔊)Audio.Pupils listenandmatch.Readandthink.Ask and answer.
+Thentheysaythejob.Pauseafter eachitemandelicitanswers.
+• Focus pupils onthetable.Elicitthatthisisinformationabout
+Key:2fartist,3ccook,4bmechanic,5adesigner,6djournalistwhat thesepeopleliketodonow.Pupils predictwhat the
+personisgoingtobewhentheygrowup.
+(🔊18
+• Pupilstaketurnstotalk about thedifferentpeople,usingthe
+1Pilot:Goodevening.ThisisCaptainHawkspeaking. prompts.Theymakeguessesabout thepossiblejobs,using
+WelcomeaboardFlight241fromDublintoLondon.theinformationgiven.Discusstheirpredictionsas a class.
+2Artist:Yes,mypainting'sfantastic!I'mgoingtofinishit
+today.Alittlemorepinkaroundthenose,andthreesmallEEPB21.ACTIVITY5
+yellowlineshere,in thehair.Perfect!Ahh,myworkis
+Thinkaboutsomeoneyouknowwho'sgotan complete!
+interestingjob.Answerthequestions. 3Cook:Now,letmesee.Threeeggs,500gramsofflour,
+halfalitreofmilk,250gramsofsugarandsomechocolate. •Focus pupils ontheinstructionsandelicitideas.Pupils write
+I'mgoingtomixitalltogetherinabowlandputitinatheanswersin theirnotebooks.Iftheydon'tknowtheword,
+bigcaketin.ThenI'mgoingtocookitforhalfanhour.It'stellthemthejobinEnglish.
+goingtobealovelychocolatecake.Mmm!
+4.Mechanic:Goodmorning,MrHamilton.ThisisJ&J's
+PB21.ACTIVITY6
+Garagehere.IlookedatyourcarandIcanseewhyitisn't
+working.I'mgoingtorepairitnow,soyoucancomeand Write aboutaninterestingjob.Write20-30words.
+pickitupathalfpastten.•Ask pupils tolookat theanswersto thequestionstheywrote
+5Designer:Thisdressfor theshowisverylong...No,it'sforActivity5andusethemtowriteaboutaninterestingjob.
+ugly!It'shalfpast11.It'slate.I'mgoingtobed.I'mgoing
+tofinishthistomorrow.LEE|AB21.Answerkey,seepageT98-99
+6Journalist:Thatwasagreatgame!I'mgoingtospeakto
+themanof thematch,JohnBrown.HeputtheballthroughEnding the lesson
+thebasket12times.Herehecomesandhe'sbouncing•Elicitwhat theirfavouritejobisfromtodayandwhy.
+aball.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit2Practice Extra•Teacher Resources:Unit2,DownloadableActivity BookTeaching Notes
+• Teacher Resources:Unit2,Extensionworksheet2 ))Audio18-19
+• AB94andPB94-95-Grammar reference2
+• T112-Consolidationactivity:Predictions
+• T112-Extensionactivity:Guessthejob
+T21People at work|Unit2
+
+#### Page T22 (Pupil's Book p.22)
+
+Unit2People at work
+Pupil's Bookp.22
+0Extra supportGivepupilsalistofjobstochoosefrom.
+Objectives
+Toidentifyandpractisethe/a/sound,inparticularwithKey:doctor
+wordsendingin-er/-or.
+Target languageAsinPupil's Book
+• Key language:Whatareyougoingtobe?Ithink'mgoing
+tobea(nurse).LEPB22.ACTIVITY3
+• Additionallanguage:Ithink,I'mnotsure,Maybe,That's
+Listen and complete.Practisewith a partner.
+great,That'saninterestingjob!
+• Revision:begoodat+noun/verb+-ing;adjectivesto•Focus pupils onActivity3.Play the🔊1))Audioforpupils to
+listenandcompletethesentences.
+describequalities:brave,creative,kind,patient,friendly
+• Pupils checkin pairs.Play thefirstlineof the!)Audioagain.
+WarmerAsk pupilswhat theynoticed(thesoundsaredifferentfrom
+thewrittenwords).
+• Ask pupils tomakeacircle.SayI'mgoodatsinging.Point to
+• Ruboutthewordsyouaddedandreplacethemwithwords thepupilnext toyou.SayRepeatandadd.Thefirstpupilsays
+containingtheschwa/a/.Modelthepronunciationandtell I'mgoodatsingingandplayingcomputergames.Point to the
+nextpupilandsayRepeatandadd.Continue.pupilsthat/a/isaweaksoundandthatmeaningiscarriedby
+thestrongerstressedsoundsinasentence.Practisesaying
+Presentationthequestionand answertogether.
+"21
+PB22.ACTIVITY1
+Boy:Whatareyougoingtobe?
+Watchthevideo.Whatjobswouldtheyliketohave
+Girl:IthinkI'mgoingtobeadoctor.
+whentheyareolder?
+Boy:That'saninterestingjob!
+• Showpage22on the whiteboard.Focusonthephotoand
+elicitwhopupilscansee.ReadtheActivity1instructions.Play
+PB22.ACTIVITY4
+the•Video.Pupils watchand answerthequestion.
+Look at thejobadverts.Whatkindofpersondoyou
+Key:Lennythinkshe'sgoingtobeanurse.Stellathinksshe'sgoing
+needtobefor thesejobs?
+tobeadentist.Meerathinksshe'sgoingtobeafirefighter.
+• WriteTeachersmustbe...on the board.Ask pupilswhat
+qualitiespeoplemusthavetobeateacher.
+VideoScriptscanbedownloadedfromTeacher Resourceson •Point to thejobadverts.Inpairs,pupilsreadanddecidewhat
+Cambridge One.qualitiestheyneedfor thesejobs.Checkanswers.
+Pronunciationfocus
+EPB22.ACTIVITY5
+PB22.ACTIVITY2
+Inagroup,discussdifferentjobsandwhatyouneed
+Listenandunderlinethejobs.Whichjobendswith the
+for them.
+la/sound?
+• Focus pupils onActivity5.Ask pupils toworkin groups,
+• Tell pupilsthey'regoingtolistentoLennyandStellatalkingchoosetwojobsandcompletetheinformationneeded.
+aboutjobs.Play the🔊)Audio.Pupilsunderlinethejobs.Monitorandsupportasnecessary.
+• Elicitthejobsandwritethemon the board.Showpupilsa•Askonepersonfromeachgrouptotelltheclassabout their
+pictureofanursetoelicit thelongsound/3:/.Ask pupils tojobs.Elicitanyextraqualitiesyoumightneedtodothesejobs.
+makethesoundandpretendtocutthesoundusingyour
+AB22.Answerkey,seepageT99 fingersasscissorstomaketheshorter/a/sound.Practise
+repeatingthesound/a/.
+Ending the lesson
+• Askwhichjobon the boardendsin the/a/sound(doctor).
+• Write thelettersof thealphabeton the board.Pupils work
+Ask pupils torepeatafteryou.Writeteacheron the board.
+Askifthiswordalsoendsin thesamesound(yes).insmallgroupstowriteajobforeachletter(A-artist,
+B-baker,C-cook,etc.).
+Ingroupsofthree,askpupils tothinkofmorejobsthatendin
+the/a/soundand theletters-oror-er.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit2[Practice Extra•Teacher Resources:Unit2,DownloadableActivity BookTeaching Notes
+• Teacher Resources:Unit2,DownloadableActivity BookAudioScript
+• Video (Audio20-21
+• AB94andPB94-95-Grammar reference2
+• T113-Consolidationactivity:What'sthejob?
+
+#### Page T23 (Pupil's Book p.23)
+
+Unit2People at work
+Pupil's Bookp.23
+"22
+Objectives
+Emily:Who'sBrutusGrabbe?
+To readastoryandreviewlanguagefrom theunit. Dad:Hewasastudentofmine.Hewasveryclever,buthe
+was...verybad.
+Target language
+BrutusGrabbe:Istudieddinosaurs'teeth,butI'mnotan
+• Key language:languagein thestory,pirate archaeologistandI'mnotadentist.
+• Revision:characternames,languagefrom theunit
+DiggoryBones:No.You'reapirate!Youonlylovemoney.
+BrutusGrabbe:Yes,andI'mgoingtobeveryrich.
+Warmer
+BrutusGrabbe:IfyouwantTheBaloneyStone,meetmeat
+• Reviewthestorysofarwithpupils.Write thecharacternames theOldCityLibraryat10.45tomorrow.
+on the board.Pupilssuggestadjectivesthatapplyto them.If
+DiggoryBones:He'sgoingtousemyprogram.
+theclassdon'tagreewithanyadjective,thepupilhastogive
+Emily:Ohno,heisn't!We'regoingtostophim.
+thereasonwhyhe/shechoseit.
+Emily:Comeon,Dad!It'squarterto11.We'vegotajobtodo!
+DiggoryBones:I'mgoingtogetyou,BrutusGrabbe! Story
+DiggoryBones:Heisn'there.
+Receptionist:Yoo-hoo!DoctorBones!I'vegotaletterforyou. LEPB23.ACTIVITY1
+DiggoryBones:Thisisthewronglibrary,DoctorBones.I
+AtwhattimeisDiggorygoingtomeetBrutus
+saidtheOldCityLibrary.Youmustthinkabitmore.Brutus
+tomorrow?Whywasn'tBrutusat thelibrary?
+Grabbe.
+• Showpupilsthefirstsceneof thestoryon the whiteboard.
+Askiftheycanseeanyof theadjectivesin theWarmer LEEAB23.Answerkey,seepageT99
+(clever,bad).
+• Setthequestions:AtwhattimeisDiggorygoingtomeetEnding the lesson
+Brutustomorrow?Whywasn'tBrutusat thelibrary?•Ask pupilswhichrhyme/songthey'dliketodoagainfrom the
+• Play the•Videowithbooksclosed.Pupils watchtofindtheunit.Doittogethertoendthelesson.
+answers.
+• Tell pupils toopentheirPupil's Booksatpage23.Theycheck
+in pairswithbooksopen.Check with theclass.
+• Play the&Audio.Pupils listenandread.Pauseafter each
+frameforpupils torepeat.
+• Attheend,checkcomprehensionbyaskingquestions,e.g.
+WasBrutusagoodstudent?Whatdidhestudy?Whatdoes
+helove?Whattime'sthemeeting?Who'sgottheletter?
+Whatdoesitsay?
+Key:At10.45.Hewasatadifferentlibrary.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit2,DownloadableActivity BookTeaching Notes Presentation Plus:Unit2LPractice Extra
+• AB94andPB94-95-Grammar reference2 )Audio22Video
+• T113-Consolidationactivity:Roleplay
+• T113-Extensionactivity:Jobalphabet
+T23People at work|Unit2
+
+#### Page T24 (Pupil's Book p.24)
+
+Unit2People at work
+Pupil's Bookp.24
+PB24.ACTIVITY2 Objectives
+To learnaboutfireandsafetyprocedures.Readagainandchoosethecorrectoptions.
+• Focus pupils onActivity2.Ask pupils toreadthetextagain
+Target language
+andchoosethecorrectoptions.
+• Key language:fire,safety •Pupils compareanswers with a partnerandreadthetextagain
+• Additionallanguage:burn,byaccident,candle,coal,togethertocheck.
+control,foam,fireextinguisher,fireplace,fuel,gas,heat,•Checkanswers with theclass.Clarifyvocabularyasnecessary.
+naturally,outofcontrol,oxygen
+• Revision:cooking,fire,forest,light,safety,waterKey:1aandb,2aandc,3bandc,4aandc,5bandc
+WarmerEEPB24.ACTIVITY3
+• Ask pupils toformtwolinesat theboard.Givethefirstpupils
+Howdoyouusefiresafelyinyourdailylives?
+amarkerpen.SayWriteawordaboutfireandpassthepen.
+• Elicitoneortwoexamplesofhowpupilsusefirein theirdaily
+Whenonepupilwritesaword,theypassthepento thenext
+lives.Invitetwovolunteerstoreadtheexampletextin the
+personinlineandgoto thebackof therow.
+speechbubbles.
+• WhenyousayStop!,theteamwith themostwordsrelatingto
+• Pupils workin pairstodiscussthequestion.Invitevolunteers
+thetopicisthewinner.
+tosharetheirideaswith theclass.
+Key(possibleanswers):firefighter,water,campfire,forest,orange,
+yellow,heat,hot,dangerous,smoke,cooking,light•Extra supportPreparesomevisualsupporttopromptideas
+andputthemon the board,e.g.fireextinguisher,gascooker,
+barbecue,fireplace,candles.
+PB24.
+Howcanwestaysafe?FINDOUTMORE
+• Showpage24on the whiteboard andfocuspupils onthe•Point to theFINDOUTMOREboxandreadthequestion
+question.Givepupilstimetodiscussthequestiontogether.togetherwithpupils.
+Elicitideasfrom theclass,butdon'tconfirmthematthisstage.•Assignthis activityashomeworkandtellpupilstheywillshare
+theirfindingsin thenextclass. •Play theVideoforpupils towatchand answer.Pupils
+compareideasin pairs.Checktheanswerwith theclass.•Ask pupils todoaninternetsearchathometofind outthe
+answerto thequestion.Remindthemtoaskanadultfor
+permissionfirst.
+VideoScriptscanbedownloadedfromTeacher Resourceson
+Cambridge One.|AB24.Answerkey,seepageT99
+PB24.ACTIVITY1Ending the lesson
+• Putpupils in pairstotestthemselvesontheinformationthey
+Listenandread.Whyisitimportanttocontrolfire?
+learntin thelesson.Encouragepupils toaskand answer
+• Focus pupils onthephotoinActivity1,askwhatitisandelicit questionsaboutfirefrommemory,butallowthemtolookin
+fire.Beforereading,askquestionstocheckpupils'knowledge theirbooksifnecessary.
+aboutfire,e.g.Whatisit?Whatdoweuseitfor?Whyisit
+sometimesdangerous?
+• Nowaskpupils toreadtheinformationtolearnmoreabout
+fire.Play the🔊Audiofor themtolistenandread.After
+reading,askthequestionin therubricandelicitwhyitis
+importanttocontrolfire.
+Key:It'sdangerouswhenitgetsoutofcontrol.
+1)23
+AsinPupil's Book
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit2,Subjectworksheet Presentation Plus:Unit2CPractice Extra
+• AB94andPB94-95-Grammar reference2
+)Audio23Video
+• T113-Consolidationactivity:Drawandlabel
+• T113-Extensionactivity:TheGreatFireofLondon
+
+#### Page T25 (Pupil's Book p.25)
+
+Unit2People at work
+Pupil's Bookp.25
+PB25.ACTIVITY2
+Objectives
+To readsafetyadviceaboutwhattodoandwhatnottodoUnderlinetheimperativeswithalwaysandneverin
+in thecaseofafireathome,anddiscusssafetyadvicefor thesafetyleafletinActivity1.
+othersituations.
+• Focus pupils onthesentencein thebottomright-handcorner
+Target language of thesafetyleaflet.Inviteavolunteertoreadthesentence
+aloud.
+• Key language:fire,safety
+• AskWhyisthisinformationseparate?(toemphasise
+• Additionallanguage:matches,plug,smokealarms,socket
+importance).AskWhatwordgivesimportanceto thesentence?
+• Revision:candles,cooker,fire,firefighter,fireplace,safety, (Always).Askifpupilscanseeanyotherwordsin thesafety
+water,blanketsleafletthatareusedtoemphasiseanimportantpoint(Never).
+• Focus pupils ontheLearningtowritebox.Readthesentences
+Warmertogether.Tell pupilswecanuseimperativestoemphasisethe
+• ShowtheFINDOUTMOREfeaturefrompage24ontheimportanceof theinformationin thesentence.
+whiteboard.Readoutthequestion.•Focus pupils ontheinstructionforActivity2.Pupils workin
+• Inpairs,askpupils totalk aboutwhat theylearntfrom their pairstore-readthesafetyleafletinActivity1andunderline
+internetsearch.Feedbackas a class.(Themaincauseof theimperativeswithalwaysandnever.
+firesathomeisunattendedcooking.Othercommoncauses
+• Extra supportReviewtheactivityas a classandwritethe
+arefaultyheatingequipmentandelectricfires,smokingandphraseson the board forreference.
+candles.)
+• Encourageaclass discussionaboutstayingsafearoundfire
+PB25.ACTIVITY3
+athome.
+Inpairs,discusswheresafetyadviceisimportant.
+DIDYOUKNOW...?Writeyourideasinyournotebook.
+• Point to thepictureandaskWhatistheperson'sjob?Invitea•Ask pupilsArethereothersituationswhereweneedtothink
+volunteertoreadthefactaloud. ofsafety?Acceptanyreasonableideas,butavoidnatural
+phenomenonorothernaturaldisasters. •Ask pupilsiftheyaresurprisedby theinformation.AskWhat
+doyouknowaboutfirefighters?Wouldyouliketobeafire•Explainthatpupilsshouldmakenotesaboutanyideasthey
+fighter?andelicit theirreasonswhy/whynot.discuss.Makesurebothpartnersmakenotesastheywillneed
+themfor theActivity BookReadytowriteactivityonpage24.
+• Givepupilstimetocompletetheactivity.Thenelicitideasas
+PB25.ACTIVITY1
+aclass.
+Readthesafetyleaflet.Howmany'dos'and'don'ts'
+AB25.Answerkey,seepageT99
+arethere?
+*PB25.
+thephotos.
+PROJECT
+• FocusonthelayoutandaskWhydoyouthinkthereareticks
+• Teachingnotesfor theProjectcanbedownloadedfrom the
+andcrosses?(toshowthe'dos'and'don'ts'inasimpleand
+Teacher ResourcesonCambridge One. clearway).Ask pupils toreadthesafetyleafletand answerthe
+question.
+Ending the lesson
+• Elicitthenumberof'dos'and'don'ts'. •StickapieceofpaperwithDOwrittenonitononesideof the
+• Afterreading,invitevolunteerstoreadapointeachfrom the
+classroom,andanotherwithDON'Tontheoppositeside.Line
+leaflet.Checkcomprehensionas a class.
+pupilsupin themiddleof theclassroom.
+Key:Therearethree'dos'andfour'don'ts'.•Readstatementsfrom thesafetyleaflet,e.g.Playwithmatches
+orcandles.Pupilsmoveto thecorrectsideof theclass
+dependingonwhetherthestatementisa'do'ora'don't'.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit2•Teacher Resources:Unit2,DownloadableActivity BookTeaching Notes
+LPractice Extra
+• AB94andPB94-95-Grammar reference2
+ETestGenerator:Unit2Test
+• T113-Consolidationactivity:Safetyvocabulary
+T25Review|Units1and2
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 50
+
+2People at workyouknow?
+Whatjobsdo
+BECOM
+DENTIST
+BECOMEANURSE
+Joinourteam.askformore
+Whydoeseveryonehavetoleavetheschool?Watchandcheck.
+Watchagain.Completethesentences.
+1They'relookingaroundaexhibition.
+STUDY
+2Lennythinkshe'sgoingtobea
+I'mgoingtobeavet.
+3Stellathinksshe'sgoingtobea
+Meeraisn'tgoingtobeahairdresser.
+4Stellahopestheisn'tgoingtoburndown.Whatarewegoingtowriteabout?
+5Meera'sgoingtobea
+6They'regoingtowriteabout
+Read and orderthewords. Ask and answer.
+1writeabout/What/forourblogpost?/are/we/goingto
+1WhatareStella,Lennyand
+2goingto/anurse/be/whenI'molder./I'm Meeragoingtobe?Doyou
+3adoctor./goingto/Meera/be/isn'tthinktheywillbegoodat
+thosejobs? 4Theschool/isn't/burndown./goingto
+5win/prize!/We're/that/goingto2Whatdoyouthinkyouand
+yourfriendsaregoingto
+6do/you/What/tomorrow?/are/goingto
+be?Why?
+18Language:plans,intentionsandpredictionswithgoingto
+PB18People at work|Unit2
+
+#### Scan Page 53
+
+2
+Canyourememberthelastlesson?Watchthelanguage video.
+Listenandorder.Listenagainandcheck.Thendokaraoke.
+She'sgoingtohelpthemall,They'regoingtodotheirbest,
+Andworkinschools...Thensleepandplay.
+She'sgoingtoshowthekids,
+They'regoingtodothejob,
+She'sgoingtoteachgoodrules. Thenworkallday,
+Thensleepandplay...
+He'sgoingtodohisbest,
+Thensleepandplay...
+They'regoingtodothejob,
+They'regoingtoworkallday.
+He'sgoingtodothejob,
+He'sgoingtoworkallday.
+Lookandsay.Whataretheygoingtodo?
+Correctthesentences.
+aNo,sheisn'tgoing
+aShe'sgoingtowashherface.dShe'sgoingtoplaytennis. towashherface.
+She'sgoingto
+bThey'regoingtogotoamusicfestival.eThey'regoingtowatchTV.
+fHe'sgoingtowakeup.brushherteeth. cThey'regoingtoturnonacomputer.
+Writetwomorequestions.Thenaskyourpartner.Whatareyougoing
+todoafterschool?
+1Whereareyougoingtogoafterschool?
+Write20-30words.
+2Whoareyougoingtoseethisevening?
+3Whenareyougoingtodoyourhomework?
+4Whattimeareyougoingtogotobedtonight?
+Practice:plans,intentionsandpredictionswithgoingto19
+
+#### Scan Page 54
+
+Readtheblog.WhichthreejobsdidGeorgeOrwellhave?
+ALLBLOGSMYBLOGNEWPOST
+Kid'sBox
+Reports
+Intoday'sblogpost,we'regoingtolookat
+someinterestingpeopleand theirjobs.
+Interestingjobs
+JoséAndrésisafamouscookwho
+Formula1isacarracingcompetition.
+wasborninSpain.HefoundedWorld
+It'sateamsport.Oneof themost
+CentralKitchen,whichmakes
+importantpeoplein theteamisthe
+healthyfoodforpeopleincountries
+mechanic.SteveMatchettwasa
+goingthroughdifficulttimes.
+Formula1mechanic.Hehadtorepair
+carsduring therace.NowSteveworks
+asasportscommentatoronTV.AngelinaJolieisafamousactor.
+HerfilmsincludeMaleficentand
+theKungFuPandafilms.Shealso GeorgeOrwellwasanimportantwriter.
+workstohelppeoplearoundthe
+Twoofhismostfamousnovelsare
+world.Shelovesplanes,soshe
+calledAnimalFarmand1984.Hewas
+becameapilot,andshestillenjoys alsoajournalistandwrotefordifferent
+flyingnow.
+newspapers.Beforehestartedwriting,
+hewasapoliceofficer.
+ShigeruMiyamotodesignedthe
+AlexiaPutellasisaSpanishfootballvideogamesDonkeyKongand
+playerandisoneof thebestin theSuperMarioBros.Whenhewas
+world.Shehaswonawardsforheryoung,hestudiedartandwantedto
+skills,includingUEFAWomen'sPlayerof beanartist,butthenhediscovered
+theYearAward,theBallond'OrFémininSpaceInvadersandhedecidedto
+andTheBestFIFAWomen'sPlayer.becomeavideogamedesigner.
+Readagainand answer.Ask and answer.
+1Whoisoneof themostimportantpeopleinaFormula11Whichisthemostexciting
+team?job?Why?
+2WhatdidSteveMatchettrepair?
+Ithinkthegamedesigneristhe
+3WhataretwoofGeorgeOrwell'smostfamousnovels?
+mostexcitingjobbecauseyoucan
+4WhatwasGeorgeOrwell'sjobbeforehewasawriter?
+designgameswhichyouliketoplay!
+5Whatdidthefootballplayerwin?
+6Whatdidthecookdo?2Whichjobwouldyouliketo
+7Whoisapilotandactor?have?Why?
+8Whichfamous videogamesdidShigeruMiyamotodesign?
+I'dliketobeacook,
+9Whichtwopeoplehelppeopleindifferentcountries?
+sothatIcantaste
+10Howmanyof thesepeopleareonTV?
+deliciousfoodallday!
+20Vocabularly:jobs
+PB20People at work|Unit2
+
+#### Scan Page 57
+
+2
+Listenandmatch.Saythejob.
+1Goodevening.ThisisCaptainBirdspeaking.Pilot.That's'e'.
+Welcomeaboardflight241fromDublintoLondon.
+Listenagainandchoosetherightwords.
+1TheplaneisflyingtoNewYork/London/Paris.
+2Theartistispaintingbadly/quickly/carefully.
+3Thecookismakingachocolatecake/carrotcake/cheesecake.
+4MrHamiltoncangethiscaratteno'clock/halfpastnine/halfpastten.
+5Thedesignerishappy/tired/hungry.
+6Thejournalistisgoingtointerviewafootballplayer/swimmer/basketballplayer.
+Play the game.Doyouworkat thefirestation?No,Idon't.
+Guessitinten.
+Doyouwearauniform?Yes,Ido.
+Readandthink.Ask and answer.
+What'sWilliamgoingtobewhenhegrowsup?He'sgoingtobeadesigner.
+Williamenjoysdrawingandmakingthings.Heuseshiscomputertohelphim.
+Teresalikeswritingandtakingphotosforherblog.
+Katylovesplayingwithcarsandrepairingthings.
+Richardlovesmakingcakesandworkingin thekitchen.
+Robertlovesacting.He'sin thedramaclubatschool.
+Helenlovesdrawingandpainting.
+Thinkaboutsomeoneyouknowwho'sgotaninterestingjob.Answerthequestions.
+1Whodoesthisjob?
+2What'shis/herjob?
+3Whatdoeshe/shedoatwork?
+4Whydoyouthinkit'sinteresting?
+Write aboutaninterestingjob.Write20-30words.
+21 Practice:jobs
+
+#### Scan Page 58
+
+Soundsandlife skills
+Thinkingabout thefuture
+Watchthevideo.Whatjobswouldthey
+liketohavewhentheyareolder?
+Pronunciationfocus
+120Listenandunderlinethejobs.Whichjob
+DENTIST
+endswith the/sound?
+BECOMEANURSE
+LENNY:Lookatthis...anurse.That'saninterestingjob!
+IthinkI'mgoingtobeanursewhenI'molder.
+STELLA:Hmm,anurse?That'sgreat,Lenny.IthinkI'mgoingtobeadentist.
+LENNY:Adentist?Ithoughtthatyoualwayswantedtobeadoctor?
+STELLA:MaybeIcanbeadoctorandadentist!
+21Listen and complete.Practisewith a partner.
+A:Whatyougoingbe?
+B:Ithinkgoingbea
+A:That'saninterestingjob.
+Look at thejobadverts.Whatkindofpersondoyouneedtobefor thesejobs?
+Chefswanted! URGENT!Areyouaski
+Wearelookingforchefsfortwonewinstructor?Comeandworkat
+restaurantsinRome.WinterWonderlandSkiCentre.
+Youmustlovesnowandmountains!
+YoumustbecreativeandspeakItalian.
+Youmustbepatientandgoodat
+Youmustbegoodatmakinginteresting
+talkingtopeople.
+pizzasandworkingveryhard.
+Youmustbegoodatskiingand
+Email:Bella@Pizzaperfect.itsnowboarding.
+Email:sam.cold@WWSC.co.gp
+Usefullanguage
+Achefmustbecreative.
+Inagroup,discussdifferentjobsandwhatyou
+Askiinstructormustbegood
+needfor them.
+attalkingtopeople.
+22
+Soundsandlife skills:the/a/soundcreative thinking
+PB22People at work|Unit2
+
+#### Scan Page 61
+
+2
+DiggoryBones
+Yes,andI'm
+studentof
+Istudieddinosaurs'goingtobe
+Who'sBrutusmine.Hewas
+teeth,butI'mnotan
+Grabbe?veryclever,veryrich.
+archaeologistandI'm
+buthewas...
+notadentist.
+verybad.
+No.You'rea
+pirate!Youonly
+lovemoney.
+He'sgoingDON
+IfyouwantTheBaloney
+DON
+Stone,meetmeat theOldtousemy
+Ohno,heisn't! program.CITYLIBRARY
+CityLibraryat10.45tomorrow.We'regoingto
+stophim.
+Comeon,Dad!It's
+quartertoeleven.
+We'vegotajobtodo!
+I'mgoingto
+getyou,Brutus
+Grabbe!
+Yoo-hoo!Doctor
+Bones.I'vegota
+Heisn'there.
+letterforyou
+wronglibrary
+DoctorBones.
+IsaidtheOld
+Youmusthin
+abitmore.
+SECRETARYBrutusGrabbe
+AtwhattimeisDiggorygoingtomeetBrutustomorrow?Whywasn'tBrutusat
+thelibrary?
+23
+Story:unitlanguageincontext
+
+#### Scan Page 62
+
+Howcanwestaysafe?
+23Listenandread.Whyisitimportanttocontrolfire?
+Howcanweusefire?
+Peoplelearnthowtomakefireaboutamillionyearsago,andfirecanbeveryuseful.
+Weuseitforcookingandforheatwhenwe'recold.Italsogivesuslight.
+Whatcausesfire? Howcanwestopafire?
+Didyouknowfireneedsthreethings:oxygen,fuel Takingawaytheoxygen,fuelorheat
+andheat?Oxygenisagas,whichisin theairallmeansafirecan'tburnanymore.Water
+aroundus.Someexamplesoffuelarewood,coal,canputoutafire,butbecareful:water
+paper,gasandoil.Whenfuelgetsveryhotandcanalsostartafireifithascontact
+mixeswithoxygen,thiscanstartafire.withelectricity.So,neverusewater
+Notallfiresareman-madeandafirecantoputoutafireclose toelectrical
+startnaturally,likeinaforest.Itcanalsoequipment.Alwaysuseafireblanket
+startbyaccident,forexample,whentocovertheflamesinstead.Thisstops
+cookingathome.It'simportantto theoxygenandputsoutthefire.Using
+controlfirebecauseitcanspreadfireextinguishersthatsprayfoamis
+quicklyandit'sverydangerousanotherwaytostoptheoxygen.Afire
+HEAT whenitgetsoutofcontrol.stopsburningifthereisnomorefuel,so
+OXYGENFIRE
+theysometimesgoouton theirown.
+FUEL
+Readagainandchoosethecorrectoptions.
+1Fireburnswithand
+afuelbheatcfoam
+2Firescanstartor
+abyaccidentbwithoutfuelcnaturally
+3Weusefireforand
+aoxygenbcooking
+cheat
+or
+4Wecanstopafirewith
+awaterbfuelcafireextinguisher
+5Fireisand
+aeasytocontrolbquicktospread cveryhot
+Howdoyouusefiresafelyinyourdailylives?
+WehaveaBBQin thegardenthat -FINDOUTMORE-
+myparentsusein thesummer.
+Whatarethemaincausesof
+housefires?
+Wehaveafireplacewitha
+metalgrateinfrontforheating
+thelivingroominwinter.
+24
+Social science:safetyprocedures|critical thinking
+PB24People at work|Unit2
+
+#### Scan Page 65
+
+Readthesafetyleaflet. DIDIYOUKNOW...?
+Howmany'dos'and'don'ts
+Firefightershavetogetdressed
+arethere?
+intwominutes!Theuniformis
+veryheavyandmadeofspecial
+materialtoprotectthemfrom theheat.
+Firesafety
+Neverplaywithmatches,candles
+orotherthingsthatcanstart
+afire.
+&Don'tputlotsofplugsin
+electricsockets.
+It'simportanttohavesmoke
+alarmsinyourhouse.
+Neverplaynearcookers,
+fireplacesorotherareaswhere
+thereisfire.
+Makesureyouknowthe
+emergencyphonenumber
+for thefireservice.
+Neveropenanydoorsifthere
+isfireontheotherside.
+Gotoawindowandopenit.
+Climboutifit'ssafe,orwait
+forhelpifyouareupstairs.
+Alwaysremember
+thenumbertocallin
+anemergency!
+UnderlinetheimperativeswithLearningtowrite:
+alwaysandneverin thesafetyleaflet
+Imperativeswithalwaysandnever
+inActivity1.
+Weuseimperativeswithalwaysandneverto
+showitisveryimportanttodosomething.
+Inpairs,discusswheresafety
+Neverusewatertoputoutafirenear
+adviceisimportant.Writeyour
+electricalequipment.
+ideasinyournotebook.
+Alwaysuseafireblankettocovertheflames.
+Project
+Readytowrite:
+GotoActivity Bookpage24.Makeaposteraboutforestfiresafety.
+25
+Social science:safetyprocedures|learningtolearn
+
+## Review: Units 1 & 2
+
+### Teaching Notes
+
+#### Page T26 (Pupil's Book p.26)
+
+ReviewUnits1and2
+Pupil's Bookp.26
+• Elicitusefulwordsforeachpictureaswellasseveral
+Objectives
+sentencestodescribewhatishappeningineachpicture,
+To reviewlanguagefromUnits1and2,andtellandwritee.g.It's8.30andPeteriswaitingat thebusstopfor thebus.
+astory.He'sgoingtobelateandhe'snothappy.
+• Encouragepupils tobringthestorytolifebygivingthe
+Target language
+charactersnames,andto'fillin'thestorybetweenthe
+• Key language:vocabularyandlanguagefromUnits1and2pictures,e.g.Peterwalksquicklyto thebusstop.Heis
+• Additionallanguage:platformthinkingabouthishomework.
+• Putpupils intopairs.Theytaketurnstotellthestory(one
+Materials
+pictureeach),sayingatleasttwosentencesforeachpicture
+• Key vocabularyfromUnits1and2,eachwordwrittenonaandonesentenceforinbetweenthepictures.Remind
+smallpieceofpaper,enoughforoneforeachpupilin the themtouseadjectivesandadverbstomakethestorymore
+class.interesting.Goaroundtheclass,monitoringandlisteninginto
+thestorytelling.
+Warmer
+• Makegroupsofsix.HandoutawordfromUnit1or2toeachLEPB26.ACTIVITY3
+pupil.Theykeeptheirwordsecret.Theytaketurnstoprovide
+Nowwritethestory.Write20-30words.
+adefinitionof theirwordfor theotherpupils in theirgroupto
+• Focus pupils ontheactivityinstructions.Theywriteadraft guess.Iftime,regrouppupilsandrepeatwithdifferentwords.
+of theirstoryonpaperorin theirnotebooks.Remindthem
+togivethestoryatitle,togivethepeoplenames,towrite
+PB26.ACTIVITY1 atleasttwosentencesforeachpicture,tofillinbetweenthe
+picturesandtouseadjectivesandadverbstomakeitmore Sarahistalkingtohermother,MrsSmith.Readthe
+interesting.
+conversationandchoosethebestanswer.Youdonot•Pupils writetheirfirstdraftindividually.Theyswaptheirwork
+needtouseall theletters.
+with a partner.Theysuggestcorrectionsandimprovements
+• Tell pupils toopentheirPupil's Booksatpage26.Showforeachother'swork.Pupilsthenwriteafinaldraftin their
+thepageon the whiteboard.Focus pupils ontheActivity1notebooks.
+instructions.Askapupiltoreadthemaloud.
+Note:Intherealtest,thereareonlythreepictures.
+• Elicitwhatbestanswermeansandcheckthatpupilsknow
+whattodo(completetheconversation).EElAB26.Answerkey,seepageT99
+• Pupils workindividuallytoreadtheconversationand
+Ending the lesson completeit.Theycheckin pairs.Check with theclassby
+askingpairstoreadsectionsof theconversationaloud.
+• Reviewgoingtobyaskingaroundtheclasswhatpupilsare
+• Focusthemonthekeywordswhichgivethemcluesfor thegoingtodothateveningandat theweekend.
+answerseachtime.Teachsometechniquesforthiskindof
+activity,e.g.lookingat thelinethatcomesafterthegap,
+andlookingatnouns,verbs,pronouns,etc.tocheckfor
+coherence.
+Key:1a,2g,3b,4e,5f
+PB26.ACTIVITY2
+Tellyourpartnerthestory.
+• Focus pupils onActivity2andonthepictures.Givethemtime
+tolookat thepicturesandworkoutwhatishappeningin
+thestory.
+Digital Classroom Extra Resources
+• Teacher Resources:ReviewUnits1and2,DownloadableActivity Book
+Presentation Plus:ReviewUnits1and2
+Teaching Notes
+LaPractice Extra
+• AB94andPB94-95-Grammar reference2
+• T113-Consolidationactivity:Songsandchants
+• T113-Extensionactivity:PhoningPeter
+Units1and2|ReviewT26
+
+#### Page T27 (Pupil's Book p.27)
+
+ReviewUnits1and2
+Pupil's Bookp.27
+• Thesecretarymakesasecretnoteofwhatissaid.Thenext
+Objectives
+timeitistheirturn,theyhavetosaythenewtimeand then
+To reviewlanguagefromUnits1and2,andplayaboardrememberwhat theyhaveplannedtodothenextdaybefore
+game.addingthenewactivity,asin thesecondexample.Ifthey
+makeamistakeorcannotremembertheactivitywhichgoes
+Target languagewitheachtime,theyhavetogobackto thestart.Afterthe
+• Key language:vocabularyandlanguagefromUnits1and2game,theplayersswaprolessothat thereisanewsecretary.
+• Revision:languageforplayinggames
+Key:sixo'clock,quartertoseven,seveno'clock,tentoeight,
+twentypasteight,nineo'clock,quartertoten,tenpastten,five Materials
+toeleven,eleveno'clock,quartertotwelve,twelveo'clock,half
+• Dice,colouredcounterspasttwelve,twentypastone,twenty-threeminutespasttwo,three
+o'clock,quarterpastfour,twentytofive,tentofive,twentypast
+seven,twenty-fivepasteight,fivetonine,fivepastten,eleven Warmer
+o'clock
+• Reviewtellingthetimewith theclass.Pupilsmakepairs.One
+sitswith theirbackto theboard,holdingtheirnotebookand
+AB27.Answerkey,seepageT99-100
+apencil.Theotherfacestheboard.Drawsixnumberedclocks
+on the boardshowingdifferenttimes.Pupilswhisperthe Ending the lesson
+numberofeachclockand thenthetimeto theirpartner.The
+• Ask pupilswhichlessons,topicsand/oractivitiesinthis unit
+partnerdrawsthetimeontheclockin theirnotebook.Pupils
+weretheirfavourites.
+lookandcheck.Pairsswaproles.Drawsixmorenumbered
+clockson the boardshowingdifferenttimesandpupilsrepeat
+theactivity.
+EPB27.ACTIVITY4
+Play the game.
+• Tell pupils toopentheirPupil's Booksatpage27.Showthe
+pageon the whiteboard.Elicitthatthisisaboardgame.
+Focusthemontheinstructionsandcheckunderstanding.
+Pupils playin groupsofthree.Onememberof thegroupis
+thesecretaryand theothertwoaretheplayers.
+• Theplayerstakeitinturnstothrowthediceandmovearound
+theboard.Whentheylandonasquare,theysaythetimeand
+what they'regoingtodoatthattime,asin thefirstexample.
+Digital ClassroomExtra Resources
+• Teacher Resources:ReviewUnits1and2,DownloadableActivity Book
+Presentation Plus:Review_Practice Extra
+Teaching Notes Units1and2
+• AB94andPB94-95-Grammar reference2
+ETestGenerator:Reviewtest1
+• T113-Consolidationactivity:Vocabularyreview
+• T113-Extensionactivity:Gamesandactivities
+T27Review|Units1and2
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 66
+
+ReviewUnits1and2
+Sarahistalkingtohermother,MrsSmith.Readtheconversationandchoosethe
+bestanswer.Youdonotneedtouseall theletters.
+aCanwegooutto thepark?
+bYes,please.CanIphoneKatytoseeifshecancome?
+cMyfavouritecomedy'sonattwenty-fivepastfive.
+dIthinkit'sabouthalfpasteleven.
+eAllright,then.CanIphonePeter?
+fThanks,Mum.Canyoupassmethephone?
+gWhichonesshallIwear?Mysportsshoes?
+hDoesPeterlikehistory?
+Example
+MrsSmith:Whattimeisit,Sarah?Sarah:d
+Questions
+1MrsSmith:Whatdoyouwanttodo?4MrsSmith:IthinkKaty'sstudying
+Sarah:foranexamthisafternoon.
+2MrsSmith:OK.Putyourshoeson.Sarah:
+Sarah: 5MrsSmith:OK.Callhimandsee
+ifhewantstocometoo.
+3MrsSmith:Yes,theblueones.Listen,
+Sarah:
+doyouwanttogowithafriend?
+Sarah:MrsSmith:Hereyouare.TellPeter
+tobringhisbike!
+Tellyourpartnerthestory. It'smorning.Theboyisgoingtoschool.
+SCHOOL
+NEWS
+SaturdayStandard
+Nowwritethestory.Write20-30words.
+26Review:units1and2
+PB26Review|Units1and2
+
+#### Scan Page 69
+
+2
+Play the game.
+Whatareyougoingtodotomorrow?
+Instructions:Goroundtheboard.Saythetimeandwhatyouaregoingtodoatthattime.
+Thinkofadifferentactivityforeachtime.
+Tokeepplayingyouhavetoremembertheactivitywhichgoeswitheachtime.Ifyoucannot
+rememberthengobacktoSTARTandwaitforanotherturn.
+That'squartertoseven.TomorrowI'mThat'snineo'clock.
+goingtowakeupatquartertoseven.TomorrowI'm
+goingtowakeup
+atquartertoseven
+06:45andgotoschoolat
+nineo'clock.
+SART
+101112
+9
+876
+770
+12
+(161)
+10:10
+08-55
+10:55
+11:45
+12 04:40
+12a3.
+0223
+27
+Review:units1and2
+Units1and2|ReviewPB27
+
+## Unit 3: City life
+
+### Teaching Notes
+
+#### Page T28 (Pupil's Book p.28)
+
+Unit3City life
+Pupil's Bookp.28
+IPB28.ACTIVITY2 Objectives
+To practiseunderstandingandgivingsimpledirectionsandWatchagain.Choosetherightwords.
+toreviewcityvocabulary.•Focus pupils ontheActivity2instructionsandonthe
+sentences.Givethemtimetoreadanddiscusspossible
+Target languageoptions.Play the•Videoagain.Pupilschoosethecorrect
+• Key language:directions:right,left,straighton,(at/onthe)words.Theycheckin pairs.
+corner,past,across,along;togetlost,turn •Play the•Videoagainandcheckanswers with theclass.
+• Additionallanguage:just(acrossthestreet)
+Key:1tenpasttwo,2blogpost,3bridge,4shop,5map,
+• Revision:cityandtownvocabulary,tellingthetime,past
+6across
+simple,imperatives,map
+Presentation
+Warmer
+• Drawasimplemapon the board topre-teachthedirections
+• Provideadefinitionofcityforpupils toguesstheword,e.g.
+right,left,straighton,(onthe)corner,past,across,along. I'mthinkingofaplacewherepeoplelive.It'sverybusy.There
+Focus pupils ontheSTUDYboxtohelpcheck theconcepts.
+arelotsofcars,shops,housesandoffices.Thereareparks,
+Inviteapupilto thefront.Givesimpledirectionsfor themap
+too.Givecluesuntilpupilsguess.Provideasimilardefinition
+on the board for thepupiltofollowwithafinger.Repeat.
+forvillage.
+• Play the•VideofromActivity1again.Whenpupilshear
+• Discussbrieflywithpupilswheretheyprefertolive(cityor
+directions,theyputtheirhandsup.PausetheVideoand
+village)andwhy.Tell pupilsthethemeofUnit3isCity life
+elicitwhatwassaid.Getpupils tomimeorpoint to theSTUDY
+andwriteitin thecentreof theboard.Showthepageonthe
+whiteboard andpoint to thetitle.boxtocheckunderstanding.
+• Extra challengeAsk pupils tothinkofatimetheyvisited
+anothercity.Askthemhowtheyfoundtheirway.Alternatively,
+PB28.
+talk aboutatimetheygotlost.
+Whichplacesdoyougotoinyourtownorcity?
+• Showpage28on the whiteboard.Focus pupils onthephoto.
+PB28.ACTIVITY3
+Elicitthenamesof thecharactersandwheretheyare.
+• Focus pupils onthequestionandelicitsomeof theiranswers.Read and completethesentences.
+• Focus pupils onActivity3.Theywritethecomplete sentences
+PB28.ACTIVITY1in theirnotebooksand thencheckin pairs.Checkanswers
+with theclass.
+Whyaretheygoingin thewrongdirection?Watch
+Key:1along,2left,3corner,4right,past,5straighton,6across
+andcheck.
+• Tell pupils toopentheirPupil's Booksatpage28.Focusthem
+ontheActivity1instructions.Makesuretheyunderstandwhat EElPB28.ACTIVITY4
+wrongdirectionis.Youcoulddemonstratebymimingand
+walkingtoawindowin theclassroom.Ask and answer.
+• Getpupils tofocusonActivity4.Ask pupils todiscussthe •Play theVideoand thengetpupils tocomparetheir
+questionsin pairsand thencomparetheiranswers with
+answersin pairsandfeedback.
+anotherpair.Check with theclass.
+Key:Themapisthewrongwayround.
+AB28.Answerkey,seepageT100
+VideoScriptscanbedownloadedfromTeacher ResourcesonEnding the lesson
+Cambridge One.•Saythedirectionwordsagainforpupils tomimewith
+theirhands.
+Extra Resources
+Digital Classroom
+• Teacher Resources:Unit3,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit3 LPractice Extra•Teacher Resources:Unit3,Reinforcementworksheet1
+• Video•AB94andPB94-95-Grammar reference3
+• T113-Consolidationactivity:Followingdirections
+• T113-Extensionactivity:Nowdrawthemap
+
+#### Page T29 (Pupil's Book p.29)
+
+Unit3City life
+Pupil's Bookp.29
+• Focus pupils ontheActivity3instruction.Remindthemto
+Objectives
+startin thesameplace.Play the🔊Audio.Theywritethe
+Tohavefurtherpracticeusingmapsandunderstandingand answersin theirnotebooks.
+givingsimpledirections.•Checkin pairs.
+• Play the81)Audioagain.Check with theclass.
+Target language
+• Key language:directions,imperatives,Youarehere, Key:2thepark,3thecomputershop,4thesweetshop,
+opposite,on the left/right,at theendof...,bank,stadium,5thebusstation
+gym
+(1)24
+• Revision:cityvocabulary,prepositions
+1Gostraighton.Takethesecondstreeton the left.What's
+at theendof thestreet?
+Warmer
+2GouptheHighStreet.Takethefirststreeton the leftand
+• Brainstormplacesinacity,e.g.library,bank,park.Thenask
+goacrosstheriver.What'son the right?
+pupils toputthewordsintogroups,e.g.Shopping,Freetime,
+3GouptheHighStreet.Takethesecondstreeton the right
+Services,Travel.
+andgostraighton.CrossLowRoad.What'son the left?
+4.Gostraighton.Takethethirdstreeton the right.Walkpast Presentation
+theshoeshopandstop.What'son the right?
+PB29.ACTIVITY15GouptheHighStreet.Takethefirststreeton the right.Next,
+takethefirststreeton the leftandgoacrossGreenStreet.
+Canyourememberthelastlesson?Watchthe
+Thentakethefirststreeton the right.What'son the left?
+language video.
+• Showpage29on the whiteboard.Ask pupils towatchandLEEPB29.ACTIVITY4
+completetheactivityin theVideo.
+Play the game.
+• Play the•Video.
+• Focus pupils ontheActivity4instructionand theexample.
+Givepupilssentencestemson the board,e.g.Gostraighton.
+VideoScriptscanbedownloadedfromTeacher Resourceson
+Goup/along...Street.Takethe...streetonthe...What'son
+Cambridge One.theleft/right?
+• Pupilschoosethreeplacesandwritethemin theirnotebooks.
+PB29.ACTIVITY2 Thenpupilstaketurnstogivedirectionsandtofollowthem
+Look at themap.Readthedirectionsand answer. onthemap.Makenewpairs.Pupilsrepeat.
+• Focus pupils onthemap.Checkunderstandingofvocabulary
+byaskingquestions,e.g.Whatcanyoudoinastadium/aPB29.ACTIVITY5
+gym?Checktheycanseethestart(Youarehere).
+Write thedirectionsto(1)thebankand(2)thegym.
+• Tell pupils toopentheirPupil's Booksatpage29.Pupils work
+• Pupils workindividuallytowritethedirections.Check with the
+individually,followingthedirectionstofindtheplacesonthe
+class.Asksomepupils toreadtheirdirectionsoutto theclass.
+map.Checkin pairs,onereadingthedirectionsaloud,and the
+otherfollowingwith theirfinger.Check with theclass.Key(possibleanswers):1GoalongtheHighStreet.Takethefirst
+streeton the right.Thebankison the leftafterthecafé.2Goalong
+Key:1thestadium,2thesweetshop,3theschool
+theHighStreet.GoacrossBlueStreet,GreenStreetandRedStreet.
+Thegymison the leftonthecorner,next to theswimmingpool.
+0Extra challengeUsethemapfromActivity2.Givesome
+directionstoplacesonthemap.Tell pupilswhereplacesare,but
+AB29.Answerkey,seepageT100
+makemistakes,e.g.GoalongtheHighStreetandturnrightinto
+BlueStreet.Walkpastthecafé.Thebankison the right.Pupils
+Ending the lesson
+correctyou.(It'son the left.)
+• SayI'mthinkingofaplacein thecity.Pupilsthenaskyes/no
+questionstoguesstheplace,e.g.Canyoureadthere?Isitbig?
+PB29.ACTIVITY3
+Listen to thedirectionsand answer.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit3•Teacher Resources:Unit3,DownloadableActivity BookTeaching Notes
+LaPractice Extra
+• Teacher Resources:Unit3,Reinforcementworksheet2 )Audio24Video
+• AB94andPB94-95-Grammar reference3
+• T113-Consolidationactivity:Correctthemistakes
+• T113-Extensionactivity:Howtogetthere
+T29City life|Unit3
+
+#### Page T30 (Pupil's Book p.30)
+
+Unit3City life
+Pupil's Bookp.30
+PB30.ACTIVITY3 Objectives
+To learnmorevocabularytotalk aboutcitiesandreadAsk and answer.
+aboutLondon.•Focus pupils ontheActivity3instructionand theexamples.
+Ask pupils todiscussthequestionsin pairsand thenfeedback
+Target languagetoanotherpair.
+• Key language:policestation,theatre,bridge,street,post
+• Extra challengeAsk pupils tochooseaplaceinLondonthey
+office,taxi,hotel,airport,restaurant,museum,castle,prison
+wouldliketovisit.Askthemtoresearchtheplaceandwritefour
+• Additionallanguage:theplay(n),blackcab,iscalled,the
+sentencesaboutit.
+GlobeTheatre,WilliamShakespeare,NewScotlandYard,
+TowerBridge,theTowerofLondon,Heathrow,theBritishLEAB30.Answerkey,seepageT100
+Museum
+• Revision:cityvocabulary,superlatives,tellingthetime Ending the lesson
+• Saytheplacesfrom thereadingagainforpupils toprovide
+Warmer
+thenames,e.g.Teacher:Castle.Pupils:TheTowerofLondon.
+• WriteLondonon the board.Givepupilstwominutesin pairs
+tothink/talkquietlyaboutwhat theyknowaboutLondon.
+Thenelicit/discusswhat theyknow.Find outifanyonehas
+visitedLondonand,iftheyhave,askthemwheretheywent
+andwhat theysaw.
+PB30.ACTIVITY1
+Readtheblog.Whichisthebusiestairportin theUK?
+• Tell pupils toopentheirPupil's Booksatpage30.Showthe
+pageon the whiteboard.FocusthemonActivity1andonthe
+activityinstructions.Askapupiltoreadthemaloud.Check
+understanding.
+• Focus pupils onthetextandelicitthatit'sablogpost.Ask
+pupils toreadquicklyand answerthequestion.Reassurethem
+theywillhavetimetoreadagainlater.
+Key:Heathrow
+E|PB30.ACTIVITY2
+Readagainandcorrectthesentences.
+• Focus pupils ontheActivity2instruction.Pupils readthetexts
+againtofindthecorrectinformation.Theywritethecorrected
+sentencesin theirnotebooks.
+Key:1AkingofScotlandlivedin thefirstScotlandYard.2You
+canseeTheRosettaStoneat theBritishMuseum.3Shakespeare
+showedhisplaysat theGlobeTheatre.4Theypaintedthefirst
+Londonpostboxredin1874.5Londonisagreatplacetoeatout.
+6London'sgotsixairports.7TheTowerofLondonwasaprisonfor
+manyyears.8Londontaxisarecalledblackcabs.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit3Practice Extra•Teacher Resources:Unit3,DownloadableActivity BookTeaching Notes
+• Teacher Resources:Unit3,Extensionworksheet1
+• Teacher Resources:Photocopiable3
+• AB94andPB94-95-Grammar reference3
+• T114-Consolidationactivity:Londonposters
+
+#### Page T31 (Pupil's Book p.31)
+
+Unit3City life
+Pupil's Bookp.31
+PB31.ACTIVITY2 Objectives
+Tohavefurtherpracticegivingdirectionsandsingasong.Ask and answer.
+• Focus pupils onthewordsin theboxforActivity2andonthe
+Target language
+activityinstruction.Givethemthinking/checkingtime.
+• Key language:cityvocabulary,directions •Pupils workin pairsandtaketurnstoaskand answer,using
+• Revision:jobs,past simple,prepositionsofplace,givingthepromptsasamodel.Check with theclass.Bereadyto
+definitionswithwho,which,whereacceptoriginalanswers.
+Key(possibleanswers):Whogoestoworkin...
+Warmerafirestation?(Afirefighter.)
+• Teachthesimplechantbelowtoreviewcityvocabulary:atheatre?(Anactor.)
+London,London,whatagreatcity!abusstation?(Abusdriver.)
+ahospital?(Adoctor.) There'slotstoseeforyouandme.
+aschool?(Ateacher.)
+Parks,castles,museums,theatres,
+anairport?(Apilot.)
+There'slotstoseeforyouandme.
+apolicestation?(Apoliceofficer.)
+• Makesmallgroupstosuggestlinesbetweeneachchorusby
+addingplaces,e.g.theTowerofLondon.
+PB31.ACTIVITY3
+Song
+Look at themap.Ask and answer.
+PB31.ACTIVITY1•Reviewprepositionsnext to,between,behind,opposite
+usingclassroomobjects.Focus pupils ontheActivity3map
+Listen and complete.Listen and check.Thendokaraoke. on the whiteboard.Checktheyrememberthenamesofall
+• Tell pupils toopentheirPupil's Booksatpage31.Showthe theplaces.
+pageon the whiteboard.FocusthemontheActivity1song•Demonstratetheactivity,usingopenpairs.Pupilscontinue,
+andonthewordsin thebox. takingturnstoaskand answerinclosedpairs.Monitorto
+• Play the1)Audioagain.Pupils listenand thencompletethecheck theyareusingthecorrectprepositions.
+songwith thewordsin thebox.
+• Checkgeneralcomprehensionof thesong.Play the🔊')Audio
+PB31.ACTIVITY4
+again.Pauseforpupils torepeat,linebyline,versebyverse.
+Thinkofaplaceyouknow.Givedirectionsonhowto
+• Play the•Videoforpupils tojoininwith thesong.Play the
+firstversiononthe•Videoand thenthekaraokeversion.gettherefromyourschool.Canyourpartnerguess?
+Practisethesongwithpupilsasawhole class,inlargegroups•Focus pupils ontheActivity4instructionsandcheck
+andinsmallgroups(onegroupforeachverse).understanding.Readthespeechbubblesaloudaroundthe
+classtomakesurepupilsknowwhattodo.Brainstormafew
+• Extra challengeAsk pupils tocircletherhymingwords.
+ideasofplaceswith theclass.
+Demonstratewithhotel/tell.(day/play,too/zoo,street/eat,
+• Pupils workindividuallyandwritetheirdirections.Goaround late/eight).
+theclass,checkingpupilshaveallthoughtofaplace.Make
+Key:2theatre,3Bridge,4castle,5park,6zoo,7restaurant,suggestionsiftheyhaven't.Inpairs,pupilstaketurnstogive
+8street,9taxi,10station theirdirectionsandguessthedestination.
+(1)2581)26 EElAB31.Answerkey,seepageT100
+• AsinPupil's BookandKey•KaraokeVersion
+Ending the lesson
+• Singthesongfromearlierin thelessonagainwith theclass.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit3•Teacher Resources:Unit3,DownloadableActivity BookTeaching Notes
+[Practice Extra
+• Teacher Resources:Unit3,Extensionworksheet2andSongworksheet )Audio25-26•Video
+• AB94andPB94-95-Grammar reference3
+• T114-Consolidationactivity:Drawingamap
+• T114-Extensionactivity:Tenquestions
+T31City life|Unit3
+
+#### Page T32 (Pupil's Book p.32)
+
+Unit3City life
+Pupil's Bookp.32
+*27
+Objectives
+AsinPupil's Book
+To reviewandpractisethepronunciationofconsonant
+clustersbeginningwith theletters(sp,st,str).
+PB32.ACTIVITY3
+Target language Listen and complete.Saythewords.Canyouthink
+• Key language:pronunciationofconsonant clusterswith theofmore?
+letters:sports,stand,stadium,station,street
+• FocusonActivity3.Play the🔊Audioandaskpupils tolisten
+• Additionallanguage:straight,school,sky,skate,snow, andwritethemissingletters.Play the🔊Audioagainfor
+spider,sweater pupils tolistenandrepeat.
+• Revision:suggestions:Let's/Whydon'twe...That'sa•Ask pupils tothinkofmorewordswithconsonantblends
+goodidea,comparatives/superlatives:Xismoreinterestingbeginningwiths,e.g.school,sky,skateboard.
+thanY;Xisthebestplacetovisitbecause...
+0Extra challengePlaywordtennisin pairs,wherePupilAsaysa
+Warmerwordbeginningwithstconsonantfor theirpartner,PupilB,to
+repeat.PupilBthensaysawordforPupilAtorepeat.
+• Writefamousplaceson the board.Elicitnamesoffamousplaces
+pupilsknow,e.g.LondonEye,EiffelTower,theColosseum. Key:straight,stand,stadium,study,sports,Spanish
+• Askwhichplacepupilswouldmostliketovisitandwhy.
+8)28
+Presentationstreet,straight
+stand,stadium,study
+PB32.ACTIVITY1
+sports,Spanish
+Watchthevideo.Wherearetheyoungpeopleandhow
+dotheyfeel?EEPB32.ACTIVITY4
+• Showpage32on the whiteboard.Tell pupilstheyaregoing
+Inpairs,discussthebestplacestovisitinyourtown/
+towatchthe•VideofromLesson1.Focus pupils onthe
+cityandwhy.Completethetable.
+Activity1question.
+• Ask pupils toworkin groups.FocusonActivity4andask
+• Play the•Videoandaskpupils towatchand answerthe
+themtoreadthetask.Demonstrateaplacetovisitinyour
+question.Checkanswers.
+city/town,e.g.IthinkXisagoodplacetovisitbecause...
+Key:TheyareinLondon.Theyareexcited-theycouldbeworried•Afterashortdiscussionin theirgroups,pupilsshouldwrite
+aboutusingamapinsteadof theirphones. downtheplacesand theirreasons.Askavolunteerfromeach
+grouptoshareoneplacein theirtable.
+VideoScriptscanbedownloadedfromTeacher Resourceson 0Extra supportYoumaywishtocreateabilitygroupssothatyou
+Cambridge One. canbettersupportthepupilsthatneedmorehelp.
+Pronunciationfocus
+PB32.ACTIVITY5
+PB32.ACTIVITY2
+Inagroup,chooseoneplacetotakeavisitortoin
+yourtown/city.
+Listen.Whatdothecircledwordshaveincommon?
+• Tell pupils toopentheirPupil's Booksatpage32.Play the•Explainthatgroupsmustdecideononeplacefrom theirlist
+*')Audio.Theyreadandlisten.Focusonthecircledwordsin totakeavisitor.Groupsshoulddiscussandcomparethe
+differentplacesandlistentosuggestions.Remindpupilsof theconversation.AskWhatdothesewordshaveincommon?
+Aretheysimilar?thephrasesin theUsefullanguagebox.Askavolunteerfrom
+• Write theconsonant clusterson the boardin theordertheyeachgrouptotelltheclassabout theirplace.
+appearin thescript:st,str,sp.Sayeachoneandaskpupils to
+repeat them.LEAB32.Answerkey,seepageT100
+• Thenwritethewholewordandaskpupils topractisesaying
+Ending the lesson
+eachone:standing/straight/street/sports.
+• Ask pupilswhichplacetheymostwanttovisitfrom theclass
+Key:Allwordshaveconsonant clustersbeginningwith theletters:suggestions,andwhy.
+st/str/sp.
+Digital Classroom
+Extra Resources
+Presentation Plus:Unit3•Teacher Resources:Unit3,DownloadableActivity BookTeaching Notes
+LPractice Extra
+• Teacher Resources:Unit3,DownloadableActivity BookAudioScript 1)Audio27-28•Video
+• AB94andPB94-95-Grammar reference3
+• T114-Consolidationactivity:Roleplay
+
+#### Page T33 (Pupil's Book p.33)
+
+Unit3City life
+Pupil's Bookp.33
+Emily:Whatarewegoingtodonow?
+Objectives
+DiggoryBones:We'regoingtoflytoEgypt.
+To readastoryandreviewlanguagefrom theunit. DiggoryBones:Dad,we'regoingtoEgypt.Canyoutakeus
+to theairport,please?
+Target language
+Dad:Yes,son.
+• Key language:languagein thestory,ancientworld,cave,
+DiggoryBones:OutsidethecityofAlexandriathere'sacave
+mountains(ofsecrettreasure)
+withsecretwritingonthewalls.
+• Additionallanguage:Alexandria
+Emily:AndBrutuscanuseTheBaloneyStonetounderstand
+• Revision:languagefrom theunit thewriting!
+DiggoryBones:Nowlet'sgetataxiandfindahotel...Taxi!
+Warmer
+Emily:What'sin thecave,Dad?
+• Reviewthestorysofar.Pretendtomisrememberwhathas
+DiggoryBones:Peoplesaythewritingonthewallof the
+happenedbefore,sopupilscancorrectyou,e.g.Inthelast
+cave...
+episode,theywenttomeetBrutusat theBritishMuseum
+BrutusGrabbe:...canopenthedoortomountainsofsecret
+(No,theywenttomeethimat thelibrary).
+treasure!
+DiggoryBones:BrutusGrabbe!
+Story
+AB33.Answerkey,seepageT100-101
+PB33.ACTIVITY1
+Wherewasthemostimportantlibraryin theancientEnding the lesson
+world?Whowasthetaxidriver?•Ask pupilswhichrhyme/songthey'dliketodoagainfrom the
+• Showpupilsthefirstsceneof thestoryon the whiteboard.unit.Doittogethertoendthelesson.
+Elicitwhoisgoingtobeinthisepisode(Diggory,Emily,
+Brutus).
+• Setthequestions:Wherewasthemostimportantlibraryin
+theancientworld?Whowasthetaxidriver?
+• Play the•Videowithbooksclosed.Pupils watchtofindthe
+• Tell pupils toopentheirPupil's Booksatpage33.Theycheck
+in pairswithbooksopen.Check with theclass.
+• Play the&Audio.Pauseafter eachframeof thestoryfor
+pupils tolistenandrepeat.
+• Attheend,checkgeneralcomprehensionbyaskingfurther
+questions,e.g.Whereisthesecretwriting?HowcanThe
+BaloneyStonehelpBrutus?HowdoesDiggorychangein the
+story?(Onthewallof thecave.Itcantranslateandopenthe
+door.He'snotwearinghisglassesorbow-tie.)
+Key:Alexandria,BrutusGrabbe
+8)→29
+Emily:Whatdoesthelettermean?
+DiggoryBones:Itwasthewronglibrarybecauseitwasthe
+wrongcity.
+Emily:Whichcitydoeshemean?
+DiggoryBones:IthinkhemeansthecityofAlexandria
+inEgypt.
+Emily:Ofcourse!ThelibraryinAlexandriawasthemost
+importantlibraryin theancientworld.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit3•Teacher Resources:Unit3,DownloadableActivity BookTeaching Notes
+LPractice Extra
+• AB94andPB94-95-Grammar reference3 )Audio29Video
+• T114-Consolidationactivity:Roleplay
+• T114-Extensionactivity:Followingdirections
+T33City life|Unit3
+
+#### Page T34 (Pupil's Book p.34)
+
+Unit3City life
+Pupil's Bookp.34
+(,)30
+Objectives
+AsinPupil's Book
+To learnaboutenvironmentallyfriendlyformsofpublic
+transport.
+PB34.ACTIVITY2
+Target language Readagainandcompletethetable.
+• Key language:citylife•Focus pupils onActivity2.Pupils readtheadvertsagainand
+• Additionallanguage:built,cablecar,climb,electric-writethemissinginformationin thetablefortwoof theforms
+powered,energy,elevated,environmentallyfriendly,oftransport.Pupils workin pairstocompletetheactivity.
+greener,hangingtrain,high-speed,network,passengers,
+• Checkanswersas a class.
+popular,quieter,stuck,system,tracks,views
+Key:Colombia:cablecar,It'sfunandyougetgreatcityviews.
+• Revision:advantage,bus,cheap,electric,environment,There'snoairornoisepollution.
+pollution,publictransport,taxi,traffic,train,under Japan:high-speedtrain,It'sfastandcomfortable.Itusesless
+energy.
+Warmer
+• WritePublictransporton the board andaskpupilswhatit EEPB34.ACTIVITY3
+means.
+Whichformoftransportisyourfavouriteandwhy?
+• Thinkofamodeofpublictransport(bus,train,taxi,ferry,
+Howdoyouliketotravelaround? underground,etc.)andtellpupilsthey'regoingtoguesswhat
+itisbyaskingyouquestionstowhichyoucanonlyreplyYesor•Focus pupils onActivity3.Point to thepublictransportin the
+No.Whenapupilguesses,itistheirturntothinkofoneandadvertsfromActivity1.Ask pupilsWhichonedoyoufindthe
+answerquestionsfrom theclass. mostinteresting?Why?Isthereanypublictransportlikethis
+whereyoulive?
+• Putpupils intopairstotalk about thepublictransportwhere
+LEJPB34.
+theylive.Theyshouldcompareitandconsidertheadvantages
+Whatarethebestmodesoftransport?ordisadvantagesof thedifferentformsoftransport.
+• Showpage34on the whiteboard andfocuspupils onthe•Ask pupils tosayhowtheyliketotravelandwhy.Pupils
+question.Givepupilstimetodiscussthequestiontogether. discuss,and thenfeedbackas a class.
+Elicitideasfrom theclass,butdon'tconfirmthematthisstage.
+• Extra challengePairscomparetheirideaswithanotherpairand •Play the•Videoforpupils towatchand answer.Pupils
+decideiftheirfavouritetransportisenvironmentallyfriendly.
+compareideasin pairs.Checktheanswerwith theclass.
+#EJAB34.Answerkey,seepageT101
+VideoScriptscanbedownloadedfromTeacher Resourceson
+Cambridge One. FINDOUTMORE
+• Point to theFINDOUTMOREboxandreadthequestion
+Presentation
+togetherwithpupils.Tellthemtheyaregoingtosearchfor
+PB34.ACTIVITY1theanswerto thequestiononline.
+• Assignthis activityashomeworkandtellpupilstheywillshare
+Listenandread.Whatdothedifferenttypesof
+theirfindingsin thenextclass.
+transporthaveincommon?•Ask pupils todoaninternetsearchathometofind outthe
+• Ask pupils toopentheirPupil's Booksatpage34.Focus answerto thequestion.Remindthemtoaskanadultfor
+pupils onthephotosinActivity1.AskDoyouknowthesepermissionfirst.
+formsofpublictransport?Elicitresponses.
+Ending the lesson
+• Play the8)Audio.Ask pupils tolistenandreadindividuallyto
+• Saysometrue/falsesentencesabout thetransport.Ifthe answerthequestion.
+sentenceistrue,pupilsstandup(orsitdown).Ifit'sfalse,they
+• Checkpupilsunderstandpollution.Ask pupils toreadagain
+don'tmove.Examplesentences:Thehangingtrainopened
+anddiscussin pairs.Feedbackasawhole class.
+in2004(false).TheShinkansenisthefastesthigh-speedrail
+Key:Theyareallenvironmentallyfriendly. systemin theworld(true).
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit3,Subjectworksheet Presentation Plus:Unit3CPractice Extra
+(1)Audio30•Video•AB94andPB94-95-Grammar reference3
+• T114-Consolidationactivity:Publictransport
+
+#### Page T35 (Pupil's Book p.35)
+
+Unit3City life
+Pupil's Bookp.35
+PB35.ACTIVITY2 Objectives
+To learnaboutafutureformofpublictransportandtalkUnderlinethesuperlativesandcirclethecomparatives
+abouttransportwheretheylive.in theadvertinActivity1.
+• Focus pupils onActivity2.Point to theLearningtowrite
+Target language
+box.Askvolunteerstoreadtheexamplesentencesaloud.
+• Additionallanguage:Hyperloop,safer,tubesPoint to thewordsinboldandelicitthat thefirstexample
+• Revision:publictransport,cheaper,environment,isacomparativeand thesecondisasuperlative.Elicitthe
+environmentallyfriendly,fastest,network,passengers, purposeofeach(acomparativeisusedtocomparetwoor
+pollutionmorethings;asuperlativeisusedtoshowthehighestdegree
+orextremeofaqualitybetweenthreeormoreoptions).
+Warmer•Ask pupils toreadtheadvertinActivity1againandunderline
+• ShowtheFINDOUTMOREfeaturefrompage34ontheandcircle.Checkanswersas a class.Write theexampleson
+theboard.Elicitthedifferencebetweenthewaycomparatives whiteboard.Readoutthequestion.
+andsuperlativesappearwhentheadjectivehasonesyllable •Inpairs,askpupils totalk aboutwhat theylearntfrom their
+internetsearch.Feedbackas a class.andwhenithastwoormoresyllables.Pointouttheuseof
+theinsuperlatives.
+DIDYOUKNOW...?Key:underline:thenewest,easiest,thebest,thegreenest;
+• Showpage35on the whiteboard.Point to thephotoandaskcircle:quickerthan,healthierthan
+Whousesabusregularly?Elicitwhypupilstravelonbuses,
+e.g.togettoschool,totravelaroundtown.
+PB35.ACTIVITY3
+• Askavolunteertoreadthefactin theboxaloud.Find out
+ifpupilsaresurprisedby theinformation.AskDomoreorInpairs,discussmodesoftransportwhereyoulive.
+fewerpeopletravelonbusesinthiscountrythanin the Writeyourideasinyournotebook.
+UnitedStates?
+• Ask pupils toworkin pairstowritealistof thepublic
+• Ask pupils toconsiderhowmanypeopleusebusesallovertransportwheretheylive.Givepupilstimetowritetheirideas.
+thecountry,eithertotravelaroundtheirtownorcity,orto •Makesurebothpartnershavecopieddowntheideasin their
+travelfromonepartof thecountrytoanother.
+notebooksastheywillneedthisfor theActivity BookReady
+towriteactivityonpage34.Elicitthemosteco-friendly
+Presentation
+transportin theirlists.
+PB35.ACTIVITY1 ElAB35.Answerkey,seepageT101
+Readtheadvert.Whataretheadvantagesofusingan
+e-scooterore-bike?
+PB35.
+• Tell pupils toopentheirPupil's Booksatpage35.Focus pupils
+onActivity1.Elicitoneortwoadvantagesand thenaskthePROJECT
+• Teachingnotesfor theProjectcanbedownloadedfrom the pupils toreadthetext.Pupils comparetheiranswers witha
+Teacher ResourcesonCambridge One. partnerandfeedbackto thewhole class.
+DExtra challengeAsk pupils tothinkofotherformsoftransportEnding the lesson
+thattravelontwowheels.Makealistanduseitin thefollowing•Playaguessinggamewithsomeof theinformationfrom the
+activitywithcomparativesandsuperlatives.
+advertsin thelesson.SayI'mthinkingofaquietjourneyhigh
+abovetheground.WhereamI?(thecablecarinMedellin).
+Key:notcrowded,travelonroadsandcyclelanes,quickerand
+Pupilstaketurnstodescribeasituationfor theirclassmates healthier
+toguess.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit3,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit3LPractice Extra
+• Teacher Resources:Unit3,DownloadableActivity BookAudioScript ETestGenerator:Unit3Test
+• AB94andPB94-95-Grammar reference3
+• T114-Consolidationactivity:Whatwedidfor theproject
+• T114-Extensionactivity:Transportvocabulary
+T35City life|Unit3
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 70
+
+3City life
+Whichplacesdoyougo
+toinyourtodocity?
+Whyaretheygoingin thewrongdirection?Watchandcheck.
+Watchagain.Choosetherightwords.
+Theyarriveattenpasttwo/twentytothree.4Theystartoutsideashop/school.
+2Theywantinformationfor their5They'relostbecauseofproblemswith the
+blogpost/schoolhomework.map/bus.
+3Theydecidetovisitabridge/museumfirst.6TowerBridgeisbehind/acrossthestreet.
+Read and completethesentences.
+1Wehavetogo→thisroad.STUDY
+2Wedon'tgoacrosstheriver.Weturn7here.right
+3Nowwe'reata7.left77
+straightonsTr
+4WeneedtotakethethirdstreetontheI',thenwewalkaTthispark.
+5Let'sgosTr.
+corner17
+pastoT
+6It'sjustTthestreet.
+RMF
+across1
+Ask and answer. →
+along
+1WhydoyouthinkMeera'sdadsaid'nophones"?
+2Doyouknowhowtoreadamap?Areyougoodatfollowingdirections?
+28Language:directionsandprepositions
+PB28City life|Unit3
+
+#### Scan Page 73
+
+3
+Canyourememberthelastlesson?Watchthelanguage video.
+Look at themap.Readthedirectionsand answer.
+1GoalongtheHighStreet.Takethethirdstreeton the leftandgoacrosstheriver.
+What'son the right?
+2GoalongtheHighStreetandturnrightintoBlueStreet.TurnleftintoLowRoadand then
+goacrossGreenStreet.What'sonthecorner,on the left,oppositethemusicshop?
+3GoalongtheHighStreetandtakethesecondstreeton the left.Walkpasttheplayground.
+What'snext toit?
+Swimming
+Stadium
+poolCinemaBusstation
+Gym
+REDSTREET
+Busstop
+ShoeSweetFruit
+Music
+shopshopshopshop
+City
+ZooMarket
+ClothesshopComputershop
+GREENSTREET
+Toy
+BookshopSupermarket shop
+RIVEREIGHT SchoolPlayground
+Park
+CaféBank
+Bicycleshop
+BLUESTREET
+Library
+Trainstation
+-Youarehere
+Listen to thedirectionsand answer.1Gostraighton.Takethesecondstreeton
+theleft.What'sat theendof thestreet?
+Play the game.
+Theriver.
+GoalongtheHighStreetandtakethethirdstreetonthe
+right.GoacrossLowRoadandit'snext to themusicshop.
+Isitthefruitshop?Yes,itis!
+Write thedirectionsto(1)thebankand(2)thegym.
+Practice:directionsandprepositions29
+
+#### Scan Page 74
+
+Readtheblog.Whichisthebusiestairportin theUK?
+ALLBLOGSMYBLOGNEWPOST
+Kid'sBoxLondonisthecapitalcityofEnglandand
+Reportslotsofinterestingplaces.Herearesome
+theUK.Yesterdaywewentthereandsaw
+ofourphotos.
+London
+POS
+NewScotlandYardisoneof themostNEW YoucanpostlettersorpostcardsFFICE
+atpostofficesorinaredpostbox. famouspolicestationsin theworld.SCOTLAND
+Theypaintedthefirstredpostbox AkingofScotlandlivedin thefirstYARD
+inLondonin1874.
+ScotlandYard.
+Londonisagreatcitytoeatout.
+ThisistheBritishMuseum.There
+Therearelotsofrestaurantsandyou
+aresixmillionobjectshere.Oneof
+caneatfoodfromallovertheworld.
+themisTheRosettaStone.
+Therearealsolotsofhotelstostayin.
+ThisisthenewGlobeTheatre.Thefirst
+London'sgotsixairports.Thisis
+GlobeTheatrewasfamousbecauseWilliam
+Heathrow.Itisthebusiestairport
+Shakespeareshowedhisplaysthere.
+in theUK.Morethan70million
+peopleusethisairporteveryyear!
+Thiscastleisnext toTowerBridge.
+It'scalledtheTowerofLondon.Itlooks
+ThisisaLondontaxi.It'scalleda
+beautifulnowbutformanyyearsitwas
+blackcab.Black-cabdrivershave
+aterribleprison.Manypeoplediedhere. topassatesttoshowthat they
+knowall thestreetsinLondon.
+Readagainandcorrectthesentences.Ask and answer.
+1AkingofEnglandlivedin thefirstScotlandYard.1DoyouthinkLondonis
+2YoucanseeTheRosettaStoneat theNaturalHistoryanexcitingcity?Why?
+Museum.
+IthinkLondonisanexcitingcity
+3Shakespeareshowedhisfilmsat theGlobeTheatre.
+becausethere'slotstoseeanddo.
+4TheypaintedthefirstLondonpostboxredin1974.
+5Londonisadifficultplacetoeatout.
+2WhereinLondonwould
+6London'sgotsevenairports. youliketogo?Why?
+7TheTowerofLondonwasapostofficeformanyyears.
+I'dliketogotheGlobe
+8Londonbusesarecalledblackcabs. Theatretoseeaplay.
+30Vocabulary:citylife
+PB30City life|Unit3
+
+#### Scan Page 77
+
+3
+• 25-26Listen and complete.Listen and check.Thendokaraoke.
+bridgecastlemuseumparkrestaurantstationstreettaxitheatrez00
+Itooka(9) Theatre,cinema,
+IsawTower(3)
+Restaurantandhotel,Andthe(4)Becauseitwaslate. too.
+Museum,castle,Walkedin the(5)Mytrainwasin the(10)
+Astorytotell.Andwentto the(6)Itwashalfpasteight.
+IwenttoLondon,Iwenttoa(7)
+Tohavealovelyday.Onthecornerof the(8)
+Togotoa('museumandIsatoutsideand
+The(2) foraplay.Ihadsomethingtoeat.
+Ask and answer.
+actorbusdrivercookdoctorfirefighterpilotpoliceofficerteacher
+Whogoestoworkinarestaurantorhotel?Acook.
+Look at themap.Ask and answer.
+Where'sthemuseum?It'sbetweenthegymand thelibrary.
+AIRPORT
+SUPERMARKET
+00000000)HOSPITALI
+BUSSTATION:
+PHARMACY
+Library
+MUSEUM.
+PostOffice
+STADIUM
+GYM
+OUTHEATRE
+Café
+Thinkofaplaceyouknow.Givedirectionsonhowtogettherefromyourschool.
+Canyourpartnerguess?
+Gooutof thedoor,turnleft,takethesecondstreetonyour
+Isitthestadium?Yes,itis. rightandwalkpast'Flower'sRestaurant.Whatcanyousee?
+Practice:citylife 31
+
+#### Scan Page 78
+
+Soundsandlife skills
+Choosingoptions
+Watchthevideo.Wherearetheyoung
+peopleandhowdotheyfeel?
+Pronunciationfocus
+Listen.Whatdothecircledwords
+haveincommon?
+STELLA:OK!Let'shavealookat themap!Howdowe
+getthere?7028Listen and complete.
+Saythewords.Can
+LENNY:We'restandingoutsideashop.youthinkofmore?
+street, STELLA:So,wehavetogoStraightalongthis(Street._aight
+Wedon'tgoacrosstheriver.Weturnlefthereatand,adium,_udy
+thesportsshop.Let'sgo!orts,anish
+Inpairs,discussthebestplacestovisitinyourtown/cityandwhy.
+Completethetable.
+PlaceWhy?
+Inagroup,chooseoneplacetotakeavisitortoinyourtown/city.
+Place
+Whereisit?
+Usefullanguage
+Howcanyougetthere?
+Whereshallwego?
+...isthemostfamous.
+Whatcanyoudothere?
+Howdowegetthere?
+32Soundsandlife skills:consonant clustersst,strandspcritical thinking
+PB32City life|Unit3
+
+#### Scan Page 81
+
+DiggoryBones
+DON
+ofcourse!Thelibrary <DONWhichcity
+doeshemean?inAlexandriawasthe
+mostimportantlibrary CITYLIBRARY
+in theancientworld.
+whatdoestheItwasthewrong
+lettermean?librarybecauseit
+wasthewrongcity.
+Ithinkhe
+means
+thecityof
+Alexandria
+inEgypt. outsidethecityof
+Alexandriathere's
+RRRRacavewithsecret
+TUMP
+Dad,we'regoingwritingonthewalls.
+toEgypt.Canyou
+Whatarewe
+takeusto the
+goingtodonow?
+airport,please?
+We'regoingto
+flytoEgypt.
+Yes,son.
+AndBrutuscanuseTheBaloney
+Stonetounderstand thewriting!
+What'sin...canopenthe
+*AIRPNowlet'sgetaPeoplesay
+thecave,doortomountains
+thewriting taxiandfinda Dad?ofsecrettreasure!
+onthewall hotel...Taxi!
+of thecave...
+TAXI
+TAXI
+Brutus
+Grabbe!
+Wherewasthemostimportantlibraryin theancientworld?
+Whowasthetaxidriver?
+33
+Story:unitlanguageincontext
+
+#### Scan Page 82
+
+whatarethebestmodesoftransport?
+30Listenandread.Whatdothedifferenttypesoftransporthaveincommon?
+Wanttohangoutontheworld'sTravelin thesky!Areyouinahurry?
+oldestelevatedrailway?
+ThecityofMedellininColombiaisTheShinkanseninJapanis
+ThenyoumustrideonWuppertal'sbuiltonlotsofhills,soit'snotthethefastesthigh-speedrail
+hangingtrain!It'satrainwhere easiestplacetogetaround.That'ssystemin theworld.Itusesthe
+thecars'hang'underthetracks. whytheybuiltthecablecarsystemnewesttechnologytogive
+Everyyearmorethan25millionin2004.Nowit'sthemostpopularthousandsofpassengersafast
+passengerstravelonthispublic formofpublictransportin thecity!andcomfortablerideeveryday.
+transport,whichopenedin1901. It'safunwaytotravelandyougetTheShinkansen'selectrictrains
+It'stheeasiestwaytoseethisgreatcityviews.Itdoesn'tcauseairuselessenergy,sotheycause
+Germancitybecauseyoudon'tgetornoisepollution,soit'sgreenerlesspollutionthancarsand
+stuckintraffic.It'selectrictoo,so thanbusesandtaxis.planes.That'sagreatreason
+it'smoreenvironmentallyfriendlytousethecountry'shigh-speed
+thantravellingbycarorbus.railnetwork!
+Readagainandcompletethetable.
+Germany ColombiaJapan
+Typeof
+hangingtrain
+transport
+AdvantageforYoudon'tgetstuckin
+passengerstraffic.
+Howisit
+environmentallyIt'selectric.
+friendly?
+Whichformoftransportisyourfavouriteandwhy?Howdoyouliketo
+travelaround?
+Ithinkthebestwaytotravelisona
+-FINDOUTMORE- cablecarbecausetherearegreatviews.
+Whatarethemost
+Iliketotravelaroundontrains environmentallyfriendlymodes
+becausethey'requickerthanbuses.
+oftransportinyourcountry?
+34Geography:citylife|critical thinking
+PB34City life|Unit3
+
+#### Scan Page 85
+
+3
+Readtheadvert.Whatarethe DIDIYOUKNOW.
+advantagesofusingane-scooter
+700,000peoplein theUnited
+ore-bike?
+Statestravelbybuseachyear.
+Publictransportisgettinggreener
+Publictransportinourcityischanging!They'rehealthierthancarsandbuses,as
+Ifyouhaven'tgotacarand thebusesorundergroundtheydon'tcauseairpollution.Thatmust
+trainsaretooovercrowded,whydon'tyouusetwowheelsmakethemthegreenesttransportoption
+instead?Oure-scootersande-bikesarethenewestand in thecity!Don'tforgetyourhelmet!
+easiestmodesoftransportin thecity.Justdownloadour
+appandgetmoving!Youcantravelontheroadorincycle
+lanesataspeedofupto25km/h.Oure-scootersand
+e-bikesarequickerthanwalking,whichmeansthey'rethe
+bestchoicewhenyou'reinahurry.
+Underlinethesuperlativesandcirclethe
+Learningtowrite:
+comparativesin theadvertinActivity1.
+Comparativesandsuperlatives
+Inpairs,discussmodesoftransportWeusecomparativestotalk abouttwothings.
+whereyoulive.WriteyourideasinThey'rehealthierthancarsandbuses.
+yournotebook.
+Weusesuperlativestotalk aboutonething
+fromagroupof thesamethings.
+Thatmustmakethemthegreenest
+transportoptionin thecity!
+Project
+Designanew,'unusual'
+Readytowritesmodeoftransport.
+GotoActivity Bookpage34.
+Geography:citylife|learningtolearn35
+
+## Unit 4: Disaster!
+
+### Teaching Notes
+
+#### Page T36 (Pupil's Book p.36)
+
+Unit4Disaster!
+Pupil's Bookp.36
+PB36.ACTIVITY2 Objectives
+Topresentandrecognisethepast continuousandpastWatchagain.Order.
+simple.•Ask pupils toreadthesentencesinActivity2.Elicitthefirst
+thingtheyheard.Play the•Videoagain.Pupils watchagain
+Target language
+andputthesentencesin theordertheyheardthem.Ask
+• Key language:past continuousandpast simple,disaster,pupils tocomparetheiranswersin pairs.Thencheckanswers
+storm,island,beach,catchfire,lightning
+with theclass.
+• Revision:theweather,adjectives,spellingfor-ingendings,
+helicopterKey:5,2,6,4,(1),3
+Presentation Warmer
+• Write thethreesentencesfrom theSTUDYboxon the board. •Inventortellpupilsashortstoryofadisasterthathappened
+Underlinethepast continuousinonecolour.Elicitthename toyou,whichisweather-related,e.g.afloodinyourhouseor
+yourhousebeingstruckbylightning.Attheend,sayItwasa of thetense.
+disaster/Itwasterrible.Elicitifpupilshaveexperiencedany•Play theVideofromActivity1again.Whenpupilshearthe
+similardisasters.Tell pupilsthethemeofUnit4isDisaster past continuous,theyputtheirhandsup.Pausethe&Video
+andwriteiton the board.DrawalinefromDisasterandwriteandelicitwhatwassaid.Attheend,elicitastorysummary
+Weather.Tell pupilsmanydisastersarecausedby theweather.frompupils.
+• DrawacirclearoundWeatheron the board andwriteone
+ortwoof thewordsyoumentionedtostartthemindmap. EEPB36.ACTIVITY3
+Brainstormweatherwordsandcreateamindmaponthe
+board.Pupils copythemindmapinto theirnotebooks.Read and match.
+• Pupilsdotheactivityin pairs.Checkanswers with theclass.
+EPB36.•Extra supportHavethesentencehalvesonseparatestripsof
+paperandaskpupils toworkin pairsandmatchthem. Whatkindofweatherdoyoulikeordislike?
+• Showpage36on the whiteboard.Focus pupils onthephoto.Key:1c,2d,3e,4a,5b
+Askwhattypeofweatherpupilslike/dislike.Givepupilstime
+IPB36.ACTIVITY4 weatherwordsto themindmap.
+Ask and answer.
+PB36.ACTIVITY1 •Focus pupils onActivity4.Askthemtodiscussthequestions
+in pairsand thencomparetheiranswers withanotherpair.
+Whydidtheboatcatchfire?Watchandcheck.
+• Askavolunteerfromeachgrouptoreporttheiranswers.
+Tell pupils toopentheirPupil's Booksatpage36.Focusthem
+onthephoto.Elicitthenamesof thecharactersandwhere ElAB36.Answerkey,seepageT101
+theyare.Makesurepupilsunderstandcatchfire.Elicitpossible
+answers frompupils,butdon'tconfirmthematthisstage. Ending the lesson
+• Play the•Video.Pupils watchandcheck.Play the•Video
+• Elicitfrompupilswhat theyrememberaboutdisasterstories
+and thengetpupils tocomparetheiranswersin pairsand from theWarmer.
+feedback.
+Key:Lightninghittheboatanditcaughtfire.
+VideoScriptscanbedownloadedfromTeacher Resourceson
+Cambridge One.
+Digital ClassroomExtra Resources
+• Video
+• Teacher Resources:Unit4,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit4LPractice Extra
+• Teacher Resources:Unit4,Reinforcementworksheet1
+• AB94andPB94-95-Grammar reference4
+• T114-Consolidationactivity:Roleplay
+• T114-Extensionactivity:Timeline
+
+#### Page T37 (Pupil's Book p.37)
+
+Unit4Disaster!
+Pupil's Bookp.37
+Presentation
+Objectives
+To practiseusingthepast continuousandpast simpletotalkEEPB37.ACTIVITY3
+aboutinterruptedpastactionsandsingasong.
+Whatwereyoudoingwhenithappened?Writethree
+Target languagesentences.
+• Key language:past continuousandpast simple,feelill,•Focus pupils ontheActivity3instructions.Elicitanexample
+hurt,cutfrompupils,usingoneof thephotosandonepieceoftext,
+• Revision:weathervocabulary,tellingthetime,dailye.g.IwasmakingsandwicheswhenIcutmyhand.Writeit
+on the board.Underlinethepast continuousinonecolour activities
+and thepast simpleinanother.Useatimelinetoshowthat
+thepast continuoushappenedoveraperiodoftimeandwas
+Warmer
+interruptedby thepast simpleaction.Ask pupilsWhatwas
+• Reviewthepast continuousbyaskingdifferentpupils questions, happeningoveralongertime?(makingsandwiches).What
+e.g.Whatwereyoudoingateighto'clockyesterdayevening?
+happenedsuddenly/interruptedit?(cutmyhand).
+• Pupils copytheexampleinto theirnotebookstogetherwith
+PB37.ACTIVITY1thetimeline,usingtheappropriatecolours.Checkpupils
+understand thekeyvocabulary.Pupils workin pairsandorally
+Canyourememberthelastlesson?Watchthe
+makeasmanysentencesastheycan.Monitorandsupport
+language video.
+wherenecessary.Elicitthesentencesfrom thepairstocheck.
+• Showpage37on the whiteboard.Ask pupils towatchand •Pupils writeatleastthreesentencesin theirnotebooks.
+completetheactivityin theVideo.
+QExtra supportElicito therexamplesformorepractice. •Play the•Video.
+EJPB37.ACTIVITY4
+VideoScriptscanbedownloadedfromTeacher Resourceson
+Play the game.Guessitinfive. Cambridge One.
+• Focus pupils ontheActivity4instructionsandonthe
+Songexample.Checkunderstandinganddemonstrateusingopen
+pairs.Makepairs.
+PB37.ACTIVITY2
+• Pupils playthegame,usingtheirsentencesfromActivity3.
+Readandguess.Listen and check.Thendokaraoke.
+• Tell pupils toopentheirPupil's Booksatpage37.FocusonLEEPB37.ACTIVITY5
+Activity2.Remindpupilsof theunittheme(disasters)and
+Chooseoneofyoursentencesandcontinuethestory.
+focusthemonthequestionsin thesong.
+Write20-30words.
+• Inpairs,pupilsreadthesongwithgapsandtrytopredict
+what themissingwordsare,usingthewordsin thebox. •Focus pupils onActivity5.Askthemtochooseoneof the
+sentencesfromActivity3andcontinuethestory.
+• Play the🔊"Audioforpupils tocheck.Check with theclass.
+Play theVideoforpupils tofollowthecompletetextin their•Askthemtowritein theirnotebooks.Remindthemof the
+books.Playitathirdtimeforpupils torepeat,linebylineandwordlimit.
+thenversebyverse.
+AB37.Answerkey,seepageT101
+• Pupilssingitas a classand theninthreegroups(oneforeach
+section).Play thefirstversionontheVideoand thenthe Ending the lesson
+karaokeversion.Groupsswaprolesandrepeat.
+• Pupilssingthesongfrom thebeginningof thelessonagainin
+Key:2skating,3playing,4eating,5swimming,6sailing,threegroups.
+7climbing,8sitting
+• ')32
+• AsinPupil's Book•KaraokeVersion
+Digital ClassroomExtra Resources
+Presentation Plus:Unit4•Teacher Resources:Unit4,DownloadableActivity BookTeaching Notes
+LPractice Extra
+• Teacher Resources:Unit4,Extensionworksheet1andSongworksheet )Audio31-32•Video
+• AB94andPB94-95-Grammar reference4
+• T114-Consolidationactivity:Palmsupordown?
+• T114-Extensionactivity:Survey
+T37Disaster!|Unit4
+
+#### Page T38 (Pupil's Book p.38)
+
+Unit4Disaster!
+Pupil's Bookp.38
+PB38.ACTIVITY2 Objectives
+To readaboutdisastersaroundtheworldandreviewReadagainandcorrectthesentences.
+ordinalsandmonthsof theyear.•Focus pupils ontheActivity2instruction.Askthemtoread
+thetextssilentlyandthinkabout thedifferencesbetweenthe
+Target language
+textsand thestatements.
+• Key language:ordinals,months,superlatives,iceberg,
+• Discusstheirideasas a class,remindingthemtosaywhat
+hurricane,volcano,erupt,liquidrock,gas,hole,enormous,
+iswrongabout thestatements.Checkcomprehensionof
+earthquake,destroy,tsunami,lightning,storm,destroy,
+vocabularybyreferringpupilsbackto thetexts.
+eruptin,on(fordates)
+• Additionallanguage:Titanic,Hindenburg•Extra supportDemonstratetwoorthreeexamplesas a class
+• Revision:weather,pastnarrativetensesbeforepupilscompletethisindependently.
+Key:114April,2AtlanticOcean,36May,4USA,51780,
+Warmer626August,71755,8December
+• WriteDisasterson the board.Elicitrecentdisastersthathave
+happenedaroundtheworld,givingpupilscluesifnecessary.
+PB38.ACTIVITY3
+Write themon the board,introducingthenewvocabulary,if
+appropriate,e.g.hurricane,flood,tsunami. Ask and answer.
+• AskWhatcanyouseeat thetopofavolcano?toelicithole.•Focus pupils ontheActivity3instructionand theexamples.
+Writeiton the board andaskapupiltospellit.ExplainAsk pupils todiscussthequestionsin pairsand thenfeedback
+enormousisanadjectiveanditmeansthesameashuge.Ask toanotherpair.Discussas a class.Encouragepupils togive
+pupils tosaythingsthatareenormous.Discusswhat theyreasonsfor theiranswertoquestion1.
+knowabout thedisasters.
+0Extra challengeTo checkunderstandingofyears,elicit the
+sequenceof thedisasters(whichhappenedfirst/mostrecently).
+IPB38.ACTIVITY1
+AB38.Answerkey,seepageT101
+Readtheblog.Howhighwasthewallofseawater
+inMessina? Ending the lesson
+• Showpage38on the whiteboard.Ask pupilssomequestions
+• Putthefirstletterofeachmonthon the board andelicit/
+about thetexttopredictwhatitisgoingtobeabout,e.g.
+reviewthemonthsof theyear.
+Whatistheblogaboutthisweek?Howmanydisastersare
+yougoingtoreadabout?Fromlookingat thepictures,what
+doyouknowabout thesedisasters?
+• Tell pupils toopentheirPupil's Booksatpage38.Focusthem
+onActivity1andontheactivityinstructions.Askapupilto
+readtheinstructionsaloud.Checkunderstanding.
+• Ask pupils toreadtheblogquicklyandfindtheanswerto the
+question.Reassurethemthat theywillreaditagainlaterin
+thelesson.Pupils check theanswerin pairsand thencheckas
+aclass.
+Key:tenmetres
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit4,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit4CPractice Extra
+• Teacher Resources:Unit4,Reinforcementworksheet2andExtension
+worksheet2
+• AB94andPB94-95-Grammar reference4
+• T114-Consolidationactivity:Importantdatesinmylife
+• T115-Extensionactivity:Datebingo
+
+#### Page T39 (Pupil's Book p.39)
+
+Unit4Disaster!
+Pupil's Bookp.39
+5It'ssunny,buttherearesomecloudsandarainbowin the
+Objectives
+sky.Thechildrenareinafield.They'rereadingcomicson
+To practisemonths,ordinalnumbersandnarrativepasttenses.ablanket.
+6It'sgreyandfoggy.Thechildrenareplayingin thegarden.
+Target language
+They'rejumpingin theleaves.There'safirebecausetheir
+• Key language:months,break(leg),drop,erupt,falldown,father'sburningleaves.He'swearinganoldbrownhat.
+7It'sgreyandfoggy.Outsidewecanseethat therearen't
+• Revision:weather,holiday/dailyactivities,present anyleavesonthetreesin thegarden.Thechildrenare
+continuous,past continuous,past simple readingcomicsnext to thefirein thelivingroom.
+8It'ssunny,buttherearesomecloudsin thesky.Someboats
+Warmeraresailingonthelake.
+• Invite12pupils tocometo thefrontof theclass.Whisperone9Thechildrenareeatingsandwichesnext to thefirein the
+differentmonthtoeachone.Theyquicklyformalinetoshowlivingroom.Outsidewecanseeit'sfoggyandsnowing
+thesequenceof themonths.Eachpupilthensaystheirmonthheavily.
+and theclasssaysiftheorderiscorrect.Repeat,butthistime10It'ssunny.Thechildrenarehavingapicnicat thebeach.
+pupilsmuststandinalphabeticalorder.Someboatsaresailingonthesea.
+PB39.ACTIVITY1LEEPB39.ACTIVITY3
+Listenandrepeat thechant.Ask and answer.
+• Showpage39on the whiteboard.Focus pupils onActivity1.•Pupilsdotheactivityin pairs,usingtheprompts.
+Play the1)Audioforpupils tolisten.Play the))Audioagain
+forpupils tolistenandrepeat.
+PB39.ACTIVITY4
+)33
+Crossouttheextraword.
+AsinPupil's Book
+• Pupils workindividuallyandcrossouttheincorrectwordin
+eachsentence.Theycheckin pairs.Check with theclass.
+PB39.ACTIVITY2
+Key:1to,2the,3was,4do,5many,6the,7did,8the
+Listen and saythemonths.
+• Tell pupils toopentheirPupil's Booksatpage39.Focusthem
+onthepicturesfor the12months.Point to thepicturesontheLEEPB39.ACTIVITY5
+whiteboard.Askapupiltoreadtheactivityinstructionaloud
+Readthenotesandwriteaboutwhathappened.
+andcheckunderstanding.
+• Askapupiltoreadthepromptsfor thefirstlineof thestory
+• Play the🔊Audio.Thefirsttime,pupilspoint to thepictureof
+aloud.Askanothertoreadthefirstlineoftext(bottomright
+themonthandwhisperitto theirpartner.Play the🔊Audio
+of thepage)andcheckpupilsunderstandthatthisismade
+again.Elicitthemonthinchorusfrompupils.
+from thefirstlineofprompts.
+• Discusswith theclasswhat thechildrenaredoingin the •Pupils workin pairsandorallycompletethestoryfirst.Elicit
+differentpicturestocheckvocabulary.Ask pupilsifthisis
+thestoryfrompairsaroundtheclass.
+what theydoduring thedifferentmonths.Elicitsomeother
+• Pupilsthenwritethecompletestoryin theirnotebooks.
+ideas(promptthemtousethepresent simple).
+Key:Shefelldownandbrokeherleg.Anambulancecameandtook
+hertohospital.WhenthenurseswerecarryingJaneintohospital,
+1It'ssunnyandwindy.Therearealotofredapplesonthe
+theydroppedher.NowJaneisinhospitalwithabrokenleganda
+trees.They'refallingand therearesomeontheground.
+brokenarm.
+2It'ssunnyandwindy.Thechildrenareflyingtheirkitesina
+field.Therearealotofsmall,yellowflowers.LEEAB39.Answerkey,seepageT101
+3It'ssunnyandraining.Therearealotofbig,yellowflowers
+in thefieldand there'sarainbowin thesky. Ending the lesson
+4It'shotandsunny.Thechildrenarehavingapicnicnext to •Ask pupilswhat theirfavouritemonthof theyearisandwhy.
+theriverand therearesomeapplesontheblanket.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit4•Teacher Resources:Unit4,DownloadableActivity BookTeaching Notes Practice Extra
+• Teacher Resources:Unit4,Photocopiable4
+)Audio33-34
+• AB94andPB94-95-Grammar reference4
+• T115-Extensionactivity:Theotherhemisphere
+T39Disaster!|Unit4
+
+#### Page T40 (Pupil's Book p.40)
+
+Unit4Disaster!
+Pupil's Bookp.40
+• 35
+Objectives
+AsinPupil's Book
+To practisethepronunciationof thevowelsoundsA/ei/,
+E//,1/aI/,0/a0/,U/ur/. LEPB40.ACTIVITY3
+Target languageListen and completetherhymewithwordsfrom
+Activity2.
+• Key language:pronunciationofwordswith thevowel
+sounds/ei/,/i:/,/aI/,/au/,/u:/:beach,fire,island,•FocusonActivity3.Readthepoemaloudwithoutthemissing
+words.Ask pupilsiftheyheardanywordswithavowelsound.
+frightening,lightning,boat,phone,safe,wait,you,we
+• Pupils listenandcompletetherhyme. •Additionallanguage:Whydidn'tyou...?Because...
+• Pupils checkanswers with a partner.Theypractisesayingthe •Revision:pastformoffamiliarverbs
+rhymein pairs.
+Warmer0Extra challengeAsk pupils tosuggesto therwordsthatrhyme
+• Write thechanton the board:withrain(train,plane),andsea(key,free,knee).
+A,whydidn'tyousay?O,whydidn'tyouknow?
+Key:lightning,boat,sea,rescue
+E,whydidn'tyousee?U,whydidn'tyou...
+I,whydidn'tyoubuy?
+• Practisethechantasawhole classand thenin groups.AsinPupil's BookandKey
+Presentation
+EPB40.ACTIVITY4
+PB40.ACTIVITY1
+Look at thequizin themagazineandwritemore
+Watchthevideo.Whendidtheyoungpeoplefeelquestions.
+afraid,excited,sickandworried?•Focus pupils onthefirsttwolinesof theVideoScriptin
+• Showpage40on the whiteboard.Tell pupilstheyaregoingtoActivity2.Remindpupilsweusebecausetogivereasonsand
+watchtheVideo.Ask pupilswherethecharactersare.excuses.AskWhydidn'tyoudoyourhomework?andelicit
+• Play the•Videoand thenaskWhendidthecharactersfeelexcuses:Because...mydogateit!/Ileftitonthebus!
+afraid?Whendidtheyfeelexcited,sick,worried?•AskAreyougoodatthinkingofreasonsandexcuses?
+• Ask pupilswhatmakesthemfeelafraid.•Pupils writethequestionsandwritetwomore.
+Key:Thecharacterswereafraidandworriedabout thestormand
+PB40.ACTIVITY5 whenthephonedidn'twork.Lennyfeltseasick.Theyfeltexcited
+whenthehelicoptercame. Inpairs,askand answerquestionsfrom thequiz.Can
+youthinkofinterestingreasons?
+• Ask pupils toreadthequestions,thinkofpossiblereasons, VideoScriptscanbedownloadedfromTeacher Resourceson
+Cambridge One. andwriteanswers.
+• Pupilsthenaskeachothertheirquestionsandgivetheir
+Pronuncationfocus reasons/excuses.
+• Monitorandnoteanyerrorsforfeedbackat theendof the
+PB40.ACTIVITY2 activity.
+Listen and writethecircledwordsin thecorrectsound
+AB40.Answerkey,seepageT102
+columnin thetable.
+• Play theaAudio.Pupils readandlisten.Pauseafterthefirst Ending the lesson
+circledwordandaskpupils tocalloutthevowelsound.
+• Drawanislandon the board.Tell pupilsit'sAEIOUIslandand
+• Play the🔊)Audioagain.Ask pupils tolistenandreadthe
+itcanonlyhaveAEIOUthingsonit,e.g.trees,lions,snow.
+dialogueagainandwritetherestof thecircledwordsin the
+Writepupils'suggestionson the board.
+correctcolumns.Checkanswers.
+Key:A=wait,safe,E=beach,we,I=island,lightning,fire,
+• =boat,phone,U=you
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit4,DownloadableActivity BookTeaching Notes Presentation Plus:Unit4CPractice Extra
+• Teacher Resources:Unit4,DownloadableActivity BookAudioScript
+(Audio35-36Video
+• AB94andPB94-95-Grammar reference4
+• T115-Consolidationactivity:Recordinginformation
+
+#### Page T41 (Pupil's Book p.41)
+
+Unit4Disaster!
+Pupil's Bookp.41
+Objectives
+DiggoryBones:GivemeTheBaloneyStone!You...you...
+To readastoryandreviewlanguagefrom theunit. BrutusGrabbe:Youcanhavethestonebackwhenyouhelp
+metogetwhatIwant.
+Target language
+DiggoryBones:Thatgroupofstarsiscalledthe'CanisMajor',
+• Key language:languagein thestory,iscalled,too whichmeans'Thebigdog'.
+dangerous,NewYear
+Emily:Andthebrighteststaronthedog'snoseiscalled
+• Additionallanguage:CanisMajor,Sirius
+'Sirius'.
+• Revision:characternames,languagefrom theunit
+DiggoryBones:What'sthedatetoday,Emily?
+Emily:21July,why?
+Warmer
+BrutusGrabbe:Todayisthebeginningof theAncient
+• Reviewthestorysofarwithpupils.Elicitthenameof thecityEgyptianyear.
+wheretheywerein thelastepisode(Alexandria)andwhich
+BrutusGrabbe:There'sthecaveoverthere!
+countrythatcityisin(Egypt).Elicitwhowasthereandwhat
+DiggoryBones:Night'sfallingandastorm'scoming.It's
+jobBrutuswasdoing.Askwhatpupilsrememberabout the
+goingtobeverydark!
+secretcave.Ask pupilsiftheythinkBrutusisgoingtofinditin
+BrutusGrabbe:Isittoodangerousforyou,Bones?
+thisepisode.
+DiggoryBones:No...understand theseplacesbetterthan
+you,Brutus.I'mnotafraid. Story
+DiggoryBones:IntheAncientEgyptiancalendar,Sirius
+PB41.showedtheopeningof theNewYear.
+BrutusGrabbe:Today,it'sgoingtoshowusthe'opening'of
+DiggoryBones
+thesecretcave!
+• Showpage41on the whiteboard.Focus pupils onthefirst
+BrutusGrabbe:It'sreallyhotdownhere.
+sceneof thestory.Elicitwhoisgoingtobeinthisepisode
+DiggoryBones:Whenwewerelookingat thestars,I
+(Diggory,Emily,Brutus).
+rememberedtheterribledisaster.
+• Play the•Videowithbooksclosed.
+Emily:AvolcaniceruptiondestroyedAncientAlexandriaand
+• Tell pupils toopentheirPupil's Booksatpage41.
+thenatsunamicoveredthecitywithwater.
+BrutusGrabbe:Aagh!We'rewalkingnearavolcano!
+EP41.ACTIVITY1
+DiggoryBones:Runto thelight,Emily!
+WhatterribledisasterhappenedinAncientAll:Aagh!
+Alexandria?Whyisitgoingtobeverydark?
+AB41.Answerkey,seepageT102
+• Focus pupils onthestory.Tellthemtoreadquicklyandfind
+outiftheygetto thesecretcave(Yes,theydo). Ending the lesson
+• Focus pupils onthequestions:Whatterribledisaster
+• Ask pupilswhichchant/songthey'dliketodoagainfrom the
+happenedinAncientAlexandria?Whyisitgoingtobe
+unit.Doittogethertoendthelesson.
+verydark?Play theVideoagain.Pupils watchtofindthe
+answers.Theycheckin pairswithbooksopen.Check with
+theclass.
+• Play thee)Audio.Pupils listenandread.Pauseafter each
+frameforpupils torepeat.
+• Tofinish,checkgeneralcomprehensionbyasking,e.g.What
+isSirius?Whattimeofdayisit?What'stheweatherlike?Why
+wadottenthedave,doyouthink?Whathappenedat the
+Key:Avolcaniceruptionandatsunami.Nightisfallingand there's
+goingtobeastorm.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit4•Teacher Resources:Unit4,DownloadableActivity BookTeaching Notes
+LPractice Extra
+• AB94andPB94-95-Grammar reference4 )Audio37Video
+• T115-Consolidationactivity:Roleplay
+• T115-Extensionactivity:Birthdaychart
+T41Disaster!|Unit4
+
+#### Page T42 (Pupil's Book p.42)
+
+Unit4Disaster!
+Pupil's Bookp.42
+PB42.ACTIVITY2 Objectives
+To learnabouthowvolcanoesformandtalk aboutReadagainandcompletethediagram.
+volcanoespupilsknow.•Focus pupils'attentiononthewordsinbluein thetext.
+Drillthewordschorallyandelicitwhat thewordsrelateto
+Target language
+(geographicalelementsassociatedwithvolcanicactivity).
+• Additionallanguage:ash,Earth'scrust,PacificRingofFire,•Focus pupils onActivity2.Point to thediagramandaskwhat
+plateboundaries,tectonicplates
+itshows.Ask pupils tolabelthediagramindividuallyand then
+• Revision:August,earthquakes,electricity,energy,allowthemtocheck theiranswersin pairs.Reviewanswersas
+engineers,erupt,mountain
+aclass.
+• Extra challengeDividetheclassintogroupsofthreeorfour.
+Warmer
+Havepupilstaketurnstodefinethetermstheyusedtolabelthe
+• WriteVolcanoon the board.Ask pupils tothinkofanywordsdiagramandsayhowtheyrelatetovolcanicactivity.
+theyremember.Addthemto theboardasamindmap.
+Key:1theEarth'scrust,2plateboundary,3tectonicplates,
+Tell pupilstheyaregoingtolearnmoreaboutvolcanoesin
+4magma
+this lesson.
+PB42.ACTIVITY3
+PB42.
+Wherecanwefindvolcanoes?Aretherevolcanoesinyourcountry?Aretheyactive,
+dormantorextinct?Whato thervolcanoesdoyou •Showpage42on the whiteboard andfocuspupils onthe
+question.Givepupilstimetodiscussthequestiontogether.knowabout?
+Elicitideasfrom theclass,butdon'tconfirmthematthisstage.•Pupilsstayin groupstodiscussthequestions.Point to the
+• Play the•Videoforpupils towatchand answer.Pupilsspeechbubblesandinvitevolunteerstoreadthesentences
+compareideasin pairs.Checktheanswerwith theclass.aloud.Makesurepupilsunderstand thedifferencebetween
+dormantandextinct.
+Key:thePacificRingofFire
+• AskDoyouknowMountSaintHelens?Ask pupils toshare
+what theyknowwith theclass.Pupils discussthequestions
+in theirgroups.Followingtheactivity,invitepupils toshare
+VideoScriptscanbedownloadedfromTeacher Resourceson
+informationwith theclass.
+Cambridge One.
+FINDOUTMORE
+PB42.ACTIVITY1
+• Point to theFINDOUTMOREboxandreadthequestion
+Listenandread.Whatcausesvolcanoes?
+togetherwithpupils.Tellthemtheyaregoingtosearchfor
+• Tell pupilsthey'regoingtoreadaboutanareain thePacifictheanswerto thequestiononline.
+Oceanwheremostof theworld'svolcanoesareformed.Ask•Assignthis activityashomeworkandtellpupilstheywillshare
+pupils toopentheirPupil's Booksatpage42.Focusthemtheirfindingsin thenextclass.
+nAnnerandesthatexperiencethatialikestind answeriotoquaint.Retinatchattoastonadourthe answerto thequestion.Remindthemtoaskanadultfor
+pupils abouttectonicplatesand theirmovement.permissionfirst.
+• Play the🔊)Audio.Pupils listenandread,and thenanswerthe
+question.Pupils checkin pairs.Checkanswersas a class.LEEAB42.Answerkey,seepageT102
+Key:themovementoftectonicplates Ending the lesson
+('38 •Elicitwhatpupilsenjoyedmostabout thelessonandwhy.
+AskWhatwasthemostsurprisingthingyoulearnt?
+AsinPupil's Book
+Digital Classroom Extra Resources
+0Presentation Plus:Unit4LPractice Extra•Teacher Resources:Unit4,Subjectworksheet
+(1)Audio38•Video•AB94andPB94-95-Grammar reference4
+• T115-Consolidationactivity:Myownwordsearch
+
+#### Page T43 (Pupil's Book p.43)
+
+Unit4Disaster!
+Pupil's Bookp.43
+PB43.ACTIVITY2 Objectives
+To learnabout thegeographyofIcelandandtalk aboutUnderlinewhichtogiveextrainformationin the
+placesin theworldthatarefamousfor theirlandscapes.messageinActivity1.
+• Explaintopupilsthatnon-definingrelativeclauseshelpusto Target language
+provideadditionalinformation.Point to theLearningtowrite
+• Additionallanguage:dramatic,geysers,glaciers,Iceland,box.Readtheexamplesentencetogetherwithpupilsand
+jets,landscape,lavafields,rivers,waterfalls elicitwhichasthewordthatintroducestherelativeclause
+• Revision:ash,Earth'scrust,environment,erupt,eruptions, whichexplainswhattectonicplatesare.
+geography,RingofFire,tectonicplates,volcanic •AskWhyaretheresomanyvolcanoesin theRingofFire?
+Whataretectonicplates?Helppupilsnoticethat thetwo
+Warmerclausesworkequallywellasseparatesentences.Pupils
+• ShowtheFINDOUTMOREfeaturefrompage42onthecompletetheactivityon theirownand thencheckanswersin
+pairs.Reviewanswersas a class. whiteboard.Readoutthequestion.
+• Inpairs,askpupils totalk aboutwhat theylearntfrom their0Extra supportGiveotherexamplesentenceswithnon-defining
+internetsearch.Feedbackas a class.clausesandaskpupils toidentifytheextrainformation,e.g.Ten
+percentofIcelandiscoveredbyglaciers,whicharelargebodies
+DIDYOUKNOW...?ofthickice.
+• Showpage43on the whiteboard.Point to thephotoin
+theDIDYOUKNOW..?boxandaskWhatisit?AcceptallElPB43.ACTIVITY3
+reasonableanswersatthisstage.Havepupilscovertheir
+books.Ask pupilsWhatisthelargestvolcanoin theworld?Inpairs,discussplacesyouknowthatarefamousfor
+theirlandscape.Writeyourideasinyournotebook.
+Askthemtouncovertheirbooksandinviteavolunteerto
+readtheinformation. •ElicitthetypeoftextpresentedinActivity1.Tell pupilsthey
+• Ask pupilsiftheyaresurprisedthatmostof thevolcanois aregoingtowriteasimilarmessageaboutaplacetheyhave
+underwater.AskCanyouthinkofanygeographicalfeaturesvisitedandthatthis activitywillhelpthemwithideas.
+whereasmallpartappearsabovethewater?(icebergs).•Putpupils intopairstodiscussthequestions.Makesureboth
+Encouragepupils tosharewhat theyknowabouticebergs. partnersmakenotesastheywillneedthemfor theActivity
+BookReadytowriteactivityonpage42.
+IPB43.ACTIVITY1
+AB43.Answerkey,seepageT102
+Readthemessage.WhatisIcelandfamousfor?
+• Focus pupils onthephotoin themessage.AskWhichcountry
+[PB43.
+isit?Focus pupils onthequestioninActivity1andelicitideas.
+Givepupilstimetoreadthemessageindividuallyandelicit PROJECT
+answers.
+• Teachingnotesfor theProjectcanbedownloadedfrom the
+• AskWhatisproducedinIcelandandsomecountriesaroundTeacher ResourcesonCambridge One.
+thePacificRingofFire?(electricity).Elicitwhat thecountries
+usetoproduceelectricity.Ending the lesson
+• Reviewwithpupilswhat theyhavedoneandwhat theyhave Key:Icelandisfamousforitsdramaticgeography:volcanoes,
+geysersandglacierslearntaboutintoday's lesson.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit4•Teacher Resources:Unit4,DownloadableActivity BookTeaching Notes
+IPractice Extra
+• AB94andPB94-95-Grammar reference4
+ETestGenerator:Unit4Test
+• T115-Consolidationactivity:Spotthemistake
+• T115-Extensionactivity:Naturallandscapesvocabulary
+T43Disaster!|Unit4
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 86
+
+4 Whatkindofweather Disaster!doyoulikeordislike?
+Whydidtheboatcatchfire?Watchandcheck.
+Watchagain.Order.
+1Atfirst,itdidn'twork!Butthenhetriedagain.STUDY
+2Whydidn'tyougobackto thebeach? Wereyoulisteningto the
+3Nowwe'vegotanewideaforourblog...disasters!weatherontheradio?
+4Wecouldn'tleavetheisland,soDadhadtophoneforhelp! Weweren'tlisteningto
+5Dadwaslisteningto theradio.Theysaidastormwascoming!theradio.
+Wewerelisteningtomusic.
+6Wecouldn'ttakeanypictures-wewererunningaway.
+Read and match.
+1Theyweregettingwarmalightninghittheboat.
+2Theskywentdarkbbecausetheywererunningaway.
+3Lennywasn'tfeelingverywellcwhenthejournalistarrived.
+4Whentheywerewalkingupthebeachdwhentheyweresailingto theisland.
+5Theydidn'tgetapictureof thefireesotheywerelookingafterhim.
+Ask and answer.
+1Howdoyouthinkeachof thethreechildrenfeltduring thedisaster?
+2Howdoyouthinktheyfeelnow?Why?
+36Language:past continuousandpast simple
+PB36Disaster!|Unit4
+
+#### PB p.37
+
+4
+Canyourememberthelastlesson?Watchthelanguage video.
+31-32Readandguess.Listen and check.Thendokaraoke.
+climbingeatingplayingsailingsittingskatingswimmingwalking
+Whatwereyoudoingwhenthestormbegan?Iwas"walkingupthemountain,
+Whenthelightninghitand thewaterran.Hewas(2)overthelake,
+Wherewereyouwhentheraincamedown?Wewere(3)in thepark,
+Onthemountain,at thebeach,in theforestorthetown.Shewas(4) apieceofcake.
+Theywere(5)in theriver,
+Hewas(6)onthesea,
+Shewas(7)upawall,
+Iwas(8) underatree.
+Whatwereyoudoingwhenithappened?Writethreesentences.
+hurtmykneedroppedmymobilephonelightninghitthetreestartedtofeelill
+teachersawmecutmyhanditstartedtorainmothertookaphotoofme
+Play the game.Guessitinfive.
+Iwashavingapicnicwhenitstartedtorain.
+WhatwasIdoingwhenitstartedtorain?Wereyouhavingapicnic?Yes,Iwas.
+Chooseoneofyoursentencesandcontinuethestory.Write20-30words.
+1Whatdidyoudo?2Whathappenednext?
+Practice:past continuousandpast simple37
+
+#### Scan Page 90
+
+Readtheblog.HowhighwasthewallofseawaterinMessina?
+ALLBLOGSMYBLOGNEWPOST
+Kid'sBox
+Disasterssometimeshappen,aswerecently
+Reports
+foundout.Wedecidedtofind outaboutsome
+famousdisasters.
+Disasters
+TheHindenburgwasoneof the
+ThisshipiscalledtheTitanic.Onbiggestairshipseverbuilt.On6
+14April1912itwassailingacross May1937,whenitwasarriving
+theAtlanticOceanwhenithitanin theUSA,itcaughtfire.People
+iceberg.Theycouldn'tseethethinkthishappenedbecause
+icebergbecauseof thefog.lightninghititduringastorm.
+HurricanesareverydangerousWhenavolcanoerupts,itthrows
+stormswithstrongwinds.Thehotliquidrockandgasesinto theair
+worstAtlantichurricaneinthroughtheholeat thetop.When
+historywastheGreatHurricaneKrakatoaeruptedon26August1883,
+in1780,from10-16October.itmadetheloudestsoundeverheard.
+On1November1755an
+On28December1908,atsunami
+earthquakehitLisbon,
+hitMessina,inItaly.Theenormous
+inPortugal.Theground
+wallofseawaterwasaboutten
+movedfortenminutes.The
+metreshigh.Howhighdoyouthink
+earthquakedestroyedmost
+theseawaterisinthispicture?
+of thebuildingsin thecity.
+Readagainandcorrectthesentences.
+5TheGreatHurricanewasin1870. 1TheTitanichitanicebergon14July1912.
+2TheTitanicwassailingacrossthePacificOcean.6Krakatoa,thevolcano,eruptedon28August.
+3TheHindenburgdisasterwason16May1937.7TheLisbonearthquakewason1November1575.
+4TheHindenburgairshipwasarrivingin theUK.8Thetsunamiwason28October1908.
+Ask and answer.
+1Whichdoyouthinkwastheworstdisaster?2Whatwastheworstweatheryoucan
+Why?remember?Whatwereyoudoing?
+IthinktheearthquakewastheworstdisasterIrememberahurricane.Iwas
+becausethegroundmovedfortenminutes.playingwithmybrotherathome.
+38
+Vocabulary:disastersandmonths
+PB38Disaster!|Unit4
+
+#### PB p.39
+
+133Listenandrepeat thechant.
+January,February,March,
+April,May,June,
+July,August,September,
+October,November,December.
+34Listen and saythemonths.
+1It'ssunnyandwindy.Thereare
+September. alotofredapplesonthetrees...
+JanuaryFebruaryMarchAprilMayJune
+JulyAugustSeptemberOctoberNovemberDecember
+It'sFebruary.
+Somechildrenarereadingcomics.They're
+Ask and answer.
+sittingin theirlivingroomnext to thefire.
+Whatcanyousee?
+Crossouttheextraword.
+1WhatweretheytodoingonWednesday5Thelightninghitmanymycaron19August.
+13November?6Mybirthdaywasin theJanuary.
+2Therewasaverybadstormonthe31May.7Thefiredidstartedon29June.
+3Theycouldn'tseebecauseofwasthefog.
+8InAntarcticathere'sathelotofice.
+4Whywasdoherunning?
+Readthenotesandwriteaboutwhathappened.
+Friday13MarchwasaterribledayforJane.Whathappened?
+when/godownstairs/put/foot/on/toycar
+WhenJanewasgoing
+falldown/break/leg
+downstairs,sheputher
+ambulance/come/take/tohospital
+footonatoycar. when/nurses/carry/Jane/intohospital/drop
+now/Jane/inhospital/with/brokenleg/and/brokenarm
+39
+Practice:disastersandmonths
+
+#### Scan Page 94
+
+Soundsandlife skills
+Thinkingcreatively
+Watchthevideo.Whendidtheyoungpeople
+feelafraid,excited,sickandworried?
+Pronunciationfocus
+35Listen and writethecircledwordsin
+thecorrectsoundcolumnin thetable.
+REPORTER:Whydidn'tyougobackto thebeach?
+Becausewewereverynearthe(island).
+STELLA:
+Sowedecidedtowaittherefor theweathertogetbetter.
+Yeah,wewerewalkingupthebeachtofindsomewheresafe,whenlightning LENNY:
+hittheboatanditcaughtfire!
+Wecouldn'tleavetheisland,soDadhadto(phoneforhelp! STELLA:
+U
+E
+sailingskyhello
+searescue
+Listen and completetherhymewithwordsfromActivity2.
+There'sabadstormwithrainand
+The'sonfireandit'svery,veryfrightening.
+Herecomesthehelicopteroverthe
+Ihopeit'llmyfriendsandme!
+Look at thequizin themagazineandwriteInpairs,askand answer
+morequestions.questionsfrom the
+quiz.Canyouthinkof
+interestingreasons?
+Whydidn'tyou...?
+Areyougoodatthinkingofreasonsandexcuses
+fornotdoingthings?Dothequizandfind out.
+Usefullanguage
+• Whydidn'tyoueatyourbreakfast?
+• Whydidn'tyougoto theparkyesterday? Whydidn'tyou...?
+• Whydidn'tyoucometoclasson time?
+Because...
+Whydidn'tyou?
+Whydidn'tyou?
+40Soundsandlife skills:thevowelsoundscreative thinking
+PB40Disaster!|Unit4
+
+#### PB p.41
+
+4
+-DiggoryBones
+GivemeThe
+what'sthe
+BaloneyStone!WHIlSS
+Thatgroupofstarsis datetoday,
+you...you... calledthe'Canismajor',
+alJuly,why? Emily?
+whichmeans'Thebigdog'.
+Youcanhavethe
+Andthebrightest
+stonebackwhen
+staronthedog's
+Todayisthebeginning
+youhelpmetoget noseiscalled'Sirius',
+whatIwant.of theAncient
+Egyptianyear.
+Isittoo No...|
+dangerousunderstand There'stheWHISSIntheAncientEgyptian
+foryou,theseplacescalendar,siriusshowedthe
+caveoverthere!
+Bones?betterthanopeningof theNewyear.
+you,Brutus.
+I'mnotafraid.
+1NA
+Night'sfallinganda
+storm'scoming.It's
+goingtobeverydark.
+Today,it'sgoingto
+showusthe'opening'
+WHISSof thesecretcave!
+Aagh!We'rewalking
+It'sreallyhot BOOMnearavolcano!
+whenwewerelookingat
+downhere.
+thestars,Iremembered
+theterribledisaster.
+CRACK
+Avolcaniceruption
+destroyedAncient
+AlexandriaandRunto the
+PLOPthenatsunamilight,emily!
+SUB348Aagh!
+BUBBLE
+coveredthecity
+withwater.
+WhatterribledisasterhappenedinAncientAlexandria?
+Whyisitgoingtobeverydark?Story:unitlanguageincontext41
+
+#### Scan Page 98
+
+wherecanwefindvolcanoes?
+38Listenandread.Whatcausesvolcanoes?
+www.planetwonderswow.com
+HaveyoueverheardofPompeii?On24Augustin theyear79,nearly2,000yearsago,anearby
+pacificRingoffirevolcanocalledVesuviuseruptedandcoveredthecityofPompeiiinrockandash.
+VesuviusisinItaly,butdidyouknowthat therearevolcanoesallovertheworld,and
+thatoneof themostactivezonesisthePacificRingofFire?It'sanareain thePacific
+Oceanwheretherearealmost75%of theEarth'svolcanoes.
+ThereasontherearesomanyThemovementoftectonicplatesalsoTheycanusethisenergytoheathouses,makehot
+volcanoesin theRingofFireiscausesearthquakes,andaround90%ofwaterandevenmakeelectricity.Manycountries,
+becauseoftectonicplates,whichthesehappenin thePacificRingofFire.includingtheUnitedStates,Indonesia,Japan,
+arelayersofrockjustbelowtheNewZealandand thePhilippines,alreadyuse
+Oneof thepositivethingsthat
+Earth'scrust.Theplaceswheregeothermalenergy.
+comesfrom thePacificRingofFireis
+twoplatesmeetarecalledplate
+geothermalenergy.Magmaisthe
+boundaries,andwhenthe
+nameof theveryhotliquidrockthatis
+platesmove,whichtheydoalot,
+deepunderground.AroundthePacific
+mountainsandvolcanoesform
+RingofFiremagmaisveryclose to the
+betweenthem.Manyof these
+Earth'scrust,whichmakesiteasierfor
+platesmeetat theRingofFire,
+engineerstousethisheatfrom the
+whichiswhysomanyvolcanoes
+groundasasourceofgreenenergy.
+appearin thearea.
+2
+Readagainandcompletethediagram.
+tectonicplatesmagma1
+theEarth'scrustplateboundary
+3
+Aretherevolcanoesinyourcountry?4
+Aretheyactive,dormantorextinct?
+Whato thervolcanoesdoyouknowabout?
+Therearealotofvolcanoesinmy
+FINDOUTMORE
+countrybutthey'realldormant.
+Whatisthelargestvolcanic
+IknowaboutMountSaintHelens,which
+eruptioninhistory?
+isanactivevolcanoin theUnitedStates.
+42GeographyandHistory:naturallandscapes|critical thinking
+PB42Disaster!|Unit4
+
+#### PB p.43
+
+DID'YOUKNOW...?
+Readthemessage.Whatis
+Thelargestvolcanoin theworldis
+Icelandfamousfor?MaunaLoainHawaii.At9,159metres
+high,itisbiggerthanMountEverest.
+However,5,000metresofthatisunderwater!
+To:PetraSubject:Icelandisamazing!)
+HiPetra,
+Duringthesummerholiday,IvisitedtheamazingislandofIceland.Icelandisavolcanicislandin the
+NorthAtlanticOcean,whichisfamousforitsdramaticgeography.
+InIceland,youcanseegeysers,whichareholesin thegroundthatblastoutjetsofwaterandsteam.
+Therearealsonaturalhotsprings,hugelavafieldsandglaciers.Infact,glacierscover10%of theisland.
+SometimestherearevolcaniceruptionsandIlearntthat,backin2010,avolcanoeruptedandfilledthesky
+withash.Itmeantthatallplanesinabout20countriescouldn'ttakeoff!
+Icelandusesitsinterestinggeographytomakeelectricity.
+Infact,theislandmakeselectricitybyusingpowerfrom
+itsriversandwaterfallsandheatfrom theground,whichis
+verygoodfor theenvironment.
+IhopeIcangobacktoIcelandagainonedaybecauseit
+isafantasticplace.I'lltellyoumoreaboutmytripwhen
+Iseeyou!
+Byefornow,
+Eric
+Underlinewhichtogiveextrainformationin themessageinActivity1.
+Learningtowrite:
+Whichtogiveextrainformation
+Wecanusewhichtogiveextrainformation.
+Thereasontherearesomanyvolcanoesin theRingofFireisbecauseof
+tectonicplates,whicharelayersofrockjustbelowtheEarth'scrust.
+Inpairs,discussplacesyouknowthatarefamousfor theirlandscape.
+Writeyourideasinyournotebook.
+Project
+Readytowrites
+GotoActivity Bookpage42.Makeapresentationona
+volcaniceruption.
+GeographyandHistory:naturallandscapes|Tlearningtolearn43
+
+## Review: Units 3 & 4
+
+### Teaching Notes
+
+#### Page T44 (Pupil's Book p.44)
+
+ReviewUnits3and4
+Pupil's Bookp.44
+"39
+Objectives
+1WheredidWilliamgoyesterday?
+To reviewlanguagefromUnits3and4andlistentoastory. William:Hello.
+Holly:Hello,William.Howareyou? Target language
+William:Hi,Holly.Fine,thanks.
+• Key language:vocabularyandlanguagefromUnits3and4
+Holly:Wherewereyouyesterday?Ididn'tseeyou.
+• Additionallanguage:Manchester,ManchesterUnited,
+William:No,IwasinLondonvisitingmygrandad.
+Liverpool,LowryMuseum,LSLowry
+Holly:Wow!
+Materials
+Canyouseetheanswer?Nowyoulistenandwrite.
+• Key vocabularyfromUnits3and4,eachwordwrittenon2Wheredidtheygofirst?
+asmallpieceofpaper,enoughforoneforeachpupilin Holly:Whichplacesdidyouvisit?
+theclass. William:Well,thefirstplacewewenttowastheNatural
+HistoryMuseum.
+WarmerHolly:Really?
+• Makegroupsofsix.HandoutawordfromUnit3or4toeachWilliam:Yeah.It'sgreat.It'sgotthingsfromallovertheworld.
+pupil.Theykeeptheirwordsecret.Theytaketurnstoprovide3What'stheaddressof themuseum?
+adefinitionof theirwordfor theotherpupils in theirgroupto Holly:I'dliketogothere.Where'sthemuseum?
+guess.Iftime,regrouppupilsandrepeat.
+William:It'sonCromwellRoad.
+Holly:Onemoment,I'mgoingtowritethat.Howdoyou
+PB44.ACTIVITY1 spellit?
+William:C-R-O-M-W-E-L-L
+Readtheletterandwritethemissingwords.
+Holly:Thanks.
+• Showpage44on the whiteboard.Tell pupils toopentheir
+4Whendoesitclose?
+Pupil's Booksatpage44.Focus pupils onthetextandelicit
+thatthisisaletter.Ask pupilswhowroteit(Jamie)andwhoheHolly:Whendoesitopen?
+wroteitto(AuntAnika).William:Onemoment.Letmesee...Itopensat10o'clock
+• Tell pupils toreadtheletterquicklytofind outwhichin themorning,anditclosesattentosix.
+footballteamswereplaying,whichteamwonand thenameHolly:Great.Thanks.Closingtime,fivefifty.
+of themuseum.Pupils checkin pairs.Check with theclass5Wheredidtheyhavelunch?
+(ManchesterUnitedandLiverpool,ManchesterUnitedwon,
+Holly:Didyoustaythereforlunch?
+LowryMuseum).Tell pupilsthatLSLowryisanartist.
+William:No,wedidn't.Wehadapicnicin thepark.
+• Focus pupils ontheActivity1instructionandcheck Holly:Oh,Ilovepicnics.
+understanding.Theysilentlyreadtheletteragainandfillin
+William:SodoI,andmygrandadmakeslovelysandwiches.
+themissingwords.Remindthemtolookat thewordsbefore
+6Howdidtheygethome?
+andafterthegapstohelpthem.Theycheckin pairs.Check
+Holly:Oh,didyougetaLondontaxihome? with theclass,readingthewholeletteraloud.
+William:No,wedidn't.Iwentto thebusstationwith
+Key:1win,2lost,3map,4directions,5artist Grandadandwecaughtthebus.He'sstayingatourhouse
+for theweekend.
+Holly:That'sgreat!
+PB44.ACTIVITY2
+Listen and write.Thereisoneexample.EElAB44.Answerkey,seepageT102
+• Focus pupils ontheactivityinstructionsandcheck
+Ending the lesson
+understanding.Givepupilstimetolookat thetaskfirst.
+• Play the🔊)Audio.Pupils listenandwrite.Theycheckin pairs.•Playaspellingbee.Write themonthsof theyearon12
+Play the🔊'Audioagain.Check with theclass.piecesofcardandstickthemfacedownon the board.Write
+numbersatrandomontheback.Intwoteams,pupilstake
+Key:2NaturalHistoryMuseum,3Cromwell,45:50/17:50,
+turnstochooseanumberandreadoutthemonth.Thenturn 5park,6bus
+roundthecardagainand theyhavetensecondstospellit
+aloud.
+Digital ClassroomExtra Resources
+Presentation Plus:ReviewPractice Extra•Teacher Resources:ReviewUnits3and4,DownloadableActivity Book
+Units3and4Teaching Notes
+• AB94andPB94-95-Grammar reference4
+)Audio39
+• T115-Consolidationactivity:Songsandchants
+Units3and4|ReviewT44
+
+#### Page T45 (Pupil's Book p.45)
+
+ReviewUnits3and4
+Pupil's Bookp.45
+Objectives
+To reviewlanguagefromUnits3and4andplayaboard
+game.
+Target language
+• Key language:vocabularyandlanguagefromUnits3and4
+• Additionallanguage:Findyourwayhome
+• Revision:languageforplayinggames
+Materials
+• Dice,colouredcounters
+Warmer
+• Reviewdirectionswith theclass.Drawasimplemapon
+theboard.Ask pupils tocomeupinturnandfollowyour
+directionswith theirfingeronthemap.
+PB45.ACTIVITY3
+Play the game.
+• Showpage45on the whiteboard.Focus pupils onActivity
+3.Elicitthatthisisaboardgame.Checkcomprehensionof
+Findyourwayhome.
+• Focusthemontheinstructionsandcheckunderstanding.
+Reviewgamelanguagewith theclass,e.g.Move2squares,
+Goback.Pupils playin groupsofthree.
+• Theytaketurnstothrow(roll)thediceandmovearound
+theboard.Theotherpupilsdecideifthepupilhascarried
+outthetaskcorrectlyornot.Theycanhelpeachotherwith
+interpretingtheinstructions.
+• Monitorpupilsastheyareplayingthegame.Thefirstplayer
+ineachgrouptoreachHomeisthewinner.
+AB45.Answerkey,seepageT102-103
+Ending the lesson
+• Ask pupilswhichlessons,topicsand/oractivitiesweretheir
+favourites.
+Digital ClassroomExtra Resources
+• Teacher Resources:ReviewUnits3and4,DownloadableActivity Book
+Presentation Plus:ReviewEPractice Extra
+Units3and4Teaching Notes
+• AB94andPB94-95-Grammar reference4
+• T115-Consolidationactivity:Vocabularyreview
+• T115-Extensionactivity:Games
+T45Review|Units3and4
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 102
+
+ReviewUnits3and4
+Readtheletterandwritethemissingwords.
+DearAuntAnika,
+I'mwritingtotellyouabout thegreattimewehadlastweekend.
+IthinkMumtoldyouweweregoingtoManchesteronSaturday.
+Well,wewentto thestadiumtoseeafootballgame,because
+ManchesterUnitedwereplayingagainstLiverpool.Ireally
+enjoyeditbut,sadly,Liverpooldidn't(1)
+They(2)1-0.
+OnSundaywespentthedayexploringthecity.
+Wegotlostbecausewedidn'thavea(3)
+Noproblem!Weaskedapoliceofficerfor(4)andheshoweduswheretogo.
+WevisitedtheLowryMuseumwhichhadsomeinterestingpaintingsbyafamous
+(5) fromManchester,LSLowry.Thereisapictureof themuseumattachedto
+thisemail.Hopeyoulikeit.
+Yours,
+Jamie
+Listen and write.Thereisoneexample.
+1Whowashevisiting:grandad
+2Wheredidtheygofirst:
+Road
+3Address:
+4Openingtimes:From10:00to
+5Wheretheyhadlunch:
+6Transporthome:
+44Review:units3and4
+PB44Review|Units3and4
+
+#### Scan Page 105
+
+4
+Play the game.
+Findyourwayhome
+Instructions:Goroundtheboardfollowingtheinstructions.Whenyoustoponapicture,
+spelltheword.Ifit'sright,rollagain.Ifit'swrong,stop.
+YoufindtwoYouaska
+policeofficer ticketsto the
+howtoget theatre.Goback
+home.Go
+toseeaplay.BB
+straightthere.
+Youneed
+Crossover You're
+tosleep.Go
+Goto theendtheriver.
+hungry.Go forwardto
+of thestreet backto thethehotel.
+andstopat the
+restaurant.
+bridge.
+Togoto theMUSEUM
+RESTAURANTSSS
+restaurant
+youneedtogo
+straighton.
+Move3squares.
+POLICE
+You're
+Climb
+lost.GobackTurnleftand
+overtheto thepolicestation
+turnleftagain.
+wall.andaskapolice
+officer.
+POLICE
+TurnrightYouwanttoGoback
+to thefire and thenturnlookat theoldFIRESTATION
+paintings.Gotostationon
+rightagain.
+thecorner. themuseum.
+Youmissedyour
+plane.Goback
+to theairport.
+YoucatchaGoCrossover
+Turnleftand
+straightGoandexplore
+bus.Move4thebridge.move1
+on.thecastle.
+squares. Move2Move3square.
+TAXI
+squares.
+squares.
+START
+Getataxito the
+trainstation.
+Review:units3and445
+Units3and4|ReviewPB45
+
+## Unit 5: Material things
+
+### Teaching Notes
+
+#### Page T46 (Pupil's Book p.46)
+
+Unit5Material things
+Pupil's Bookp.46
+• Play the•Videoagainandcheck,elicitingfull-sentenceanswers
+Objectivesfrom theclassfor the'no'responses.Checkunderstandingof
+Todescribeobjectsandwhatmaterialstheyaremadeof.keyvocabularyandaddnew wordsto themindmap.
+Target language Key:2no,3no,4no,5yes,6no,7no,8yes
+• Key language:materials:brick,sugar,rubber,fur,paper,
+Presentation
+plastic,wood,stone,grass,leather;madeof
+• Additionallanguage:whitechocolate,leaves•Elicitsentence5againfromPupil's BookActivity2andwrite
+iton the board.Underlinemadeofin thesentence.Elicitwhat
+• Revision:food,animals,adjectives
+thistellsus.Saythesentenceforpupils torepeat.
+Warmer •Elicitfrom theclassifofisstressedorunstressed(unstressed).
+Makesuretheysayitlikethis:/av/.
+• Putclassroomobjectsonthedeskandsay,e.g.Thisruler's
+plastic.Pupilscorrectyou.(It'swood.)Dothesamewithother•Showsomeof theobjectsfrom theWarmeragain.Introduce
+thequestionsWhat'sitmadeof?/Whataretheymadeof?
+objectsandclothes.Tell pupilsthethemeofUnit5isMaterials
+andwriteitin thecentreof theboard. toelicitresponsesfrompupilsusingmadeof.Continuethe
+activityinopenpairs.
+• DrawacirclearoundMaterialson the board andwriteoneortwo
+• Play the•VideofromActivity1again.Whenpupilshear
+of thewordspupilshaveusedtostartthemindmap.Brainstorm
+sentenceswithmadeof,theyputtheirhandsup.Pausethe
+morewords.Pupils copythemindmapinto theirnotebooks.
+• Videoandelicitwhatwassaid.Attheend,elicitastory
+summary.
+PB46.
+Whatcanyoufindinajokeshop?PB46.ACTIVITY3
+• Showpage46on the whiteboard andaskpupils tofocusonthe
+Read and choosetherightwords.
+photo.Elicitthenamesof thecharactersandwheretheyare.
+• Focus pupils ontheSTUDYbox. •Ask pupilswhat theymightfindinajokeshopandwhat
+materialsmightbeusedtomakethesethings.Whenthey•Focus pupils ontheActivity3instruction.Remindpupils to
+feedback,addanynewmaterialsto themindmap. readthecompletesentencebeforetheychoosetheright
+word.Pupilsdotheactivityin pairs.Pairscheck withother
+pairs.Check with theclass.
+PB46.ACTIVITY1
+0Extra challengeAsk pupils towritethreemoresentences
+WhatdoesStellaputherteethin?Watchandcheck.
+describingwhatclassroomobjectsaremadeof.
+• Tell pupils toopentheirPupil's Booksatpage46.Focus pupils
+onActivity1.Elicitsomepredictions.Play theVideo. Key:1of,2are,3made,4are,5rubber,6isn't
+• Pupils watchand answerthequestion.Elicittheanswerfrom
+theclass.Tickanyof thematerialsseenonthemindmap. PB46.ACTIVITY4
+Key:Stellaputshersugarteethinasmallpaperbag.
+Ask and answer.
+• Getpupils tofocusonActivity4.Ask pupils todiscussthe
+questionsin pairsand thencomparetheiranswers with
+VideoScriptscanbedownloadedfromTeacher Resourceson
+anotherpair.Checkanswers with theclass.
+Cambridge One.
+AB46.Answerkey,seepageT103
+PB46.ACTIVITY2
+Ending the lesson Watchagain.Say'yes'or'no'.
+• Say,e.g.Namesomethingthat'smadeofwood.Apupilanswers,
+• Focus pupils ontheActivity2instructionsandonthe
+e.g.Thedoor'smadeofwood.Continuewithothermaterials. sentences.Givepupilsreadingtimebeforetheywatch.Play
+the•Video.Pupilswhispertheanswersto theirpartnerthe
+firsttimetheywatch.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit5,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit5IPractice Extra
+• Teacher Resources:Unit5,Reinforcementworksheet1
+• Video
+• AB94andPB94-95-Grammar reference5
+• T115-Consolidationactivity:Roleplay
+• T115-Extensionactivity:What'sitmadeof?
+
+#### Page T47 (Pupil's Book p.47)
+
+Unit5Material things
+Pupil's Bookp.47
+(1)40
+Objectives
+1Girl:Isyournew schoolbagmadeofleather?
+Tohavefurtherpracticeofdescribingobjects. Boy:Yes,itis.
+2Boy:Whendidyoumakethesnowmaninthispicture?
+Target language
+Girl:Wemadeitthelasttimeitsnowedalot.Youcanonly
+• Key language:materials:gold,metal
+buildsnowmeninverycoldwintersbecausethey'remade
+• Additionallanguage:rock,cover(v),special,bounce,
+ofsnow!
+insideout,protect,drop,tyre
+3Girl:Whatisthiswallmadeof?
+• Revision:materials
+Man:It'smadeofbricks.IalwaysusebrickswhenIbuildwalls.
+4Woman1:Iloveyourhat.Isitnew?Itlooksverywarm. Warmer
+Woman2:Thankyou.Itisnewanditisverywarmbecause
+• Givepupils oneminute,withbooksclosed,towriteona
+it'smadeoffur!
+pieceofpaperalistofall thematerialstheyrememberfrom
+5Girl:What'sthis?Isitmadeofplastic?
+theprevious lesson.Pupilsswappiecesofpaperwith their
+Woman:No,it'scalledaneraserandit'smadeofrubber.
+partner.Pupils check theirpartner'swork,usingthemind
+Look!Itfeelssoftandyoucanuseitifyoumakeamistake
+mapsin theirnotebooks.
+whenyouwritewithapencil.
+Girl:Iknowthat!
+PB47.ACTIVITY1
+6Girl:What'syourschoollike?
+Canyourememberthelastlesson?WatchtheBoy:It'snice!It'sverybigandit'sgotold,stonewalls.
+language video.7Girl:Where'syourold,metalbike?Youusuallyrideitto
+• Showpage47on the whiteboard.Ask pupils towatchand school.
+completetheactivityin the•Video.Boy:Mybrotherisusingittoday.
+• Play the>Video.8Boy:CanIbuyapencilmadeofglass?
+Woman:No!Ourpencilsaremadeofwood,likethisone.
+VideoScriptscanbedownloadedfromTeacher Resourceson
+PB47.ACTIVITY4 Cambridge One.
+Read and match.
+EPB47.ACTIVITY2 •Pupils matchtheitemswith thepicturesandcheckin pairs.
+Ask and answer.
+Key:2d,3f,4b,5e,6a
+• Tell pupils toopentheirPupil's Booksatpage47.Focusthem
+onthespeechbubblesforActivity2andonthephotos.
+PB47.ACTIVITY5 •Drawpupils'attentionto theuseofIthinkandelicitthatitshows
+thepersonisnotsure.Pointoutthat thebicycleismadeofReadagainandcorrectthesentences.
+metal,buttheseatisplasticorleatherand thetyresarerubber.
+• Focus pupils ontheActivity5instructionandcheck
+• Pupils workin pairs,takingturnstoaskand answerabout the
+understanding.Pupilsdothetaskindividuallyand thencheck
+photos.Checkusingopenpairs.Writeanynewmaterialsonin pairs.Check with theclass.
+theboard.
+Key:1with theweather,2ears,3plastic,4jump,5bounce,
+6rubber
+PB47.ACTIVITY3
+Listen and check. LEEAB47.Answerkey,seepageT103
+• Focus pupils ontheActivity3instruction.Play the🔊1)Audio
+forpupils tolistenandcheck.Theycheckin pairs.Play theEnding the lesson
+*')Audioagain.Check with theclass.•Writesomeof thematerialsfromthisand theprevious lesson
+injumbledletterorderforpupils tounscramble,e.g.berbur.
+Key:2Snow.That's'f'.3Bricks.That's'g'.4Fur.That's'h'.
+5Rubber.That's'e'.6Stone.That's'a'.7Metal.That's'b'.
+8Wood.That's'd'.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit5•Teacher Resources:Unit5,DownloadableActivity BookTeaching Notes
+LPractice Extra
+• Teacher Resources:Unit5,Reinforcementworksheet2 )Audio40 •Video
+• Teacher Resources:Photocopiable5
+• AB94andPB94-95-Grammar reference5
+• T115-Consolidationactivity:Myimaginaryhouse
+T47Material things|Unit5
+
+#### Page T48 (Pupil's Book p.48)
+
+Unit5Material things
+Pupil's Bookp.48
+PB48.ACTIVITY2 Objectives
+To readaboutdifferentman-madeandnaturalmaterialsReadagainand answer.
+fromaroundtheworld.•Focus pupils ontheActivity2questions.Pupils workin groups
+ofthreeandfindtheanswersto/discussthequestions.Elicit
+Target languageanswers from theclassandprovideanynewvocabularyonthe
+• Key language:materials:bricks,stone,wood,glass,gold,board.Encouragepupils tousefull sentencesin theiranswers.
+silver,metal,fur,wool,paper,card,plastic,man-made,•Discusswithpupilswhatthingstheyrecycleandwhere
+natural,recycle theyrecyclethem(e.g.recyclingbinsatschool/in the
+• Additionallanguage:factory,preciousmetal,braceletsupermarket,separatingtheirrubbishathome).
+• Revision:comparativeadjectives,present simple
+Key:1Wemakeman-madematerialsinfactories.2Mosthouses
+aremadeofbricks,stoneorwood.3Heused12,000glassbottles.
+Warmer4Thereare80kilogramsofgoldin thecar.5Cardandpapercome
+fromtrees.6Woolcomesfromsheep.7Thecushioncoversare
+• WriteMaterialson the board.Holduptwoobjects,onemade
+madeofwool.8'Recycle'meansuseitagaininadifferentform.
+ofanaturalmaterial,e.g.awoodenruler,andanothermade
+ofaman-madematerial,e.g.aplasticbag.Elicitfrompupils
+what thetwoobjectsaremadeof,andaskthemiftheycanElPB48.ACTIVITY3
+thinkhowthetwomaterialsaredifferent.ProvidethewordsChoosefivematerials.Tellyourpartneraboutthings
+man-madeandnaturalandwritethemon the board.
+madeof thesematerials.
+• Focus pupils ontheActivity3instructionsand theexample.
+PB48.ACTIVITY1
+Ask pupils todiscussin pairsand thenfeedbacktoanother
+Readtheblog.What'sthemostimportantmaterial?pair.Askapupilfromeachgrouptotelltheclassaboutoneor
+twoof theitemstheirgrouptalkedabout.
+• Tell pupils toopentheirPupil's Booksatpage48.Showthe
+AB48.Answerkey,seepageT103
+pageon the whiteboard.FocusthemonActivity1andonthe
+activityinstructions.Askapupiltoreadthemaloud.Check
+Ending the lesson
+understanding.
+• Playagame.Putpupils intotwoteams.Sayamaterial,e.g.
+• Focus pupils onthetextandelicitthatit'sablogandthatit's
+gold.Askeachteaminturntogivethenameofsomething
+aboutmaterials.Pupils readtheintroductionaloudaround
+that'smadeofgold,e.g.aring.Repeatforothermaterials.
+theclass.
+Awardonepointforeachcorrectanswer.
+• Focus pupils onthedifferentmaterialsin thephotosandelicit
+whichareman-madeandwhicharenatural.
+• Pupils readthetextssilentlyandthinkabout theiranswers
+to thequestionat thetop.Focusoneachtextinturnand
+discusswhyeachmaterialisimportant.Discusstheirideasand
+opinionsas a class.Afterdiscussingeachtext,elicitfrom the
+classwhat theythinkthemostimportantmaterialisandwhy.
+Key:Plasticisusedmorethananyothermaterial.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit5,DownloadableActivity BookTeaching Notes
+@Presentation Plus:Unit5CPractice Extra
+• Teacher Resources:Unit5,Extensionworksheet1
+• AB94andPB94-95-Grammar reference5
+• T116-Consolidationactivity:Naturalorman-made
+• T116-Extensionactivity:Oddonesout
+
+#### Page T49 (Pupil's Book p.49)
+
+Unit5Material things
+Pupil's Bookp.49
+• Dividetheclassintoeightgroups.Giveeachgroupapairof
+Objectives
+linestosing.Repeattwoorthreemoretimes,withdifferent
+To givefurtherpracticeusingmadeofandcomefromandgroupssingingdifferentlines.Ifpupilsneedmorepractice,
+singasong.playthefirstversionof thesong•Videoagain.Finishthe
+lessonwith thekaraokeversionof thesong•Videoforpupils
+Target language
+tosingalongto.
+• Key language:materials,madefrom/madeof,comefrom
+Key:2b,3d,4a,5f,6c,7h,8€
+• Additionallanguage:theground,sand,bear,bracelet,
+jewellery
+(1)42 (1)41
+• Revision:adjectives,clothes,everydayobjects
+AsinPupil's BookKaraokeVersion
+Warmer
+PB49.ACTIVITY3
+• Pre-teachjewellery.Explainthroughanexample,e.g.showing
+yourwatchoraring,andaskpupils togiveyoufurtherCloseyourbook.Whatcanyourememberfrom thesong?
+examples,elicitingbracelet,earring,etc.•Thisisamemorygame.Focus pupils ontheActivity3
+• Drawatriangleon the board andwriteateachof thepoints: instructionsandexamplein thespeechbubbles.
+jewellery,gold,theground.Elicittheconnectionbetweenthe•Checkpupilsknowhowtoaskthequestion.Theyclosetheir
+three,providingcomefromifnecessary.booksandtakeitinturnstoaskand answerabout theobjects
+• Write thesentencesunderthetriangle:Thejewellery'sin thesong.Tellthemthat therearenineobjectsmentioned.
+madeofgold.Goldcomesfrom theground.Checkpupils Whenonepupilmakesamistake,pupilsexchangeroles.
+Trocholepupils
+understand theconceptofcomefrom.
+• Writeoneortwoothergroupsofthreewords.PupilsprovideLEEPB49.ACTIVITY4
+thesentencesfor,e.g.ruler,wood,trees;sweater,wool,
+sheep.Elicitpupils'ownideas.Lookaroundyourclassroom.Findandwritetwo
+thingsforeachmaterial.
+Song•Tell pupils toopentheirPupil's Booksatpage49.Focuson
+Activity4.Ask pupils tocopythetableinto theirnotebooks.
+PB49.ACTIVITY1Theythenthinkoftwothingsmadeofeachmaterialandwrite
+themin theirtable.
+Read and choosetherightwords.
+• Tell pupils toopentheirPupil's Booksatpage49.Displaythe•Extra supportWriteclassroomitemsrandomlyon the board to
+pageandfocusthemonActivity1.Pupils workindividuallyto giveextraideas.
+completethesentences.Check with theclass.Forsentences
+1and5,elicitwherethesematerialscomefrom.Fortheother
+PB49.ACTIVITY5
+sentences,eliciteverydayobjectsmadeof thesematerials.
+Whatarethingsmadeofinyourclassroom?Write
+Key:1wood,2theground,3trees,4animals,5sand,6sheep
+20-30words.
+• Ask pupils tolookat theanswersto thequestionstheywrote
+PB49.ACTIVITY2forActivity4andusethemtowriteaboutthingsin their
+classroomandwhat theyaremadeof.
+Listenandorder.Listen and check.Thendokaraoke.
+• Monitorandhelpasnecessarywhilepupilswrite.Ask pupils
+• Focus pupils onActivity2andontheversesof thesong. toexchangenotebooksandreadeachother'swriting.
+Checkpupilshaveunderstoodtheactivityinstructions.Play
+the1)Audio.Pupils listenandorder.Theycheckin pairs.Play EElAB49.Answerkey,seepageT103
+the"Audioagain.Check with theclass.
+• Play the•Videoforpupils torepeatsectionbysection.WhenEnding the lesson
+theyareconfidentin theirsinging,singthesongrightthrough
+• Singthesongfrom thebeginningof thelessonagainwith
+with theclass.
+pupils.
+Digital ClassroomExtra Resources
+Practice Extra•Teacher Resources:Unit5,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit5
+• Teacher Resources:Unit5,Songworksheet )Audio41-42•Video
+• AB94andPB94-95-Grammar reference5
+• T116-Consolidationactivity:Findingout
+• T116-Extensionactivity:Materialchains
+T49Material things|Unit5
+
+#### Page T50 (Pupil's Book p.50)
+
+Unit5Material things
+Pupil's Bookp.50
+)43
+Objectives
+AsinPupil's Book
+Tounderstandhowafinalconsonantsoundandaninitial
+PB50.ACTIVITY3 vowelsoundoftwowordslinktogether.
+Listen and complete.Practisewith a partner.
+Target language
+• Play the🔊Audioagainforpupils torepeat.
+• Key language:Waitaminute.You'reastar!Comeon.Nice
+one!Lookatthis.•Pupils practisesayingthephraseswith a partner.
+• Additionallanguage:Isit...?Hasitgot...(spots/legs/
+Key:1on,2out,3at,4a,5a,6Wait
+pages)?Doyouuseitto...?
+• Revision:materials,It'smadeof...,balloon,bicycle,fish8)44
+bowl,rubber,pencil,skateboard,silverring,woodendoor;AsinPupil's BookandKey
+adjectives(big,small,long)
+PB50.ACTIVITY4
+Warmer
+Look at thegame.Listen to theyoungpeopleplaying
+• Elicitclothesandaccessories,e.g.belt,bracelet,ring.
+itandtick(v)thephrasestheyuse.
+• Describeoneof theitemson the boardwithoutnamingit.
+• Grouppupils intothrees.Write thesentencestartersYouwear•Tellguessingpupilstheygame.areTheygoingmusttoticklistenthetoexpressionstwopeopletheyplayinghear.a
+this.../It'smadeof...on the board.Pupilstaketurnsto
+describeoneof theitemson the board toeachother.•Play the1)Audio.Pupils compareanswersin pairs.
+Key:Comeon.Isitbig?Isitmadeofmetal?Isitmadeofwood?
+PresentationNiceone!Isitlong?You'reastar!
+)45
+PB50.ACTIVITY1
+Girl:Comeon.Let'splaythegame!ShallIguessfirst?
+Watchthevideo.Whichshopsdotheygoin?
+Boy:Yes,I'mready.Askme.
+• Showpage50on the whiteboard.Readthequestion.Tell
+Girl:OK,isitbig?
+pupilstheyaregoingtowatcha•Videotoanswerthe
+Boy:No,itisn't.Butitisn'tsmall.
+question.Play the•Videoforpupils towatchand answer.
+Getfeedbackfrom theclass. Girl:Hmm...Isitmadeofmetal?
+Boy:No,itisn't.
+Key:Theygointoasweetshopandajokeshop.
+Girl:Isitmadeofwood?
+Boy:Yes!Niceone!
+Girl:I'vegotanidea!Hasitgotfourwheels? VideoScriptscanbedownloadedfromTeacher Resourceson
+Boy:Yes...andyouuseittoplay. Cambridge One.
+Girl:Isitlong?
+Boy:Yes,itis.
+PB50.ACTIVITY2
+Girl:Ooh!Isitaskateboard?
+Readandlisten.Whathappensto thelastsoundin the
+Boy:Yes!You'reastar!OK,nowit'smyturn.
+firstwordinblue?
+• Tell pupils toopentheirPupil's Booksatpage50.Focuson
+PB50.ACTIVITY5
+Activity2.Tell pupilstheyaregoingtolistento thesounds.
+Pauseafterthefirstexample.AskHowmanywordsdidyouInpairs,playthegame.
+hear?(one).Howmanywordsarethere?(two).Elicitthe•Pupilstaketurnsaskingand answeringwithanewpartner.
+answerto thequestion.
+• Pupils listento therestof thedialogueand thencompare LEEAB50.Answerkey,seepageT103-104
+theirideasin pairs.Feedbackasawhole class.
+• Ask pupilswhichthreewordstheyalsohearasconnectedEnding the lesson
+speechin thedialogue(Inaminute).•Insmallgroups,pupilsplayIwentto theshopandIbought...
+Key:Itjoinsto thefirstsoundin thenextword.
+Digital ClassroomExtra Resources
+0Presentation Plus:Unit5IPractice Extra•Teacher Resources:Unit5,DownloadableActivity BookTeaching Notes
+• Teacher Resources:Unit5,DownloadableActivity BookAudioScript
+1))Audio43-45 •Video
+• AB94andPB94-95-Grammar reference5
+• T116-Consolidationactivity:Memorygame
+
+#### Page T52 (Pupil's Book p.52)
+
+Unit5Material things
+Pupil's Bookp.52
+Key:GiantTap-metal,water,TheBrugesWhale-plasticwaste,
+Objectives
+Puppy-metalpipes,plants
+To learnaboutdifferentsculptures,howtheywork,the
+🔊47
+ideasbehindthemandmaterialsused.
+AsinPupil's Book
+Target language
+• Additionallanguage:accurate,bear,bins,changing,
+PB52.ACTIVITY2
+completely,creative,hidden,floating,flow(v),frame,giant,
+growing,illusion,magical,magically,pipe,positive,puppy,Readagainandcompletethetable.
+recycledmaterials,sculptor,sculpture,tap,thoughtfully,•Focus pupils onActivity2and theexample.Pupils workin
+toiletseat,tree,waste,wonder
+pairstoreadagainandcompletethetable.Checkanswersas
+• Revision:environment,exhibition,flowers,huge,metal,aclass.
+museum,nature,ocean,plants,plastic,pollute,recycle,
+Key:2pipe,3surprise,4plastic,5waste,6polluting,7pipes, water,whale,It'smadeof...
+8frame,9plants,10growing,11changing
+Warmer
+ChoosedoesPureoachingritythecritento •Write thewordSculptureon the board.Elicitorexplaina
+definitionofasculpture.sculpturefrommemoryto theothermembersof theirgroup.
+• Ask pupilsWhatmaterialsareusedinasculpture?andaddRemindthemtoincludedetailsabout thematerialsused,the
+waythesculptureworksand themessagebehindtheart.
+theiranswerstoamindmaparoundthewordSculpture.
+Encouragethemtoincludeexamplesofrecyclablematerials.
+PB52.ACTIVITY3
+PB52.Howdothesculpturesmakeyoufeelandwhy?What
+Whatcanyoumakewithrecycledmaterials?othersculpturesdoyouknowabout?
+• Showpage52on the whiteboard andfocuspupils onthe•Focus pupils onActivity3and theexamplesentences.
+question.Givepupilstimetodiscussthequestiontogether.
+• Pupils workin groupsanddiscussthequestions.Feedback
+Elicitideasfrom theclass,butdon'tconfirmthematthisstage.feelingsandopinionsasawhole class.Encouragethemto
+• Play the•Videoforpupils towatchand answer.Pupilsshareinformationaboutanyothersculpturestheyknow.
+compareideasin pairs.Checktheanswerwith theclass.
+FINDOUTMORE
+Key:Sculptures
+• Point to theFINDOUTMOREboxandreadthequestion
+togetherwithpupils.Tellthemtheyaregoingtosearchfor
+theanswerto thequestiononline.Ask pupilswhichsearch
+VideoScriptscanbedownloadedfromTeacher Resourceson
+enginestheyuseandwhatkindofsearchtermstheycanput
+Cambridge One.
+intofindtheanswerto theFINDOUTMOREquestions.
+• Assignthis activityashomeworkandtellpupilstheywillshare
+PB52.ACTIVITY1
+theirfindingsin thenextclass.
+Listenandread.Whatmaterialsdotheyuse?•Ask pupils todoaninternetsearchathometofind outthe
+answerto thequestion.Remindthemtoaskanadultfor •Tell pupils toopentheirPupil's Booksatpage52.Explainthat
+theyaregoingtoreadthreereviewsaboutsculptures.Askpermissionfirst.
+whatareviewisandelicitresponses.
+AB52.Answerkey,seepageT104
+• Point to thefirstphoto(GiantTap).Ask pupilsHowdoesit
+'float'?Acceptallreasonableanswers. Ending the lesson
+• Point to thephotoof thewhale.Ask pupilsWhatisthis
+• Ask pupils tosaywhichistheirfavouritesculpturefrom the
+sculpturemadeof?Acceptallreasonableanswers.
+lessonandwhy.
+• Nowfocuspupils onthelastphotoandaskWhatisitmade
+of?Acceptallreasonableanswers.Thenaskpupils tolisten
+andreadthereviewstocheck.Play the🔊Audioforpupils to
+listenandread.Pupils checkanswersin pairs.Thenaskthem
+whato thermaterialssculpturescanbemadefrom.
+Digital ClassroomExtra Resources
+8]Presentation Plus:Unit5IPractice Extra•Teacher Resources:Unit5,Subjectworksheet
+(1)Audio47•Video•AB94andPB94-95-Grammar reference5
+• T116-Consolidationactivity:Definitions
+
+#### Scan Page 116 (Pupil's Book p.51)
+
+Unit5Material things
+Pupil's Bookp.51
+*>46
+Objectives
+All:Aagh!
+To readastoryandreviewlanguagefrom theunit. DiggoryBones:Holdmyarm,Emily!
+DiggoryBones:It'sthenightwhenthemoonmakesthesea
+Target language
+move.
+• Key language:materials,describingobjects,
+Emily:ThenightofSirius!
+connected speech
+BrutusGrabbe:Hereitis!Thisisthesecretmessage.Stand
+• Additionallanguage:palace,watchdog,Cleopatra
+up,Bones!Ineedyourhelp!
+• Revision:languagefrom theunit
+Emily:TheBaloneyStone!Youwerecarryingitinyourbag!
+DiggoryBones:Whatabout thewater?
+Warmer
+BrutusGrabbe:Theinsideofmybag'smadeofplastic.
+• Reviewthestorysofarwithpupils.Elicitiftheyremember
+whatSiriusisandwhat thedatewasin thelastepisode.
+EmpleteycoveredthepateofKings.OfcourselThewater
+Ask pupilswhattimeofdayitwas,wheretheheroeswereat
+BrutusGrabbe:...Andhertreasures.Therearebowlsmade
+theendof thestoryandwhatDiggoryshoutedtoEmilyand
+ofsilverandcupsmadeofgold.
+why.Elicittheiranswers.(Astarthatshowedthestartof the
+DiggoryBones:Theblackdogwatchesthesecretdoor.Push EgyptianNewYear.21July.Night.Inthesecretcave.'Runto
+thesleepingsnakenext toit.
+thelight.'Theywerewalkingnearavolcano.)
+BrutusGrabbe:Hereitis!
+StoryBrutusGrabbe:Gooddog!
+DiggoryBones:It'sdangeroustojokeaboutSirius,Brutus.
+ITPB51.ACTIVITY1He'sanexcellentwatchdog.
+Emily:Thosebowlsaremadeofglass!
+WherewasBrutuscarryingTheBaloneyStone?Which
+BrutusGrabbe:Idon'twantglass.Iwantgold! twomaterialsarethedifferentbowlsmadeof?
+DiggoryBones:Don'ttouchthat,Brutus!
+Showpupilsthefirstsceneof thestoryon the whiteboard.
+BrutusGrabbe:Aagh!
+Askiftheycanseeanyexamplesofconnected speechwhere
+thelastsoundofawordjoinsto thefirstsoundof thenext
+AB51.Answerkey,seepageT104
+word(myarm,itis,standup).
+• Setthequestions:WherewasBrutuscarryingTheBaloney Ending the lesson
+Stone?Whichtwomaterialsarethedifferentbowlsmadeof?
+• Ask pupilswhichrhyme/songthey'dliketodoagainfrom the
+• Play the•Videowithbooksclosed.Pupils watchtofindthe
+unit.Doittogethertoendthelesson.
+answers.
+• Tell pupils toopentheirPupil's Booksatpage51.Theycheck
+in pairswithbooksopen.Check with theclass.
+• Play the&Audio.Pupils listenandread.Pauseafter each
+frameforpupils torepeat.
+• Attheend,checkgeneralcomprehensionbyasking,e.g.
+Whatdoesthewritingonthewalltellthem?Howdothey
+knowthat?Howdoyouopenthesecretdoor?Whowatches
+overthedoor?What'sbehindthedoor?WhydoesDiggory
+tellBrutusnottotouchthetreasure,doyouthink?AskWhat
+canyouseein thetreasure(in thelastpicture)?
+Key:HewascarryingTheBaloneyStoneinhisbag.Thebowlsare
+madeofsilverandglass.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit5,DownloadableActivity BookTeaching Notes Presentation Plus:Unit5LPractice Extra
+)Audio46 •Teacher Resources:Unit5,Extensionworksheet2
+• Video
+• AB94andPB94-95-Grammar reference5
+• T116-Consolidationactivity:Adifferentending
+• T116-Extensionactivity:Whosaidit?
+751Material things|Unit5
+
+#### Scan Page 120 (Pupil's Book p.53)
+
+Unit5Material things
+Pupil's Bookp.53
+PB53.ACTIVITY2 Objectives
+ToidentifyadverbsinareviewofasculptureanddiscussUnderlinetheadverbsin thereviewinActivity1.
+asculptureandcomparematerialsused.•Focus pupils ontheexamplesentencesin theLearningto
+writeboxandelicitthat thewordsinboldareadverbs.Ask
+Target languageWhatdoadverbsdo?(describeaverb).
+• Additionallanguage:brightly,cardboard,cleverly,DIY•Tell pupils tofindandunderlinetheadverbsin thereviewin
+tools,domestic,flower,garage,garden,gardeningtools, Activity1.
+householdobjects,linked,paintpots,plantpot,skilfully, •Elicitanswersas a classandwritetheadverbson the board.
+tower,tyres,videocameraAskWhatdothewordshaveincommon?(-lyendings).Elicit
+• Revision:bike,completely,computerkeyboard,creative,furtherexamplesofadverbsthatendin-ly.
+exhibition,growing,magically,materials,plants,portrait,
+Key:brightly,cleverly,skilfully recycledmaterials,sculpture,sportsequipment,tap
+WarmerLEJPB53.ACTIVITY3
+• ShowtheFINDOUTMOREfeaturefrompage52onthe
+Inpairs,discussasculptureorstatuethatyoulike.
+whiteboard.Readoutthequestion.
+Comparethematerialsusedineachone.Writeyour
+• Inpairs,askpupils totalk aboutwhat theylearntfrom their
+internetsearch.Feedbackas a class.Ifpupilshaddifferentideasinyournotebook.
+answers,askthemtodiscussanddecidewhichsculptureis•Ask pupils tothinkofasculpturetheylike.Ask pupils towork
+thebiggest. in pairsandtaketurnstodescribetheirsculptures.
+• Askthemtocompletethetablein theirnotebooktomake
+DIDYOUKNOW...?notesabout thetwosculpturesand thematerialsused.
+• Showpage53on the whiteboard.Point to thephotoin the•Makesurebothpartnersmakenotesastheywillneedthem
+Didyouknow...?boxandelicitadescriptionof thesculpture.for theActivity BookReadytowriteactivityonpage52.
+• Askoneof thepupils toreadtheinformationoutloud.Ask
+AB53.Answerkey,seepageT104
+pupilsiftheyaresurprisedby thesizeofthissculpture.
+PB53.ACTIVITY1€PB53.
+Readthereview.Whatmessagedoestheartistwant PROJECT
+togive?•Teachingnotesfor theProjectcanbedownloadedfrom the
+Teacher ResourcesonCambridge One. •Focus pupils onthephotoin thereview.AskWhatarethe
+sculpturesmadeof?Wherecanyoufindtheobjectsusedin
+Ending the lesson
+thesculptures?
+• Focus pupils onActivity1andelicitideas.Givepupilstime•PlacethelabelsRed,BlueandGreenonseparatewallsin the
+classroom.Ask pupils toassemblein thecentreof theroom. toreadthereviewindividually.Putpupils intopairsorsmall
+groupstodiscuss.Elicitanswers.Calloutobjectsfrom thesculpturesinActivity1.Pupilsrun
+to thecorrectwallbasedonthecolourof thetowerthat the
+• AskWhichtoweristhewriter'sfavourite?Why?Find outif
+objectrelatesto. pupilsagree.
+• Extra challengePutpupils intogroups.Askthemtotake
+turnssayingwhichtowersculptureinActivity1istheirfavourite
+andwhy.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit5•Teacher Resources:Unit5,DownloadableActivity BookTeaching Notes Practice Extra
+• Teacher Resources:Unit5,DownloadableActivity BookAudioScript )Audio47
+• AB94andPB94-95-Grammar reference5
+ETestGenerator:Unit5Test;ReviewTest2
+• T116-Consolidationactivity:Sculpturesvocabulary
+153Material things|Unit5
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 106
+
+5
+Material things?thatcashopfind
+skews
+Shoot
+WhatdoesStellaputherteethin?Watchandcheck.
+Watchagain.Say'yes'or'no'.
+1Thesweetshopismadeofbrick.Yes.
+2Thechildrengotoapetshop.
+STUDY
+3Theeggsaremadeoffur.
+Theeggsaremadeofwhitechocolate.
+4Meerawantstobuysometoys.
+Thespiderisn'tmadeoffur.
+5Theteetharemadeofsugar.
+Whataretheymadeof?
+6Thesnakesaremadeofpaper.
+7Thespidersaremadeofrubber.
+8Stella'safraidofspiders.
+Read and choosetherightwords.
+1Thesweetshopismadeon/ofbrick.4Theeggsis/aremadeofwhitechocolate.
+2Theteethis/aremadeofsugar.5Thesnakeismadeofrubber/stone.
+3Thesmallblackspidersaremade/makeoffur.6ThespideronStella'sshoulderis/isn'treal.
+Ask and answer.
+1WhatdidyouthinkofMeeraandLenny'sjokewith thespider?
+2Lookaroundyourclassroom.Whatarethingsmadeof?
+46Language:describingobjects
+PB46Material things|Unit5
+
+#### Scan Page 109
+
+5
+Canyourememberthelastlesson?Watchthelanguage video.
+aWhat'stheschoolmadeof?Ithinkit'smadeofstone.
+Ask and answer.
+40Listen and check.1Isyournew schoolbag
+That's'c'. Yes,itis.
+madeofleather?
+Read and match.
+1Thisismyfavouritehat.Icanweariteverydaybecauseitchangeswith theweather.Whenit's
+raining,it'sgottwopiecesofplastictocovermyears.
+2Whenit'scold,aspecialscarf,whichismadeoffur,comesouttocovermyneck.
+3Whenit'ssunny,myhatprotectsmefrom thesun.I'vegotsomesunglassesmadeofspecial
+plastictoprotectmyeyes.
+4Thesearemyfavouriteshoes.Iwearthemat theweekend.Theyarepurple.
+5Idon'tneedtowearsockswithmynewshoes.Theykeepmecoolin thesummer.They'reblue.
+Look!
+6IfIjumpordroptheshoesonthefloor,theybounce.Theshoescanhelpmetojumpveryhigh-up
+totwometres!Thisisbecausetheyaremadeofaspecialrubbercalled'bounce-a-lot.I'mgoingto
+bounceto thepark.Goodbye.
+Readagainandcorrectthesentences.
+1Thehatchangeseveryday.4Theshoescanhelpherswim.
+2Whenit'sraining,it'sgottwopiecesof5Ifyoudroptheshoes,theydance.
+plastictocoverhiseyes.6Theshoesaremadeofwood.
+3Thesunglassesaremadeofspecialrocks.
+47
+Practice:describingobjects
+
+#### Scan Page 110
+
+Readtheblog.What'sthemostimportantmaterial?Why?
+ALLBLOGSMYBLOGNEWPOST
+Kid'sBox Materialscanbeman-madeornatural.
+Wemakeman-madematerialsinfactories.
+Reports
+Wegetnaturalmaterialsfromrocksin the
+ground,animalsorplants.Herearesome
+interestingthingsmadeofdifferentmaterials.
+Materials
+MosthousesareCardandpapercomefromtrees.
+madeofbricks,Cardisstrongerthanpaper.This
+stoneorwood,buttowerismadeofthincardand
+EdouardArsenaultthebridgeismadeofpaper.
+used12,000glass
+bottlestobuildthis
+amazinghouse.
+Goldandsilverarepreciousmetals.This
+carismadeof80kilogramsofgoldandSHAMPOO
+15kilogramsofsilver.Thetyresaren't
+madeofmetal,butyouhavetodriveit
+verycarefully!
+Lotsofthingsare
+madeofplastic.
+A'SMostanimalshavefur,Todayweuse
+butsheephavewool.plasticmorethan
+Weusewooltomakeanyothermaterial
+fabricforclothes.in theworld.We
+Wecanalsomakemustrecycleplastic.
+thingsathomefromRecycle'means
+wool.Look at theseuseitagainina
+beautifulcushions.differentform.This
+Thecoversaremadebottleofshampoo
+ofwool.ismadeofrecycled
+plastic.
+Readagainand answer.
+1Wheredowemakeman-madematerials?5Wheredocardandpapercomefrom?
+2Whataremosthousesmadeof?6Wheredoeswoolcomefrom?
+3HowmanyglassbottlesdidArsenaultuse7Whatarethecushioncoversmadeof?
+tobuildhishouse?8Whatdoes'recycle'mean?
+4Howmuchgoldisin thecar?
+Choosefivematerials.Tellyourpartneraboutthingsmadeof
+Mybookismade
+thesematerials.ofpaperandcard.
+48Vocabulary:materials
+PB48Material things|Unit5
+
+#### Scan Page 113
+
+5
+Read and choosetherightwords.
+1Paperandcardaremadeofwood/leather/metal.
+2Goldcomesfromanimals/theground/trees.
+3Woodcomesfrom theground/trees/flowers.
+4Furcomesfromtrees/sand/animals.
+5Glassismadeofleaves/sand/wood.
+6Woolcomesfromasheep/cow/bear.
+41-42Listenandorder.Listen and check.Thendokaraoke.
+fThisboxismadeofsilver, aThistable'smadeofwood,
+Andthatskirt'smadeofgrass.Thatwatchismadeofgold.
+Everything'smaterial,
+bFromrocks,plantsoranimals,
+Everythingwesee.
+Orfromafactory.
+cThisscarfismadeofwool,hBooksaremadeofpaper,
+Theircoversaremadeofcard. AndIwearitwhenit'scold.
+dThischairismadeofmetal,
+Thatbowlismadeofglass.
+eSomethingsaremadeofplastic,
+Whichcanbestrongandhard.
+Closeyourbook.Whatcanyou
+What'sthebowlmadeof?It'smadeofglass.
+rememberfrom thesong?
+Lookaroundyourclassroom.Findandwritetwothingsforeachmaterial.
+metalglassplastic woodpaper
+pencil
+Whatarethingsmadeofinyourclassroom?Write20-30words.
+49
+Practice:materials
+
+#### Scan Page 114
+
+Soundsandlife skills
+Talkingaboutdifferentideas
+Watchthevideo.Whichshopsdotheygoin?
+Pronunciationfocus
+43Readandlisten.Whathappensto the
+lastsoundin thefirstwordinblue?
+MEERA: Ooh-lookatthissweetshop!It'sfantastic!
+STELLA:Yeah,andit'sallmadeofbrick.
+LENNY:ComeonStella!
+STELLA:Inaminute!
+Listen and complete.Practisewith a partner.
+1Come4You'restar.
+2Look5I'vegot
+greatidea.
+3Look•this. 6aminute.
+Look at thegame.Listentoyoungpeopleplayingitandtick(r)thephrases
+theyuse.
+Theyes/nogame
+Isitbig?
+Isitlong?
+Isitmadeofwood?
+Isitmadeofpaper?
+asofttoycaratoycarIsitmadeofmetal?
+askateboardabicycle
+Hasitgotlegs?
+Hasitgotpages?
+Doyouuseittoplay?
+Doyouuseittolearn?
+atabletadrawingbookamagnifyingglassacup
+Waitaminute.You'reastar!Usefullanguage
+Comeon.
+Niceone!Lookatthis.Isitmadeof...?
+Hasitgot...?
+Doyouuseitto...?
+Inpairs,playthegame.
+50
+Soundsandlife skills:connected speechcommunication
+PB50Material things|Unit5
+
+#### Scan Page 117
+
+5
+-DiggoryBones
+It'sthenightwhen
+Aagh.themoonmakes
+theseamove.
+DRIP
+DRIP
+DRIP
+Holdmy ThenightofSirius!
+arm,Emily!КАПа ROARR
+edg
+Hereitis!ThisisN41215
+thesecretmessage.
+Standup,Bones!
+Ineedyourhelp!
+Cleopatra...the
+queenofKings.Of
+TheBaloneyStone!Youwerecourse!Thewater
+carryingitinyourbag!completelycovered
+herpalace.
+Whatabout
+thewater?
+...Andhertreasures.
+Tmadeofsilverand Therearebowls
+Theinsideofmybag's
+cupsmadeofgold.
+madeofplastic.
+RRRGood Theblackdog
+Hereitis!Thosebowlsare
+watchesthe
+dog! madeofglass!
+secretdoor.Push
+thesleeping
+snakenext toit.
+don'twantglass.
+Iwantgold!
+44л
+Don'ttouch
+that,Brutus!
+It'sdangeroustojoke
+aboutSirius,Brutus.He's
+Aagh!
+anexcellentwatchdog.
+WherewasBrutuscarryingTheBaloneyStone?Whichtwomaterialsarethe
+differentbowlsmadeof?
+Story:unitlanguageincontext51
+
+#### Scan Page 118
+
+Owhatcanyoumakewith
+recycledmaterials?
+Listenandread.Whatmaterialsdotheyuse?
+GiantTap,SwitzerlandTheBrugesPuppy,Spain
+Whale,BelgiumThishugedogsculpturesitsoutside
+Isawthisamazingsculpture
+amuseuminBilbao.It'svery
+inaparkinWinterthur.ItlooksThisgiantwhale
+ismadeofplasticspecialbecauseit'scompletely
+likeatapismagicallyhangingin
+coveredinplants-about38,000 theair,butit'sactuallyasimplewastefrom the
+PacificOceanflowersintotal!Metalpipesinside
+illusion.Waterfromunderthe
+ahiddenframesendwaterto the
+andwhenyou groundtravelsupapipe,which
+lookclosely,youcanseethat thereplantstokeepthemalive.
+holdsthegiantmetaltapin
+place.Wecan'tseeitbecausethearethousandsofplasticobjects,Ilovethat thesculptorusesnature
+frombinstotoiletseats!Twoartistsbecauseitshowsthatartisalways waterflowsoveritwhenitcomes
+out.createdthesculpturetoshowhowgrowingand
+muchwe'repollutingourworld.changing.The
+Everyonestops
+Didyouknowthere'smoreplasticinartistwantedto
+tolookatit
+ouroceansthanwhales!createsomething
+carefullytosee
+tomakepeople
+howitworks.ItLotsofartistsareworkingwith
+recycledmaterialsnow,whichishappy,and
+feelsmagical,
+Ithinkthis
+andthat'stheimportantbecauseitconnectsart
+sculpturereally with theworldaroundus.Ilove ideaofart-to
+doesthat. createsomethinghowcreativeandinterestingthis
+sculptureis. differentthat
+surprisesus.
+Readagainandcompletethetable.
+GiantTapTheBrugesWhalePuppy
+metal,(1)waterrecycled*)metal(7) Whatisit
+madeof? (8)
+WatertravelsupaTheartistscollectedWatertravelsthrough
+Howwasit
+andplastic(5).pipestokeepthe (2)
+made?
+flowsoutof thetap.from thePacificOcean.alive. (9).
+ItshowsthatartcanItgivesthemessagethatArtis(20).
+Whatisthe
+(3)we're(6).and(11).
+message?-US.
+ourworld.
+Howdothesculpturesmakeyoufeelandwhy?Whato thersculpturesdoyou
+knowabout?
+Thissculpturemakesmelaugh.-FINDOUTMORE-
+Whatisthebiggestsculpture
+Isawametalsculptureofabear
+in theworld?
+andatreein thecentreofMadrid.
+52Art:sculptures|Icreative thinking
+PB52Material things|Unit5
+
+#### Scan Page 121
+
+5
+Readthereview.WhatmessageDIDYOUKNOW...?
+doestheartistwanttogive?
+Atnearly55metrestalland25
+metreswide,thePortraitofDecebalus
+isthebiggestsculptureinEurope!
+<>CDomestictowers
+IsawsomeamazingsculpturesinGermanyTherearetyres,boxes,sportsequipment,
+lastweek.Theyare'Domestictowers'andakeyboard andavideocamera.There's
+Ilikedthembecausetheyareactuallythreeevenabikeat thetop!
+sculpturesinone.Ilovethewaytheartistskilfullylinkedall
+Therearethreetowerspaintedbrightlytheobjectstogether.Itshowswecanbe
+andeachoneiscleverlymadewithcreativebecausewecanmakesomething
+householdobjects.beautifulfromeverydayobjectsorrubbish.
+Thegreentowerismadeofrecycled
+objectsyoufindingardens,and there's
+aplantpotat thecentrewithaflower
+growinginit.Thebluetowerismadeof
+tools,paintpotsandotherthingsyou
+mightfindinyourgarage.
+Theredtowerismyfavouritebecause
+eachtimeIlookatit,Iseesomethingnew.
+Learningtowrite:
+Underlinetheadverbsin thereviewinActivity1.
+Adverbs
+Weuseadverbstodescribehowwe
+Inpairs,discussasculptureorstatuethat
+dosomething.
+youlike.Comparethematerialsusedin
+Itlookslikeatapismagically
+eachone.Writeyourideasinyournotebook.
+hangingin theair.
+It'scompletelycoveredinplants.
+SculptureMaterials
+Project
+Readytowrite:
+Makeordrawasculpture
+GotoActivity Bookpage52.
+outofrecycledmaterials.
+Art:sculptures|learningtolearn53
+
+## Unit 6: Senses
+
+### Teaching Notes
+
+#### Page T54 (Pupil's Book p.54)
+
+Unit6Senses
+Pupil's Bookp.54
+sentences.Givepupilsreadingtimebeforetheywatchthe
+Objectives•Videoagain.Play the•Video.
+Tonameanddescribesensations.•Pupils comparetheiranswers with a partner.Checkanswers
+with theclass.
+Target language
+• Key language:senses:hearing,sight,smell,taste,touch; Key:6,2,8,4,7,(1),5,3
+Whatdoesitlook/feel/taste/smell/soundlike?
+Itlooks/feels/tastes/smells/soundslike...Presentation
+• Revision:adjectives,materials,scienceclub •Writesentences8and1fromPupil's BookActivity2on
+theboard.
+Warmer•Askwhat theyaretalkingaboutinsentence8(atoyspider).
+• ElicitthedifferentwayswecanexperiencetheworldaroundElicittheresponseandifitisreallyananimal(no).Elicitwhy
+us(hear,see,smell,taste,touch/feel).Provideoneexample,Stellathinksit'sananimal(itfeelslikefur).Checktheconcept
+e.g.Wecanseeit.Pupilsgiveyouotherexamples.Tell pupilsoffeelslike.Forsentence1,askpupilsifitisreallyLenny's
+thethemeofUnit6isSensesandwriteiton the board.socks(no).Askthemwhatitis(cheese).
+• Brainstormthingstheyexperienceandcreateamindmapon•Play theVideofromActivity1again.Whenpupilshear
+feels/tastes/smells/soundslike,theyputtheirhandsup.Pause theboard.Pupils copythemindmapinto theirnotebooks.
+the>Videoandelicitwhatwassaid(questionand/oranswer).
+BEPB54.Attheend,elicit thestoryinsummaryfrompupils.
+• Focus pupils ontheSTUDYboxandreadtheexamples
+Whatarethefivesenses?
+together.
+• Showpage54on the whiteboard andaskpupils tofocusonthe
+Q.Extra challengeAsk pupils tothinkofthingstoaddtoboxes
+photo.Elicitthenamesof thecharactersandwheretheyare.
+thatmightconfuseotherpupils,e.g.spaghetti-worms,
+• Ask pupilswhat thefivesensesare.Providethewordsin
+grapes-eyeballs.
+English(seeKey).Whentheyfeedback,addthesensesnext
+to thedifferentexperiencesonthemindmap.Ask pupils
+whichof thefivesensestheythinkisthemostimportant.AskLEPB54.ACTIVITY3
+pupils totellyoutheiranswersandreasons.
+Read and orderthewords.
+Key:hearing,sight,smell,taste,touch•Pupils completetheactivityin pairs.Pairscheck withpairs.
+Check with theclass.Forthequestions,elicitpossible
+answers.
+PB54.ACTIVITY1
+Key:1Mycarsoundslikealorry.2Hisjacketfeelslikefur.
+Whatdotheywanttomakefor theirnextblogpost?
+3Whatdoesthatsouptastelike?4Whodoesourmotherlooklike?
+Watchandcheck.
+• Tell pupils toopentheirPupil's Booksatpage54.Focus pupils
+PB54.ACTIVITY4
+onActivity1.Elicitsomeideas,butdon'tconfirmthemat
+thisstage.Ask and answer.
+• Play the•Video.Pupils watchandcheck.Elicittheanswer.
+• Focus pupils onActivity4.Ask pupils todiscussthequestions
+in pairsand thencomparetheiranswers withanotherpair.Ask
+Key:Theywanttomaketheperfectpizza.
+individualpupils totellyoutheiranswers.
+AB54.Answerkey,seepageT104
+VideoScriptscanbedownloadedfromTeacher Resourceson
+Cambridge One.
+Ending the lesson
+• Tell pupils toputtheirheadsdownon theirdesksandclose
+PB54.ACTIVITY2
+theireyes.Makesomedifferentsounds,e.g.scrunchupsome
+Watchagain.Order.paperorwriteon the board.Thenaskpupilswhat thenoises
+soundedlike. •Focus pupils ontheActivity2instructionsandonthe
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit6,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit6LPractice Extra
+• Teacher Resources:Unit6,Reinforcementworksheet1
+Video
+• Teacher Resources:Unit6,Photocopiable6
+• AB94andPB94-95-Grammar reference6
+• T116-Consolidationactivity:Feeliebag
+
+#### Page T56 (Pupil's Book p.56)
+
+Unit6Senses
+Pupil's Bookp.56
+Key:1Beforetheystarted,theywashedtheirhands.2Pizzabase
+Objectives
+ismadeofdough.3Theyputsomeflour,yeast,saltandwaterinto
+To readabouthowtomakepizzaandfollowarecipe.abowl.4Theyputsomeblackpepperontopof thepizza.5They
+cookedthepizzain theovenfor15minutes.6Theplatesarevery
+Target languagebigand they'remadeofwood.7Mariousedaknifetocutthepizza.
+8Theymixedthesaladwithaspoonandfork.
+• Key language:flour,salt,pepper,knife,fork,spoon,plate,
+salami,sausage,onion,looksgood,delicious,yeast,mix,
+dough,base,olives,oven,ingredient
+PB56.ACTIVITY3
+• Revision:food
+Talk aboutyourfavouritemeal.Tellyourpartner
+Warmerwhichingredientsyouneed.
+• Describeapizzaforpupils toguess,e.g.I'mthinkingofsome•Focus pupils ontheActivity3instructionsand theexample.
+Ask pupils todiscussthequestionin pairsand thenfeedback food.Itsmellsyummywhenit'scooking.Youusuallyeatit
+toanotherpair.Askindividualpupils totelltheclassabout
+withyourfingers.Itlookslikeaflatplateoracircle.
+theirpartner'sfavouritemeal. •Askiftheylikepizzaandifanyof themhaveoramadecirclepizzaeatatt
+home.Tellthemthey'regoingtolearnhowtodoit.Pre- QExtra challengeShowsomeunusualorinterestingdishes(use
+teachrecipe. recipesfrom theinternet)on the whiteboard andaskpupils to
+workin pairstoguesstheingredients.Pairscheck withanother
+Presentation
+pairand thencheckasawhole class.
+PB56.ACTIVITY1BElAB56.Answerkey,seepageT104
+Readtheblog.Whatingredientswouldyouputon
+Ending the lesson
+yourpizza?
+• Withbooksclosed,elicit theingredientsMariousedtomake
+• Showpage56on the whiteboard.Tell pupils toopentheir
+hispizzaat thebeginningof thelesson.
+Pupil's Booksatpage56.FocusthemonActivity1andon
+• FortheConsolidationactivityin thefollowinglesson,tell
+theactivityinstructions.Askapupiltoreadthemaloud.
+pupils tobringtheirfavouriterecipe(inL1)to thenextlesson.
+Checkunderstandingandsupplythewordsolives,oven
+anddelicious.
+• Focus pupils onthetextandelicitthatit'sablog.Readthe
+introductionfirstwith theclass.
+• Thenpupilsreadthetextssilentlyandthinkabout their
+answersto thequestion.Elicittheingredientsmentionedin
+thetextanddiscusswhatpupils'favouriteoneswouldbe.
+Supplyotherfoodwordsifnecessary.
+PB56.ACTIVITY2
+Readagainandcorrectthesentences.
+• Focus pupils ontheActivity2instructionandonthe
+sentences.Checktheyknowwhattodo.Theycoverthetext
+firstwithpaperandtrytocorrectthesentenceswithout
+lookingat thetext.
+• Theycheckin pairs.Thentheylookat thetextandcheck their
+ideas.Check with theclass.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit6,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit6LPractice Extra
+• Teacher Resources:Unit6,Reinforcementworksheet2andExtension
+worksheet2
+• AB94andPB94-95-Grammar reference6
+• T117-Consolidationactivity:Myfavouritepizza
+• T117-Extensionactivity:Pizzaroleplay
+
+#### Page T58 (Pupil's Book p.58)
+
+Unit6Senses
+Pupil's Bookp.58
+*52
+Objectives
+AsinPupil's Book
+Toraiseawarenessthatsomewordsinsentencesare
+PB58.ACTIVITY3
+stressedmorethanothersandcarrymeaning.
+Target languageListenandunderlinethestressedwords.Howisthe
+meaningdifferent?
+• Key language:It'sverysoft,Itfeelslikefur,It'smytoy
+spider•Focus pupils onActivity3.Listentoeachsentenceandcheck
+answers.Elicithowthemeaningchangesforeachsentence
+• Additionallanguage:birds,light,shower,toast,toothpaste
+dependingonwhichwordisstressed.
+• Revision:Itlooks/smells/sounds/tastes/feelslike...
+• Askthewhole classrepeateachsentenceasafundrill.
+WarmerKey:1Thisonehere.2It'smine.3It'satoy-notarealspider.
+4Ihaveothertoystoothatarenotspiders.
+• Readtheshortrhymingpoem.Ask pupils tolisten.
+There'sathinginabox )53
+Thatcouldbeafox.
+1Thisismytoyspider.2Thisismytoyspider.
+Butit'sjustapairofoldsocks!
+3Thisismytoyspider.4Thisismytoyspider.
+• Checkwordspupilsremember.Thenpupilspractiserepeating.
+Presentation EEPB58.ACTIVITY4
+Completethesensespoemwith thewordsin thebox.
+PB58.ACTIVITY1
+Listen and check.
+Watchthevideo.Whatdotheytouch,hear,smell
+• Focus pupils onActivity4.Ask pupils toreadthepoemand
+andtaste?
+guesswhat themissingwordsare.Pupils compareanswers
+• Showpage58on the whiteboard.Focus pupils onthephoto.with a partnerandcompletethesentences.Play the🔊Audio
+Tell pupilstheyaregoingtowatchaVideo.Focus pupils on forpupils tolistenandcheck.
+Activity1and thequestion.
+• Play the1)Audioonemoretimetofocusonsentence stress.
+• Showthe•Video.Pupils compareanswersandfeedbackasAskpairstoreadthepoemfocusingonsentence stress.
+awhole class.
+Key:light,birds,toast,shower,toothpaste
+Key:touch=toyspider,hear=loudmusic,smell=strongblue
+cheese,taste=pizza"54
+AsinPupil's BookandKey
+VideoScriptscanbedownloadedfromTeacher Resourceson
+PB58.ACTIVITY5
+Cambridge One.
+Inpairs,writeasensespoemaboutaseason,timeof
+Pronunciationfocus
+year,timeofdayorafavouriteplace.
+PB58.ACTIVITY2•Tell pupilstheyaregoingtowriteasensespoem.Write the
+sentencestemsof themorningpoeminActivity4andelicit
+Listenandunderlinethestressedwords. alternativeendings,e.g.Itlookslikeabadstorm./Itsounds
+• Focus pupils onthedialogueinActivity2.Play thefirstlinelikemyalarmclock.
+of the🔊Audioasanexample.Elicitsuggestionsandcheck•Pairswritetheirpoemandpractisesayingit.
+understanding.
+AB58.Answerkey,seepageT104-T105 •Play therestof the🔊)Audioforpupils tounderlinethe
+stressedwords.Ask pupils tonoticewhattypeofwords
+Ending the lesson
+arestressed.
+• Askvolunteerpairstoreadouttheirpoems.
+Key:Stella,hand,box,What,feel,verysoft,feels,fur,animal,No,
+Stella,toyspider
+Digital ClassroomExtra Resources
+Practice Extra•Teacher Resources:Unit6,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit6
+• Teacher Resources:Unit6,DownloadableActivity BookAudioScript
+1)Audio52-54Video
+• AB94andPB94-95-Grammar reference6
+• T117-Extensionactivity:Writingtogether
+
+#### Page T59 (Pupil's Book p.59)
+
+Unit6Senses
+Pupil's Bookp.59
+Objectives
+Emily:What'sthat?Itsoundslikeananimal.
+To readastoryandreviewlanguagefrom theunit. BrutusGrabbe:Itfeelslikeaspider.
+DiggoryBones:Itlookslikelotsofspiders.
+Target language
+BrutusGrabbe:Ihatespiders!
+• Key language:languagein thestory,trap
+DiggoryBones:Mostinteresting.A'snakebowl'...a
+• Revision:languagefrom theunit,characternames,
+dangerousancienttrap.
+imperatives
+Emily:Thespidersareonlythefood,MrGrabbe.Look
+behindyou!
+Warmer
+DiggoryBones:Asnake!
+• Makegroupsoffour.Withbooksclosed,pupilsrecapthe
+BrutusGrabbe:Aagh!
+storysofar.Elicitasentencefromeachgroupoffourin
+chronologicalorder.IftheygivetoolittleinformationatanyBrutusGrabbe:Thesnake'sawake!
+BrutusGrabbe:Pleasehelpmeoutofhere! time,say,e.g.Butwhathappenedbeforethat?Howdidthey
+getthere?DiggoryBones:OK,Icanusemybelttogetyouout.
+BrutusGrabbe:Givemethebelt!
+StoryDiggoryBones:Holdonto theendofit.
+DiggoryBones:I'vegotwhatIcamefor.
+|PB59.ACTIVITY1 Emily:Let'sgo.There'sthedoor!
+What'sasnakebowl?WhatdoesDiggoryusetogetBrutusGrabbe:Thedogisthedoor,isn'tit,Bones?
+Brutusout?BrutusGrabbe:Nowyou'regoinginto thesnakebowl.
+• Showpupilsthefirstsceneof thestoryon the whiteboard.Emily:Aagh!
+AskDoesBrutusfeelpleased?(No,hedoesn't.)HowdoesDiggoryBones:Emily!
+Brutusfeel?(frightened/scared/afraid). BrutusGrabbe:Aagh!
+• Setthequestions:What'sasnakebowl?WhatdoesDiggory
+AB59.Answerkey,seepageT105 usetogetBrutusout?
+• Play the•Videowithbooksclosed.Pupils watchtofindthe
+Ending the lesson
+answers.
+• Ask pupilswhichrhyme/songthey'dliketodoagainfrom the •Tell pupils toopentheirPupil's Booksatpage59.Theycheck
+unit.Doittogethertoendthelesson.
+in pairswithbooksopen.Check with theclass.
+• Play the•Videoagain.Pupils listenandread.Pauseafter
+eachframeforpupils torepeat.
+• Attheend,checkgeneralcomprehensionbyaskingmore
+questions,e.g.WhatdoesDiggoryusehisbeltfor?What'sthe
+dog?Attheend,whofallsinto thesnakebowlfirst?Howdo
+youthinkEmilyfelt?(afraid/scared/angry)Howdoyouthink
+Diggoryfelt?(angry/worried)HowdoyouthinkBrutusfelt?
+(pleased/happy).
+• Play the🔊")Audio.Pupils listenandread.Pauseafter each
+frameforpupils torepeat.Attheend,checkgeneral
+comprehensionbyasking,e.g.Whatdoyouthinkatrapis?
+Whatwokethesnakeup?WhydidBrutuswanttogetoutof
+thesnakebowl?Whydidtheyfallinto thesnakebowlat the
+endof theepisode?
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit6,DownloadableActivity BookTeaching Notes Presentation Plus:Unit6Practice Extra
+• AB94andPB94-95-Grammar reference6 (Audio55Video
+• T117-Consolidationactivity:Roleplay
+• T117-Extensionactivity:Feeliebag
+T59Senses|Unit6
+
+#### Page T60 (Pupil's Book p.60)
+
+Unit6Senses
+Pupil's Bookp.60
+PB60.ACTIVITY2 Objectives
+To learnabouthowsoundstravelanddiscusssoundstheyReadagainandchoosethecorrectwords.
+likeanddislike.•Focus pupils onActivity2.Ask pupils toreadthesentences.
+Pointoutthemissingwords.
+Target language
+• Tell pupils toreadthetextagaintofindthecorrectwordsto
+• Additionallanguage:bell,blow,carhorn,hit,ring,shake,completethesentences.
+sound,soundwaves,stronger,vibrate
+• Pupilsdotheactivityand thencheck theiranswersin pairs.
+• Revision:air,create,cry,ears,erupt,further,loud,slowly,
+Key:1b,2a,3a,4a,5a,6a space,tiny,travel,volcano,water,whales,wind
+WarmerEEPB60.ACTIVITY3
+• Ask pupils tostandinacircle.Tellthemtheyaregoingto
+Closeyoureyesandlisten.Whatcanyouhear?What
+makeashort,sharpsoundandpassitaroundthecircle(e.g.
+clapof thehands,squeak,footstamp).Thefirstpupilinsoundsdoyoulikeanddislike?
+thegamepointsto thepersonnext to themandmakesthe•AskWhatcanyouhear?Asyouaskthequestion,makesome
+sound.Thatpersonthenpointsto thenextpupilandmakes noises,suchaspullingyourchairoutorplacingbooksonthe
+thesound.Pupilspassthesoundaroundthecircleand thendesk.Getfeedbackfromoneortwopupils.
+acrossthecircle.Encouragepupils topassthesoundquickly.•Tell pupils tobeveryquiet.Don'tsayanythingfor30seconds.
+Thenaskpupils tothinkaboutwhat theyheardbutnotto
+Presentationtellyou.
+• Pupils workin pairsandsitquietlyforaminutelongerand
+PB60.closetheireyes.Focusonanysoundstheycanhear,quiet
+Howdowemakenoises?orloud.Pupils discusswhat theyheardin theirpairsbefore
+elicitingexamplesas a class.
+• Showpage60on the whiteboard andfocuspupils onthe
+• AskWhatsoundsdidyouhearbecausetheclasswassilent? question.Givepupilstimetodiscussthequestiontogether.
+Whatsoundscanyoustillhear?Areanyof thesounds
+Elicitideasfrom theclass,butdon'tconfirmthemat
+constant?Wereanyof thesoundslouderbecauseyouwere thisstage.
+concentratingonthem?Discussideaswith theclass.
+• Play the•Videoforpupils towatchand answer.Pupils
+compareideasin pairs.Checktheanswerwith theclass.Q:Extra supportWritespecificwordson the boardthatrepresent
+sounds,e.g.bang,ring.Inpairs,pupilsmakethesounds.
+VideoScriptscanbedownloadedfromTeacher Resourceson
+FINDOUTMORE
+Cambridge One.
+• Point to theFINDOUTMOREboxandreadthequestion
+togetherwithpupils.Tellthemtheyaregoingtosearchfor
+PB60.ACTIVITY1
+theanswerto thequestiononline.
+Listenandread.Whatcreatessound?•Assignthis activityashomeworkandtellpupilstheywillshare
+• Tell pupils toopentheirPupil's Booksatpage60.Tellthemtheirfindingsin thenextclass.
+theyaregoingtoreadabouthowsoundsaremade. •Ask pupils todoaninternetsearchathometofind outthe
+• Point to thephotosin thetextandelicitbell.Askwhatsounds answerto thequestion.Remindthemtoaskanadultfor
+bigandsmallbellsmake.permissionfirst.
+• Ask pupils tolistenandread,and thenaskthemforideas.
+AB60.Answerkey,seepageT105
+• Dividetheclassintopairsorsmallgroupstodiscussthe
+questionin therubric.Pupils workin pairsandcompareideas.
+Ending the lesson
+Checkanswers with theclass.
+• Ask pupils toclosetheirbooks.Putthemintopairstoexplain
+Key:soundwaves/vibrationshowsoundsarecreatedthroughvibrationsandhowwe
+hearsounds.
+1)56
+IAsinPupil's Book
+Digital ClassroomExtra Resources
+Presentation Plus:Unit6IPractice Extra•Teacher Resources:Unit6,Subjectworksheet
+(1)Audio56•Video•AB94andPB94-95-Grammar reference6
+• T117-Consolidationactivity:Soundsandwords
+
+#### Page T61 (Pupil's Book p.61)
+
+Unit6Senses
+Pupil's Bookp.61
+PB61.ACTIVITY2 Objectives
+ToidentifysoundwordsanddescribehowcertainsoundsUnderlinethesoundwordsin thepoeminActivity1.
+makethemfeelandwhytheyloveorhatethem.•Focus pupils onActivity2and theLearningtowritebox.Aska
+pupiltoreadthesentencesin theboxaloud.Drillthewordsin
+Target languageboldas a class.
+• Additionallanguage:cuddle,clatter,cosy,ding-dong,•AskWhatarethesewordsexamplesof?(Theyareallsound
+doorbell,meow,ready,stressed,tap(v),visitor words-wordsthatsoundlikethesoundtheyname.)
+• Revision:bell,carhorn,cry,dinner,fun,happy,kitchen, •Point to thefirstlineof thepoemandelicitwhichwordisa
+rain,ring,safe,shake,tiny,windowsoundword(meowing).Havepupilsmimicacatmeowing.
+AskDoesthesoundfittheword?
+Warmer•Ask pupils tounderlinetherestof theexamplesin thepoem.
+• ShowtheFINDOUTMOREfeaturefrompage60onthe
+0.Extra challengePutpupils in pairs.Askthemtobrainstorm
+whiteboard.Readoutthequestion.
+objectsthatmakethesameorsimilarsoundstothosementioned
+• Inpairs,askpupils totalk aboutwhat theylearntfrom theirin thepoem,e.g.clatter-aplastictoyfallingdownthestairs,a
+internetsearch.Feedbackas a class. metaldoorshutterbeingclosed.
+DIDYOUKNOW...?
+PB61.ACTIVITY3
+• Ask pupilswhat theythinktheloudestmusicalinstrumentin
+Inpairs,brainstormsoundsthatyouloveandsounds
+theworldis.Elicitideas.AskWhereistheinstrument?
+• Showpage61on the whiteboard.Point to thephotoof thethatyouhate.Explainwhy.Completethetableinyour
+organpipesandelicitadescriptionofit.notebook.
+• Askoneof thepupils toreadtheinformationoutloud.Ask •Elicitfrompupilstwoorthreeexamplesofsoundsthat
+pupilsiftheyaresurprisedby thesizeand thenumberofpipes.theylove.Encouragepupils toexplainwhy.Thenelicita
+fewexamplesofsoundsthatpupilshateandaskthemto
+Presentationexplainwhy.
+• Point to thetablein thebookandaskpupils tocopyitinto
+PB61.ACTIVITY1
+theirnotebooksandwritelistsofsounds.Makesureeach
+Readandlistento thepoem.Whichsounddoesn'tthepupilmakesnotesastheywillneedthemfor theActivity Book
+Readytowriteactivityonpage60. writerlike?
+• Putpupils in pairstobrainstormdifferentsounds.Pupilsthen
+• Ask pupils toopentheirPupil's Booksatpage61.Point to the
+comparetheirideasin groups.
+poemandaskWhichwordsaresounds?Elicitsomeideas(e.g.
+meowing).Tell pupilstheywilllookatthisin thenextactivity.
+AB61.Answerkey,seepageT105
+• Focus pupils onActivity1.Givepupilstimetoreadthepoem
+individually.Putpupils intopairsorsmallgroupstodiscuss.
+Elicitanswers. 1PB61.
+Key:carszooming•PROJECT
+• Teachingnotesfor theProjectcanbedownloadedfrom the
+(*)57
+Teacher ResourcesonCambridge One.
+• AsinPupil's Book
+Ending the lesson
+• Havepupilsdiscussthesoundsfrom thelessonandsaywhich
+onestheylikethemostandwhichonestheydislike.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit6•Teacher Resources:Unit6,DownloadableActivity BookTeaching Notes
+Practice Extra
+• AB94andPB94-95-Grammar reference6 ))Audio57Video
+• T117-Consolidationactivity:Soundvocabulary
+TestGenerator:Unit6Test
+T61Senses|Units6
+
+#### Scan Page 124 (Pupil's Book p.55)
+
+Unit6Senses
+Pupil's Bookp.55
+• Focus pupils onActivity3andaskapupiltoreadthe
+Objectives
+instructions.Focusoneachstepandcheck theyknowwhat
+Tohavefurtherpracticedescribingsensationsandwhattodo.
+thingslook,feel,taste,smellandsoundlike.•Brainstormideaswith theclassfor thefirstbulletpointand
+helpwith theEnglishwordsifnecessary.
+Target language
+• Pupilssecretlywritetheirideasandgiveyouthepiecesof
+• Key language:thefivesenses,Whatdoesitsound/lookpaper.Puttheminalargeenvelope.
+like?Itfeels/looks/sounds+adjective,furry
+• Maketwoteams.Apupilfromoneteamtakesapieceof
+• Revision:foodanddrink,thebody,adjectives
+paperfrom theenvelope,looksat thewordonitandmakes
+asoundtodescribeit.Theotherteamlistensandguesses
+Materials
+what thesoundcomesfrom.Onlyoneteammemberanswers.
+• Smallpiecesofpaperorcard(fiveeach)forpupils towriteon Repeatfor theotherteam.Awardonepointforacorrect
+guessandonefor thecorrectsound.
+Warmer
+• Puttheclassintosmallergroups.Theyplaythegameagainin
+• Elicitsomeof thenicethingspupilswrotefor theirmindmapstheirgroup.
+in theprevious lesson.Coverallfivesenses.
+0Extra supportPreparesomeextrawordsforpupilswhoneed
+moretimetocomeupwithideas.Addthemto theenvelopeso
+PB55.ACTIVITY1 thereareenoughcardsforall thepupils.
+Canyourememberthelastlesson?Watchthe
+language video.IPB55.ACTIVITY4
+• Showpage55on the whiteboard.Ask pupils towatchand Ask and answer.Whatdoesitlooklike?
+completetheactivityin theVideo.
+• Focus pupils ontheActivity4photos.Usethespeechbubble
+• Play the>Video.
+promptstotalkmoreabout thefirstpicture.
+• Pupils playthegamein pairs,takingturnstoaskand answer
+VideoScriptscanbedownloadedfromTeacher Resourcesonabout thepictures(theydon'thavetodiscusstheminorder).
+Cambridge One.•Check with theclass,usingopenpairs.Encouragethemto
+giveavarietyofanswersforeachone.
+PB55.ACTIVITY2
+Key:1acat'snose,2aflower,3ahairbrush,4acomputerkeyboard,
+5anumbrella,6atelescope,7awatch/clock,8amobilephone Listen.Whatdoesitsoundlike?
+• Tell pupils toopentheirPupil's Booksatpage55.Focusthem
+ontheActivity2pictureandelicitsomeof thethingstheycanEPB55.ACTIVITY5
+see.Askapupiltoreadtheactivityinstructionsaloud.
+Ask and answer.Whatdoesitfeellike?
+• Play thefirstoneasanexampleandaskanotherpupiltoread
+• Focus pupils ontheActivity5instructionsandremindthem thespeechbubbleresponse.Checkpupilsunderstandwhatto
+of theFeeliebaggameifyoudiditin theprevious lesson.
+do.Play the1)Audio.Pupilssaytheanswersquietlyin pairs.
+ElicitItfeels(soft/hairy/furry/cold).Sayhair-hairy,fur-furry.
+• Play the🔊Audioagain.Check with theclass,e.g.Itsounds
+• Pupilscontinuetalkingabout thephotosfromActivity4.
+likerain/someone'splayingtennis.
+AB55.Answerkey,seepageT104 Key:Itsoundslike...1acar,2acat,3atrain,4alion,5someone's
+playingtennis,6adoor,7someone'splayingbasketball,8rain
+Ending the lesson
+('48
+• Pupilsstandup.Saythedifferentsensesquicklyoneafter
+AsinKeyanother,repeatingsomeandsayingeachonemorethan
+once.Whenpupilshearthesense,e.g.touch,theypoint to
+Presentation
+orwiggletheirfingertips,andsoon.
+PB55.ACTIVITY3
+Play the game.Whatdoesitsoundlike?
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit6,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit6LPractice Extra
+• Teacher Resources:Unit6,Extensionworksheet1 1)Audio48Video
+• AB94andPB94-95-Grammar reference6
+• T116-Consolidationactivity:Whatthingslookedlike
+• T117-Extensionactivity:Riddles
+755Senses|Unit6
+
+#### Scan Page 128 (Pupil's Book p.57)
+
+Unit6Senses
+Pupil's Bookp.57
+• Play the)Audio.Pupils writethewords.Theycheckin pairs.
+Objectives
+Play the1)Audioagain.Check with theclassbyelicitingthe
+Tohavemorepracticefollowingarecipeandsingasong.wordand thenthespelling.
+0Extra supportAtthecheckingstage,writethewordsonthe Target language
+boardsopupilscancomparewithwhat theyhavewritten.
+• Key language:topping,ingredients,mix,imperatives
+• Revision:food,comparatives,languagefrompreviousKey:2fork,3flour,4pizza,5salt,6pepper,7knife,8spoon,
+lesson
+9olives,10oven
+Warmer
+1p-l-a-t-e,2f-o-r-k,3f-l-o-u-r,4p-i-z-z-a,5s-a-l-t,
+• Writelotsofdifferentingredientson the board(theonesfor
+6p-e-p-p-e-r,7k-n-i-f-e,8s-p-o-o-n,9o-l-i-v-e-s,10o-v-e-n
+pizzaandotherstoo,e.g.milk,eggs,chocolate,potatoes).
+ElicitfrompupilswhichonesMariousedforhispizzarecipe.
+PB57.ACTIVITY3
+SongRead and complete.Write therecipeinyournotebook.
+• Focus pupils onActivity3andelicitthatthisisarecipefor
+PB57.ACTIVITY1
+makingbread.Tellthemit'snotbreadfromapacket,but
+Read and match.Listen and check.Thendokaraoke. bread'fromscratch'.Elicitwhat thepicturedingredientsare
+(flour,water,oliveoil,sugar,olives,cheese,salt).Givethema •Tell pupils toopentheirPupil's Booksatpage57.Showthe
+pageon the whiteboard.Focusthemonthepictures,ratherhintaboutcompletingtherecipe:Youneedtowritewordsin
+theinstructionsfor thepicturesin theingredients. thanonthelyricsof thesong.ElicitthatthisisMariowhothey
+• Pupils workindividually.Theyreadthestepsof therecipe readaboutin theprevious lesson.Focus pupils ontheactivity
+instructionsandcheckunderstanding.andwritewordsinpenciltoreplacethepictures.Theycheck/
+discusstheiranswersin pairs.Check with theclass,discussing •Play the🔊)Audio.Pupils matchthepictureswith thetext.
+eachstepinturntomakesuretheyunderstand theprocess. Theycheckin pairs.Check with theclass.ElicitwhatMario
+lookslikeandwhatheisdoingineachpicture.Play the
+)Audioagain,linebylineandversebyverse,forpupilsLEEPB57.ACTIVITY4
+Thinkaboutyourfavouritemeal.Writeashoppinglist
+• Whenpupilsareconfidentwith thesong,theyaddmimesto
+theverseaccordingto thepictures.Makefivegroups.Groupsof theingredients.
+taketurnstosingaverseandmime.Pupilsswapgroupsand•Focus pupils onActivity4andaskthemtowritethethings
+repeat.Play thefirstversionontheVideoand thenthetheyneedtobuytomaketheirfavouritemeal.Pupils compare
+karaokeversion.theiranswers with a partner.
+• Extra challengePupilstelltheirpartnerwhat theyaregoingto Key:(e),a,b,d,c
+buyand thepartnerguesseswhat theirfavouritemealis.
+)49"🔊)50
+AsinPupil's BookKaraokeVersionLEAB57.Answerkey,seepageT104
+Ending the lesson
+EPB57.ACTIVITY2
+• Singthesongfrom thebeginningof thelessonwith theclass
+Listen and writethewords. again.Thistime,everyonemimesasgroupstaketurnstosing
+theirverse. •Focus pupils ontheActivity2instructionandcheck they
+realisethisisadictation.Theygetreadywithnotebooks
+andpencils.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit6•Teacher Resources:Unit6,DownloadableActivity BookTeaching Notes
+LiPractice Extra
+• Teacher Resources:Unit6,Songworksheet )Audio49-51•Video
+• AB94andPB94-95-Grammar reference6
+• T117-Consolidationactivity:Myfavouriterecipe
+• T117-Extensionactivity:Recipewordmaps
+157Senses|Unit6
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 122
+
+6Whatarethe Senses
+fivesenses?
+Whatdotheywanttomakefor theirnextblogpost?Watchandcheck.
+Watchagain.Order.
+1ItsmellslikeLenny'ssocks.STUDY
+Whatdoesitlook/feel/ 2Whatdoesitfeellike?
+taste/smell/soundlike?
+3Ittasteslikepineapple.
+Itlooks/feels/tastes/
+4.Itsoundslikesomeone'sfallingdownthestairs.
+smells/soundslikecoffee.
+5Whatdoesthistastelike,Lenny?
+6Inthisweek'sscienceclubwe'regoingtolookat thefivesenses.
+7Whatdoesthissmelllike,Stella?
+8It'sverysoft.Itfeelslikefur.
+Read and orderthewords.
+1a/lorry./sounds/My/car/like3does/taste/What/like?/that/soup
+2feels/like/His/jacket/fur.4our/mother/look/Who/like?/does
+Ask and answer.
+1Howdidthekidsexploretheirsenses?2Talk aboutyourfamily.Whodoyoulooklike?
+Whichwasyourfavourite?
+54
+Language:describingsensations
+PB54Senses|Unit6
+
+#### Scan Page 125
+
+6
+Canyourememberthelastlesson?Watchthelanguage video.
+48Listen.Whatdoesitsoundlike?1.Itsoundslikeacar.
+Play the game.Whatdoesitsoundlike?
+Thinkoffivethingswhichmakedifferentsounds.•Play the gamewith theclass.
+Write thewordsonfivesmallpiecesofpaper. •Makethesoundsandguess.
+Giveyourpiecesofpapertoyourteacher.•Nowplaythegamein groups.
+Ticktockticktock.Itsoundslikeaclock.
+Ask and answer.Whatdoesitlooklike?
+Whatdoyouthinknumber1lookslike?Ithinkitlookslikeacat'snose.SodoI.
+Ask and answer.Whatdoesitfeellike?
+Whatdoesnumber1feellike?Itfeelssoftandfurry.
+Practice:describingsensations55
+
+#### Scan Page 126
+
+Readtheblog.Whatingredientswouldyouputonyourpizza?
+ALLBLOGSMYBLOGNEWPOST
+Kid'sBoxWewantedtolearnhowtomakepizza,sowe
+Reports
+wenttoLuigi'sItalianrestaurantandspoketo
+Mario,thecook.Beforewestarted,wewashed
+ourhands.
+Makingpizza
+Firstwemadethebase.The Thenweputtomato,
+baseismadeofdough.Wecheese,salamisausage,
+putsomeflour,yeast,saltolivesandonionontop
+andwaterintoabowlandof thebase.Afterthatwe
+mixedthemwell.Thenweaddedsomeblackpepper
+leftthedoughforanhourandcookeditin theoven
+soitcouldgrow.for15minutes.
+Whenitwasready,weputYoucaneatpizzawith
+thepizzaontoaplate.yourhands,butyouneed
+tocutitwithaknifefirst. Mariousesspecialplates
+in therestaurant.They'reThisoneisroundbut
+verybigand they'remadepizzascanalsobesquare.
+ofwood.
+Wehadthepizzawithsalad.Weusedabigspoonandforkto
+mixit.Here'sapictureofourdeliciousmeal.Itlooksgood,butit
+tastedevenbetter!
+Readagainandcorrectthesentences.
+1Beforetheystarted,theywashed5Theycookedthepizzain theovenfor
+25minutes.
+theirfeet.
+2Pizzabaseismadeofrubber.6Theplatesareverybigand they'remade
+ofglass. 3Theyputsomeflour,yeast,saltandmilk
+intoabowl.7Mariousedaspoontocutthepizza.
+4Theyputsomeblackchocolateontopof8Theymixedthesaladwithaknifeandfork.
+thepizza.
+Talk aboutyourfavouritemeal.Tellyourpartnerwhichingredientsyouneed.
+MyfavouritemealispastaBolognese.Ineedpasta,water,tomatoes,meatandonions.
+56Vocabulary:cooking
+PB56Senses|Unit6
+
+#### Scan Page 129
+
+49-50
+Read and match.Listen and check.Thendokaraoke.
+Myname'sMario,Nowyouchooseyourtopping,
+I'manItaliancook.Tomato,pepperandcheese.
+Ifyouwanttomakeapizza,Youcanchooseanything,
+Sausage,onionandmeat.
+Thenlistentomeandlook.
+Takesalt,yeast,flourandwater,Cookfor15minutes,
+Puttheminabowl.Thenputitonaplate.
+Mixthemalltogether,Cutitwithaknifeandfork,
+Andwaitforittogrow.Mmm.Nowthattastesgreat!
+Whenthebaseisbigger,
+Throwitin theair.
+Useyourhandstoturnit,
+Don'tgetitinyourhair.
+d
+DE51Listen and writethewords.1plate
+Read and complete.Write therecipeinyournotebook.
+Ingredients
+Forthedough:Forthetopping:
+625g2bigspoons100gcutinhalf1smallspoon
+8gyeast1bigspoon50gparmesan1bigspoonoregano(herb)
+425mlwarm1smallspoon
+Instructions
+1Mixtheyeastwith thewarm•Leavefor10minutesthenaddtheand
+2Puttheandintoabowlandmixin thewarm
+andyeast.
+3Coverwithaclothandleavetogrowfortwohours.Turnontheovento220°C.
+4Whileyourovenisgettinghot(30minutes),put
+etonthetrayfrom theovenandputthedoughinto thetraytomakethebase.
+5Brushsomeonthetopof thebase,thenpushtheinwithyourfingers.Afterthatadd theand theherbs.
+6Cookin theovenfor20minutesuntilthefocacciaiscooked.Eatitwarm.Enjoy!
+Thinkaboutyourfavouritemeal.Writeashoppinglistof theingredients.
+Practice:cooking57
+
+#### Scan Page 130
+
+Soundsandlife skills
+Describingsensesandfeelings
+Watchthevideo.Whatdotheytouch,hear,
+smellandtaste?
+Pronunciationfocus
+Listenandunderlinethestressedwords.
+MEERA:Stella,putyourhandin thebox.Whatdoes
+Touch
+itfeellike?
+STELLA:It'sverysoft.Itfeelslikefur.Isitananimal?
+LENNY:No,Stella.It'smytoyspider.
+Listenandunderlinethestressedwords.Howisthemeaningdifferent?
+1Thisismytoyspider.3Thisismytoyspider.
+2Thisismytoyspider.4Thisismytoyspider.
+54Completethesensespoemwith the
+Inpairs,writeasenses
+wordsin thebox.Listen and check.poemaboutaseason,
+timeofyear,timeofday
+birdslightshowertoasttoothpaste
+orafavouriteplace.
+Morning
+Itlookslikeblueandyellowandwhite
+Itsoundslikesingingin thegarden,Usefullanguage
+Itsmellslikein thekitchen,
+Whatdoesit...like?
+ItfeelslikeawarmIt...like...
+Ittasteslike
+58
+creative thinking Soundsandlife skills:sentence stress
+PB58Senses|Unit6
+
+#### Scan Page 133
+
+6
+DiggoryBones
+Thespiders
+What'sthat?It
+areonlythe
+soundslikeananimal.
+food,mr
+Grabbe.Look
+Ihatebehindyou!
+spiders!
+mostinteresting. Asnake!
+Itfeelslike
+A'snakebowl'
+aspider!
+...adangerous
+Itlookslikeancienttrap.
+lotsofspiders.Aagh!
+TicKLETiGKzE
+TickzE
+TIcKLE
+Thesnake's
+awake!
+Giveme
+Pleasehelpme
+thebelt!
+outofhere!
+Ok,Icanuse
+HISSmybeltto
+getyouout.
+HISSHoldonto
+theendofit.
+HISS
+I'vegotwhat
+Nowyou're
+Icamefor.
+goinginto the
+snakebowl.
+Aagh!
+Emily!
+Thedogisthedoor,
+isn'tit,Bones? Aagh!
+Let'sgo.There's
+thedoor!
+What'sasnakebowl?WhatdoesDiggoryusetogetBrutusout?
+Story:unitlanguageincontext59
+
+#### Scan Page 134
+
+Howdowemakenoises?
+56Listenandread.Whatcreatessound?
+THESCIENCEOFSOUND
+Soundsarecreatedwhenobjectsvibrate.Andthesevibrationsare
+calledsoundwaves.Wecan'tseethem,buttheytravelthroughthe
+airuntiltheyreachourears,andwehearthemassounds.
+Ifweshakeatinybell,itSomesoundscanbehighbutSoundneedstotravelthrough
+vibratesquickly,sowehearaveryloud.Didyouknowthatsomething,likeanobjectorairor
+ababy'scryislouderthanthe highringinourears.Ifwehitwater.Ifthereisnoair,likeinspace,
+honkofacarhorn?However,thereisnosound!Windisairbutithas alargebell,thesoundwaves
+arestrongerandvibratetheloudestsoundonEarthisnosound.It'sthewindblowingagainst
+moreslowly,sowehearalowlowandloud-it'sthesoundanobjectthatmakesthesound.
+sound.ofavolcanoerupting!
+Soundtravelsfourtimesfasterthrough
+waterthanairsoitcantravelfurther
+throughwater.That'showwhalescan
+heareachother
+evenwhenthey
+arehundreds
+ofkilometres
+apart!
+Readagainandchoosethecorrectwords.
+1Vibrationsofsoundarecalledsoundaenergybwaves
+2Fastvibrationsmakeasound.ahighblow
+3Slowvibrationsmakeasound.alowbhigh
+4Soundneedstotravelthroughsomething,likebspace
+orwater.aair
+5Windmakessoundwhenitblowsagainstaobjectsbair
+6Inwater,soundtravelsthaninair. afasterbslower
+Closeyoureyesandlisten.Whatcanyouhear?Whatsoundsdoyoulikeanddislike?
+Icanheartrafficoutsidetheschool.
+-FINDOUTMORE- Idon'tlikeitbecauseit'stoonoisy.
+Whatisthemaximumspeed
+ofsound?
+Icanhearmyselfbreathing.
+Ilikeitbecauseitrelaxesme.
+60
+Science:soundwaves|Icritical thinking
+PB60Senses|Unit6
+
+#### Scan Page 137
+
+57Readandlistento theDIDIYOUKNOW...?
+poem.WhichsoundThelargest,andloudest,musical
+doesn'tthewriterlike?instrumentin theworldisapipe
+organinamusichallin theUSA.It's
+gotmorethan33,000pipes,andit'ssix
+timeslouderthanasteam-trainwhistle!
+SoundsIlovetohear
+Ilovetohearmycatmeowingbecauseit
+meansshewantsmetocuddleher.
+Ilovetohearthe'ding-dong'of the
+doorbellringingbecauseitmeanswe
+haveavisitor.
+Ilovetohearmyfriendsgigglingbecause
+itmeanstheyarehappyandhavingfun.
+Ilovetohearplatesclatteringin the
+kitchenbecauseitmeansdinnerwillbe
+readysoon.
+Ilovetohearraintappingonmywindow
+becauseitmakesmefeelcosyandsafe
+inside.
+ButIhatetohearthecarszoomingoutside
+becauseitmakesmefeelstressed.
+Learningtowrite:
+Underlinethesoundwordsin
+Soundwords
+thepoeminActivity1.
+Weusesoundwordstohelpthereaderhearthe
+soundsyouarewritingabout.
+Ifweshakeatinybell,wehearahighring.
+Ababy'scryislouderthanthehonkofacarhorn.
+Inpairs,brainstormsoundsthatyouloveandsoundsthatyouhate.
+Explainwhy.Completethetableinyournotebook.
+SoundsIloveSoundsIhate
+Project
+Readytowrites
+Makeaposteraboutyour
+favouritesounds. GotoActivity Bookpage60.
+Science:soundwaves|learningtolearn61
+
+## Review: Units 5 & 6
+
+### Teaching Notes
+
+#### Page T62 (Pupil's Book p.62)
+
+ReviewUnits5and6
+Pupil's Bookp.62
+🔊58
+Objectives
+1When'sDavid'sbirthday?
+To reviewlanguagefromUnits5and6anddoalistening
+MissLake:Goodmorning,David.
+activity.
+David:Goodmorning,MissLake.Didyouknowit'smy
+birthdaytomorrow? Target language
+MissLake:Really?What'sthedatethen?
+• Key language:vocabularyandlanguagefromUnits5and6
+David:It's21January.
+• Revision:sport,pasttenses,goingto
+2What'shegoingtodoonSaturday?
+Materials
+David:I'mnotgoingtohaveapartytomorrow,though.
+• WordsfromUnits5and6writtenonsmallcards,enoughMissLake:Whynot?
+foroneperpupil David:Becausewe'vegotschooltomorrow.ButIamgoing
+tohaveapartyonSaturday.Allmyfriendsarecoming.
+Warmer3Whattime'stheparty?
+• Makegroupsofsix.GiveoutthecardswithwordsfromUnits5MissLake:That'sgood.Whattime'syourpartygoingto
+and6,onetoeachpupil.Theytaketurnstoprovideadefinitionstart?
+of theirwordfor theotherpupils in theirgrouptoguess. David:It'sgoingtobein theafternoon,athalfpastthree.
+4Wherearetheygoingtogo?
+PB62.ACTIVITY1 MissLake:Areyougoingtohavethepartyinyourhouse?
+David:No,we'renot.Notthisyear. Readthetext.Choosetherightwordsfrom thetable
+MissLake:Whatareyougoingtodo? andwritethemonthelines.
+David:We'regoingto thecinema.We'regoingtosee
+• Tell pupils toopentheirPupil's Booksatpage62.Showthe
+Shep5.
+pageon the whiteboard.Focus pupils onthetextandelicit
+thatit'sasocialmediamessage.5Whatwashisfavouritepresentlastyear?
+• Focus pupils onthephotoandtellthemthisisthetopicof theMissLake:Anddoyouthinkyou'regoingtogetalotof
+presents? message.Checkpupilshavereadtheactivityinstructionsand
+knowwhattodo.TheyreadthetextindividuallyandchooseDavid:Idon'tknow.Ididlastyear.
+whichwordisbestforeachgap.RemindthemtoreadtheMissLake:Whichwasyourfavourite?
+wordsaroundthegapsandtolookat thepronouns,nounsDavid:Itwasthisfootball.Doyoulikeit?
+andtimereferencesbeforetryingtochoosethewords.
+MissLake:Yes.It'slovely!
+• Pupils check theirworkin pairs/smallgroups.Check with the
+6Whatwouldheliketogetthisyear?
+class.Forincorrectwords,elicitwhytheworddoesn'twork.
+MissLake:Andwhatwouldyoumostliketogetthisyear?
+Focus pupils oncollocations,e.g.scoreagoal.
+David:I'dloveagoldwatch.
+Key:2called,3play,4are,5because,6Last,7well,8scored
+MissLake:Agoldwatch?
+David:OK...asilverone!
+PB62.ACTIVITY2
+AB62.Answerkey,seepageT105
+Listenandtick(V)thebox.
+• Focus pupils ontheActivity2instruction.GivethemtimetoEnding the lesson
+studythepicturesbeforetheylisten.Play the🔊Audioanddo•Ask pupils totelltheirpartneraboutapresentsomeonegave
+theexamplefirstwith theclass.Play therestof the&Audiothem.Whichsoundsthemostinteresting?
+inonego.Pupils listenandtick.
+• Theycheckin pairs.Play the1)Audioagain.Check with
+theclass.
+Key:2A,3C,4B,5B,6C
+Digital ClassroomExtra Resources
+Presentation Plus:ReviewPractice Extra•Teacher Resources:ReviewUnits5and6,DownloadableActivity Book
+Units5and6Teaching Notes
+• AB94andPB94-95-Grammar reference6 )Audio58
+• T117-Consolidationactivity:Songsandchants
+Review|Units5and6T62
+
+#### Page T63 (Pupil's Book p.63)
+
+ReviewUnits5and6
+Pupil's Bookp.63
+AB63.Answerkey,seepageT105 Objectives
+To reviewlanguagefromUnits5and6andplayaboard Ending the lesson
+game.
+• Ask pupilswhichlessons,topicsand/oractivitiesinthis unit
+weretheirfavourites.
+Target language
+• Key language:vocabularyandlanguagefromUnits5and6
+• Revision:languageforplayinggames
+Materials
+• Dice,colouredcounters
+Warmer
+• WriteMaterialson the board andbrainstormall thematerials
+pupilscanremember,withbooksclosed,intwominutes.Itis
+notnecessarytowritethewordson the board.
+PB63.ACTIVITY3
+Play the game.
+• Tell pupils toopentheirPupil's Booksatpage63.Showthe
+pageon the whiteboard.Elicitthatthisisaboardgame.
+• Focusthemontheinstructionsandcheckunderstanding.Elicit
+whatmaterialstheycanseein thegame(metal,paper,wood,
+flour,glass,wool,plastic,gold,silver,leather,rubber,card,
+chocolate)andgetthemtomakealistin theirnotebooks.
+• Pupils playin groupsoffour.Theytaketurnstothrowthedice
+andmovearoundtheboard,sayingwhat theitemisandwhat
+itismadeof.Theotherpupilsdecideifthepupilhasdonethis
+correctlyornot.Theycanhelpeachotherwithinterpreting
+theinstructions.
+• Iftheyareright,theyhaveanotherturn,crossingoffthe
+materialson theirlist.Iftheymakeamistake,theystop.If
+theystoponsomethingmadeofamaterialtheyhavegot,
+theymissaturn.Thewinneristhefirstpersontogetseven
+thingsmadeofdifferentmaterials.
+• Monitorpupilsastheyareplayingthegame.
+Key:lorry(metal),book(paper),spoon(wood),pizza(flour),watch
+(gold/metal),glass(glass),chair(wood),train(metal),bracelet(silver/
+metal),bag(paper),shoes(leather),jumper(wool),ring(gold/metal),
+bike(metal),cup(card/paper),eraser(rubber),bag(plastic),bottle
+(plastic),box(card),cup(gold/metal),bag(leather),cake(flour/
+chocolate),mirror(glass/wood),notebook(paper),car(metal),door
+(wood),belt(leather),robot(plastic),scarf(wool),knife(metal),plane
+(wood),window(glass),earrings(silver/metal),doll(plastic),bread
+(flour),hat(wool)
+Extra Resources
+Digital Classroom
+• Teacher Resources:ReviewUnits5and6,DownloadableActivity Book
+Presentation Plus:ReviewPractice ExtraTeaching Notes
+Units5and6•AB94andPB94-95-Grammar reference6
+• T117-Consolidationactivity:Vocabularyreview
+• T117-Extensionactivity:Games
+T63Units5and6|Review
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 138
+
+ReviewUnits5and6
+Readthetext.Choosetherightwordsfrom thetableandwritethemonthelines.
+MIWall|Findfriends|Chat|Profile
+Hiall,
+Hereareafewlinestotellyouabout(1)our
+footballteam.We're2)theCambridge
+Flyers.We(3)indoorfootballat the
+weekendsandweplayagainsto therteamsfromtowns
+nearours.There(4)sevenofusin the1ourweus
+2calledcall team.Wealwayschangeplayers(5)calling
+onlyfivecanplayatatime.(6)weekwe 3playsplayingplay
+playedagainsttheteamfromOldcastle.Theyplayed4isam
+are
+really(7)and theywon4-1.
+5butbecauseSo
+We(8) thefirstgoalbutthentheyscored
+6NextEveryLast
+thenextfour.We'regoingtowinournextgamethough.
+That'sallfornow,7wellgoodbeautiful
+8markedscoreddo LiWei
+58Listenandtick()thebox.
+1WhenisDavid'sbirthday?3Whattimeistheparty? 2Whatishegoingtodo
+onSaturday?
+В
+4Wherearetheygoing5Whatwashisfavourite6Whatwouldheliketoget
+togo?presentlastyear?thisyear?
+AO
+62Review:units5and6
+PB62Review|Units5and6
+
+#### Scan Page 141
+
+6
+Play the game.
+Collectthematerials
+Instructions:Thewinneristhefirstpersontogetseventhingsmadeofdifferentmaterials.
+Rollthediceandmoveyourcounter.Saywhatyoucanseeandwhatit'smadeof.Ifyou'reright,
+haveanotherturn.Ifyou'rewrong,stop.
+Ifyoustoponsomethingmadeofamaterialwhichyou'vegot,missaturn.
+FINISH
+START
+Review:units5and663
+Units5and6|ReviewPB63
+
+## Unit 7: Natural world
+
+### Teaching Notes
+
+#### Page T64 (Pupil's Book p.64)
+
+Unit7Natural world
+Pupil's Bookp.64
+pupilsreadingtimebeforetheywatchagain.Checkpupils
+Objectives
+understand thekeyvocabularyin thesentences.
+Totalk about thenaturalworldandgiveadviceusingshould•Play theVideo.Pupilswhispertheanswerto theirpartner
+andshouldn't.thefirsttimetheywatch.Play the•Videoagainandcheck,
+elicitingfull-sentencecorrect answers from theclassfor the
+Target language'no'responses.Elicitfrompupilsanynew wordstoaddto the
+• Key language:givingadvice:should/shouldn't;naturalmindmap.
+world,nature,rubbish
+Key:2no(Meerathinkstheyshouldputsomesuncreamon.)3yes,
+• Revision:materials,countryside,clothes,weather,sun
+4no(Shehastodothiseveryweek.)5yes,6no(Theyshouldtell
+cream,lake,haveto,suggestions:Let'stheirfriendsabout theproblem.)
+WarmerPresentation
+• Introducethetopicof thenaturalworldbyelicitingfrom•Elicitsentences5and6(theuncorrectedversion)fromActivity
+pupilswhatkindsofthingstheycanseein thecountryside.2andwritethemon the board.Underlineshould/shouldn'tin
+Tell pupilsthethemeofUnit7istheNatural world(nature) eachsentence.
+andwriteitin thecentreof theboard.
+• Elicitwhatthistellsus.Saythesentencesforpupils torepeat.
+• DrawacirclearoundNatural worldon the board andwriteElicito therthingsweshouldorshouldn'tdoin thecountryside.
+oneortwoof thewordspupilssaidtostartamindmap.•Play theVideofromActivity1again.Whenpupilshear
+Brainstormnaturewordsandcreateamindmapon the board.
+sentenceswithshould/shouldn't,theyputtheirhandsup.Pause
+SupplywordsinEnglishwherenecessary.Pupils copythetheVideoandelicitwhatwassaid.ElicitthequestionWhat
+mindmapinto theirnotebooks.
+shouldwedo?andwriteiton the board.Elicitastorysummary.
+• Focus pupils ontheSTUDYboxandreadtheexampleswith
+PB64.theclass.
+Whatkindsofnatureproblemsdoyouknowabout?0Extra challengeAsk pupils towritetwothingstheyshouldand
+shouldn'tdoin thecity. •Showpage64on the whiteboard andaskpupils tofocuson
+thephoto.Askwherethecharactersare.
+• Focusonthequestionandelicitresponses.AddthenatureLEIPB64.ACTIVITY3
+problemsmentionedonto themindmap.
+Read and match.
+Key:(Possibleanswers)rubbishin thewater,plasticwaste,pollution
+• Focus pupils ontheActivity3instruction.Pupilsdotheactivity
+in pairs.Checkandreplaythe•Videoifnecessary.
+PB64.ACTIVITY1 Key:1e,2f,3b,4d,5c,6a
+Whyaretheypickinguprubbish?Watchandcheck.
+• Focus pupils onActivity1.Readthequestion.ElicitsomeEPB64.ACTIVITY4
+predictions,butdon'tconfirmanswersatthisstage.Play
+theVideoforpupils towatchandcheck theanswerto theAsk and answer.
+question.Ask pupils tocheckin pairsand thenfeedbackwith•Focus pupils onActivity4.Ask pupils todiscussthequestions
+thewhole class.in pairsand thencomparetheiranswers withanotherpair.
+Checkanswers with thewhole class.
+VideoScriptscanbedownloadedfromTeacher ResourcesonLEAB64.Answerkey,seepageT105-106
+Cambridge One.
+Ending the lesson
+PB64.ACTIVITY2 •Ask pupilsWhatshouldyoudoat theendof thelesson?
+Pupilsrespondwithsentences,usingshouldandshouldn't. Watchagain.Say'yes'or'no'.
+• Tell pupils toopentheirPupil's Booksatpage64.Focus pupils
+ontheActivity2instructionsandonthesentences.Give
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit7,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit7IPractice Extra
+• Teacher Resources:Unit7,Reinforcementworksheet1
+• Video
+• AB94andPB94-95-Grammar reference7
+• T118-Consolidationactivity:Roleplay
+• T118-Extensionactivity:Moresentencehalves
+
+#### Page T65 (Pupil's Book p.65)
+
+Unit7Natural world
+Pupil's Bookp.65
+• Focus pupils onActivity3.Ask pupils toreadthequestions
+Objectives
+and thenreadthepostsagaintofindthenames.
+To practisegivingadviceandsingasong.•Pupils readandcomparetheiranswersin groups.Check with
+theclass.
+Target language
+Key:1LiJing,2Pablo,3Oliver,4Maria
+• Key language:givingadvice:should/shouldn't;question
+form:Should...?;nature:tree,field,bear,cow,problem
+• Additionallanguage:(is)aftermeSong
+• Revision:actionverbs,adverbs
+BEJPB65.ACTIVITY4
+Warmer Readandguess.Listen and check.Thendokaraoke.
+• Elicitthetitleof theunit(Natural world)andelicitsome•Focus pupils onthesongand thewordsin thebox.Elicit
+of thethingsyoushouldandshouldn'tdotoprotectthethat theseareallinfinitiveswithouttowhichpupilsuseto
+environment.(Remindpupilsof theimpersonaluseofyou.)completethesong.Givepupilstimetoreadthroughthesong
+Writetwoof theexamplestheygiveon the board:onesilentlyandtotrytopredictsomeof thewordsbeforeplaying
+positiveandonenegative.Focus pupils ontheverbfollowingtheQ)Audio.
+should/shouldn'tandelicitwhatkindofworditis(infinitive•Play the8))Audio.Thefirsttimetheylisten,pupilsdon'twrite
+withoutto).anything.Theylisten,lookandthink.Theythendiscussthe
+songin pairsandaddanywordstheycanremember.Play
+the🔊1)Audioagainforpupils tocheckandcompletethe
+PB65.ACTIVITY1
+song.Theycheckagainin pairs.Play the🔊1)Audio,pausing
+Canyourememberthelastlesson?Watchtheafter eachversetocheck theverbsandunderstandingofkey
+language video.vocabulary.
+• Showpage65on the whiteboard.Ask pupils towatchand•Play the•Video,linebylineand thenversebyverse,for
+completetheactivityin theVideo.pupils torepeat.Maketwogroups:onewhichasksthe
+questionsandonewhichanswers.Theysingthesonginrole. •Play the•Video.
+Play thefirstversionof thesongontheVideoand thenthe
+karaokeversion.Repeat,withgroupschangingroles.
+VideoScriptscanbedownloadedfromTeacher Resourceson
+Cambridge One.Key:put,clean,stop,climb,bear,go,walk,run,jump,stop,climb,
+coW
+EPB65.ACTIVITY2*')590160
+AsinPupil's BookandKey •KaraokeVersion
+Readthepostsandchoosetherightwords.Whodo
+youagreewith?Why?
+PB65.ACTIVITY5
+• Tell pupils toopentheirPupil's Booksatpage65.Focus pupils
+onActivity2.Askapupiltoreadthefirstpostandelicit the Howdoyouthinkweshouldlookafterourworld?
+correct answers from theclass.
+Write20-30words.
+• Ask pupils toreadtheotherpostsandchoosetheright
+• Ask pupils tofocusonActivity5andtowriteaboutwhat they
+words.Pupils comparetheiranswers with a partnerand then
+checkasawhole class.Whenpupilsarefeedingbacktheirthinkweshoulddotolookafterourworld.
+answersask:DoyouagreewithOliver,Pablo,MariaandDExtra supportPrepareamodeltextasanexampleofwhatyou
+LiJing?Why?expectpupils towrite,andshowiton the board.
+Key:1should,2shouldn't,3should,4should,5should,6shouldEElAB65.Answerkey,seepageT106
+Ending the lesson
+PB65.ACTIVITY3
+• Singthesongagain.
+Readthequestionsandwritethename.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit7,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit7LPractice Extra
+• Teacher Resources:Unit7,Extensionworksheet1andSongworksheet )Audio59-60•Video
+• AB94andPB94-95-Grammar reference7
+• T118-Consolidationactivity:Writtenadvice
+• T118-Extensionactivity:Helpingeachother
+T65Natural world|Unit7
+
+#### Page T66 (Pupil's Book p.66)
+
+Unit7Natural world
+Pupil's Bookp.66
+Key:1Morethan15,000.2Theyprotecttigersfrompeoplewho
+Objectives
+wanttocatchthemfor theirfur.3Wealsoprotectforestswhich
+To readandtalk aboutendangered species.givepeoplearoundtheworldcleanair,water,foodandmaterials.
+4Thenine-spottedladybeetle.5InColombia.6TheLehmann's
+Target languagepoisonfrog.7EverytwoyearsfromNovembertoMarch.
+• Key language:endangered species,extinct,insect,protect,8Thepurplespottedbutterfly.
+striped,stripes,spots,spotted,beetle,wing,butterfly,
+0Extra supportWrite theanswersrandomlyon the board to
+indanger
+supportlessconfidentpupils.
+• Additionallanguage:zebra,forest,nationalpark,poison,
+extinction,Siberia,NorthAmerica,Colombia,Taiwan
+IPB66.ACTIVITY3
+• Revision:should,animals,adjectives,partsofspeech
+Ask and answer.
+Warmer
+• Focus pupils onActivity3.Ask pupils todiscussthequestions
+• Pre-teachspottedandstriped,usingpupils'clothesorotherin pairsand thencomparetheiranswers withanotherpair.Ask
+objectsin theroom.Thenaskpupils tothinkofanyanimalseachgrouptotelltheclasstheirideas.
+theyknowwhicharespottedorstriped.Askdifferentpupils
+towritethewordson the board andtospellthemout.LEAB66.Answerkey,seepageT106
+Ending the lesson
+PB66.ACTIVITY1
+• Aswhole-classfeedback,buildamindmapon the board,
+Readtheblog.Whichanimalfactisthemostcompilingall thenew wordspupilslearntaboutanimalsin the
+interestingforyou?lesson.
+• Showpage66on the whiteboard.Focus pupils onthe
+activityinstructions.Askapupiltoreadthemaloud.Check
+understanding.Focus pupils onthetextandelicitthatit's
+ablogandthatit'saboutanimalsandnature.Tell pupils to
+opentheirPupil's Booksatpage66.Readtheintroduction
+aloudtopupilsandusethecontexttoelicitwhat theythink
+endangered speciesmeans.Confirmthatitmeansatypeof
+animalorplantthatmightstopexistingsoonbecausethere
+areonlyafewliving.
+• Ask pupils toreadthetextquicklyand thenfeedbackto
+apartner.Ask pupils toputuptheirhandstovotefor the
+animaltheythinkisthemostinteresting.
+PB66.ACTIVITY2
+Readagainand answer.
+• Focus pupils ontheActivity2questions.Pupils workin groups
+ofthreeandfindtheanswersto/discussthequestions.Elicit
+answers from theclassandprovideanynewvocabularyonthe
+board.Discusswithpupilsotherendangeredanimalsthat they
+knowof,what theylooklikeandwhat,ifany,stepsarebeing
+takentoprotectthem.Focusonlocalspeciesifpossible.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit7,DownloadableActivity BookTeaching Notes
+@Presentation Plus:Unit7CPractice Extra
+• Teacher Resources:Unit7,Reinforcementworksheet2
+• AB94andPB94-95-Grammar reference7
+• T118-Consolidationactivity:Wheredotheylive?
+• T118-Extensionactivity:Guessinggame
+
+#### Page T67 (Pupil's Book p.67)
+
+Unit7Natural world
+Pupil's Bookp.67
+Mary:That'sright.Itshabitatisgettingsmallerandsmaller
+Objectives
+everyyear.Canyoutellmeaboutit,please?
+TodescribepicturesofanimalsandpractisegivingadviceMrBurke:OK.Whatdoyouwanttoknow?
+usingshouldandshouldn't.Mary:Well,Ireadinabookthatit'sthebiggestbutterflyin
+theworld.Isthatright?
+Target language
+MrBurke:Yes,itis.Butthemaleissmallerthanthefemale.
+• Key language:habitat,female,male,Youcan..,Ithinkwe
+Fromoneedgeof themale'swingto theotheritcanmeasure
+should/shouldn't...,Yes,Iagree.No,Idon'tagree. 20ст.
+• Additionallanguage:measurements,descriptions,
+Mary:20cm.Butthefemale'sbigger?
+numbers,bat,riverbank,ocean,pond,stream,disappear
+MrBurke:Yes,itis.Itswingscanmeasure30cm.
+• Revision:animals,comparativeadjectives,colours
+Mary:Wow!That'sabigbutterfly!Whatabout theircolours?
+MrBurke:Well,bothbutterfliesarebrown.Thefemalehas
+Warmer
+gotsomesmall,whitespotsonitswings.
+• Describeoneof theanimalsfrom theprevious lessonfor Mary:Andthemale?
+pupils toguesswithbooksclosed.Pupilscanthentaketurns
+MrBurke:It'sbrowntoo,butit'sgotbluestripesonitswings.
+todescribeananimalusingthelastlesson'svocabulary.
+Mary:That'sreallyinteresting.Thanksverymuch,MrBurke.
+Presentation
+PB67.ACTIVITY3
+PB67.ACTIVITY1
+Read and complete.
+Look at thepictures.Describethemtoyourpartner.•Focus pupils onActivity3.Checkunderstandingof thewords
+• Tell pupils toopentheirPupil's Booksatpage67.Showthe
+in thebox.
+pageon the whiteboard.FocusthemonActivity1.Check•Pupilsdothetaskindividuallyand thencheckin pairs.Check
+understandingofmaleandfemale.
+with theclass.
+• Pupilstaketurnstosayasentencedescribingapicture.Monitor
+Key:2extinct,3should,4garden,5trees,6butterflies
+andpromptwherenecessary.Elicitdescriptionsfrom theclass.
+• Extra supportGivethefirstletterof themissingwordto
+PB67.ACTIVITY2supportlessconfidentpupils.
+Listen.Writewordsornumbers.
+PB67.ACTIVITY4
+• Focus pupils ontheinformationforActivity2.
+• Pupils readandcheckvocabulary,e.g.measure.Play theLook at thepictures.Talk aboutwhatyoushoulddo.
+1)Audio.Pupils listenandwritethemissingwordsor
+• Focus pupils ontheActivity4photosandexample.Elicito ther
+numbers.Theycheckin pairs.Play the🔊Audioagain.Check ideasforoneortwoof theotherpictures.
+with theclass.
+• Providearesponsefordisagreementandwriteitonthe
+Key:220,330,4brownwithwhitespotsonitswings,5brownboard,e.g.No,Idisagree.
+withbluestripesonitswings •Pupils workin groupsofthree.Theytaketurnstomake
+suggestionsforeachphotoandtorespond.
+*61
+Mary:Oh,hello,MrBurke.CanIaskyousomequestions?IsLEAB67.Answerkey,seepageT106
+thatОК?
+Ending the lesson MrBurke:Hello,Mary.Yes,ofcourse.Whatabout?
+Mary:Well,it'saboutabutterflyIwanttodomyprojecton.•Writekeywordsfrom theunitwith thelettersinjumbled
+I'vegotsomeinformation,butIwanttofind outsomemore.orderon the board.Pupils writeeachwordcorrectly.They
+MrBurke:OK.Whichbutterflyisit?checkin pairsbeforeyoucheck with theclass.
+Mary:It'scalledtheQueenAlexandra'sbirdwingbutterfly.
+MrBurke:Oh,yes.Iknowtheone.It'sanendangered
+species.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit7•Teacher Resources:Unit7,DownloadableActivity BookTeaching Notes
+LaPractice Extra
+• Teacher Resources:Unit7,Extensionworksheet2
+11)Audio61
+• AB94andPB94-95-Grammar reference7
+• T118-Consolidationactivity:Theschoolenvironment
+• T118-Extensionactivity:Endangeredanimals
+T67Natural world|Unit7
+
+#### Page T68 (Pupil's Book p.68)
+
+Unit7Natural world
+Pupil's Bookp.68
+Lenny:So,whatshouldtheydowithit?
+Objectives
+ParkRanger:Theyshouldlook forarecyclingbinortake
+To practisesentence stressinsentenceswithshould/theirrubbishhomewith them.
+shouldn't.
+Target language*EPB68.ACTIVITY3
+• Key language:sentence stresspatternswithshould/Thinkandwrite.Practisewith a partner.
+shouldn't:Weshouldfindabin.Peopleshouldn'tleave
+• Focus pupils onActivity3andasktheclassforsuggestions,
+theirrubbish.e.g.Peopleshouldn'tpickflowers/frightenwildlife.People
+• Additionallanguage:bins,clean-up,council,newspaper,shouldrespectnature/lookaftertheirparksandbeaches.
+permission,pickup,throw,takephotos•Ask pupils towritemoreexamplesandpractisesayingthem
+• Revision:askingforandgivingadvice:Whatshouldwedo?with a partner.Askvolunteerstoreadouttheirdialogue.
+Weshould/shouldn't...;makingsuggestions:WeshouldMonitorpronunciation.Check with thewhole class.
+..,Let's..,Whydon'twe...?
+PB68.ACTIVITY4
+Warmer
+Readtheflyer.Whatinformationdoesitgive?
+• Drawinone,twoandspeechYoushouldn'tbubbles...onin thetheboard.other.AskWritepupilsYoutoshould..give•Explainthatinmanyplacestherearegroupsthatorganise
+clean-upsoflocalareas.
+youexamples,e.g.Youshouldtidyyourroom.Write themon
+theboard. •Focus pupils ontheposterandreadit.Checkunderstanding
+byelicitinginformationtheywillneedtocompletethenotes.
+AskWhowillyouaskforpermission?Whatplacescouldyou
+PB68.ACTIVITY1 cleanup?Whowillyouasktohelpyou?Howcanthelocal
+Watchthevideo.Wherearetheyoungpeopleandhowcouncilorlocalshopshelp?Whyisitagoodideatotake
+photos?Whyisitimportanttosay'Thankyou'?
+dotheyfeel?
+• Showpage68on the whiteboard.Tell pupilstheyaregoingtoKey:Theflyergivesinformationabouthowtoorganiseaclean-up,
+watcha•Video.Focus pupils onActivity1.Ask pupils tolookwhotogetpermissionfrom,whotoaskforhelp,aboutidentifying
+aplaceandatime,andhowtorecordtheeventbytakingpictures. at thephotoandreadthequestion.
+• Showthe>Video.Pupils compareanswers.Checkas a class.
+PB68.ACTIVITY5
+Key:Thechildrenarein thepark.Theyfeelangry/sad/upset.
+Inagroup,planyourownneighbourhoodclean-up
+VideoScriptscanbedownloadedfromTeacher Resourcesonandmakenotes.
+Cambridge One.•Tell pupilstheyareorganisinganeighbourhoodclean-up.
+FocusontheUsefullanguageboxandreadtheexamples.
+Pronunciationfocus•Allowtimeforpupils todecideandallocatetasks,and then
+tomakenotes.Listentopupilsandprovidesupportwhere
+PB68.ACTIVITY2 needed.Makeanoteofanycommonerrorsandexamplesof
+goodlanguageyouhear. Listenandunderlinethestressedwords.
+• Iftime,askgroupstocomparetheirplans.
+• Ask pupils toopentheirPupil's Booksatpage68.Play the
+)Audioandaskpupils tolisten,andunderlinethe'stressed0Extra challengeAsk pupils topresenttheirideasto theclass.
+words'(louderormoreemphasised).Checkanswers.
+AB68.Answerkey,seepageT106 •Elicitthat thenegativeformshouldn'tisastrongword,but
+theaffirmativeshouldisn't. Ending the lesson
+• Modelthepronunciationwithapupil.
+• Write thenotesyoumadeinActivity5on the board.
+Key:AsAudioScript Remembertoincludesomegoodlanguageandpraisepupils.
+• *')62Ask pupilswhichsentencesarecorrectandaskthemto
+correctthosethatarenot. Meera:Peopleshouldn'tleavetheirrubbishonthegrassor
+throwitin thelake.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit7•Teacher Resources:Unit7,DownloadableActivity BookTeaching Notes
+[Practice Extra
+• Teacher Resources:Unit7,DownloadableActivity BookAudioScript (1)Audio62•Video
+• AB94andPB94-95-Grammar reference7
+• T118-Consolidationactivity:Sentencestress
+
+#### Page T69 (Pupil's Book p.69)
+
+Unit7Natural world
+Pupil's Bookp.69
+DiggoryBones:Youshouldmoveslowlyandcarefully,Emily.
+ObjectivesThisladder'soldanditisn'tverystrong.
+To readastoryandreviewlanguagefrom theunit.Emily:OK,Dad!
+BrutusGrabbe:Waitforme!
+Target language
+DiggoryBones:ThefamousbutterflyroomofQueen
+• Key language:languagein thestory,parents Hetepheres!Mostpeoplethoughtthiswasonlyastory.
+• Additionallanguage:QueenHetepheres
+Emily:Therearethousandsofbutterflies!
+• Revision:languagefrom theunit,adjectives,colours Emily:They'reallorangeandblackstripedwithwhitespots
+on theirwings.
+Warmer
+DiggoryBones:Youshouldn'ttouchanything,Brutus.
+• Elicitfrompupilswhat theyrememberabout thesnakebowl BrutusGrabbe:Aagh!Stripedinsects!
+from thelastepisodeof thestory:whatwaslivingthere,what Emily:They'retheyoungbutterflies!Herearetheirparentsto
+theanimalslookedlikeandwhowentdowninto thesnake
+protectthem!
+bowlat theendof theepisode.
+AB69.Answerkey,seepageT106
+Story
+Ending the lesson
+PB69.ACTIVITY1•Ask pupilswhichrhyme/songtheywouldliketodoagainfrom
+theunit.Doittogethertoendthelesson. Whyshouldtheyclimbtheladderslowlyand
+carefully?Whatdothebutterflieslooklike?
+• Showpupilsthefirstsceneof thestoryon the whiteboard.
+Focusthemonthestoryandcheckwhoisin thesnakebowlin
+thefirstframe.Setthequestions:Whyshouldtheyclimbthe
+ladderslowlyandcarefully?Whatdothebutterflieslooklike?
+Play the•Videowithbooksclosed.Pupils watchtofindthe
+• Play the)Audio.Pupils listenandread.Pauseafter each
+frameforpupils torepeat.
+• Attheend,checkgeneralcomprehensionbyaskingquestions,
+e.g.WhatadvicedoesBrutusgiveDiggoryabouthis
+daughter?Whoisthesnakewithnospotsandstripes?Why
+doesn'tDiggoryneedinstructionstogetoutof thesnake
+bowl?WhyshouldEmilybecarefulontheladder?What's
+in theroom?Whatcolourarethespotsonthebutterflies'
+wings?Whatdothebutterflieswanttoprotect?
+*63
+DiggoryBones:Thatwasn'tveryclever,Brutus.
+Emily:Runandgethelp,Dad!
+BrutusGrabbe:Idon'tthinkyoushouldleaveyourdaughter
+downherewithasnake,Bones.
+DiggoryBones:Withtwosnakes,Brutus!One'sgotspotsand
+stripes,buttheotherhasn't.
+BrutusGrabbe:Now,Bones,youshouldturnonthecomputer
+for theinstructionstogetoutofhere.
+DiggoryBones:Youneedtheinstructionstogetoutofhere,
+butIdon't!
+Digital ClassroomExtra Resources
+• •Teacher Resources:Unit7,Photocopiable7 •Teacher Resources:Unit7,DownloadableActivity BookTeaching Notes Presentation Plus:Unit7Practice Extra
+)Audio63Video
+• AB94andPB94-95-Grammar reference7
+• T118-Extraactivity:Roleplay
+T69Natural world|Unit7
+
+#### Page T70 (Pupil's Book p.70)
+
+Unit7Natural world
+Pupil's Bookp.70
+Key:Humanscatchturtlestoselltheireggs,meatandshells.
+Objectives
+Humansarecuttingdownjungleswhereorangutanslive.Citiesare
+Toexploretheproblemsfacingendangered speciesandgrowingsohummingbirdsarelosingtheirhabitat.
+identifywayspeoplearehelpingtosolvetheproblem.
+Target language AsinPupil's Book
+• Additionallanguage:farming,catch,feeder,honey,
+hummingbird,nest,orangutan,rescuecentre,shells, #PB70.ACTIVITY2
+shelter,survive,turtle
+Readagainandcompletethetable.
+• Revision:endangered species,destroying,flowers,fruits,
+• Pupils readthetextsagainandcompletethetablewith the garden,habitat,humans,indanger,jungle,layeggs,plants,
+protect,should/shouldn'tmissinginformation.Theycomparein pairs.
+• Remindpupilsthatacasestudyfeaturesaproblem,suchas
+huntinganimalsin thecaseof theturtles,andwaystosolve Warmer
+theproblem.
+• WriteEndangeredanimalson the board andbrainstormwith
+• Readtheheadingsin thetableand theexampletext.Check
+pupilssomeof theendangeredanimalsthat theyknow.For
+eachanimal,askpupilsiftheyknowwhytheyareendangered.answersas a class.
+• Tell pupilsthey'regoingtolearnaboutmoreendangeredKey:Orangutans:Humansaredestroyingtheirnaturalhabitat.
+animalsinthis lesson.Peoplefeedthem,treat themwhenthey'resickandteachthemhow
+tosurvivein thewild.Hummingbirds:Theyarelosingtheirhabitat.
+PresentationPeopleareplantingflowers,andprovidingfoodandshelter.
+PB70.
+EPB70.ACTIVITY3
+Howcanwehelpendangered species?
+Whichof theprojectswouldyouliketohelpwith?
+• Showpage70on the whiteboard andfocuspupils onthe
+question.Givepupilstimetodiscussthequestiontogether.Why?
+Elicitideasfrom theclass,butdon'tconfirmthem.•Focus pupils onActivity3and theexamples.Pupils workin
+• Play the•Videoforpupils towatchand answer.Pupilspairsanddiscuss.Theycomparetheirideaswithotherpairs.
+compareideasin pairs.Checktheanswerwith theclass.•Toroundup,askDoyouknowanyotherprojectsthathelp
+protectanimals?Pupilsshareideaswith theclass.
+VideoScriptscanbedownloadedfromTeacher Resourceson
+FINDOUTMORE
+Cambridge One.
+• Point to theFINDOUTMOREboxandreadthequestion
+togetherwithpupils.Tellthemtheyaregoingtosearchfor
+PB70.ACTIVITY1
+theanswerto thequestiononline.
+Listenandread.Whyaretheseanimalsendangered?•Assignthis activityashomeworkandtellpupilstheywillshare
+theirfindingsin thenextclass. •Showthepageon the whiteboard.Focusonthephotos
+andaskpupilsiftheyknowthethreeanimalspictured•Ask pupils todoaninternetsearchathometofind outthe
+answerto thequestion.Remindthemtoaskanadultfor (turtle,orangutanandhummingbird).Tellthemthey'reall
+endangeredanimals.permissionfirst.
+• Ask pupils toopentheirPupil's Booksatpage70.Focus
+AB70.Answerkey,seepageT106-107
+pupils onthequestion.Play the🔊)Audio.Ask pupils tolisten
+andreadand thenanswerthequestion.
+Ending the lesson
+• Putpupils intopairstodiscussthequestion.Checkanswers
+• Putpupils intopairs.Sayacoupleofsentencesabouteach
+as a class.
+of theanimalsfrom thelessonforpupils towritetheanimal,
+• Ask pupilswhathappenswhenendangeredanimalsarenot
+e.g.Itisindangerbecausethecityisgrowing.Itisindanger
+protected.Elicitorexplainextinct.Ask pupilsiftheycan
+becausepeoplearedestroyingthejungle.Itisindanger
+thinkofanyanimalsthathavebecomeextinct.Elicit/Mention
+becausepeopleselltheirmeatandshells.
+dinosaursandaskwhypupilsthinkthat theyareextinct.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit7,Subjectworksheet Presentation Plus:Unit7IPractice Extra
+• AB94andPB94-95-Grammar reference7 )Audio64•Video
+• T118-Consolidationactivity:Animalhabitats
+• T118-Extensionactivity:Find outandwriteaboutanextinctanimal
+
+#### Page T71 (Pupil's Book p.71)
+
+Unit7Natural world
+Pupil's Bookp.71
+PB71.ACTIVITY2 Objectives
+To learnhowbeeshelpplantsandanimalsandaboutUnderlinethefactswithwhenin thestudentreportin
+problemsfacingbees.Activity1.
+• Focus pupils onActivity2andontheLearningtowritebox. Target language
+Askapupiltoreadtheexamplesentencesaloud.Drillthe
+• Additionallanguage:beekeepers,chemicals,diseases,
+farming,healingproperties,honey,organic,pesticides,wordsinboldas a class.
+• Ask pupils toreadthetextinActivity1againandunderline
+poison,pollinate,powder,reproduce,sting,survive
+examplesoffactswithwhen.
+• Revision:bees,endangered,environment,extinct,flowers,
+fruits,garden,insects,plants,protect,should/shouldn't
+PB71.ACTIVITY3
+WarmerInpairs,discusswhyitisimportanttoprotect
+endangered speciesandhowyoucanhelpthem. •Ask pupils tostandinacircletoplayagame.Sayananimal
+Completethetableinyournotebook. andpupilsclapiftheythinktheanimallivesin theircountry.
+Pupilswhoclapfor thewronganimalsitdown.Thewinneris
+• Focus pupils onActivity3.Putpupils intopairstodiscussthe
+thepupilstandingat theendof thegame.importanceofprotectingendangered species.It'simportant
+foreachpupiltowritetheirownnotesastheywillneedthem
+DIDYOUKNOW...?in theActivity BookReadytowriteactivityonpage70.
+• Showthepageon the whiteboard.Point to thephotoand
+• Extra challengePutpupils intogroupsoffourorfive.Ask
+elicit theanimal(bee). themtosuggestonethingthateachof themcandotoprotect
+• Askoneof thepupils toreadtheinformationoutloud.Askanendangeredanimal.Encouragethemtothinkaboutthings
+pupilsiftheyaresurprisedby thenumberoftimesbeesmove theycandoathomeoratschool,orwaystheycanhelpviathe
+theirwings.internetorbyinformingpeopleaboutendangered species.
+Shareideasas a class.
+Presentation
+BEAB71.Answerkey,seepageT107
+PB71.ACTIVITY1
+Readthestudentreport.Howdobeeshelpplantsto
+PB71.
+survive?
+PROJECT
+• Focus pupils onActivity1.Point to thephotoandreadthe
+• Teachingnotesfor theProjectcanbedownloadedfrom the
+questionin therubric.Elicitideasandacceptallreasonable
+Teacher ResourcesonCambridge One. answers.
+• Pupils readthestudentreporttofind outiftheirpredictions Ending the lesson
+werecorrect.Askthequestionagainaftertheyread,to
+• Reviewwithpupilswhat theyreadandtalkedaboutintoday's
+elicitthat theypollinateplantsandflowers,whichhelpstheir
+lessonandwhichactivitiestheylikedbestfromthisand the
+speciestoreproduce.
+previous lesson.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit7•Teacher Resources:Unit7,DownloadableActivity BookTeaching Notes
+CPractice Extra
+• Teacher Resources:Unit7,DownloadableActivity BookAudioScript ETestGenerator:Unit7Test
+• AB94andPB94-95-Grammar reference7
+• T119-Consolidationactivity:Makeawordsearchpuzzle
+• T119-Extensionactivity:Subjectvocabulary
+T71Natural world|Unit7
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 142
+
+Natural world
+7 Whatkindsofnature
+problemsdoyouknowabout?
+Whyaretheypickinguprubbish?Watchandcheck.
+Watchagain.Say'yes'or'no'.
+No.
+1They'vegotfivedaystowritetheirnextblogpost.
+2Stellathinkstheyshouldputsomesuncreamon.
+Peopleshouldtaketheirrubbish 3Awoman'stakingglassbottlesandplasticbagsoutof thelake.
+with them.
+4Shehastodothiseveryday.
+Theyshouldn'tleaveitonthegrass.
+5Peopleshouldlook forarecyclingbin.
+Whatshouldwedoaboutthis?
+6Thekidsshouldn'ttelltheirfriendsabout theproblem.
+Read and match.
+1It'sveryhotadotohelp?
+2Whenthesunisstrongbourrubbishonthegrass.
+3Weshouldn'tleave
+crubbishintolakesorrivers.
+4Weshouldalwaysdcleanupafterapicnicin thecountryside.
+5Weshouldn'tthrowouresoweshouldputourhatson.
+6Whatshouldwe fweshouldusesuncream.
+Ask and answer.
+1Whywasthewomancleaningthelake?
+2Whatdoyoudowithyourrubbishwhenyou'reoutside?
+64
+Language:givingadvice
+PB64Natural world|Unit7
+
+#### Scan Page 145
+
+7
+Canyourememberthelastlesson?Watchthelanguage video.
+Readthepostsandchoosetherightwords.Whodoyouagreewith?Why?
+Howcanwehelplookafterourworld?
+Plasticisn'tgoodfor theplanet.We('should/shouldn'tThereiswaterallaroundus-infactmorethan70%of
+stopusingplastic.Itcantake1,000yearstodisappeartheEarthiswater.We(3)should/shouldn'tdecidehow
+andwearefillingthewholeEarthwithugly,terrible,dirtytousewaterascarefullyaswecan,sothatin thefuture
+plastic.It'sadisaster!Wereally(2)should/shouldn'tbuywehavewatertodrink,cookandwashourclothes.
+plasticbagsorplasticbottles.Everyone(4should/shouldn'trememberto
+turnofftapsandhaveshortshowersinsteadPablo,11
+Oliver,13
+ofbaths.
+Weuseenergyforeverything,fromcomputergamestoDidyouknowthateveryyearwethrowawaymore
+playingtheelectricguitar,butmakingitcausespollution.thanabilliontonnesoffood?That'sfrightening!You
+So,you(5)should/shouldn'tremembertoturneverything(6)should/shouldn'ttrytoprepareonlythefood
+thatyouneed.Ifyouhaveanyfoodleft,
+offwhenyoufinishplayingandsaveenergy.Maria,12LiJing,12 youcanshareitwithyourfriends.
+Readthequestionsandwritethename.
+1Whothinksthatwecansavefoodandbekindtoothers?
+2Whothinksthatweneedaplanfor thefuture?
+3Whothinksthatsomethingweusetakesalongtimetodisappear?
+4Whothinksthatweneedtodosomethingveryimportantafterwehavefun?
+59-60Readandguess.Listen and check.Thendokaraoke.
+cleanclimbdropgojumpputrunstopwalk
+Youshouldn'tdropyourrubbish,acrossthefield,
+Youshouldn't
+Youshoulditinabin.Youshould
+around.
+Youshouldn'tleaveitontheground,Youshouldn'tgotoonearthatcow,
+Youshouldupeverything.Itcanpushyouto theground.
+Herecomesthebear,herecomesthebear!Youshould
+It'scomingforyourtea!Youshouldquickly!
+ShouldImoveorshouldI?
+ShouldIthattree?
+Ishoulddosomethingnow.
+Thatbear/cowisafterme.
+Howdoyouthinkweshouldlookafterourworld?Write20-30words.
+Practice:givingadvice65
+
+#### Scan Page 146
+
+Readtheblog.Whichanimalfactisthemostinterestingforyou?
+Therearemorethan15,000endangered
+Kid'sBoxspeciesofanimalsandbirds,andeven
+morespeciesofinsectsindanger,like Reports
+butterflies.Let'stakealookatwhat
+peoplearedoingtoprotectthemsothat
+theydonotbecomeextinct.
+Naturewatch
+TheLostLadybugProjectaskspeopletotake
+photosofthisbeetle,orladybird,iftheyseeit
+Thereare
+andpostthemonline.
+twospecial
+National
+Thisisthenine-spottedladybeetle.Ithasfour
+Parksin
+blackspotsoneachwingandonein themiddleofitsbody.
+Siberiato
+ItlivesinNorthAmericaanditisanendangered species.
+protect
+Siberiantigersfrompeoplewho
+wanttocatchthemfor their
+Didyouknowthat thelastdayofApril
+beautifulstripedfur.
+everyyearisSavetheFrogsDay?Thereare
+educationaleventsinmorethan56countries.
+Tigersarefamousfor their
+stripes.Theyareanendangered
+Frogsareindangerallovertheworld.The
+speciesandweshouldprotect
+frogin thepictureisLehmann'spoisonfrog.
+them.Whenweprotecttigers,we
+ItisfoundinColombia.Ithasred,orangeoryellowstripes.
+protectforestswhichgivepeople
+aroundtheworldcleanair,water,
+foodandmaterials.Another
+Let'scelebratebeautifulbutterflies!Everytwo
+animalfamousforitsstripes
+yearsthere'saButterflyBeautyFestivalinAsia
+isthemountainzebra.Thanks
+fromNovembertoMarch.Thishelpsustoprotect
+toconservation
+thebutterfliesandlearnmoreabout them.
+projects,mountain
+4#)
+zebrasarenowsafe Butterfliesarebeautiful,flyinginsects.This
+fromextinction.butterflyisapurplespottedbutterfly.Ithaswhitespotsonits
+purplewings.Everyyearmillionsofbutterfliesflytoadifferent
+placetoescapecoldweather.Thiscanbedangerous,soweneed
+toprotectthem.
+Readagainand answer.
+1Howmanyendangered speciesarethere?5WheredoestheLehmann'spoisonfroglive?
+2HowdothespecialparksinSiberiaprotect6Whichanimalhasred,orangeor
+thetigers?yellowstripes?
+3Whenweprotecttigers,whatelsedoweprotect?7WhenistheButterflyBeautyFestival?
+4Whichanimalhasaspottedbodyandwings?8Whichanimalhasgotwhitespotsonitswings?
+Ask and answer.
+1Whichanimalswouldyouliketoprotect?Why?
+2Whatshouldwedotoprotectthisanimal?Thinkofaclassproject.
+66Vocabulary:nature
+PB66Natural world|Unit7
+
+#### Scan Page 149
+
+Look at thepictures.QueenAlexandra'sbirdwingbutterfly.
+Describethemtoyourpartner.
+Thefemaleisbrown.
+Male
+Themaleismorebeautifulthanthefemale.
+Female
+Listen.Writewordsornumbers.
+МАРЯЛЕТS
+NameofbutterflyQueenAlexandra's 23cm
+Wingsmeasure(Male)
+Wingsmeasure(Female) cm
+4 Description(Female)
+Description(Male)5
+Read and complete.
+butterfliesextinctgardenshouldthousandstrees
+Helpendangered species
+Youcan:
+Thereare1)thousandsofendangered
+• Helpcleanandprotectthehabitatin
+speciesin theworld.Endangeredmeansthereis
+,nearyour
+timetohelpthembeforetheydisappear.your(4)
+houseoronyourschoolground.
+Theyarenot?So,what
+plant(5). andflowers
+shouldwedo?We(3)look
+whereinsectslike(6).
+afterourworldandaskeveryonetohelpmake
+canlive.
+itacleanerplaceforanimalsandinsectstolive •helpprojectstoplantriverbankswith
+in.Weshouldmakeoceans,ponds,streamsandplantswhichmakethegroundstronger
+theairmuchcleanerthantheyarenow...and andgiveanimalsahabitat.
+youcanhelptoo!
+Look at thepictures.Ithinkweshouldrecycleallbottles.Yes,Iagree.
+Talk aboutwhatyoushoulddo.
+Practice:nature67
+
+#### Scan Page 150
+
+Soundsandlife skills
+Takingcareofyourcommunity
+Watchthevideo.Wherearetheyoungpeople
+andhowdotheyfeel?
+Pronunciationfocus
+62Listenandunderlinethestressedwords.
+Peopleshouldn'tleavetheirrubbishonthe
+MEERA:
+grassorthrowitin thelake.
+LENNY:So,whatshouldtheydowithit?
+PARKRANGER:Theyshouldlook forarecyclingbinortaketheir
+rubbishhomewith them.
+Thinkandwrite.Practisewith a partner.
+A:Peopleshouldn't
+B:Whatshouldtheydo?
+A:Theyshould
+Readtheflyer.Whatinformation NOTES:OURNEIGHBOURHOODCLEAN-UP
+doesitgive?
+Where
+Let'scleanitup!
+COMMUNITY
+Here'showtoorganiseyour
+ACTION!ownneighbourhoodclean-up.
+When
+GetpermissionAskyourfamilyforpermissiontodoaclean-upin
+yourneighbourhood.Askanadulttohelpyou.
+DecidewhereThinkaboutwhereyouwanttopickuprubbish.Is
+Whoshouldwe
+thereaparkorabeachnearyouthatneedshelp?
+askforhelp?
+Findfriendsandfamilytojoin theclean-up.The
+Gethelp
+morepeople,thebetter!Asklocalshopsoryour
+localcounciliftheycangiveyoufreerubbishbags,Whoshould
+glovesortools.takephotos?
+TakepicturesOnthedayof theclean-up,takelotsofpicturesthat
+youcanshareafterwards.
+SaythankyouThankeveryonefor theirhelp.
+Usefullanguage
+Let'sdo...on...
+Inagroup,planyourownneighbourhood Whatshould/shouldn'twedo?
+clean-upandmakenotes. Weshould/shouldn't...
+68
+Soundsandlife skills:sentence stress|social responsibilities
+PB68Natural world|Unit7
+
+#### Scan Page 153
+
+7
+DiggoryBones
+Withtwosnakes,
+Thatwasn't
+Brutus!One's
+veryclever,
+gotspotsand
+Brutus.
+stripes,butthe
+otherhasn't.
+Runandget
+help,Dad!
+MISS
+Idon'tthinkyou
+shouldleaveyour
+daughterdownhere
+withasnake,Bones.
+Now,Bones,youshouldturn
+Youshouldmoveslowly
+onthecomputerfor theandcarefully,emily.
+instructionstogetoutofhere.Thisladder'soldand
+itisn'tverystrong.
+Ok,Dad.
+Wait
+Youneedtheforme!
+instructionsto
+getoutofhere,
+butIdon't!
+They're
+theyoung ThefamousbutterflyroomThey'reallorangeandblackstriped
+withwhitespotson theirwings.butterflies. ofQueenHetepheres!most
+Aagh!
+Hereare
+peoplethoughtthiswas
+Striped
+onlyastory.theirparents
+insects!
+toprotect
+them!
+You
+shouldn't
+touch
+anything,
+Brutus.
+Therearethousands
+ofbutterflies!
+Whyshouldtheyclimbtheladderslowlyandcarefully?Whatdothebutterflies
+looklike?
+69
+Story:unitlanguageincontext
+
+#### Scan Page 154
+
+Howcanwehelpendangered species?
+Listenandread.Whyaretheseanimalsendangered?
+TurtleOrangutanHummingbird
+Ivolunteeratan
+IjoinedtheTurtleAtschool,I'mlearning
+ProtectionProjectorangutanrescueabout theendangered
+centrenearmy twoyearsago.Turtlesspeciesinmycity,likethe
+cometoourbeacheachvillage.Orangutanshummingbird.Thislittle
+yeartolaytheireggs,buttheybirdisindangerbecausethecityis areoneof themost
+areanendangered species.endangeredanimalsin thegrowing.Therearemoreandmorenew
+Humansareabigproblemworld.Humansaredestroyingbuildings,sothehummingbirdislosing
+becausetheycatchturtlestoselltheirnaturalhabitatbyitshabitat.
+theireggs,meatandshells.cuttingdownthejunglefor
+Iwanttoprotecthummingbirds
+buildings,roadsandfarming.
+TheprojectteachespeoplewhybecauseIthinkweshouldhelp
+weshouldprotectturtles,andOurcentrehelpsorangutansprotectallendangered species.Inmy
+nowpeoplein thecommunity whichareindanger.Wegardenathome,weplantedflowers
+helptolookafterthebeachesfeedthemandhelpthesickandwehungsomefoodandwater
+onesgetbetter.It'slikeafeedersfrom thetrees.Thetreesin andkeeptheturtlessafe.
+school,too.Weteachthemthegardenalsoprovideshelterso
+Everyyear,wesavethousands
+howtosurvivein thewildsothat thebirdshaveasafeplaceto
+ofturtleeggsfromdanger.
+thatwhenthey'reready,thebuildnests.I'mhappybecausenow
+Ourprojectreallymakesa
+orangutanscangobacktoaIseehummingbirdsinourgardenall
+difference.
+saferpartof thejungle.thetime.
+Veronica
+Alejandro
+Umar
+Readagainandcompletethetable.
+TurtlesOrangutansHummingbirds
+Turtleorangutanrescueschoolproject
+Project
+ProtectionProjectcentre
+WhatisthePeoplecatchturtlesto
+problem?selltheireggs
+Howarepeople Theylookafterthebeaches
+helping?andkeepturtlessafe.
+Whichof theprojectswouldyouliketohelpwith?Why?
+Ilovehummingbirds,
+soI'dliketohelp
+-FINDOUTMORE-
+withthatproject.
+Whatarethebiggestcauses
+I'dliketohelpin theorangutanrescueofanimalendangerment?
+centrebecauseorangutansaremy
+favouriteanimal.
+70Geography:endangered speciesandconservation|social responsibilities
+PB70Natural world|Unit7
+
+#### Scan Page 157
+
+7
+Readthestudentreport.HowdoDIDYOUKNOW...?
+beeshelpplantstosurvive?Beesaresonoisybecausethey
+beat theirwingsabout230times
+persecond!
+Protectingbees
+Whyarebeesimportant?
+Beesaresoimportantbecausetheyhelpplantstosurvive.
+Whenabeeeatsthesugarynectarfrominsideaflower,
+itshairylegspickupsomepollen.Pollenistheyellow
+powderonflowers.Whenthebeegoestoanotherplant,
+itrubssomeof thepollenontoitandthispollinatesthe
+plant.Withoutbees,someplantsmightdisappear.
+AnotherreasonwhytheyareimportantisthatbeesHowcanwehelp?
+makehoney.Honeyisfoodfor thebeesinwinter,•Weshouldplantflowersinourgardensoronour
+buthumansandotheranimalsenjoyittoo! balconieswhichbeeslike,andofcourse,don't
+usepesticides. Whyarebeesendangered?
+• Weshouldalsobuylocalhoney.Whenwedo
+Beesareendangeredbecausefarmersusechemicals
+this,wehelpbeekeepersinourarea.
+calledpesticidesonplantstokilltheinsectswhich
+• Lastly,let'sremembertotalk aboutbeesandwhy eat them.Unfortunately,whenfarmersusethese
+theyaresoimportant. chemicals,theyalsokillbees.
+Underlinethefactswithwhenin thestudent
+Learningtowrite:
+reportinActivity1.
+Factswithwhen
+Inpairs,discusswhyitisimportanttoWeusewhentogivefacts.
+protectendangered speciesandhow
+Whenhumanscutdowntrees,
+youcanhelpthem.Completethetablewedestroyorangutans'natural
+inyournotebook.habitat.
+Whenweprovideshelter,wegive
+WhyisitimportanttoHowcanwehelp?
+themasafeplacetobuildnests.
+protectendangered
+species?
+Project
+Createafactfileabout
+Readytowrites
+anendangeredanimal.
+GotoActivity Bookpage70.
+Geography:endangered speciesandconservation|learningtolearn71
+
+## Unit 8: World of sport
+
+### Teaching Notes
+
+#### Page T72 (Pupil's Book p.72)
+
+Unit8World of sport
+Pupil's Bookp.72
+DExtra challengeElicitasummaryof thestory.
+Objectives
+To reviewsportsvocabularyandtotalk about theirKey:1school,2Lenny,3jumped,4wall,5race,6friend
+experienceofdoingsport.
+Presentation
+Target language
+• Writesentences3-6fromPupil's BookActivity2on the board.
+• Key language:present perfecttoexpress:experience
+Focus pupils onthenewstructure(present perfect)ineach
+withever,never,presentrelevance,followingIt'sthefirst
+sentenceandunderlineit.
+time...;celebrate,race,regularandirregularverbs
+• Focusontheformandhowthetenseismade(auxiliaryhave+
+• Revision:sportsandsportscompetitions,school,should
+pastparticiple).
+• Useconceptquestionstocheckpupilsunderstand the Warmer
+meaningofeachsentence.Showpupilsthat,e.g.He'sin
+• Mimeoneortwosportsthatpupilsknow.Whentheyguess,
+sentence3isacontractionofHehas.Makesurepupilsnotice
+writethesport,e.g.tennis,on the board.Whenthereare
+that thetime,i.e.when,isnotstatedinanyof thesentences
+threeorfoursportson the board,elicit theheadword,Sports,
+andthat thesearethingsthathaveonlyjusthappened.
+andwriteitin thecentreof theboard.
+• Play the•VideofromActivity1again.Whenpupilshearthe
+• DrawacirclearoundSportson the board.Brainstormwith the
+present perfect,theyputtheirhandsup.Pausethe•Video
+classthesportswordstheycanrememberandcreateamind
+andelicitwhatwassaid(questionand/oranswer).
+mapon the board.Pupils copyitinto theirnotebooks.
+• Focus pupils ontheSTUDYboxandreadtheexample
+sentencestogether.
+PB72.
+Whichsportsdoyoulike? PB72.ACTIVITY3
+• Showpage72on the whiteboard andaskpupils tofocuson Read and choosetherightwords.
+thephoto.Askwherethecharactersare.
+• Focus pupils onthefirstsentenceofActivity3.Tellthemto
+• Focusonthequestionandelicitresponses.Tickthesports
+choosetherightword:We'reorWe've.Elicittheanswerasa
+mentionedonthemindmap.
+fullsentence.Elicitwhat thefullformofeachoneis(Weare/
+Wehave).
+PB72.ACTIVITY1 •Pupils completetheactivityin pairs,checkingwithother
+pairsifnecessary.Check with theclassbyelicitingthefull Whowinsaprizefor thefirsttime?Watchandcheck.
+• Focus pupils onActivity1.Readthequestion.Elicitsomesentences.
+predictions,butdon'tconfirmanswersatthisstage.PlayKey:1We're,2never,3You've,4walked,5hasn't,6done
+the•Videoforpupils towatchandcheck theanswerto the
+question.Ask pupils tocheckin pairsand thenfeedbackwith
+PB72.ACTIVITY4 thewhole class.
+Ask and answer.
+VideoScriptscanbedownloadedfromTeacher Resourceson•Focus pupils onActivity4.Ask pupils todiscussthequestions
+Cambridge One.in pairsand thencomparetheiranswers withanotherpair.
+Check with thewhole class.
+BEPB72.ACTIVITY2
+AB72.Answerkey,seepageT107
+Watchagain.Completethesentences.
+• Tell pupils toopentheirPupil's Booksatpage72andfocusonEnding the lesson
+Activity2.•Elicitfrompupilsthingsin theirlivestheyhaven'tdone,but
+• Inpairs,pupilspredictwhat themissingwordsare.Play thethat theywouldliketo.Startwithanexample,e.g.I'venever
+visitedLondon,butI'dliketogoandseeBuckinghamPalace. •Videoagain.Pupils listenfor themissingwords.Theycheck
+in pairs.Check with theclass.
+Digital ClassroomExtra Resources
+0Presentation Plus:Unit8•Teacher Resources:Unit8,DownloadableActivity BookTeaching Notes IPractice Extra
+• Teacher Resources:Unit8,Reinforcementworksheet1
+• Video
+• AB94andPB94-95-Grammar reference8
+• T119-Consolidationactivity:Findthepresent perfect
+• T119-Extensionactivity:Inmylife
+
+#### Page T73 (Pupil's Book p.73)
+
+Unit8World of sport
+Pupil's Bookp.73
+Key:1She'sopenedthebox.2They'veclosedtheirsuitcase.
+Objectives
+3He'sskippedfor32hours,23minutesand5seconds/setanew
+To practisethepresent perfect.worldrecord.4He's answeredthequestioncorrectly.5They've
+finishedtheirexam.6He'sclimbedto thetopof theclimbingwall.
+Target language
+• Key language:present perfectforrecentlycompletedQExtra supportShowpupilstheAudioScripton the board.
+actionsandquestionforms;contrastingusesofgoingto
+1)65
+future,presentcontinuousandpresent perfect
+1Girl:Lookatthatbox.It'soldandmadeofwood.Itlooks
+• Revision:sports,ordinalnumbers,actionverbs
+reallyinteresting.Shallweopenit?
+Boy:Idon'tthinkweshould.
+Warmer
+Girl:Well,I'mgoingtoopenit.Ooh...It'sverydifficult.
+• Ask pupilsWhathaveyoudonetoday?Whatareyoudoing It'sopen!Wow!Lookwhat'sinside!
+now?andWhatareyougoingtodolater?Giveexamples. 2Woman:Canyouhelpme,please?Ican'tclosethissuitcase.
+Boy:Oof!It'sveryfull.
+PB73.ACTIVITY1 Woman:Iknow.Canyousitonit,please?Great!That'sit.
+We'vedoneit.Nowwecango.
+Canyourememberthelastlesson?Watchthe
+3Man1:He'sdoneit.That'sanewworldrecord.He's
+language video.
+skippedfor32hours,23minutesand5seconds.
+• Showpage73on the whiteboard.Ask pupils towatchand Congratulations!Howdoyoufeel?
+completetheactivityin the•Video.
+Man2:Ifeelgreat.
+• Play the>Video. 4Teacher:Whowasthefirstmantowalkonthemoon?
+Michael?
+Michael:Er,wasitNeilArmstrong? VideoScriptscanbedownloadedfromTeacher Resourceson
+Cambridge One.Teacher:That'sright,Michael.Welldone!
+5Teacher:Putyourpencilsdown,please.You'vefinished
+EPB73.ACTIVITY2yourexam.
+BoyandGirl:Yay!
+Choosewordstotalk about thepictures.
+6Instructor:OK,Robert,putyourrighthandupaboveyour
+• Tell pupils toopentheirPupil's Booksatpage73.Focusthemonhead.Putyourleftfootonthegreenrock.You'renearlyat
+thefirstsetofpicturesandonthespeechbubbles.
+thetopof theclimbingwall.Now,putyourlefthandupto
+• Pupils workin pairsandmakesentencesabout theother thetop.That'sit.Welldone!
+picturesusingthewordsin thebox.Checksentences,writing Robert:I'vedoneit!I'veclimbedto thetop!
+theexampleson the boardundereachheading:
+GoingtofuturePresentcontinuousPresentperfect
+PB73.ACTIVITY4
+Key:2aThey'regoingtowashthecar.bThey'rewashing... Read and orderthewords.
+cThey'vewashed...3aHe'sgoingtojumpoverthebar.
+• Focus pupils ontheActivity4instruction.Pupils writethe bHe'sjumping...cHe'sjumped...4aShe'sgoingtocookpasta.
+bShe'scooking...cShe'scooked...5aShe'sgoingtopaintthesentencesand thencheckin pairs.Check with theclass.
+walkshemountin.Tryat...yemaintoKey:1He'svisitedhisgrandmotherthisafternoon.2Haveyou
+everplayedbasketball?3She'sneverbeeniceskatingbefore.
+4Hehasn'tdonehishomework.5We'vewonfirstprize!
+6Havetheyenteredthecompetition?
+PB73.ACTIVITY3
+Listenand answerthequestions.EEAB73.Answerkey,seepageT107
+• Givepupilstimetoreadthequestions.Play the1)Audio.
+Pupils listenandwritetheiranswers.Ending the lesson
+• Mimeasequenceofactions,alongthelinesofPupil's Book
+Activity2.Pupilsgivethesentencesasyoumime.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit8•Teacher Resources:Unit8,DownloadableActivity BookTeaching Notes
+LPractice Extra
+)Audio65•Video •Teacher Resources:Unit8,Extensionworksheet1
+• AB94andPB94-95-Grammar reference8
+• T119-Consolidationactivity:Talkingaboutactions
+• T119-Extensionactivity:Whatwe'vedonein thelesson
+T73World of sport|Unit8
+
+#### Page T74 (Pupil's Book p.74)
+
+Unit8World of sport
+Pupil's Bookp.74
+PB74.ACTIVITY3 Objectives
+To readaboutsportsthatpeopledoindifferentseasons.Ask and answer.
+• Focus pupils onActivity3.Ask pupils todiscussthequestions
+Target language
+in pairsand thencomparetheiranswers withanotherpair.
+• Key language:sports:athletics,cycling,golf,racing,skiing,Checkanswersasawhole class.
+sledging,snowboarding;seasons:spring,summer,autumn,
+winterEEAB74.Answerkey,seepageT107
+• Revision:weather,months
+Ending the lesson
+Warmer•Callouttheseasonsinturn(butnotinorder).Pupilssaywhat
+sportstheylikedoingineachseason.
+• Elicitsomesportsonto theboard.Ask pupilswhattimeof
+yeartheyplaythesesports.Review/Introducetheseasons.
+Ask pupilsiftheseasonshappenat thesametimeofyearall
+overtheworld.Reviewwhat theyknowaboutseasonsin the
+oppositehemisphereto theirown.
+PB74.ACTIVITY1
+Readtheblog.Whattimeofyeardopeopledoyour
+favouritesport?
+• Tell pupils toopentheirPupil's Booksatpage74.Showthe
+pageon the whiteboard.FocusthemonActivity1and the
+activityinstructionsandquestion.Focus pupils onthetextand
+elicitthatit'sablogandthatit'saboutsportsforallseasons.
+• Pupils readthetextssilentlyandthinkabout theiranswerto
+thequestion.Theybrieflycomparetheirideasin pairs.Focus
+oneachtextinturn.Discusswhat thesportsareandwhat
+timeofyearpeopleusuallydothem.Elicitifanyof these
+sportsarepupils'favourites.
+PB74.ACTIVITY2
+Readagainandcorrectthesentences.
+• Focus pupils ontheActivity2instructionandonthe
+sentences.Checktheyknowwhattodo.Pupils work
+individuallyandcorrecteachsentence.Theywritethe
+correctversionin theirnotebooks.Theycheckin pairs.Elicit
+correctionsfrom theclassandprovideanynewvocabularyon
+theboard.
+0Extra supportShowpupilsthewrittenformasyoucorrect.
+Key:1Atschooltheydoathleticsin thesummer.2It'sdifficultto
+doathleticsin thecoldandrain.3Youcan'tplaygolfin thesnow.
+4Todowintersportsweneedsnowandice.5Peoplegosledging
+in thewinter.6Springcomesbetweenwinterandsummer.7Winter
+comesafterautumn.8TheTourdeFranceisabicyclerace.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit8CPractice Extra•Teacher Resources:Unit8,DownloadableActivity BookTeaching Notes
+• Teacher Resources:Unit8,Reinforcementworksheet2
+• AB94andPB94-95-Grammar reference8
+• T119-Consolidationactivity:Whenpeopledosports
+• T119-Extensionactivity:Unusualsports
+
+#### Page T75 (Pupil's Book p.75)
+
+Unit8World of sport
+Pupil's Bookp.75
+Song
+Objectives
+TohavefurtherpracticereadingandwritingaboutsportsEJPB75.ACTIVITY2
+andtosingasong.
+Listenandorder.Listen and check.Thendokaraoke.
+Target language•Point to thesongon the whiteboard.Focus pupils onthefirst
+partof theActivity2instructions.Givethemtimetoread •Key language:snowboard,present perfect(experience),
+past simple,sportsandsportsequipment,definitionsthelinesfrom thesongbeforetheylisten.Play the🔊Audio.
+Pupils listenfor theorder.Theycheckin pairs.Play the
+• Revision:colours,adjectives,clothes
+Audioagain.Check with theclass.
+• Checkgeneralunderstandingandkeyvocabularybefore
+Warmer
+pupilsstarttosingthesong.Play theVideoforpupils to
+• Givepupilstwominutestothinkofasmanysportsastheycan
+watchandrepeatin pairsoflines,and thenasawhole.
+whichbeginwithdifferentlettersof thealphabet.Elicitfrom
+• Dividetheclassintosevengroups.Eachgroupsingsapair
+theclass.oflines.Play thefirstversiononthe•Videoand thenthe
+karaokeversion.Groupschangerolesandrepeat.
+PB75.ACTIVITY1
+Key:2d,3c,4g,5b,6a,7f
+Listen and writethewords.
+"67"*68
+• Tell pupils toopentheirPupil's Booksatpage75.Show
+AsinPupil's BookKaraokeVersion page75on the whiteboard.Focus pupils ontheActivity1
+instructionandcheck theyknowwhattodo(writethewords
+astheyhearthemspelt).FocusthemontheexampleandtellPB75.ACTIVITY3
+themwhat thewordgroupisgoingtobe:sportsandseasons.
+Read and complete.Answerthequestions.
+• Pupilsclosetheirbooks.Play the🔊Audio.Pupils listen
+andwritein theirnotebooks.Theycheckin pairs.Play the•Focus pupils onthephotosforActivity3.Point to thephotos
+on the whiteboard.TelltheclassthesearephotosfromJane's 1)Audioagain.Pupilsopentheirbooks.Check with theclass.
+holiday.Elicitwhereshewasandwhatshedid(usingthe
+0Extra supportAsk pupils tospellasyouwritetheanswerson photosonly).
+theboard for themtocheck.•Focus pupils onthewordsin theboxandonthetext.They
+Key:2skiing,3autumn,4sledging,5athletics,6spring,7cycling, readthetextsilentlyandputthecorrectwordsin thegaps,
+8racingusingthephotostohelpthem.Theycheckin pairs.Check
+with theclassbeforetheymoveonto thequestions.They
+*66writetheanswersto thequestionsin theirnotebooks.Check
+1g-o-l-ftheanswers with theclass.
+2s-k-i-i-n-gKey:2skiing,3sledging,4snowball,5snowboarding,6hill,
+3a-u-t-u-m-n7snowboard
+4s-l-e-d-g-i-n-g
+Key:1Shewentto themountains.2Shewentwithherfamily.
+5a-t-h-l-e-t-i-c-s
+3Theywentskiingeverymorning.4HerolderbrotherFrankwent
+6s-p-r-i-n-g sledgingwithher.5Theytriedtoplayvolleyballwithasnowball.
+6Theyallwentsnowboardingtogether.
+7c-y-c-l-i-n-g
+8r-a-c-i-n-g
+AB75.Answerkey,seepageT107
+Ending the lesson
+• Singthesongfrom thebeginningof thelessonagainwith
+pupils.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit8•Teacher Resources:Unit8,DownloadableActivity BookTeaching Notes
+LaPractice Extra
+• Teacher Resources:Unit8,Extensionworksheet2andSongworksheet )Audio66-68•Video
+• AB94andPB94-95-Grammar reference8
+• T119-Consolidationactivity:Holidaystories
+• T119-Extensionactivity:Mindmaps
+T75World of sport|Unit8
+
+#### Page T76 (Pupil's Book p.76)
+
+Unit8World of sport
+Pupil's Bookp.76
+"69
+Objectives
+AsinPupil's BookandKey
+To reviewregularpastparticiplesand thepronunciationof
+theirendings:/t/,/d/and/id/(jumped,climbed,decided)
+PB76.ACTIVITY3
+Target language Listen to theverbs.Completethetable.
+• Key language:pastparticiples(e.g.climbed,played,•Drawthreecolumnson the board.Focus pupils onActivity3.
+listened,arrived)endingin/d/sound;pastparticiples Asktheclassiftheycanhearadifferencein theverbendings
+(e.g.crossed,finished,jumped,walked)endingin/t/sound;inclimbedandjumped.
+pastparticiples(e.g.decided,needed,waited,wanted)•Tell pupilstheywillheareightverbsandtowritethemin the
+endingin/did/or/tid/
+correctcolumn.Play the1)Audiotwiceifnecessary.
+• Additionallanguage:dowell,helpafriend,goback,jump•Elicittheverbsandwritethemin thecolumns.Modelthe
+over,losetheracepronunciationanddrill.
+• Revision:offersandsuggestions:Wouldyoulike...?•Focusonthethirdcolumnnow.Readtheverbsandaskpupils
+Let's...,Ifyou...,Ican... what theynoticed(anextrasyllable,soundslike/did/or
+/tid/;thishappenswhenaverbendsina/d/or/t/).Pupils
+Warmerpractisesayingtheseverbs.
+• Ingroups,pupilsthinkofaverbforeachletterof theKey:/t/jumped,crossed,finished,walked;/d/climbed,played,
+alphabet.Write themon the board andelicit thepast listened,arrived,/Id/
+participles.Ask pupils tounderlineregularpastparticiples
+endingin-ed.*70
+jumped,crossed,climbed,finished,played,listened,arrived,
+walked
+PB76.ACTIVITY1
+Watchthevideo.HowdoesLennyfeel?Howdoes
+PB76.ACTIVITY4
+Lenny'sfriendfeel?
+• Showpage76on the whiteboard.Tell pupilstheyaregoingtoLennyistalkingtohisfriendin therace.Readand
+watcha&Video.Focus pupils onActivity1and thequestions.match.
+• Play the•Video.Pupils compareanswers.Checkas a class.•Focus pupils onActivity4.Explainitistheconversation
+betweenLennyandhisfriend.Pupils readandmatch.
+Key:Lennyisexcited.Hisfriendissad.
+Key:1b,2d,3a,4c
+VideoScriptscanbedownloadedfromTeacher Resourceson
+LEEB76.ACTIVITY5
+Cambridge One.
+Inagroup,completetheteamworkchallenge.
+Pronunciationfocus
+• Focus pupils ontheinstructionand theUsefullanguagebox.
+PB76.ACTIVITY2Pupils workin groupstobuildabridge.
+• Providesupportwhereneeded.Observewhichteamsare
+Listen and writethewordsin thecorrectform.
+workingwelltogetherandcomplimentthem.Makeanoteof
+• Ask pupils toopentheirPupil's Booksatpage76.Focus anycommonerrorsyouhearandexamplesofgoodlanguage
+pupils ontheinstruction.Ask pupils tolisten,readandwrite
+useforfeedback.
+thecorrectformof theverbs.Play the🔊1)Audio.
+• Elicitanswersandwritethemon the board.SaytheverbsEEAB76.Answerkey,seepageT107-108
+andaskwhichhasadifferentsoundat theend(climbed),and
+Ending the lesson
+what thesoundis:/d/.Elicittheendsoundof theotherthree
+verbs:/t/.•Askeachteamtoreflectonhowwelltheydidthetask
+andwhat theycoulddobetter.Praisetheclassfor their
+Key:jumped,walked,climbed,finshedobservationsandcooperation.
+Digital ClassroomExtra Resources
+Presentation Plus:Unit8•Teacher Resources:Unit8,DownloadableActivity BookTeaching Notes
+LPractice Extra
+• Teacher Resources:Unit8,DownloadableActivity BookAudioScript )Audio69-70•Video
+• AB94andPB94-95-Grammar reference8
+• T120-Consolidationactivity:Writingtogether
+• T120-Extensionactivity:-edendings
+
+#### Page T77 (Pupil's Book p.77)
+
+Unit8World of sport
+Pupil's Bookp.77
+Emily:Ihaven'ttouchedanything.
+Objectives
+Emily:TheAncientEgyptianslovedsport.
+To readastoryandreviewlanguagefrom theunit. DiggoryBones:Hmm.They'vepaintedsportsonthesewalls
+..they'retryingtotellussomething.
+Target language
+DiggoryBones:Youneedmoreexercise,Brutus.
+• Key language:languagein thestory,invent,handball
+Emily:TheAncientEgyptiansinventedhockeyandhandball.
+• Revision:characternames,languagefrom theunit
+Youshouldusesomeofthosetreasures.
+BrutusGrabbe:I'vewaitedforthismomentallmylife...I'm
+Warmer
+goingtoberich!
+• ReviewthewholeDiggoryBonesstorysofarwith theclass. DiggoryBones:Whenthewatercomes,swimupto thelight.
+Givethemcluesabouteachepisode,e.g.WherewasDiggory Emily:Right.
+in thefirstepisode?Doyourememberwhat theboneswere?
+Emily:Timetogo,Dad!
+Ifpupilscan'tremember,letthemopentheirPupil's Books
+DiggoryBones:TheAncientStoryofSiriussaysyoucan'ttake
+tolook.Tellthemthisisthelastepisode.Elicittheirideasfor
+thetreasureandlive,Brutus.
+howthestoryisgoingtoend.
+BrutusGrabbe:No!Mygold!
+Story
+snakebow,email,son.Thefirstoneyou'veeversentfrom
+#EPB77.ACTIVITY1DiggoryBones:Thanks,Dad!
+Emily:Brutushasn'tcomeup!
+WhichsportsdidtheAncientEgyptiansinvent?Where
+BrutusGrabbe:Mytreasure!I'velostitall!
+didDiggorysendtheemailfrom?
+Dad:You'rethe'treasure'now,Brutus!
+• Showpupilsthefirstsceneof thestoryon the whiteboard.
+FocusthemonthestoryandaskwhichcharacterstheyBEAB77.Answerkey,seepageT108
+cansee.Setthequestions:WhichsportsdidtheAncient
+Egyptiansinvent?WheredidDiggorysendtheemailfrom? Ending the lesson
+• Play the•Videowithbooksclosed.Pupils watchtofindthe
+• Ask pupilswhichrhyme/songthey'dliketodoagainfrom the
+answers.unit.Doittogethertoendthelesson.
+• Ask pupils toopentheirPupil's Booksatpage77.Play the
+Audioforpupils tolistenandread.Pausethe*)Audio
+after eachframeforpupils torepeat.
+• Attheend,checkgeneralcomprehensionbyaskingquestions,
+e.g.Howdotheygetoutof thebutterflyroom?Whydidthe
+AncientEgyptianspaintsportsonthewalls?DoesBrutus
+getthetreasure?WhydoesDiggorytellBrutustoclosehis
+mouth?HowdoesSirDougknowhowtofindDiggoryand
+Emily?WhydidBrutuslosethetreasure?
+• (🔊71
+Emily:Nowwhathaveyoudone?
+DiggoryBones:Youshouldcloseyourmouth,Brutus!Those
+butterfliesaredangerous!
+Emily:Thebutterflieshavestartedtogobackto thewalls.
+DiggoryBones:Thislookslikethewayout.It'sthefirsttime
+anyone'susedthisdoor.
+BrutusGrabbe:Waitforme!
+DiggoryBones:Idon'tknowwhat'sinside,sostayright
+behindme.Don'ttrytobringanythingwithyou!
+Digital ClassroomExtra Resources
+Presentation Plus:Unit8•Teacher Resources:Unit8,DownloadableActivity BookTeaching Notes
+Practice Extra
+• AB94andPB94-95-Grammar reference8 (Audio71Video
+• T120-Consolidationactivity:Diggory'semail
+• T120-Extensionactivity:Roleplay
+T77World of sport|Unit8
+
+#### Page T78 (Pupil's Book p.78)
+
+Unit8World of sport
+Pupil's Bookp.78
+#PB78.ACTIVITY2 Objectives
+To learnthedifferencebetweenaerobicandanaerobicReadagainandchoosethecorrectword.
+sports.•Writeaerobicandanaerobicon the board andaddrunning
+belowaerobicandweightliftingbelowanaerobicasexamples.
+Target language
+Explainthat thedifferencebetweenthesesportsisthat
+• Key language:physicaleducationrunningisacontinuousexercise.Peoplerunforacertain
+• Additionallanguage:aerobic,anaerobic,breathe,breakslengthoftimewithoutstoppingandsogettheirenergyfrom
+deeper,gymnastics,long-distance,marathon,muscleoxygen.Weightliftinginvolvesintensemovementforashort
+groups,repeated,train(v)periodoftime.Weightliftersuseenergyalreadystoredin
+theirbodytohelpthemdoafewminutesofintenseactivity •Revision:body,breaks,energy,exercise,heart,oxygen,
+beforestopping.Thisisthedifferencebetweenaerobicand running,strong,stronger
+anaerobicsports.
+Warmer•Focus pupils onthesentencesinActivity2and theexample.
+Pupils workin pairsandcirclethecorrectword.
+• Thinkofasport.Donottellpupils.Acceptquestionsfor
+pupils toguessthesport.YoucanonlyanswerYesorNo.•Checkasawhole class.
+Forexample,Isitateamsport?(No).Canyoudoitin the
+Key:2aerobic,3anaerobic,4aerobic,5anaerobic,6anaerobic
+summer?(No).Isitawintersport?(Yes).Isitskiing?(No).
+Isitsnowboarding?(Yes!)•Extra challengeProvideexamplesofothersportsthatpupils
+• Demonstrateandaskvolunteerstobetheteacher.knowandwritethemon the board.Ingroups,pupilschooseone
+anddescribeit,sayingifitisaerobicoranaerobic.
+PB78.
+PB78.ACTIVITY3
+Howdopeopletrainfordifferentsports?
+• Showpage78on the whiteboard andfocuspupils ontheWhatsportsdoyoulikedoingandwhy?
+question.Givepupilstimetodiscussthequestiontogether.•Focus pupils onActivity3and theexamples.Pupils workin
+Elicitideasfrom theclass,butdon'tconfirmthematthispairsanddiscuss.Theycomparetheirideaswithotherpairs.
+stage. •Asfeedback,askDoyoulikethesamesports?Encourage
+• Play the•Videoforpupils towatchand answer.Pupilspupils tosharedetailswith therestof theclass.
+compareideasin pairs.Checktheanswerwith theclass.
+FINDOUTMORE
+• Point to theFINDOUTMOREboxandreadthequestion
+VideoScriptscanbedownloadedfromTeacher Resourceson
+togetherwithpupils.Tellthemtheyaregoingtosearchfor
+Cambridge One.
+theanswerto thequestiononline.
+• Assignthis activityashomeworkandtellpupilstheywillshare
+PB78.ACTIVITY1theirfindingsin thenextclass.
+Listenandread.Whichsportshouldyoudowitha •Ask pupils todoaninternetsearchathometofind outthe
+answerto thequestion.Remindthemtoaskanadultfor trainer?
+permissionfirst.
+• Showthepageon the whiteboard.Focusonthephotosand
+askpupilsiftheyknowthesports(long-distancerunning,WEAB78.Answerkey,seepageT108
+weightlifting,hockey).
+Ending the lesson •Focus pupils onthequestion.Play the🔊)Audioforpupils to
+listenandreadtoanswerthequestion.
+• Ask pupils toreviewthesportstheydiscussedin thelessonin
+• Pupils check theanswerin pairs.Check with theclass.
+groupsandsaywhichof themtheypreferandwhy.
+Key:weightlifting
+('72
+AsinPupil's Book
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit8,SubjectworksheetX gPresentation Plus:Unit8CPractice Extra
+1)Audio72•AB94andPB94-95-Grammar reference8 •Video
+• T120-Consolidationactivity:Myfavouritesport
+
+#### Page T79 (Pupil's Book p.79)
+
+Unit8World of sport
+Pupil's Bookp.79
+PB79.ACTIVITY2 Objectives
+To readaboutwhyswimmingisahealthyhobbyandUnderlinewordsthathelporganisethewriter'sideas
+completeaproject.in theleafletinActivity1.
+• Focus pupils ontheLearningtowritebox.Askvolunteersto
+Target language
+readtheexamplesentencesaloud.ElicitthatFirstofalland
+• Additionallanguage:backwards,should,intense,marathonLastlyhelpthewritertoorganisetheirideas.Ask pupils to
+• Recycledlanguage:aerobic,exercise,fast,leaflet,running,readtheleafletinActivity1againtoidentifymoreexamples
+sport,swimming thathelp.
+• Checkanswersas a class.
+Warmer
+Key:Firstly,Finally
+• ShowtheFINDOUTMOREfeaturefrompage78onthe
+whiteboard.Readoutthequestion.
+• Inpairs,askpupils totalk aboutwhat theylearntfrom theirEEPB79.ACTIVITY3
+internetsearch.Feedbackas a class.
+Inpairs,discussothersportsandwhytheyaregood.
+Writeyourideasinyournotebook. DIDYOUKNOW...?
+• Showpage79on the whiteboard.Point to thephotoandelicit•Ask pupils tothinkofothersports.Pupils workin pairs
+todiscuss.Havethemsaywhythesportsaregoodand thesport(marathon).
+makenotes.
+• Askoneof thepupils toreadtheinformationaloud.Ask
+• Makesureallpupilsmakenotesastheywillneedthemfor the
+pupilsiftheyaresurprisedby thetimeorthewaythe
+Activity BookReadytowriteactivityonpage78.
+marathonwascompleted.Dotheythinktheycouldbeat the
+time? •Pairscompareideaswithothersand thenfeedback
+interestingsportsto thewhole class.
+PB79.ACTIVITY1EJAB79.Answerkey,seepageT108
+Readtheleaflet.Whyisswimmingagoodhobby?
+• Ask pupils toopentheirPupil's Booksatpage79.FocusLEEPB79.
+pupils onActivity1.Point to thephotoandreadthequestion
+in therubric.Elicitideasandacceptallreasonableanswers.PROJECT
+• Point to thephotoandelicitthatitshowsaswimmer(an•Teachingnotesfor theProjectcanbedownloadedfrom the
+Olympicswimmer).Teacher ResourcesonCambridge One.
+• Ask pupils toreadtheleafletandseeiftheirideaswere
+Ending the lesson
+correct.Find outifanyof theinformationin theleaflet
+surprisedthem.Invitevolunteerstoreadthetextaloud.Then•Havepupilsmimedifferentsportsfor theirclassmates
+toguess.Theycanbeeithersportsfrom thelessonsor askthequestionin therubricagainandelicit theanswer.
+differentsports.
+Key:Itkeepsyousafeinwater,itkeepsyoufit,youcanswimalone
+orinateam,youcanmakenewfriendsandit'sfun.
+Digital ClassroomExtra Resources
+• Teacher Resources:Unit8,DownloadableActivity BookTeaching Notes
+Presentation Plus:Unit8LPractice Extra
+ETestGenerator:Unit8Test•AB94andPB94-95-Grammar reference8
+• T120-Extensionactivity:Sportsvocabulary
+T79World of sport|Unit8
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 158
+
+8World of sport Whichsports
+doyoulike?
+4
+Whowinsaprizefor thefirsttime?Watchandcheck.
+Watchagain.Completethesentences.
+STUDY
+1Today'stheprizeday.
+We'vedoneit.
+2Goodluckin therace, Hehasn'tlost.
+3He'sHaveyoueverwonaprize?
+overthemats.
+Yes,Ihave./No,Ihaven't.
+4Hehasn'tclimbedoverthe
+5He'slostthe
+6He'sstoppedtohelpa
+Read and choosetherightwords.
+1We're/We'vegoingtogivetheprizeto thewinners.4He'swalk/walkedalongthebench.
+2I'veever/neverwonanyprizes!5Hehaven't/hasn'tlost.
+3You've/Youhaven'tnearlyfinished!6We'vedoing/doneit!
+Ask and answer.
+1DoyouthinkLennydidtherightthing?
+2Whichismoreimportant,winningorhelpingyourfriends?
+72
+Language:present perfect
+PB72World of sport|Unit8
+
+#### Scan Page 161
+
+8
+Canyourememberthelastlesson?Watchthelanguage video.
+Choosewordstotalk about thepictures.cookjumppaintstartwalkwash
+1They'regoingtostarttherace.They'restartingtherace.They'vestartedtherace.
+b
+Listenand answer Read and orderthewords.
+thequestions.
+1this/afternoon./visited/He's/his/grandmother
+1Whathasshedone?2you/Have/ever/basketball?/played
+2Whathavetheydone?3never/iceskating/before./been/She's
+3Whathashedone?4He/his/hasn't/done/homework.
+4WhathasMichaeldone?5won/first/We've/prize!
+5Whathavetheydone? 6entered/the/Have/they/competition?
+6WhathasRobertdone?
+Practice:present perfect73
+
+#### Scan Page 162
+
+Readtheblog.Whattimeofyeardopeopledoyourfavouritesport?
+ALLBLOGSMYBLOGNEWPOST
+Kid'sBox
+Reportsrightweather.
+Whenwedosomesports,weneedthe
+Sportsforallseasons
+Wecanonlydosomesportsin the
+winterbecauseweneedsnowand
+ice.Alotofpeopleenjoyskiingin
+thewinterholidays.Todayalotof
+youngpeoplelikesnowboarding,
+too.Sledgingisalsoverygoodfunin
+Athleticsisasportwhichwinter.Youcansledgedownahill.
+weusuallydooutside.It's
+difficulttodoin thecold
+andrainso,atschool,we
+Thereareothersportswhichyoucandoinanyseason.Inthe
+doathleticsin thesummer.
+UKandEurope,cyclingisaverypopularsport.Alotofpeople
+Lotsofpeopleplaygolf.
+cycleinspring,autumnandwinter,notonlyin thesummer.
+Youplay
+Somepeoplehaveracingbikesandentercompetitions.The
+golf
+mostfamousbicycleraceistheTourdeFrance,whichisin the
+inany
+summer.
+season
+of the
+Thedatesfor theseasonsaredifferentin
+year,but
+differentpartsof theworld.InEurope,
+notwhen
+NorthAmericaandAsia,springisfrom
+itsnows!
+MarchtoJune,butinAustralia,Africa,
+IndiaandSouthAmerica,itisfromabout
+SeptembertoDecember.
+Readagainandcorrectthesentences.
+1Atschooltheydoathleticsin theautumn.5Peoplegosledgingin thesummer.
+2It'seasytodoathleticsin thecoldandrain.6Springcomesbetweenautumnandwinter.
+3Youcanplaygolfin thesnow.7Wintercomesaftersummer.
+4Todowintersportsweneedfogandrain.8TheTourdeFranceisasnowboardingrace.
+Ask and answer.
+Ienjoyplayingbasketballin thesummer
+1Whichsportsdoyouenjoydoingin thesummer?becauseIcanplayoutside.
+Why?
+2Canyoupractiseanyof thesewintersportswhere
+IcangosledgingwhereIlive
+youlive?Why?becauseitsnowsin thewinter.
+74Vocabulary:sportsandseasons
+PB74World of sport|Unit8
+
+#### Scan Page 165
+
+8
+DE66Listen and writethewords.golf
+67-68Listenandorder.Listen and check.Thendokaraoke.
+aSomelikeplayingfootball,eWelovesport,swimming,sailing,running!
+Somelikewatchingit.Welovesport,
+• 
+bWe'veskatedin thepark,Welovetodoitall.
+fIt'sgoodtomoveyourbody, We'vemadeaballtothrow.
+DON'TJUSTSIT! cWe'veplayedgolfwithGrandma,
+We'veracedagainsttheclock.gWe'veplayedbadmintonandtennis,
+dWe'veskieddownamountain,We'vesledgedin thesnow,
+We'veclimbeduparock,
+Read and complete.Answerthequestions.
+hillmountainsskiingsledging
+snowballsnowboardsnowboarding
+ThismorningJaneiscominghomefromherholidayin the1)mountains
+withherfamily.She'shadagreattime.Duringtheweekhermotherandfather
+went(2)everymorning,butJaneandherolderbrotherFrank
+went(3)AfterlunchJaneandherbrothersplayedin thesnow.
+Theytriedtoplayvolleyballwithabig*),butitwasvery
+difficultbecausethesnowwastoosoft.Onthelastdaytheyallwent
+(5)together.Jane'sparentsandbrotherskeptfallingandrolling
+downthe(6),butJanewasquitegoodatit.Shewantstobuya
+(7)andgoto themountainsagainnextyear.
+1WheredidJanegoonholiday?
+2Whodidshegowith?
+3Whatdidherparentsdoeverymorning?
+4WhichofJane'sbrotherswentsledgingwithher?
+5Whatdidtheytrytoplayvolleyballwith?
+6Whatdidtheyalldoonthelastdayof theirholiday?
+75 Practice:sportsandseasons
+
+#### Scan Page 166
+
+Soundsandlife skills
+Workingtogether
+Watchthevideo.HowdoesLennyfeel?
+HowdoesLenny'sfriendfeel?
+Pronunciationfocus
+Listen and writethewordsin the
+correctform.
+STELLA:Yeah!He's(jump)overthemats
+andhe's(walk)alongthebench,
+buthehasn't(climb)overthewall.
+Comeon,Lenny!You'venearly
+(finish)!
+Listen to theverbs.Completethetable.
+It/ending/d/ending
+decided
+wanted
+needed
+waited
+Lennyistalkingtohisfriendin therace.Read and match.
+1Hey,areyoualright?aGoodidea!
+2Wouldyoulikesomehelp?bYes,Ithinkso.
+3OK.Ifyouholdtherope,Icanpushyouup.cThankyousomuch!
+4Thereyougo!dYes,please!
+Inagroup,completetheteamworkchallenge.
+CHALLENGE:Tobuildabridge
+Usefullanguage
+Useclassroommaterials Wouldyoulike...?
+HOW:
+likepaper,card,glueIfyou...,Ican...
+andstickytape.
+Let's...
+76Soundsandlife skills:endings/t//d/and/id/|emotional development
+PB76World of sport|Unit8
+
+#### Scan Page 169
+
+8
+-DiggoryBones
+Nowwhathave
+youdone?Thebutterflieshavestarted
+forme!
+togobackto thewalls.
+THINGLING
+Idon'tknowwhat's
+inside,sostay
+rightbehindme.
+Don'ttrytobring
+anythingwithyou!
+Youshouldclose
+yourmouth,Brutus!
+ThosebutterfliesIhaven'ttouched
+Thislookslikethewayout.It'sthe
+aredangerous!anything.
+firsttimeanyone'susedthisdoor.
+I'vewaitedforthismomentall
+TheAncientEgyptiansinvented
+mylife...I'mgoingtoberich!
+hockeyandhandball.Youshould
+usesomeofthosetreasures.
+Hmm.They'vepainted
+sportsonthesewalls
+...they'retryingto
+tellussomething.
+YouneedmoreWhenthewater
+exercise,Brutus.comes,swimupRight.
+TheAncient
+to thelight.
+Egyptians
+BOOOM
+lovedsport.
+Igotyouremail,son.The
+mytreasure!You'rethe
+firstoneyou'veeversent
+I'velostitall!)'treasure'
+fromasnakebowl,eh?
+now,Brutus!
+GLOTimeto
+610°
+go,Dad!
+GURGLE
+Thanks,
+Dad!
+TheAncientStoryof Brutus
+Siriussaysyoucan'thasn't
+No.mygold.takethetreasure
+comeup!
+andlive,Brutus.
+WhichsportsdidtheAncientEgyptiansinvent?WheredidDiggorysendthe
+emailfrom?
+Story:unitlanguageincontext77
+
+#### Scan Page 170
+
+• Howdopeopletrainfor
+differentsports?
+1772Listenandread.Whichsport
+shouldyoudowithatrainer?
+Sportsandexerciseareveryhealthyhobbies,
+whichpeopleenjoyallovertheworld.There
+LET'SGETACTIVE!aresomanydifferenttypestochoosefrom,
+butdidyouknowthat therearetwotypes
+ofexercise?There'saerobicexercise,which
+LONG-DISTANCERUNNINGmeans'withair'andanaerobicexercise,which
+Thisisagreatexampleofaerobicmeans'withoutair'.Let'sfind outmore.
+sport.Whenyourunyouneed WEIGHTLIFTING
+tobreathefasteranddeeper,so
+oxygentravelsfromyourlungstoanaerobicsportHOCKEY
+yourheart.Thenyourheartsends whereweightliftersLastly,likemostsports,
+oxygenaroundyourbodytoyourdoshort,repeatedhockeyisbothaerobicand
+muscles,andthisgivesthemenergy. andverydifficultanaerobic.Whenaplayer
+Ifyouwanttobealong-distanceexercisesforrunsacrossthefield,they
+runner,it'simportanttotrainslowly. about90seconds.useaerobicenergy,and
+Everytimeyoutrain,yourheartandThere'snotimewhentheyhittheball,they
+lungsgetstronger,andthismakes foroxygentogetuseanaerobicenergy.
+youfitter,soyoucanrunfurtherandto theirmusclesbeforetheexerciseis
+forlonger.Tryit,andwhoknows?Thinkabouto thersports finished,sotheirbodyhastousethe
+and thetypesofenergy Onedayyoumightrunamarathon!energyitalreadyhas.Thismeansthey
+theyuse.Tryanewsport
+musttakelotsofbreaks.Weightlifters
+todayandcommentbelow!
+useall themusclegroups,whichis
+Happyexercising! whytheirbodiesaresostrong.
+Ifyouwanttotryweightlifting,it's
+importanttoaskasports teacher
+forhelp.Ifyoudoanexercise
+incorrectly,it'seasytogethurt.
+Readagainandchoosethecorrectword.
+1Itmakesyoufitter.aerobic/anaerobic
+2Itusesoxygen.aerobic/anaerobic
+3Itusesenergyfrom thebody.aerobic/anaerobic
+4Itisalongexercise.aerobic/anaerobic
+5Itisshortexercises.aerobic/anaerobic
+6Itmakesyourmusclesstronger.aerobic/anaerobic
+Whatsportsdoyoulikedoingandwhy?
+IlikeplayingcricketbecauseitmakesmefitandFINDOUTMORE-
+Icanplaywithmyfriendsat thesametime.
+Whatisthemostpopularsport
+inyourcountry?Isitmostly
+Iexerciseeveryday,andIreallylike
+aerobicoranaerobic?
+gymnasticsbecauseitmakesmestronger.
+78Physical education:aerobicandanaerobicexercisecritical thinking
+PB78World of sport|Unit8
+
+#### Scan Page 173
+
+8
+Readtheleaflet.Whyis DIDIYOUKNOW...?
+swimmingagoodhobby?Thefastesttimerecordedforan
+athletetocompleteamarathon
+whilerunningbackwardsis3:43:39.
+Tryswimming
+It'snevertoolatetotryswimming,
+and therearelotsofreasonswhyit'sanamazing
+sport.Firstly,waterisallaroundus,soit'simportant
+toknowhowtobesafeinandnearwater.
+Anotherreasonwhyyoushouldgoswimmingisthatitisvery,veryhealthy.Swimmingisanintenseaerobic
+workout.Ituseslotsofdifferentmusclegroups,soit'sagreatwaytogetfitterandstronger.
+Finally,swimmingisagreatsporttodobothaloneandinateam.Youcanswimaloneandtakesometimeto
+thinkaboutyourday,andyoucanmakesomenewfriendsandentercompetitionsasateam.It'ssomuchfun!
+Ifyou'reabeginner,ormaybeyouhaven'tbeenswimmingforalongtime,getbackinthatpoolandenjoyit.
+It'ssuchahealthyhobby!
+Underlinewordsthathelporganisethewriter'sideasin theleafletinActivity1.
+Learningtowrite:
+Organisingideas
+Weusefirstly,firstofall,secondly,anotherreasonis,lastly
+andfinallytoorganiseideas.
+Firstofall,footballisagreatteamsport.
+Lastly,likemostsports,hockeyisbothaerobicandanaerobic.
+Inpairs,discussothersportsandwhytheyaregood.Writeyourideasin
+yournotebook.
+Project
+Readytowrite:
+Researchasportandmakea
+GotoActivity Bookpage78.
+postertopresentto theclass.
+Physical education:aerobicandanaerobicexercise|learningtolearn79
+
+## Review: Units 7 & 8
+
+### Teaching Notes
+
+#### Page T80 (Pupil's Book p.80)
+
+ReviewUnits7and8
+Pupil's Bookp.80
+UnclePaul:No,that'syourgrandfather'ssister,Sally.
+Objectives
+Boy:Who'stheotherman?Theonewho'sputtingbutteron
+To reviewlanguagefromUnits7and8anddospeaking,hisbread.
+readingandlisteningactivities.UnclePaul:HewasafriendofSally's,butIcan'trememberhis
+name.
+Target language
+Boy:Ismymumin thephoto?
+• Key language:vocabularyandlanguagefromUnits7and8
+UnclePaul:No,shewasn'tbornwhenthisphotowastaken.
+• Revision:descriptions,people,clothes,activities,food,
+Boy:Doyouknowthenamesof theotherpeople,UnclePaul?
+directions
+UnclePaul:Well,yes,Ido,oratleastthreeof them.Canyou
+Materialsseethemanin theuniform?
+• Key vocabularyfromUnits7and8,eachwordwrittenonaBoy:Thepoliceofficerstandingonthecorner?
+smallpieceofpaper,oneforeachpupilin theclassUnclePaul:Yes.Hisname'sFred.Hewasoneofyour
+grandad'sschoolfriends.
+WarmerBoy:Really?
+• Makegroupsofsix.HandoutapieceofpaperwithawordonUnclePaul:Yes.Andthewaiterwith thestripedT-shirtis
+ittoeachpupil.Theytaketurnstoprovideadefinitionof theirJohn.Helivedin thehousenext tous.
+wordfor theotherpupils in theirgrouptoguess.Boy:Andwhoisthethirdpersonyouknow?
+UnclePaul:Well,John,thewaiter,istalkingtoawomanwith
+longhair.She'scalledVicky.She'sateacher.Shetaughtmaths
+PB80.ACTIVITY1
+tomeandyourmumandyourAuntDaisy.
+Look at thepicture.Talk aboutitin pairs.
+Boy:Wow!Youknowthemall.
+• Showpage80on the whiteboard.Focus pupils onthepicture.
+Tellthemtoignorethepeople'snamesfor themoment.
+PB80.ACTIVITY3
+• Elicitsomesentencesabout thepicturefromdifferentpupils
+Readthestory.Choosetherightwordsandwritethem todemonstratetheactivity.
+• Tell pupils toopentheirPupil's Booksatpage80.Pupils workonthelines.
+in pairsandtalk about thepicture.Monitorandgiveideas•Askapupiltoreadtheinstructionsaloud.Dotheexample.
+wherenecessary.•Brieflyreviewhowpupilsknowthiswordiscorrect(verb
+followingI).Remindpupils tothinkcarefullyaboutwhich
+PB80.ACTIVITY2wordstousebylookingat thewordsaroundeachgap.
+• Giveatimelimitforpupils tocompletetheactivity.
+Listen and drawlines.Thereisoneexample.
+• Focus pupils ontheActivity2instructionsandonthenames.Key:1water,2Have,3dangerous,4shouldn't,5sandwiches
+Play the🔊Audioanddotheexamplewith theclass.
+• Play therestof the1)Audio.Pupils listenanddrawlines.TheyLEEPB80.
+checkin pairs.Play the🔊Audioagain.Check with theclass.
+Nowchoosethebestnamefor thestory.Tick(r)one
+• 73
+box.
+Boy:Whatareyoulookingat,UnclePaul?
+• Focus pupils onthesecondpartof theactivity.Givethem UnclePaul:It'saphotoofmewhenIwasyounger.
+thinkingtimebeforetheytickoneof theboxes.Check
+Boy:Whoareyou?
+opinionsaroundtheclass,elicitingreasonsfor theiranswers.
+UnclePaul:I'mthelittleboy,playingwith theplasticcar.
+Boy:IsthatAuntDaisyridingthebike?Key:Adayat thebeach
+UnclePaul:That'sright.Daisylovedherbike.
+Boy:Whoarethepeoplesittingat thetablenext toyou?#AB80.Answerkey,seepageT108
+UnclePaul:Well,themanwho'seatingthepieceofbreadis
+yourgrandfather,Jack,whenhewasyounger.He'swearingaEnding the lesson
+yellowT-shirt.•Describesomeonein theclassfor theotherpupils toguess,
+Boy:Isthewomanwho'sdrinkingwatermygrandmother?e.g.Thispupil'sgotdarkhairandiswearing...
+Digital ClassroomExtra Resources
+0Presentation Plus:CPractice Extra•Teacher Resources:ReviewUnits7and8,DownloadableActivity Book
+ReviewUnits7and8Teaching Notes
+• Teacher Resources:Unit8,Photocopiable8
+1)Audio73
+• AB94andPB94-95-Grammar reference8
+• T120-Extraactivity:Songsandchants
+Review|Units7and8T80
+
+#### Page T81 (Pupil's Book p.81)
+
+ReviewUnits7and8
+Pupil's Bookp.81
+Key(possiblequestions):1Whattime/Whendoyougotobed? Objectives
+2Whatdolimestastelike?3Whatshouldwedowithplastic,glass
+To reviewlanguagefromUnits7and8andplayaboardgame. bottles,etc?4Whatdidyouhaveforbreakfast?5Whatdoesitfeel
+like?6What's(thenameof)theeighthmonth?7Howoldishe?
+Target language8Howmanybooksarethereonthetable?9Howoften/many
+• Key language:vocabularyandlanguagefromKid'sBox5timesadaydoyoubrushyourteeth?10Wheredidyougo
+yesterday?11Whatdoesittastelike?12Whatcolourarethe
+• Revision:languageforplayinggames
+socks?13Howdoyougotoschool?14Whydidyouphoneme
+/leavemeamessage?15Whatdoesitsoundlike?16CanIhelp
+Warmeryou?/Whichbookwouldyoulike?17Who'sthat/this/your
+• Write thefollowingquestionson the whiteboard,eachoneinfavouriteteacher?18Whodidyouhavelunchwithyesterday?
+19Howmanydaysarethereinayear?20Howmanycupshave jumbledorder:
+youwon?
+1Whatdotheylooklike?
+2Whendidyougosnowboarding?
+AB81.Answerkey,seepageT108 3Whatdoesitfeellike?
+4Whatdotheysoundlike?
+Ending the lesson
+5Whatshouldwedowith them?
+6Whatwouldyoulike? •Ask pupilswhichlessons,topicsand/oractivitiesinthis unit
+7Howmanytimesaweekdoyougotoschool?weretheirfavourites.
+8What'sthenameof thefifthmonth?
+• Pupils workin pairstounjumblethequestionsandwritethem
+in theirnotebooks.Elicitthequestionsfrompupilsandwrite
+themon the board.Elicitoneormorepossibleanswers.
+PB80.ACTIVITY4
+Play the game.
+• Showpage81on the whiteboard.Tell pupils toopentheir
+Pupil's Booksatpage81.Focus pupils onthepageandelicit
+thatthisisaboardgame.
+• Focus pupils ontheinstructionsandcheckunderstanding.
+Iftheylandonacirclethatistheircolour,theyaskarelated
+question.Theirpartnerdecidesifthequestioniscorrector
+not.Ifitiscorrect,thequestionerreceivesthreepoints.If
+not,he/shelosesapoint.Pupils playin pairs.Theytaketurns
+tothrowthediceandmovearoundtheboard,askingthe
+questions.
+• Bereadytogiveyourverdictinanydisputes.Encourage
+pupils tobeinventivewith theirquestions-therearemany
+differentpossibilities.
+• Monitorpupilsastheyareplayingthegame.Attheendof
+thegame,theplayerwith themostpointsineachpairis
+thewinner.
+• Fastfinisherscanplayagain,changingcolour.
+Digital ClassroomExtra Resources
+• Teacher Resources:ReviewUnits7and8,DownloadableActivity Book gPresentation Plus:LaPractice Extra
+ReviewUnits7and8Teaching Notes
+• AB94andPB94-95-Grammar reference8
+TestGenerator:ReviewTest3;
+EndofYearTest•T120-Consolidationactivity:Vocabularyreview
+• T120-Extensionactivity:Games
+T81Units7and8|Review
+
+### Pupil's Book Pages (Reference)
+
+#### Scan Page 174
+
+ReviewUnits7and8
+It'sasunnyday.
+Daisy Look at thepicture.Talk aboutitin pairs.
+Thelittleboyisplaying
+witharedcar.
+Sally
+Vicky
+Fred
+John
+Paul
+73Listen and drawlines.Thereisoneexample.
+Jack
+Readthestory.Choosetherightwordsandwritethemonthelines.
+arecanclothesdangerousHavekicked
+quietsandwichesshouldn'twater
+Iwentto thebeachwithSamandhisdadlastweekend.
+Wetookapicnicandaball.Wewereplayingfootballonthe
+beachwhenIkickedtheballinto thesea!Itwas
+soonfaroutin the(1)
+'Canyouswim?'Samasked.
+'No,I'veneverlearnttoswim!'Ianswered.'Canyouswim?'
+'Yes,saidSam,andhestartedswimming.
+Thewaveswerehuge.
+Sam'sdadstartedshoutingathim,(2).-you
+seentheflag?Youshouldn'tswimwhenthereisaredflag!'Sam'sdadswamtowardshimandpulled
+himbackto thebeach.
+'Sorry,Dad,'Samsaid.'Theseawas(3)
+'Er.Shallwehaveourpicnic,now?'Isaid.
+Wewenttogetourpicnic,butitwasn'tthere.
+You(4)leavefoodonthebeach!'Sam'sdadsaid.'Thebirdsalwayseatit.Look!'
+Itwastrue.Wesawlotsofbigwhitebirdseatingour(5)
+Nowchoosethebestnamefor thestory.Tick(V)onebox.
+Adayat thebeach
+Thedangerousbirds
+Alovelyswim
+80Review:units7and8
+PB80Review|Units7and8
+
+#### Scan Page 177
+
+8
+Play the game.
+What'sthequestion?
+Instructions:Playin pairs.Oneplayerisredand theotherisblue.Inturns,goroundtheboard.
+Readtheanswerandaskthequestion.Ifyourquestionisright,score3points,ifit'swrong,
+lose1point.Makeanoteof thepointsinyournotebook.
+1920
+18
+Thereare365.
+It'sMrJones
+thegeographyFINISH
+I'vewon
+teacher.
+two.
+Ihadlunchwith
+mymum.
+I'dlikethe
+161413
+bookonhistory,
+please.
+Itsounds
+BecauseIwanted
+likeadog. Ialwaysgoon
+toaskyouabout
+thebus.
+ourhomework.
+Ittastes 12They're
+10
+likecheese.blue,
+green
+andwhite
+Ialwaysbrush
+Wewentto thestriped. themthree
+timesaday.parkyesterday.
+8Thereare
+He's71. five:twomaths
+booksandthree
+Itfeelslike
+Englishbooks.
+hairbutitisn't.
+Theeighth
+monthis
+August.
+3Weshould
+recyclethem.
+Igotobed11127
+STARTathalfIhadcerealanda
+pastnine.Theytastesourglassofmilk.
+anddelicious.
+81
+Review:units7and8
+Units7and8|ReviewPB81
+
+## Values
+
+### Page T82
+
+Units1&2ValuesRespectin theclassroom
+Pupil's Bookp.82
+PB82.ACTIVITY2 Objectives
+To readandtalk aboutappropriatebehaviourin theListen and check.Saytheletter.
+classroom.•Play thee)Audio.Pupils listenandcheck theiranswersto
+Activity1.
+Target language
+• Play the1)Audioagain,pausingafter eachsentencefor
+• Key language:values,respect,classroom,Whatdoyoupupils tosaytheletter(asin themodelspeechbubble).Play
+thinkiswrong?the1)Audioagainandcheckcomprehension.Ask,e.g.How
+• Revision:classroomobjects,past simple,adjectives: doesgirl'a'feel?(unhappy).Why?(becausesheforgother
+worried,late,hungry,angry,tired,happy,unhappy;should/book).
+shouldn't,never,sometimes,always,because,better,
+Key:2a,3c,4e,5d,6g,7h,8i,9j,10f
+before,during,after,contract,must/mustn't,correctly
+*74
+Warmer
+1He'sworriedbecausehe'slate.
+• Standat thefrontandyawnasifyouareverytired.Look
+2She'sunhappybecausesheforgottobringherbook.
+aroundfor thethingsyouneed(bags,book,boardpen),
+3He'shungrybecausehedidn'thavebreakfast.
+sayingWhere'smypen?DidIforgetmybookstoday?etc.
+4He'sangrybecausethey'replayingwithhispencilcase.
+asifyouarenotreadyforclass.Elicitthatitisn'ttheright
+5He'sangrybecausehisfriend'seatinginclass.
+wayfor theteachertostarttheclass.Ask pupilsWhatshould
+6He'stiredbecausehewenttobedlate. teachersdobeforeclass?Whatshouldtheydoduringclass?
+Pupilsquicklyshareideasin groups.Elicitthat therearethings7She'shappybecauseshe'stalkingtoherfriend.
+ateachershoulddobeforeandduringclass,andthingspupils8They'reunhappybecausethegirlsaretalking.
+shoulddo,too.Tell pupilstheyaregoingtotalk aboutthisin
+9She'sunhappybecauseherschoolbag'suntidy.
+today's lesson.
+10They'vegothispencilcaseand theythinkit'sfunny.
+PB82.ACTIVITY1 EEPB82.ACTIVITY3
+Look at thepicture.What'swrong?Talktoyourfriends.Ask and answer.
+• Showpage82on the whiteboard andaskpupils tofocuson•Readtheactivityinstructionand thequestions.Pupils work
+thepicture. in pairs.Theytaketurnstoanswereachquestion.Elicitideas
+• FocusontheheadingValuesandelicit themeaning.Readtheandhaveabriefclass discussion.Elicit/Explainthatevenif
+lessontitleandcheckthatpupilsunderstandrespect.Eliciteachpersononlydoesonewrongthing,puttogetherthis
+thingspupilscanseein thepicture,e.g.pencilcase,bag,ruler,makesitdifficultforeveryonetolearn.Behavingwellinclass
+andwhat thepicturein thethoughtbubbleshows(someoneisaboutrespectfor theteacherandfor theotherpupils.
+textinginbedlateatnight).
+AB82.Answer Key,seepageT108 •Tell pupils toopentheirPupil's Booksatpage82.Ask
+volunteerstoreadthespeechbubbles.Askhowthegirlwho's
+forgottenherbookfeels(unhappy).Ending the lesson
+• Pupils workin pairsorsmallgroupstotalk about therestof•Withbooksclosed,writethetitleRespectin theclassroom
+in thecentreof theboard.Elicitthethingspupilsshould/ thechildrenmarkedbyletters.Encouragethemtousethe
+speechbubblesasamodel.Donotconfirmanswers.shouldn'tdotoshowrespectinclass,andmakeamindmap.
+0Extra supportShowemoticons(worried,unhappy,angry,happy,
+tired)with thewordsnext to themon the board tohelppupils
+remember.
+Digital ClassroomExtra Resources
+Presentation Plus:Units1&2Values_Practice Extra•Teacher Resources:Units1&2Values,DownloadableActivity Book
+Teaching Notes
+)Audio74
+• T120-Consolidationactivity:Contractfor theteacher
+• T120-Extensionactivity:Makerules
+Units1&2Values|Respectin theclassroomT82
+
+### Page T83
+
+Units3&4ValuesPeoplewhohelpus
+Pupil's Bookp.83
+PB83.ACTIVITY2 Objectives
+To readandtalk about theroleof theemergencyservices.Listen and say'firefighter','doctor','policeofficer'or
+'ambulancedriver'.
+Target language
+• Chooseapupiltoreadtheactivityinstruction.Check
+• Key language:break(her)leg,hit(her)head,falloff(my comprehensionof thefourjobsandpractisepronunciation.
+bike),hero(es)Talkbrieflyaboutwhereeachpersonworksand thethings
+• Additionallanguage:emergencyservices,cycle,dark,theydo.Tell pupilsthat theremaybemorethanoneanswer
+lights,clearly,hill,suddenly,thanksto them,X-ray,operate, foreachsentence.
+ambulance,accident,save(someone's)life,team,onfire, •Play the8))Audio.Pupilswhispertheanswerstoapartner.
+catchthieves,robberyPlay the🔊Audioagain,pausingtoelicitideas.
+• Revision:past simpleandpast continuous,help,hospital,
+• Extra challengeWrite thesequestionson the board:Whendid
+helmet,driver,doctor,nurse
+youlastseeadoctor?Whatdopoliceofficersdo?Wouldyou
+liketobeafirefighter?Why?/Whynot?Doyouknowanyone Warmer
+whohashadanaccident?Whathappened?Ask pupils todiscuss
+• WriteEmergencyservicesand999on the board.Elicitwhat
+thequestionsin pairs.
+emergencyservicesare(police,fire,ambulance)andthat999
+istheemergencyphonenumberin theUK.Ask pupilswhatKey:(possibleanswers):1doctor,2firefighter,3policeofficer,
+numbertheyshouldcallinanemergency.Askwhohelpsus4doctor/nurse,5ambulancedriver,6policeofficer,7policeofficer,
+8doctor inanemergency.Elicitpolice/policeofficers,firefighters,
+doctors,nurses,ambulancedrivers.
+1.Sheworkswithateamofnurses.
+PB83.ACTIVITY1
+2.Shecarriespeopleoutofbuildingsonfire.
+Read and answerthequestions.
+3.Helooksforandcatchesthieves.
+• Showpage83on the whiteboard andpoint toHolly.Direct4.Whensheworksatnight,shehastosleepat thehospital.
+pupils to thearticleand thephotograph.ElicitthatHollyis5.Hehastodrivepeopletohospitalquicklyandsafely.
+beinginterviewed.
+6.Hegoestoschoolstoteachyoungpeopletousethe
+• Tell pupils toopentheirPupil's Booksatpage83.Ask internetsafely.
+volunteerstoreadthetitleand theintroduction.Check
+7.Whenthereisarobberyatabank,hearrivesquickly.
+comprehensionofheroes.Readthroughthequestionsand
+8.Shehastooperatetosavepeople'slives.
+makesurepupilsunderstandbreakherlegandhitherhead.
+Tellthemnottoworryaboutnewvocabulary,buttofocusonEElAB83.Answer Key,seepageTXXX
+answeringthequestions.
+• Pupils readthetext,thentalk about thequestionsin pairs. Ending the lesson
+Check with theclassanddiscussanynew words. •Reviewwhatpupilshavelearntin thelesson.Askifthereare
+Key:1Shefelloffherbike.2becauseshewasn'twearingahelmet,anyotherpeopletheythinkareheroesandwhy.
+3acardriver,ambulancedrivers,doctorsandnurses
+Extra Resources
+Digital Classroom
+Presentation Plus:Units3&4ValuesCPractice Extra•Teacher Resources:Units3&4Values,DownloadableActivity Book
+Teaching Notes
+)Audio75
+• T120-Consolidationactivity:Whichjob?
+• T120-Extensionactivity:Role-playemergencycall
+T83Peoplewhohelpus|Units3&4Values
+
+### Page T84
+
+Units5&6ValuesTellthetruthbutdon'thurt
+Pupil's Bookp.84
+PB84.ACTIVITY3 Objectives
+To readandtalk abouttellingthetruth.Discussthesequestions.
+• FocusonActivity3.Choosethreepupils toreadthe
+Target language
+questions.Checkcomprehensionoftrustandhurtsomeone's
+• Key language:tellthetruth/tellalie,hurtsomeone'sfeelings.Pupils discussthequestionsinsmallgroups.Then
+feelingshaveaclass discussion.Ask pupilswhichwords/actionsare
+• Additionallanguage:haircut,makeaface,showergel, kindandwhichareunkindandremindthemtothinkabout
+deodorant,tellalittlewhitelie,kind,unkindotherpeople'sfeelings.
+• Revision:look(great/horrible),smell(bad)
+0Extra supportAspupilsfeedback,sortthekindandunkind
+wordsintotwocolumnson the board.Elicittheheadingsand
+Warmer
+askpupils towritethemin theirnotebooks,e.g.
+• Pre-teachthumbsupfortrueandthumbsdownforfalse.Elicit
+KindUnkind
+anotherwaytosaysomethingistrue(thetruth)andfalse
+(alie).SayLet'splayagame.Tell pupilssomethingsaboutamazingnicelovely
+awfulterriblehorrible
+yourself,sometrue,somefalse,e.g.Iwentonholidayto boredworriedangry
+Londonlastyear.I'mreallygoodatplayingvolleyball.I'vegot
+fivechildren.Makesurethefalsethingsarenottooobvious.LEAB84.Answer Key,seepageT109
+Pupilsrespondtoeachsentencewith'thumbsup'or'thumbs
+down'.Seeiftheycantellwhenyouarelying.RevealwhichEnding the lesson
+sentenceswerefalse.
+• Write thefollowinglanguagechunksfrom thelessononthe
+board,splitintotwohalvesandmixedup,asshown:
+PB84.ACTIVITY1
+1tellthea)aface
+Read and chooseanswers.
+b)truth
+2tella
+• Showpage84on the whiteboard.
+3hurtsomeone'sc)feelings
+• Focusonthelessontitleandcheckcomprehension.Explain
+d)lie
+that theyaregoingtodoaquizabouttellingthetruth.Pre-4make
+teachnewvocabularyfrom thequizquestionsandoptions, •Pupils copyandmatchthephrasesin pairs.Check with the
+e.g.haircut,makeahorribleface,showergel. class.Elicitanexamplesentenceforeachphrase.
+• Tell pupils toopentheirPupil's Booksatpage84.Ask pupils
+Key:1tellthetruth,2tellalie,3hurtsomeone'sfeelings, toreadand answerthequestionson theirownbywritinga
+letter(a,borc)foreachquestionin theirnotebooks.4makeaface
+• Monitoraspupilsread,andhelpasnecessary,butdonotgo
+throughtheanswersatthisstage.
+PB84.ACTIVITY2
+Talk aboutyouranswers withyourpartner.Arethey
+thesameordifferent?
+• Pupilsre-readthequizin pairsandcomparetheiranswers
+foreachquestion.Encouragethemtogivereasonsfor
+theirchoices.
+Digital ClassroomExtra Resources
+• Teacher Resources:Units5&6Values,DownloadableActivity Book
+Presentation Plus:Units5&6Values
+Teaching Notes
+LPractice Extra•T121-Consolidationactivity:Quizquestion
+• T121-Extensionactivity:Truthorwhitelie?
+Units5&6Values|Tellthetruthbutdon'thurtT84
+
+### Page T85
+
+Units7&8ValuesValueyourfriendships
+Pupil's Bookp.85
+PB85.ACTIVITY2 Objectives
+• To readproblemlettersandadvice.Readtheletter.Discussthesequestions.
+• Focus pupils onActivity2.Choosetwopupils toreadthe •Todiscussmoraldilemmasandgiveadvicewithshould/
+paragraphsof theletteraloud.Checkcomprehensionofnew
+shouldn't.
+vocabulary(makeamistake,popular,unkind).
+Target language•Readthroughthequestionswith thewhole classandmake
+• Key language:value(v),friendship,marks,cheat(v)suretheyknowthat theyneedtogivetheirownopinions.
+• Additionallanguage:fail/pass(anexam),outoften,Theydiscussin pairsorsmallgroups.
+makeamistake,steal,shoppingcentre•Monitortheirdiscussions.Elicitideasfrompairs/groups
+andhaveaclass discussionaboutloyalty,friendshipand •Revision:thebest,should/shouldn't,You(don't)have
+to...,It'sbetterto..,It'sagoodideato..,goingto,forgiveness.
+imperatives,past simple,present perfect,adjectives
+DExtra challengePupilscanwriteBettyandRobert's answer
+toKatya.
+Warmer
+AB85.Answer Key,seepageT109 •Showtheclassanexampleofa'problempage'froma
+magazineornewspaper.Ask pupilsiftheyeverreadthese
+pagesandpointoutthat theyareusuallymadeupoflettersEnding the lesson
+andreplies.ExplainthatinEnglishtheexpertswhoanswer•Ask pupilsiftheywouldeverwritealettertoaproblem
+suchlettersareoftencalledAgonyAunts(orUncles).Tell page.Elicitreasonsfor theiranswer.Askwhotheytalkto
+pupilstheyaregoingtoreadsomelettersfromaproblemiftheyhaveproblemsliketheonestheyhavereadaboutin
+pageintoday's lesson.
+thelesson.
+PB85.ACTIVITY1
+Readthelettersand answerthequestions.
+• Showpage85on the whiteboard andaskpupils tofocus
+onthelessontitleandelicitwhatitmeanstoValueyour
+friendships.
+• Point to thepictureofBettyandRobertandexplainthat they
+areanAgonyAuntandUncle.Readtheactivityinstruction
+andquestions1to3aloud.Checkcomprehensionofmarks
+andcheat.Pre-teachfail(anexam)andoutof10.
+• Tell pupils toopentheirPupil's Booksatpage85.Pupils read
+theproblemletter,and answerthethreequestionsin pairs.
+• Repeat theprocesswithBettyandRobert'sresponse,and
+pupilsdiscuss questions4and5.
+Key:1Yes,hedoes.2No,hedoesn't.3Shetakesphotosof
+thebookonhermobilephone.4Ifyoucheat,youlearnverylittle.
+Digital ClassroomExtra Resources
+• Teacher Resources:Units7&8Values,DownloadableActivity Book
+Presentation Plus:Units7&8Values
+Teaching Notes
+CPractice Extra•T121-Consolidationactivity:AskBettyandRobert
+• T121-Extensionactivity:Posters
+T85Valueyourfriendships|Units7&8Values
+
+### Page 178
+
+Units1&2ValuesRespectin theclassroom
+Look at thepicture.What'swrong?Talktoyourfriends.
+Lookat'a.Whatdoyouthinkiswrong?Shehasn'tgotherbookfor thelesson.
+1.122il
+Listen and check.Saytheletter.1He'sworriedbecausehe'slate. That's'b'.
+Ask and answer.
+1Whatshouldthechildrendotostarttheirlessonon time?
+2Whichof thethingsin thepicturedoyouneverdo?
+3Whichof thethingsin thepicturedoyousometimesdo?
+4Whatshouldyoudotobeabetterstudent?
+82
+Values:Units1&2Respectin theclassroom|[social responsibilities
+PB82Respectin theclassroom|Units1&2Values
+
+### Page 181
+
+Units38:4ValuesPeoplewhohelpus
+Read and answerthequestions.
+1HowdidHollybreakherleg?
+2Whydidshehitherhead?
+3Whohelpedher?
+Holly'sheroes
+It'sarainydayand therearegreycloudsin thesky.Holly'swalkingto
+school.She'sgotahistoryexam.Alotofyoungpeoplemightfeelunhappy
+orworried,butnotHolly.Holly'sjusthappyshecanwalktoschool.
+LastyearHollywasinhospitalforfourweeksandshehadtolearntowalk
+again.WeaskHollyaboutherheroes.
+So,Holly,canyoutelluswhathappenedtoyoulastyear?
+Iwascyclinghomefrommyfriend'shouseafterschool.ItwasdarkandIdidn'thaveanylightssoI
+couldn'tseeclearly.Iwasgoingveryquicklydownahillnearmyblockofflats,whensuddenlyacatran
+acrosstheroadin front ofme.Itriednottohitit,butIfelloffmybike.
+Howterrible!Thenwhathappened?
+Well,Ican'tremember.IhitmyheadbecauseIwasn'twearingahelmet.Peopletoldmewhat
+happened.Ifellbadlyandbrokemylegintwoplaces.
+Howdidyougettohospital?
+Adriversawmeonthegroundandstoppedhiscar.Hephonedforanambulance,and theytookme
+to thenearesthospital.Iarrivedinlessthantenminutes.
+Wow!Thatwasfast.
+Yes.Thanksto them,thedoctorsandnursescouldworkquickly.IhadanX-rayand thentheyhadto
+operateforfourhours,buttheysavedmyleg.ThenIhadtolearntowalkagain.
+Soyou'vegotalotofheroes:theambulancedrivers,and theteamofdoctorsand
+nurses.
+Yes,butalsothedriverwhostoppedtocall theambulance.Iwanttosaythankyoutoeveryonewho
+helpedme.WhenIgrowup,IwanttobeadoctorornursebecauseI'dliketohelpotherpeopletoo.
+Listen and say'firefighter','doctor",'policeofficer'or'ambulancedriver.
+83
+Values:Units3&4Peoplewhohelpus|Jsocial responsibilities
+Units3&4Values|PeoplewhohelpusPB83
+
+### Page 182
+
+Units5&6ValuesTellthetruthbut
+don'thurt
+Read and chooseanswers.
+Yourfriend'sgotanewhaircutandAnewboyinyourclassinvitesyoutoplay
+youthinkitlooksawful.WhenheaskstennisonSaturdayafternoon.You'dliketogoto
+youwhatyouthink,yousay:thecinemawithsomefriends.Whatdoyoudo?
+a'Itlooksterrible.Idon'tlikeit.'aYousay,'Sorry,Ican't.Iwanttogoto thecinema
+b'It'sOKbutIprefertheoldhaircut.'withmyfriends.'
+c'Itlooksamazing!It'sperfectforyou.'bYoumakeahorriblefaceandsay,'Ihatetennis!'
+cYousmileandsay,'ThanksverymuchbutI
+wanttogoto thecinemawithsomefriendson
+Saturday.Wouldyouliketocomewithus?'
+Yourmumspentallafternoonmaking
+aspecialdinner,butyoudon'tlikeit.
+5
+Whatdoyoudo?
+You'vegotafriendwhosometimessmellsbadafter
+thesports lesson.What'sthebestwaytohelphim?
+aYoueatitandaskformore.
+bYoumakeahorriblefaceandsayyou
+aMakeahorriblefaceandsay,'Yousmellbad.
+don'twanttoeatit.
+Haveashower!'
+cYoutellherthatit'snice,butit'snotyour
+bGivehimaboxofshowergelanddeodorantfor
+favouritemeal.Suggestamealthatshe
+hisbirthday.
+canmakemorequicklyandeasily.
+cTalk abouthimwith theotherstudentsandlaugh.
+You'reshoppingwithafriendwhoYourdadhasn'tgotajob.Helostitlastyearandyour
+wantstobuyanewdress.Shetriesonparentsareworriedaboutmoney.It'syourbirthday
+adressthatlooksawfulonher.Sheaskssoonandyouwantabigparty,butyourparentssay
+youwhatyouthink.Whatdoyoudo?thatyoucan'thaveonethisyear.Whatdoyoudo?
+aYousaythedressdoesn'tlookveryniceaYoutellyourparentsthatyouunderstandandit
+andyoufindadifferentdressforhertotry.isn'timportant.
+bYousaythat thedresslookslovelyandtellbYougetangryandstayinyourroomallday.
+hertobuyit.cYoutellyourparentsthatyouunderstand.You
+cYoutellherthedresslookshorribleandaskyourfriendstobringsomelemonadeand
+you'reboredwithshopping.crispsto thepark,soyoucanhaveasmallparty.
+Talk aboutyouranswers withyourpartner.Aretheythesameordifferent?
+Discussthesequestions.
+1Whyisitimportanttotellthetruth?
+2Whatistrustandwhyisitimportant?
+3Howcanwetellourfriendsandfamilythetruthandnothurttheirfeelings?
+84
+Values:Units5&6Tellthetruthbutdon'thurt||social responsibilities
+PB84Tellthetruthbutdon'thurt|Units5&6Values
+
+### Page 185
+
+Units7&8ValuesValueyourfriendships
+Readthelettersand answerthequestions.
+DearBettyandRobert,
+IworkreallyhardatschoolandIalwaysstudy
+alotformyexams,butIdon'tgetgoodmarks.
+DearNico,
+Idon'tfail,butIget5,6orsometimes7outof
+10.Whenyouworkhardatschoolandstudyforyourexams,
+youarelearningthings.I'msorrythatyoudon'tgetthe Mybestfriend,Emma,getsthebestmarksin
+goodmarksthatyouwant.It'sbettertoworkhardand
+theschool,butshecheats.Shetakesphotosof
+thebookonhermobilephoneandusesthemin
+learngoodthingsideaforthanyoucheattodoand thelearnsameveryasEmma.little.YouIt'snotshoulda theexams.I'mreallyunhappyaboutthis.
+feelgoodbecauseyou'repassingyourexams.Doyour
+ShouldIdothesameasmyfriendandget
+bestanddon'tworryabouto therpeople'smarks.
+bettermarksorshouldItelltheteacherthat
+Thissituationisdifficult.Youdon'thavetotellthe shecheatsinexams?Pleasehelpmetodecide.
+teacherthatyourfriendischeating.Emmacan'talways
+Yours,cheat-onedaysomeoneisgoingtocatchher.
+NicoYours,
+BettyandRobert
+1DoesNicoworkhardatschool?
+2Doeshegetgoodmarks?
+3HowdoesEmmacheatin theexams?
+4WhatdoBettyandRobertthinkaboutcheating?
+5DotheythinkthatNicoshouldgetthesamemarksasotherstudents?
+Readtheletter.Discussthesequestions.
+1IsSarahrighttobeunhappy?Why?
+2WhatdoyouthinkKatyashoulddo?
+3WhatdoyouthinkSarahshoulddo?
+DearBettyandRobert,
+I'mreallyunhappybecauseI'vemadeahugemistakewithmybestfriendSarah.There'sagroup
+ofverypopulargirlsinmyclass.They'recoolandfunnyandeveryonewantstobefriends
+with them.Theyaskedmetogooutwith themlastSaturday.Iwasreallyexcited,butitwas
+Sarah'sbirthday.
+Ididn'tgotoSarah'spartyandnowshe'sunhappywithme.Nowshedoesn'twanttobemy
+friend.vestartedtoseathat thepulargitsareboringandunkind,andIdon'tlikegoingout
+Yours,
+Katya
+85
+Values:Units7&8Valueyourfriendships||social responsibilities
+Units7&8Values|ValueyourfriendshipsPB85
+
+## Grammar Reference
+
+### Page T86
+
+Grammar reference
+Pupil's Bookpp.86-87
+Weusethepast continuoustodescribewhatwashappeningin
+What'sthetime?thepast.
+(four)o'clock AffirmativeNegative(n't=not)Question
+fiveto(five)fivepast(four) IwasreadingaIwasn'treadingaWasIreadinga
+book.book? tento(five)11book.
+102WewerereadingaWeweren'treadingWerewereadinga tenpast(four)
+topast3book.abook.book?
+quarterto(five)
+quarterpast(four)
+twentyto(five)6twentypast(four)
+Weusemadeoftodescribematerials. twenty-fiveto(five)twenty-fivepast(four)
+halfpast(four)AffirmativeNegative(n't=not)Question
+It'smadeofmetal.Itisn'tmadeofIsitmadeofmetal?
+metal.
+They'remadeofTheyaren'tmadeofAretheymadeof
+Weusegoingtototalkandwriteabout thefuture.metal.metal?
+metal.
+Negative(n't=not)Question
+Affirmative
+I'mgoingtoworkI'mnotgoingtoworkAmIgoingtowork
+Weuseverb+liketodescribethings.
+hard.hard.hard?
+She'sgoingtoSheisn'tgoingtoIsshegoingtoAffirmativeNegative(n't=not)Question
+workhard.workhard?
+workhard.ItsoundslikeaItdoesn'tsoundlikeDoesitsoundlikea
+They'regoingtoTheyaren'tgoingtoAretheygoingtotrain.atrain.train?
+workhard.workhard?TheysoundlikeTheydon'tsoundlikeDotheysoundlike workhard.
+cats.cats.cats?
+rightrSheturnedright.
+Weuseshouldtogiveandaskforhelporadvice.
+left
+Theytookthesecondstreeton the left. Negative(n't=not)Question
+Affirmative
+Theylookedandlistenedcarefullybeforethey
+IshouldtellmyIshouldn'ttellmyShouldItellmy
+acrossf
+walkedacrossthestreet.teacher.teacher?
+teacher.
+alongWewalkedalongthestreet.
+Heshouldn'ttellhis
+HeshouldtellhisShouldhetellhis
+straightteacher.teacher.teacher? Hedidn'tturn.Hedrovestraightonto theend
+onof theroad.
+cornerIturnedat thecorner.
+Weusethepresent perfecttotalkandwriteaboutthingswedid
+pastst
+Youhavetowalkpastthepark.anytimeuptonow.
+Negative(n't=not)Question Affirmative
+She'svisitedShehasn'tvisitedHasshevisited
+London. London.London?
+They'vevisitedTheyhaven'tvisitedHavetheyvisited
+London. London.London?
+T86Grammar reference
+
+### Page T87
+
+Grammar reference
+Activity Bookp.86
+Activity Book
+ANSWERKEYAB87.ACTIVITY5Answerthequestions.
+Key:2It'smadeofpaper.3They'remadeofleather.4It's
+AB86.ACTIVITY1Write thetimes.
+Key:2quartertoeight,3fivetoeight,4fivepasteight,madeofwool.5They'remadeofglass.6It'smadeofgold.
+5twenty-fivepasteight,6tentonineAB87.ACTIVITY6Completethesentences.
+AB86.ACTIVITY2Read and write.Key:2like,3cheese,4feel,5It
+AB87.ACTIVITY7Read and write"Yes,youshould.'or Key:2No,sheisn't.She'sgoingtoeatsomemeat.3No,he
+'No,youshouldn't.'
+isn't.He'sgoingtohavelunchathome.4No,wearen't.
+We'regoingtogetuplate.5No,I'mnot.I'mgoingtobuya Key:2No,youshouldn't.3Yes,youshould.4No,you
+newcomic.6No,itisn't.It'sgoingtosnow.shouldn't.5Yes,youshould.6No,youshouldn't.
+AB86.ACTIVITY3Read and choosetherightwords.AB87.ACTIVITY8Writequestionsand answers.
+Key:2past,3right,4across,5left,6corner Key:2Havetheyeverenteredacompetition?No,they
+AB86.ACTIVITY4Read and orderthewords.haven't.3Hasheeverplayedtabletennis?No,hehasn't.
+Key:2WasSarahskiingin themountains?3Iwasn'thavinga4Havetheyevermadeasnowman?Yes,theyhave.
+5HaveyoueverseentheOlympics?No,Ihaven't.
+bath.4Davidwassailingtoanisland.5EmmaandHarrywere
+runningthroughthepark.6Wereyouwaitingat thebusstop?
+Grammar referenceT87
+
+## A2 Flyers Exam Folder
+
+### Teaching Notes
+
+#### Page T88
+
+A2 FlyersExam folder
+FlyersListeningPart1
+Objectives
+Audio scriptsfor theExam foldercanbedownloadedfrom
+TocompleteapracticetaskforPart1of theFlyersListeningTeacher Resources.
+exam.
+PB88.ACTIVITY2 Target language
+• Key language:clothes,names,free-timeactivities;Listen and drawlines.Thereisoneexample.
+snowboarding,snowman,snowball,skiing,spotted,striped,
+• Focus pupils onActivity2and theexample.Tell pupils to
+nest,crown,birthday,bandage,castle,butterfly,rucksack,
+listenanddrawlines.
+snack•Remindpupilstheywilllistentwice.
+• Play the🔊1)Audio.Pupils listenanddrawlinesfrom thenames
+EXAMSKILLSto thepeoplein thepicture.Feedbackbyshowingthepage
+on the whiteboard anddrawingthelines.
+• Listeningfornamesanddescriptions,anddrawinglines.
+OExtra challengeAsk pupilswhichnamewasnotusedandhow
+EXAMTIPS
+theydecidedthis.
+• Pupilsshouldlookat thepictureand thenamesbefore
+Key:1Holly-girlwithbandageonherleg,2Oliver-boywearing
+listening.Remindpupilsthenamesontherecordingdonot
+stripedT-shirtandpointingatcastle,3Betty-womantakinga
+followtheorderof thenamesaroundthepicture.
+photoofchildrenin front of thecastle,4Sophia-girlwearinga
+Theinformationispresentedinadialogue.Theinformation
+hatwithanorangebutterflyandeatingabanana,5George-boy
+referstoapersonin thepicture.Pupilsidentifythepersonwearingagoldcrownandholdingapresent
+by theirclothes,appearanceandwhat theyaredoing.
+🔊')77
+Pupilsneedtolistenanddrawclearlinesfrom thename
+to thepersonin thepicture.Itdoesn'tmatterifthelinesAudio scriptsfor theExam foldercanbedownloadedfrom
+crossover,aslongasitisobviouswhichpersonthelineTeacher Resources.
+belongsto.
+Ending the lesson
+• Therewillbeonenamethatisnotused.Pupilsneedto
+• Pupils completethestarfacetoshowhowtheyfeltabout the
+knowthis.Therewillalsobeotherpeople,childrenor
+task.Usepupils'feedbacktoplanmorelistening practice.
+adults,asdistractors.
+• Remindpupilstheywillheartherecordingtwice.
+Warmer
+• Write thewordsnowon the board andaskpupils totellyou
+wordstheyassociatewithsnow.Buildamindmapofideason
+theboard.
+#PB88.ACTIVITY1
+Describethetwopictures.ListenandcircleAorB.
+• Showpage88on the whiteboard andfocuspupils onthe
+pictures.SaysomethingaboutpictureA,e.g.There'saboy
+withaspottedscarfandasktheclassAorB?Dothesamefor
+pictureB.
+• Tell pupils toopentheirPupil's Booksatpage88.Ask pupils
+toworkin pairsanddescribethepictures.
+• Tell pupilstheywilllistenandcircleAorB.Play the🔊1)Audio.
+Pupils listenandcomparetheiranswersin pairs.Check with
+thewhole class.
+• Extra challengeAsk pupilshowtheydecidedtheiranswers.
+Key:2A,3B,4B,5A,6A
+Digital ClassroomExtra Resources
+Presentation Plus:[Practice Extra•T121-Extensionactivity:Mimingmirrors
+A2 FlyersExam folder
+()Audio76-77
+A2 FlyersExam folder|FlyersListeningT88
+
+#### Page T89
+
+A2 FlyersExam folder
+FlyersListeningPart4
+1)78
+Objectives
+Audio scriptsfor theExam foldercanbedownloadedfrom
+TocompleteapracticetaskforPart4of theFlyersListeningTeacher Resources.
+exam.
+PB89.ACTIVITY2 Target language
+• Key language:sports,weather,places,animals,sledging,•Listenandtick(/)thebox.Thereisoneexample.
+crown •Focus pupils onActivity2and theexample.Play the8)Audio
+for theexampleandpoint to thecorrectanswer.Remind
+EXAMSKILLSpupilstheywillheartherecordingtwice.
+• Listeningforspecificinformation(family,schooland •Play the))Audio.Pupils listenandtickthecorrectanswer.
+activities).Play therecordingasecondtime.
+• Pupils comparetheiranswers with a partner.Checkanswers
+EXAMTIPS
+with thewhole class.
+• Pupilsshouldlookat thepicturescarefullyandreadthe
+• Extra challengeInpairspupilsrole-playasimilardialogueusing
+questions.
+thequestionsasaguide.
+• Theyshouldtrytopredicttheanswers.
+Key:1B,2B,3A,4C,5A
+• Theinformationispresentedinadialogue.Theinformation
+referstooneof thepictures.Pupilsshouldlistento the *79
+wholedialoguebeforeansweringthequestion.
+Audio scriptsfor theExam foldercanbedownloadedfrom
+• Allthepicturesarementionedbutonlyoneanswersthe
+Teacher Resources.
+question.Remindpupilsofthis,andthat theyneedtolisten
+carefullyfor theanswer. Ending the lesson
+• Remindpupilstheywillheartherecordingtwice. •Pupils completethestarfacetoshowhowtheyfeltabout the
+task.Usepupils'feedbacktoplanmorelistening practice.
+Warmer
+• Drawarrowson the board andelicithorizontal,verticaland
+diagonal.Saythewordsandaskpupils todemonstratewith
+theirarms.
+PB89.ACTIVITY1
+Listen and drawarrows→1л.
+• Showthepageon the whiteboard andfocuspupils on
+Activity1and theinstruction.Point toSTART.Ask pupilsWhat
+wordisnext tostart?Whatwordisbelowstart?Point to the
+arrowsfrom theWarmerandtellpupilstheyneedtolisten
+anddrawarrows.Remindthemtheycanbehorizontal,vertical
+ordiagonal.
+• Ask pupils toopentheirPupil's Booksatpage89.Play the
+firstitemonthe🔊)Audioand thenstop.Point to thefirst
+imageon the whiteboard andelicitwhichdirectionthefirst
+arrowshouldgoin.Checkpupilsunderstand thetask.
+• Tell pupilstheyaregoingtolistento therestof theactivity
+anddrawarrows.Play the🔊)Audio.
+• Pupils comparetheiranswers with a partner.Listenagainand
+drawarrowson the board tohelpthemtocheck.
+Key:1sailing,2bat,3eagle,4brick,5foggy,6station,7cook
+Digital ClassroomExtra Resources
+• T121-Extensionactivity:Falsedescriptions gPresentation Plus:LPractice Extra
+A2 FlyersExam folder
+(1)Audio78-79
+T89A2 FlyersExam folder|FlyersListening
+
+#### Page T90
+
+A2 FlyersExam folder
+FlyersListeningPart5
+|PB90.ACTIVITY1 Objectives
+TocompleteapracticetaskforPart5of theFlyersListeningTalk about thedifferences.Listenandcircle.
+ехат.Thencompletethesentences.
+• Showthepageon the whiteboard andfocuspupils on
+Target language
+Activity1and theinstructions.Play the8))Audioforitem1
+and thenpause.Point to thepictureson the whiteboard and
+• Keyladyagn,colors,co,partieadistipes,narkace,
+dothefirstoneasanexampletogetheras a class.Elicitthe
+skiing,snowboarding,museum,dinosaurs,pyramids,plane, word(above)andwhichpicturetocircle(A).
+room,door,dark,space,rockets,fires,cave
+• Givepupilstimetolookat theotherpicturesandtalk about
+thedifferencesin pairs.Feedbacksomeideas.Thentellpupils
+EXAMSKILLS
+theyaregoingtolistenandneedtocirclethecorrectpicture.
+• Listeningforspecificinformation(schooltrips,museums•Play the🔊)Audio.Pupils listenandcircle.
+andactivities).
+• Checkanswers with thewhole class.
+EXAMTIPSDExtra challengeWhenpupilsfeedbacktheiranswers,askthem
+• Makesurepupilshaveall thenecessarycolourswith them.toexplainwhytheychoseeachpicture.
+• Therearesixdialogues;thefirstoneistheexample.Pupils Key:2Bwings,3Asledge,4Bfinger,5Akey
+shouldlookat thepictureandlisten.
+*80
+• Theyneedtodraw,colouranitemorwriteaword.
+• Theinformationispresentedinadialogue.TheinformationAudio scriptsfor theExam foldercanbedownloadedfrom
+refersto thepicture. Teacher Resources.
+• Remindpupilsthat theyneedtolistencarefullyfor the
+answerand theywillheartherecordingtwice.PB90.ACTIVITY2
+Listenandcolourandwrite.Thereisoneexample.
+Warmer
+• Checkpupilshavepens,colouredpensandpencils.
+• Write thefollowingplacenameson the board:1bicycleshop,
+• Focus pupils onActivity2and theexample.Play the)Audio
+2flowershop,3hotel,4sweetshop,5stadium,6skyscraper,
+for theexampleand thenpause.Point to thecorrectanswer.
+7park.
+Remindpupilstheywillheartherecordingtwice.
+• Ask pupils tolistenandwritedownthefollowingnamesfor
+• Play the1)Audio.Pupils listenandwriteorcolourthecorrect
+eachplace.Theycandothisonamini-whiteboardorina
+answer.Play therecordingasecondtime.
+notebook:
+• Pupils comparetheiranswers with a partner.Checkanswers
+1ThebicycleshopiscalledWheel-W-H-E-E-L-Wheel,
+with thewhole class.
+2TheflowershopiscalledSpring-S-P-R-I-N-G-Spring,
+3ThehoteliscalledCrown-C-R-O-W-N-Crown,Key:1Themiddlepyramidiscolouredyellow.2Theword'Time'
+4ThesweetshopiscalledHoney-H-O-N-E-Y-Honey,iswrittenundertheT-Rexdinosaur.3Theumbrellawhichisbeing
+5ThestadiumiscalledMatch-M-A-T-C-H-Match,carriedby theboywho'slookingat theplaneiscolouredred.4The
+6TheskyscraperiscalledSilver-S-I-L-V-E-R-Silver,andword'space'iswrittenonthesignnext to theroomon the right.5
+7TheparkiscalledSwings-S-W-I-N-G-S-Swings.Thefirein thecaveiscolouredorange.
+• Ask pupils tocheckanswersandspellingwith a partner.Ask 0)81
+volunteersorthewhole classtospellouteachwordasyou
+Audio scriptsfor theExam foldercanbedownloadedfrom
+writeitnext to thecorrectnumberon the board.
+Teacher Resources.
+• Remindpupilsthat theywillneedtospelltwowordsin the
+Part5FlyersListeningtask.Ending the lesson
+• Pupils completethestarfacetoshowhowtheyfeltabout the
+task.Usepupils'feedbacktoplanmorelistening practice.
+Digital ClassroomExtra Resources
+Presentation Plus:Practice Extra•T121-Extensionactivity:Collaborativecolouring
+A2 FlyersExam folder
+()Audio80-81
+A2 FlyersExam folder|FlyersListeningT90
+
+#### Page T91
+
+A2 FlyersExam folder
+FlyersReadingandWritingPart1
+PB91.ACTIVITY2 Objectives
+TocompleteapracticetaskforPart1of theFlyersReadingLookandread.Choosethecorrectwordsand
+andWritingexam.writethemonthelines.Thereisoneexample.
+• Focus pupils onActivity2and theexample. Target language
+• Pupils readandmatchthewordswith thedefinitions.
+• Key language:places,clothes,jobs,materials,objects
+Encouragepupils todrawalinethroughthewordoncethey
+havematcheditwithadefinition.
+EXAMSKILLS•Putpupils in pairstocheckanswers.Checkanswers with the
+• Readingadefinitionandcopyingthecorrectwordnext toit.whole class.
+Key:1motorways,2apassenger,3abridge,4atent,5trainers, EXAMTIPS
+6pockets,7wool,8amechanic,9aplatform,10envelopes
+• Pupilsshouldreadthedefinitionsandmatchthemto the
+correctwords. Ending the lesson
+• Theyneedtowritethecorrectwordnext to thedefinition.
+• Pupils completethestarfacetoshowhowtheyfeltabout the
+• Thereare15wordsplacedaroundthedefinitions.Theretask.Usepupils'feedbacktoplanmorereadingandwriting
+arefivemorewordsthandefinitions. practice.
+• Pupilsneedtowritethewordin thespaceprovided.
+• Theyneedtopaycarefulattentiontospelling;anymistakes
+arepenalised.
+• Pupilsshouldreadall thedefinitionsandwordsbefore
+theywrite.
+Warmer
+• Ask pupils todrawatablein theirnotebookswithfour
+columns.Givethemfourheadingsforeachspace:jobs,
+clothes,materialsandplaces.Ask pupils toworkin groups
+andwriteasmanywordsaspossibleforeachheading.Givea
+timelimit.Checkhowmanywordstheywrote.Thegroupwith
+themostwordsisthewinner.
+PB91.ACTIVITY1
+Look.Usethecodetocolourthesquares.
+• Showpage91on the whiteboard andfocuspupils onActivity
+1and theinstructions.Colouroneortwoexamplestogether
+as a class.Ask pupils toopentheirPupil's Booksatpage91
+andcolourthesquares.
+• Pupilsthenworkin pairstocomparetheiranswers.Check
+answers with thewhole class,elicitingthecolourforeach
+square.Notethatpassengerappearstwiceandfitsin
+twocategories.
+DExtra supportShowthetableon the whiteboard toensure
+pupilscanseethedifferentcategories.
+Key:brown:trainers,uniform,pyjamas;yellow:astronaut,rocket,
+planet;blue:passenger,pilot,airport;purple:passenger,platform,
+station;green:skiing,golf,swimming;pink:ambulance,bandage,
+medicine;orange:fridge,cooker,oven;grey:wood,wool,glass
+Digital ClassroomExtra Resources
+• T121-Extensionactivity:Groupingwords gPresentation Plus:[Practice Extra
+A2 FlyersExam folder
+T91A2 FlyersExam folder|FlyersReadingandWriting
+
+#### Page T92
+
+A2 FlyersExam folder
+FlyersReadingandWritingPart3
+• Pupils comparetheiranswersin pairs.Check with thewhole
+Objectives
+class.Elicitpossiblemissingwords.
+TocompleteapracticetaskforPart3of theFlyersReading
+Key:Possibleanswers:2tent(singularnoun),noisy/loud(adjective),
+andWritingexam.
+3people(pluralnoun),window(singularnoun),4interesting
+(adjective),fly(verb),5stopped(verb),lake(singularnoun),
+Target language
+6chocolate(adjective),tasty/good(adjective)
+• Key language:free-timeactivities,snowboarding,
+snowman,snowball,skiing,clothes,names,spotted,
+|PB92.ACTIVITY2
+striped,crown,birthday,bandage
+Readthestory.Chooseawordfrom thebox.Write
+EXAMSKILLS
+thecorrectwordnext tonumbers1-5.Thereisone
+• Readingastoryandchoosingthecorrectwordtocomplete example.
+thetext.Choosingacorrecttitlefor thetext.
+• Focus pupils onActivity2and theexample.Tell pupils toread
+EXAMTIPS therestof thetextandthinkaboutwhattypesofwordsare
+missing.
+• Pupilsneedtoreadthewholetexttogetthegeneralidea
+• Pupils completethetextwithwordsfrom thebox.Remind
+ofwhatitisaboutbeforecompletingthegaps.
+pupils tocrossoutthewordsastheyusethemtocomplete
+• Theyshouldpredictwhatwordisrequired(anoun
+thetext.
+(singular/plural),averb,anadverboranadjective)before
+• Pupils comparetheirideaswith a partner.
+completingthegaps.
+• Checktheanswers with thewhole classand thenfocuspupils
+• Encouragepupils tolookat thewordsbeforeandafterthe
+onthebestnamefor thestory.Pupils comparetheirideas
+gaptohelpthemunderstand thetypeofwordrequired.
+with a partnerand thenfeedbackto theclass.
+• Theythenchooseawordfrom theboxtocompletethe
+sentence. D.Extra challengeAsk pupilswhichwordswerenotusedandhow
+theydecidedthis.
+• Therearefourextrawordsthatarenotrequired.Pupils
+needtoknowthis.
+Key:1new,2date,3filmed,4already,5exciting,6AsongonTV.
+• Remindpupils tocrossoutthewordsin theboxoncethey
+haveusedthem. Ending the lesson
+• Pupils completethestarfacetoshowhowtheyfeltabout the
+Warmer
+task.Usepupils'feedbacktoplanmorereadingandwriting
+• Write thewordmusicon the board andaskpupilsifthewordpractice.
+isanoun,verb,adverboradjective(noun).Ask pupils totell
+youwordstheyassociatewithmusic.Elicitexamplesofnouns,
+verbs,adverbsandadjectiveson the board.
+#PB92.ACTIVITY1
+Readandguessthemissingword.Isitaverb,singular
+noun,pluralnoun,adverboradjective?
+• Showpupils page92on the whiteboard andfocusthem
+onActivity1.Focus pupils onthetextandelicitwhattype
+ofwordisneededfor thefirstgap(averb)andwhythey
+decidedthis.
+• Tell pupils toopentheirPupil's Booksatpage92.Ask pupils
+toworkin pairsanddecidewhattypesofwordsareneeded
+tocompletethesentences.
+Digital ClassroomExtra Resources
+Practice Extra•T121-Extensionactivity:Fillthegap
+Presentation Plus:
+A2 FlyersExam folder
+A2 FlyersExam folder|FlyersReadingandWritingT92
+
+#### Page T93
+
+A2 FlyersExam folder
+FlyersReadingandWritingPart5
+• Pupils comparetheiranswers with a partner.Checkasa
+Objectives
+whole class.
+TocompleteapracticetaskforPart5of theFlyersReading
+• Extra challengeWriteafewsentenceson the board.Ask pupils
+andWritingexam.
+toworkin pairsandfindotherwaysofsayingthem.
+Target language
+Key:1Lightning,2strangesound,3puttheirshopping
+• Key language:mountains,(deep)snow,skiing,iceskating,
+eagles,nest,rocks,extinctanimals
+PB93.ACTIVITY2
+EXAMSKILLSLook at thepictureandreadthestory.Writesome
+• Readingandunderstandingmeaning(schooltripandwordstocompletethesentencesabout thestory.You
+extinctanimals).canuse1,2,3or4words.
+• Focus pupils onActivity2and theexamples.Ask pupils to
+EXAMTIPS
+readandcompletethesentencesabout thestory.
+• Pupilsshouldreadthewholetextforgeneral
+• Pupils comparetheiranswers with a partner.Checkanswers
+understanding.
+with thewhole class.
+• Theinformationispresentedin thetext.Pupilsshould
+Key:1mountains,2skiing,3goodnews,4betweensomerocks, readthetextanduse1,2,3or4wordstocompletethe
+5extinctanimals,6iceskating,7keptfallingover/fellover
+sevensentences.
+• 
+Thewordsmaybeslightlydifferentfrom thetextbut
+Ending the lesson
+themeaningshouldbethesame.Remindpupilsofthis,
+• Pupils completethestarfacetoshowhowtheyfeltabout the
+andthat theyneedtoreadcarefullyfor theanswer.The
+wordstheychoosetocompletethesentencesmustbetask.Usepupils'feedbacktoplanmorereadingandwriting
+practice.
+grammaticallycorrect.
+Explainthatitisbettertowriteananswerthanleave
+ablank.
+Warmer
+• Jumblethelettersof thefollowingwords,on the board:
+parents,frightened,hated,noise,drove,began.Thenask
+pupils tounderlinethesynonymsin thefivesentencesin
+Activity1(mumanddad;scared;reallydidn'tlike;sound;
+wentin thecar,started).
+PB93.ACTIVITY1
+Read and completesothetwosentenceshavethe
+samemeaning.Youcanuse1,2,3or4words.
+• Showthepageon the whiteboard andfocuspupils onActivity
+1and theinstruction.Ask pupils toreadall thesentencesand
+askoneortwoquestionsabout them,e.g.Whydidn'tSarah
+likestorms?WhatwasYunadoing?WhatdidKitoandhis
+familyputin theircar?
+• Ask pupils toreadthetwosentencesin thefirstquestion.
+Discussitas a classandcheck theyunderstand thetask.
+• AskthemtoopentheirPupil's Booksatpage93.Askthemto
+readandcompletethetwosentencessotheyhavethesame
+meaning.Theycanuse1,2,3or4words.
+Digital ClassroomExtra Resources
+0Presentation Plus:•T121-Extensionactivity:Sentencejigsaws
+A2 FlyersExam folder
+Practice Extra
+T93A2 FlyersExam folder|FlyersReadingandWriting
+
+#### Page T94
+
+A2 FlyersExam folder
+FlyersSpeakingPart1
+• Checkanswers with thewhole class.Ifnecessary,playthe
+Objectives🔊')Audioagainforconfirmation.
+TocompleteapracticetaskforPart1of theFlyersSpeaking
+0Extra challengeAsk pupils toworkin pairs.Onepretendstobe
+exam.
+theexaminerandsaysthesentencesforpicture1,and theother
+Target languagerespondsforpicture2.
+• Key language:outdooractivities,makingafire,swimming,Key:2takingaphoto,3cyclingover,4trainers,5twohills,
+ridingabike,takingphotos,hills,trees,path,swan,swing6standingontheswing
+('82
+EXAMSKILLS
+Audio scriptsfor theExam foldercanbedownloadedfrom
+• Respondingtoquestionsaboutname,surnameandage.
+Teacher Resources.
+• Listening,identifying,anddescribingdifferencesbetween
+twopictures(in thecountrysideandactivities).
+PB94.ACTIVITY2
+EXAMTIPS
+Listen.Talk about thedifferences.Listenagainto
+• ShowthevideoofSpeakingPart1sopupilsarefamiliarwith
+checkyouranswers.
+whattoexpect:http://www.cambridgeenglish.org/exams/
+• Focus pupils onActivity2. young-learners-english/flyers/preparation/2018-update/
+• Play the🔊1)Audioandpauseafteritem1.Elicitthedifference.
+Pupilsshouldlook fordifferencesandtalk about their
+picture.Therearemanydifferencesin thepicture,butthey•Play therestof the1)Audio.Pauseafter eachitemforpupils
+willonlyneedtotalk aboutsixof them.totalk about thedifference.
+• Theyneedtolistencarefullytowhat theexaminersays•Play the1)Audioagainwithoutpausingforpupils tocheck
+theiranswers.
+about thefirstpicture,and thenfindandsaythedifference
+in theirs.Key:1(1)Themanonthesofaiswatchingamusicconcert.
+(2)Themanonthesofaiswatchinggolf.
+Warmer2(1)Threechildrenareleaving.(2)Threechildrenarearriving.
+3(1)Oneof theboysiscarryingaflag.(2)Oneof theboysis
+• Givepupils oneminutetomovearoundtheclassroom,saying
+carryinganumbrella.
+Hello,what'syourname?What'syoursurname?andHowold
+4(1)There'sacalendarontheshelf.(2)There'satelephoneanda
+areyou?toasmanyclassmatesaspossibleinoneminute.
+plantontheshelf.
+• ExplainthatansweringthequestionsWhat'syourname/5(1)There'sapaintingofthreecamels.(2)There'sapaintingof
+surname?andHowoldareyou?isanimportantpartof thethreepyramids.
+Speakingexam.6(1)Ayounggirl'sbrushingaverybigdog.(2)Ayounggirl's
+brushingherdoll'shair.
+PB94.ACTIVITY1 "83
+Listenandcirclethedifferencesinpicture2.ThenAudio scriptsfor theExam foldercanbedownloadedfrom
+Teacher Resources. listenandrespond.Completethesentencesabout
+picture1.Ending the lesson
+• Showpage94on the whiteboard andfocuspupils onActivity•Pupils completethestarfacetoshowhowtheyfeltabout the
+1and theinstructions.Dotheexampletogetheras a class.
+task.Usepupils'feedbacktoplanmorespeaking practice.
+Talk about thedifferences.Ask pupils tocirclethem.
+• Play the🔊Audio,pausingafter eachitemforpupils to
+respondwithasentenceaboutpicture2.
+• Thenfocusontheexampleforsentence1.Point to thetwo
+childreninpicture1andelicit thewords.
+• Givepupilstimetolookatpicture1andcompletethe
+sentences.
+• Inpairstheycheckanswers.
+Digital ClassroomExtra Resources
+Presentation Plus:Practice Extra•Teacher Resources:DownloadableExam folderAudioScript
+A2 FlyersExam folder •T121-Extensionactivity:Comparingrooms
+()Audio82-83
+A2 FlyersExam folder|FlyersSpeakingT94
+
+#### Page T95
+
+A2 FlyersExam folder
+FlyersSpeakingPart2
+• Extra supportCheck with theclassandwritethefullquestions
+Objectives
+on the boardbeforetheyaskand answerin pairs.
+TocompleteapracticetaskforPart2of theFlyersSpeaking
+Key:(Possibleanswers):Thecastleisonthehill.Themumand
+exam.
+daughteraregoingshopping.Apoliceofficeriswalkingthedog.
+Target languageIt'squarterpasttwo.Twochildrenaregettingonthebus.Theold
+womanispullingashoppingtrolley.Thegirlisreadingamagazine.
+• Key language:towncentre,city,countryside,postoffice,
+Itissunny.
+postbox,policeofficer,policestation,townhall,castle,
+busstop,suitcase,hotel,bench,journey,sunny,foggy
+|PB95.ACTIVITY2
+EXAMSKILLS
+Listen.AnswerthequestionsaboutWilliam's
+• Answeringandformulatingquestions.
+journey.ThenaskquestionsaboutKaty'sjourney.
+EXAMTIPS •Focus pupils onActivity2.Play the81)Audio.Stopafteritem1
+andelicit theanswersto thefirstquestionasanexample.
+• Pupilsshouldlistenandfindinformationtoanswer
+• Ensurepupilsreadthepromptsandthat theyknowthese
+questions.Theyalsoneedtomakequestionsfrom
+willmaketheotherquestions.Theyneedtofindtheanswer prompts.
+to thequestion,e.g.WhereisWilliamgoing?/He'sgoingto
+• Theyshouldtrytoanswerthequestionswithanextended
+Westfield.
+response.Theyneedtolistento theexaminercarefully.
+• Play thefull1)Audio.Pupils listenand answerthequestions.
+• Theyneedtomakefullquestionstoasktheexaminer.
+TheythenaskquestionsaboutKaty'sjourney.
+• Theycanasktheexaminertorepeat thequestions.
+01)84
+WarmerAudio scriptsfor theExam foldercanbedownloadedfrom
+• DrawaNoughtsandCrossesnine-squaregridon the boardTeacher Resources.
+with thefollowingquestionwords: Key:William'sjourney:1He'sgoingtoWestfield.2He'stravelling
+bybus.3He'sleavingat10.30/halfpastten.4He'svisitinghis
+What?Who? Howold?grandmother.5He'sgoingto thecountryside.
+Katy'sjourney:1Where'sKatygoing?2How'sshetravelling?
+Howmany?Yes/NoQWhen? 3Whattime'ssheleaving?4Who'sshevisiting?5Isshegoingtoa
+cityorthecountryside?
+Whattime?Havegot?Where? Ending the lesson
+• Pupils completethestarfacetoshowhowtheyfeltabout the
+• Pupils workinteams.Teamstakeitinturnstochooseasquare
+task.Usepupils'feedbacktoplanmorespeaking practice.
+andformaquestion.Thequestiongivenmustbeaccurateto
+scoreanoughtorcrossin thecorrespondingsquare.Thefirst
+teamtomakeahorizontal/vertical/diagonalthree-squareline,
+PB95.ACTIVITY1
+Look at thepicture.Ask and answerwith a partner.
+• Showpage95on the whiteboard andfocuspupils onActivity
+1and theinstructions.Focusonthefirstquestionpromptand
+elicit thefullquestionWhere'sthecastle?frompupils.
+• Pupils workin pairsandsaytheotherquestions.Theythen
+askand answerthequestionsin pairs.Checkanswers with the
+whole class.
+Digital ClassroomExtra Resources
+Presentation Plus:•Teacher Resources:DownloadableExam folderAudioScript
+LPractice Extra
+A2 FlyersExam folder •T121-Extensionactivity:Interviewaboutajourney
+(1)Audio84
+T95A2 FlyersExam folder|FlyersSpeaking
+
+### Exam Pages (Reference)
+
+#### Page 188
+
+FlyersListeningPart1
+176Describethetwopictures.ListenandcircleAorB.
+PictureAPictureB
+1AB
+2AB
+3АВ
+4AB
+5AB
+6АВ
+277&Listen and drawlines.Thereisoneexample.
+BettyWilliamGeorgeSophia
+• 
+HollyRichardOliver
+88A2 FlyersExam folder:ListeningPart1
+PB88A2 FlyersExam folder|FlyersListening
+
+#### Page 191
+
+FlyersListeningPort4
+1⅞8Listen and drawarrows→†7.
+STARTFINISH
+2CListenandtick(/)thebox.Thereisoneexample.
+WhendidUncleDavidlastseeGeorge?1What'sGeorge'sfavouritesubject?
+В
+2WhichprojectisGeorgedoingatschoolnow?3WheredidGeorgegoonhislastschooltrip?
+4WhichinstrumentisGeorge'ssisterlearningtoplay?5WhatjobdoesGeorgewanttodoin thefuture?
+A2 FlyersExam folder:ListeningPart489
+A2 FlyersExam folder|FlyersListeningPB89
+
+#### Page 192
+
+FlyersListeningPort5
+180Talk about thedifferences.Listenandcircle.Thencompletethesentences.
+1Pleasepaintthesign
+above
+thedoor.
+2Myfavouriteistheone 2
+with
+3 3Iprefergoingona
+4Ibrokemy
+5Myfavouriteis
+5
+theonewith the
+2081Listenandcolourandwrite.Thereisoneexample.
+HISTORYMUSEUM
+90A2 FlyersExam folder:ListeningPart5
+PB90A2 FlyersExam folder|FlyersListening
+
+#### Page 195
+
+FlyersReadingandWritingPort1
+1Look.Usethecodetocolourthesquares.
+ambulancewoodtrainersastronautwool passenger
+Key:
+clothes=brown
+passengeruniformpilotskiingfridge pyjamas
+space=yellow
+airtravel=blue
+traintravel=purple rocketbandagegolfplatformairportcooker
+sport=green
+hospital=pink
+planetmedicineglassswimming stationovenkitchen=orange
+materials=grey
+2Lookandread.Choosethecorrectwordsandwritethemonthelines.
+Thereisoneexample.
+arailway
+Thispersonfliesaplaneandusually
+apilot wearsauniform.
+&pilot
+1Peopletravelincarsalongtheselargeroads
+pyjamas
+whentheygoonlongjourneys.
+2Thisisthenameforapersonwhotravelsonpockets
+aplaneortrain,orinataxi.
+trainers
+3Peoplewalkoverthiswhentheywanttocross
+stamps aroadorriver.
+4Youcanstayinthiswhenyouarecamping
+aplatform
+in thecountryside.
+5Peopleusuallyweartheseon theirfeetwhenapassenger
+theygorunningorplayasport.
+amechanic
+6Youcanfindtheseoncoatsandjackets.
+Peopleputthingslikekeysandmoneyinto them.
+atent
+7Thismaterialcomesfromsheepandpeople
+envelopes
+oftenuseittomakesweaters.
+8Thispersonrepairscarsandothermachines. motorways
+9Youwalkalongthisinastationwhenyou
+metal
+getonoroffatrain.
+10Youputlettersinsidetheseandwritethewool
+addressesonthefront.
+abridge
+A2 FlyersExam folder:ReadingandWritingPart191
+A2 FlyersExam folder|FlyersReadingandWritingPB91
+
+#### Page 196
+
+FlyersReadingandWritingPort3
+1Readandguessthemissingword.Isitaverb,singularnoun,pluralnoun,
+adverboradjective?
+play(verb)
+1Mydad'snotgoingtogolftodaybecauseit'swindy.Hesaysastorm(noun)
+iscoming.
+2Ididn'tlikesleepingina•Youcanhearalotofanimalsatnight.
+3Thereweren'tmany -onthetrainsowesatnext to theandenjoyed
+theviews.
+4Wewatchedandocumentarylastnightaboutbutterfliesthat
+thousandsofkilometreseverywinter.
+5Mycousinswalkingacrossthebridgewhentheysawdolphinsin
+the
+6Yesterday,mysisterandImadeacakebutweforgottoaddsugar!
+Itwasn'tvery
+Readthestory.Chooseawordfrom thebox.Write thecorrectwordnext to
+numbers1-5.Thereisoneexample.
+competitionfriendlyalreadynewinvitationfilmedtimeexcitingdatewrote
+Lastnight,whenOliverandSophiawereleavingthecinema,theysawa
+posteraboutamusiccompetition.ThemanagerofafamousTVmusic
+film. showwaslookingforayoungrockbandtobeina(1)
+Theyhadtosendavideoto theemailaddressontheposter.
+OliverandSophiawereinaband.Oliverplayedthepiano,Sophiawasthe
+singerand thetwoothermembers,HarryandEmma,playedtheguitar.
+Olivershowedthemtheposteronhisphoneatschoolthenextday."But
+lookat the(2)!"saidHarry."Weneedtosendthevideo
+before17thApril.That'stomorrow!"
+"Let'smakeavideoofournewsong,'FoggyDays',rightnow,"saidEmma.
+Sophia'sbrotherborrowedhisdad'scamera.He(3)
+bandontheschoolstageandemailedthevideoafterschool.Amonthlater,
+theyfoundoutthat theirsongdidn'twin.Theywereallunhappy,butEmma
+said,"Itdoesn'tmatter,ourbandis(4)famousatschool!"
+Thenextday,adifferentTVmanagerphonedEmma."I'dliketoplayyour
+songat thebeginningofourweathernews,"hesaid,"Whenit'sfoggy,
+ofcourse!"
+"Wow!"laughedOliver."That's(5)news!"Everyoneagreed.
+(6)Nowchoosethebestnamefor thestory.Tick(½)onebox.
+Aspecialmusicvideo.AsongonTV.
+Rockbandwinners!
+92A2 FlyersExam folder:ReadingandWritingPart3
+PB92A2 FlyersExam folder|FlyersReadingandWriting
+
+#### Page 199
+
+FlyersReadingandWritingPort5
+1Read and completesothetwosentenceshavethesamemeaning.Youcanuse1,2,
+3or4words.
+1Sarahreallydidn'tlikestormsbecauseshewasscaredoflightning.
+lighteningfrightenedSarah.
+2Onenight,whenYunawascampingwithherfamily,therewasastrangesoundandshegotup.
+Yunagotupwhenshehearda
+3Kitoandhisfamilywerehappywhentheyputtheirshoppingin thecaranddrovehome.
+Thefamilywenthomehappilyaftertheyhadin thecar.
+2&Look at thepictureandreadthestory.Writesomewordstocompletethe
+sentencesabout thestory.Youcanuse1,2,3or4words.
+ThestudentsinClass6Awereexcitedastheywokeuponthefirstmorningof theirschoolskiingtrip.
+Theyallgotdressedandhurriedtohavebreakfastasfastastheycould.Themountainsaroundthe
+hotellookedamazing.
+"Whattimedotheskiingclassesstart?"askedRobert."It'sgoingtobesomuchfun!"
+Theirteacher,MrsWest,lookedworriedbutsmiledandsaid,"Ihavesomebadnewsandsome
+goodnews."
+Thebadnewswasthat therewasnoskiingfor thefirstthreedaysbecausethesnowwastoodeep.
+Butthegoodnewswasthatapairofeagleswasmakingtheirnestbetweensomerocksonthe
+highestmountain.Manypeoplethoughtthiskindofeaglewasextinct.
+"Theremustn'tbeanyactivityonthemountainsatthistime,"MrsWestexplained,"butwecandoa
+projectabouteaglesinstead."
+"Westudiedextinctanimalsinoursciencelessons,anditwasreallyinteresting,"saidRobert.
+Thestudentswerealsohappywhentheyfoundoutthat therewasiceonalakebehindthehotelso
+everyonecouldhaveiceskatingclassesforthreedays.
+"Itwasfunnywhenweactuallystartedourskiingclasses,"Helentoldhermumwhenshewasback
+home."Wekeptfallingoverall thetimebecausewewerewatchingtheeaglesflyingaboveus!"
+Examples
+Itwasthefirst dayof thestudents'skiingtrip
+Thestudentswantedtoeatbreakfastquickly.
+Questions
+1Thestudentscouldseeoutsidethehotel.
+2Theteachertoldthemtheycouldn'tgoforseveraldays.
+3Shealsotoldthemsomeabouteagles.
+4Thenestsweren'teasytoseebecausetheywerehighup
+5Thestudentsalreadyknewaboutfrom theirscienceclasses.
+6Thestudentswerepleasedtheycouldgoonthelake.
+7Manystudentslookedupat theeaglesduring theirskiingclassesandalot.
+A2 FlyersExam folder:ReadingandWritingPart593
+A2 FlyersExam folder|FlyersReadingandWritingPB93
+
+#### Page 200
+
+FlyersSpeakingPart1
+182Listenandcirclethedifferencesinpicture2.Thenlistenandrespond.
+Completethesentencesaboutpicture1.
+Picture1Picture2
+Inpicture1,...
+1twochildrenaremakingafire
+2amanin thestreamisoftwobutterflies.
+3agirlisthebridge.
+4theboy's_areinarucksack.
+5thereare_withapath.
+6aboyisunderatree.
+283
+Listen.Talk about thedifferences.Listenagaintocheckyouranswers.
+94A2 FlyersExam folder:SpeakingPart1
+PB94A2 FlyersExam folder|FlyersSpeaking
+
+#### Page 203
+
+FlyersSpeakingPort2
+1Look at thepicture.Ask and answerwith a partner.
+POSTOFFICE
+WhereIcastle?Where/mumanddaughtergo?WhoIwalkdog?Whattime?
+Howmanychildren/getonbus?Whatoldwoman/pull?Whatgirl/read?
+Sunnyorfoggy?
+Listen.AnswerthequestionsaboutWilliam'sjourney.Thenaskquestions
+aboutKaty'sjourney.
+William'sjourneyKaty'sjourney
+Where/goingWestfieldWhere/going?
+How/travelbusHow/travel ?
+Whattime/leave10.30Whattime/leave?
+Who/visitgrandmotherWho/visit
+?
+City/CountrysidethecountrysideCity/Countryside?
+A2 FlyersExam folder:SpeakingPart295
+A2 FlyersExam folder|FlyersSpeakingPB95
+
+## Activity Book Answer Key
+
+### Page 204
+
+Activity BookAnswer Keys
+StarterUnit
+AB7.ACTIVITY1
+AB4.ACTIVITY1 Read and completetheschooltimetable.
+Putthewordsin groups.Key:
+Key:Thingsweread:comic,newspaper,magazine;Thingswewear:MondayTuesdayWednesdayThursdayFriday
+costume,sweater,trainers;Computerthings:wi-fi,screen,internetsciencecomputergeographyscience
+9.00-maths
+10.00 studies
+AB4.ACTIVITY2
+10.00-mathssciencesportcomputer
+science
+MatchthesentenceswithStella,LennyandMeera.studies
+11.00
+Key:2Lenny,3Stella,4Stella,5Meera,6Lenny11.00-computerEnglishEnglish geographymusic
+12.00studies
+AB4.ACTIVITY3
+lunch
+13.00-history Read and complete.geographyartartart
+14.00 Key:2online,3internet,4sports,5photos,6music,7videos,8blog
+14.00-historysportEnglishmusicmusic
+AB4.ACTIVITY4 15.00
+15.00-Englishmathsmathshistorysport
+Correctthesentences.
+16.00
+Key:2No,youcan't.Youcanfindthemontheinternet.3No,itisn't.
+Kid'sBoxisanewblog.4No,theyaren't.They'recalledStella,LennyEElAB7.ACTIVITY2
+andMeera.5No,thereisn't.There'saprizefor thebestblog.
+NowwriteaboutQuinn'stimetableonMonday.
+AB5.ACTIVITY1
+Key:Pupils'ownanswers
+Read and orderthetext.
+AB7.ACTIVITY3
+Key:2,4,9,12,7,5,3,1,6,10,8,11
+Write aboutyourtimetableonyourfavourite
+AB5.ACTIVITY2 schoolday.
+Read and completethequestions.
+Key:Pupils'ownanswers
+Key:2Howmany,3What,4When,5Why,6Where
+EEABS.ACTIVITY1
+AB5.ACTIVITY3
+Listenandcircletheconnectedwords.
+Write thecorrectsentences.
+Key:2Howwas,3Areyou,4Howabout,5Didyou
+Key:2Stellalivesinavillage.3Meerawalkstoschooleveryday.
+4Lenny'stheoldestof thechildren.5MeeralivesnearLenny.LEABS.ACTIVITY2
+6StellaandMeeraarebothten.
+Listen and complete.
+AB6.ACTIVITY1Key:2Howabout,3Didyou,4Didyou,5Areyou
+Choosewordsfrom theboxtolabelthepictures.EEABS.ACTIVITY3
+Key:2geography,3history,4exam,5language,6dictionary
+Read and match.
+AB6.ACTIVITY2Key:1d,2e,3a,4b,5c
+Followtheschool words.
+EElABS.ACTIVITY4
+Key:maths,English,computerstudies,exam,dictionary,science,art, Look at thepictureofyourfriend.Writequestionsto
+sport,music,teacher,board,subject
+askhimabouthisholiday.
+AB6.ACTIVITY3Key:Pupils'ownanswers
+NowcompletethetablewithwordsfromActivity2.
+BEAB9.ACTIVITY1
+Key:Thebody:back,beard,knee,ears,moustache;Food:beans,rice,
+potatoes,salad,soup,yoghurt;Thenaturalworld:sea,cave,mountain,
+Read and answer.
+lake,river,field;'Odd'words:eagle,tortoise;Group:Animals Key:2It'salmost30metreslong.3They'relearningaboutTheRosetta
+Stone.4Ithelpedustounderstandancientlanguages.5Itwasinhis
+AB6.ACTIVITY4
+classroom.
+Answerthequestions.
+AB9.ACTIVITY2
+Key:Pupils'ownanswers
+Readthetext.Thenlookat thecodeandwritethe
+secretmessage.
+Key:Veryoldlanguagesareakindofcode.Usethiscodeto
+writemessages.
+T96Activity BookAnswer Keys
+
+### Page 205
+
+Activity BookAnswer Keys
+AB13.ACTIVITY1 LEAB9.
+Doyouremember?Read and completethetable.
+Key:2competition,3language,4dictionary,5Geography,scienceKey:
+NameFrankDeniz SophiaPetra
+AB9.
+KindofQuizSportDocumentary
+CandoCartoon
+programme
+Key:Pupils'ownanswers ProgrammeQuackyWhowantstoSunday
+Worldabout
+Duckbeabillionaire?sportsus
+name Unit1
+Programme4.20
+3.504.454.10
+AB10.ACTIVITY1time
+Matchtheclockswith thetimes.
+AB13.ACTIVITY2
+Key:2e,3b,4d,5c,6a
+Nowanswerthequestions.
+EAB10.ACTIVITY2
+Key:2Whowantstobeabillionaire?33.50,4Petra's,5Deniz,64.20
+Write thetimes.
+AB13.ACTIVITY3
+Key:2halfpastsix,3twenty-fivepastthree,4fivetoeight,
+5quartertonine,6tenpastsevenAnswerthequestions.
+Key:Pupils'ownanswers
+AB10.ACTIVITY3
+Read and drawthetimesontheclocks.LEEAB13.ACTIVITY4
+Key:Pupils'drawingsHowmanywordscanyoufindin'documentaries'?
+Key:Pupils'ownanswers
+AB11.ACTIVITY1
+Matchtheclockswith thesentencesforWilliam'sdayLEAB14.ACTIVITY1
+yesterday.Putthesentencesinorder.Listen and write1and2.
+Key:b6,c2,d7,e8,f1,g4,h3Key:b1share,2chair,c1shoes,2choose,d1chips,2ships,
+Order:1f,2c,3h,4g,5a,6b,7d,8ee1washes,2watches
+AB11.ACTIVITY2EEAB14.ACTIVITY2
+ChoosewordsfromActivity1.Listen and check. Findthepastof theseverbsandwritethem.
+Key:came,had,caught,wokeup,gotup,ate,drank,put,tookKey:2share,chair,3choose,shoes,4chips,ships,5watches,washes
+AB11.ACTIVITY3LEEAB14.ACTIVITY3
+Answerthequestionsaboutyesterday.
+Read and write.Listen and check.
+Key:Can'tyouwatchtheraceonyourphone?/Perfect!/OK,let's
+Key:Pupils'ownanswers
+watchtherace.'llwatchSingup!oncatchuplater.
+AB11.ACTIVITY4
+AB14.ACTIVITY4
+Nowwrite20-30wordsaboutwhatyoudidyesterday.
+Read and completetheTVquestionnaire.
+Key:Pupils'ownanswers
+Key:2Whattime,3Where,4Doyou
+AB12.ACTIVITY1
+AB15.ACTIVITY1
+Choosewordsfrom theboxtolabelthepictures.
+Read and answer.
+Key:2documentary,3comedy,4news,5series,6sport
+Key:2It'sonDiggory'scomputer./BrutusGrabbehasgotit.
+3Athalfpastnine.4Thenews.5BrutusGrabbe.6Theprofessor's EEAB12.ACTIVITY2
+secretpassword.
+Write theprogrammes.
+AB15.ACTIVITY2 Key:2comedy,3weather,4news,5documentary,6series
+Readthestorysofarand thenwriteitin thepast.
+AB12.ACTIVITY3
+Key:Thereporterand thecameramanarrived.Thereporterasked
+Read and answerthequestions.
+Diggorysomequestions.Diggorysaidthathedidn'twantthethief
+Key:2Channel1andChannel3.3Theweather.4CounttotenandtouseTheBaloneyStonetofindtreasure.AthalfpastnineDiggory
+askedEmilytoturnontheTVbecausehewantedtowatchthenews. answerfirst.5(1)AnimalsofAfrica,(2)Explorers,(3)Ourbody.
+6At1.15.BrutusGrabbecameonto theTVscreenandlaughed.HewastheTV
+cameramanfrom theuniversity!HewantedDiggory'ssecretpassword
+for thecomputer program.
+Activity BookAnswer KeysT97
+
+### Page 206
+
+Activity BookAnswer Keys
+AB19.ACTIVITY1
+AB15.
+Doyouremember?Look at thepicturesand answerthequestions.
+Key:2twenty-fivepasteight,3documentary,4comedies,cartoons,Key:2She'sgoingtobrushherteeth.3He'sgoingtowatchTV.
+5and6Pupils'ownanswers4They'regoingtocatchabus.5He'sgoingtodohishomework.
+6She'sgoingtogotosleep.
+AB15.
+AB19.ACTIVITY2
+Cando
+Makenegativesentences.
+Key:Pupils'ownanswers
+Key:2Heisn'tgoingtogorunning.3Theyaren'tgoingtoplayfootball.
+AB16.ACTIVITY14Sheisn'tgoingtohaveabiscuit.5Theyaren'tgoingtoseethefilm.
+6Heisn'tgoingtodrivethecar.
+Readandcircletheadjectives.
+Key:great,interesting,beautiful,colourful,amazingLEAB19.ACTIVITY3
+AB16.ACTIVITY2LookatTanaz'sdiaryfor theweekend.Askand
+answerthequestions.
+Plantowriteachatmessage.Completethe
+Key:2aWhat'sTanazgoingtodoonFridayafternoon?bShe'sgoing informationaboutadocumentary.
+toplayfootball.3aWhattimeisTanazgoingtovisithergrandma?b
+Key:Pupils'ownanswers She'sgoingtovisitherat10.45/quarterto11.4aWhat'sTanazgoing
+tobuyonSaturdayafternoon?bShe'sgoingtobuysomepyjamas.5a
+AB16.ACTIVITY3 Where'sTanazgoingtowalkonSundaymorning?bShe'sgoingtowalk
+in thehills.6aWhat'sTanazgoingtodoonSundayafternoon?bShe's Useyournotestowriteamessagetoafriendabout
+goingtogoto thecinema.
+thedocumentary.
+Key:Pupils'ownanswersLEAB20.ACTIVITY1
+Choosewordsfrom theboxtolabelthepictures.
+AB16.ACTIVITY4
+Key:2footballplayer,3designer,4actor,5journalist,6mechanic
+Didyou...
+Key:Pupils'ownanswersEElAB20.ACTIVITY2
+Completethetable.
+AB17.ACTIVITY1
+Key:driver,dance,skater,designer,run,photographer,manage,
+Listenandcolourandwrite.Thereisoneexample.playtennis,swimmer
+Key:1Colourtheboywithfoodonhisplate'sjacket,green.2Colour
+AB20.ACTIVITY3 thebowlbeingcarriedby themanstandingundertheclock,red.
+3Write'fire'next to'exit'abovethedoor.4Write'maths'ontheRead and writethewordsin thepuzzle.
+biggerbookonthetable.5Colourthebottlebeingheldby thewoman
+Key:2cook,3firefighter,4dentist,5nurse,6pilot,7mechanic,
+behindthecounterwithlonghair,blue.
+8artist,9actor;Mysteryjob:scientist
+Unit2
+AB20.ACTIVITY4
+AB18.ACTIVITY1Nowwriteadefinitionforthisjob.
+Write thewordsin thesentences.Key:Pupils'ownanswers
+Key:2be,3read,4listen,5wear,6play
+AB21.ACTIVITY1
+AB18.ACTIVITY2 Thesefourchildrenaregoingtohavedifferentjobs.
+Matchthequestionswith theanswers.Write thenumbers.
+Key:2f,3c,4a,5b,6d,7h,8g
+Key:a4,6,8;b3,5,10;1,2,7;d9,11,12
+AB18.ACTIVITY3EEAB21.ACTIVITY2
+Lookatthiscode.Write thesecretmessage.SlimJim'safamoussinger.Read and complete
+Key:Areyougoingtocometomyparty?hisdiary.
+Key:
+AB18.ACTIVITY4
+MondayTuesdayWednesdayThursdayFriday
+Nowwriteanothermessageforyourfriendinyour
+notebook.OpenschoolFlyto a.m.ArriveinMusicTV
+shopSpain
+Key:Pupils'ownanswersLondoninterview
+lunchlunchlunchlunch
+lunch
+p.m.HospitalDinnerwithactorsstadiumSinginfootballCinemaMeetmanager
+T98Activity BookAnswer Keys
+
+### Page 207
+
+Activity BookAnswer Keys
+AB21.ACTIVITY3 Didyou...
+Key:Pupils'ownanswers
+Answerthequestions.
+Key:Pupils'ownanswersEEAB25.ACTIVITY1
+Readtheletterandwritethemissingwords.Writeone
+AB22.ACTIVITY1
+wordoneachline.
+Listenandcirclethe/a/sounds.Thenpractisesaying
+Key:1than,2answer,3good,4to,5some
+thesentences.
+Key:2Shewantst@beadriver.3MaybeIcanbe@popsinger.ReviewUnits1and2
+4WhatareyougoingtObe?
+AB26.ACTIVITY1
+AB22.ACTIVITY2
+Readthestory.Choosewordsfrom theboxto
+Listen and complete.completethesentences.
+Key:Sarah:older,others,writer;Matt:painter,photographer,waiter
+Key:2jobs,3firefighter,4painted,5going
+AB22.ACTIVITY3
+AB26.ACTIVITY2
+Read and match.
+ChooseatitleforthisepisodeofFriendly.
+Key:1e,2b,3d,4a,5c
+Key:aModernart
+AB22.ACTIVITY4
+AB26.ACTIVITY3
+Howarejobssimilaranddifferent?Read and complete.DrawandcolourFrankie'spainting.
+Key:2cars,driver,3restaurant,cook,4creative,writer,
+Key:Pupils'ownanswers
+5lookafter,dentist,6stage,actor
+AB26.ACTIVITY4
+BEJAB23.ACTIVITY1
+Matchthequestionswith theanswers.
+Read and answer.
+Key:2AttheOldCityLibrary.3Becauseheonlylovesmoney. Key:3,6,4,1,2,5
+4At10.45/quarterto11.5No,heisn't.6Thesecretary'sgotaletter.
+AB27.ACTIVITY5
+AB23.ACTIVITY2Completethesentences.Countandwritethenumber
+oflettersin thebox.
+Read and orderthetext.
+Key:Fromlefttoright:3,5,1,6,8,7,2,4 Key:2history(7),3quarter(7),4art(3),5best(4),6geography(9),
+7quiz(4),8mechanic(8),9subject(7),10computer(8),11half(4),
+AB23.12maths(5),13artist(6),14play(4)
+Doyouremember?
+AB27.ACTIVITY6
+Key:2repairs,3dentist,4goingto,5and6Pupils'ownanswers
+Nowcompletethecrossword.Write themessage.
+AB23.Key:
+a
+Cando
+Key:Pupils'ownanswers rt
+BEJAB24.ACTIVITY1
+h
+Read and match.
+Key:1e,2a,3c,4b,5d
+AB24.ACTIVITY2m
+g0gra
+Plantowriteasafetyleaflet.Completethe
+informationaboutstayingsafeonline.hhist
+IP! te
+Key:Pupils'ownanswersa
+qua
+AB24.ACTIVITY3
+Useyournotestocreatealeafletaboutstayingsafe
+Message:Hellothere online.
+Key:Pupils'ownanswers
+AB24.ACTIVITY4
+Activity BookAnswer KeysT99
+
+### Page 208
+
+Activity BookAnswer Keys
+AB27.ACTIVITY7LEEAB30.ACTIVITY3
+Quiztime!
+Look at thelettersontheclockandwritethewords.
+Key:1TheycanstudyFrench,GermanorSpanish.2WelearnaboutKey:2school,3stadium,4park,5shop,6road
+plantsand thehumanbodyinscience.3Wecanuseadronecamera.
+AB31.ACTIVITY1 4Shethinksshe'sgoingtobeadentistordoctor.5GeorgeOrwellwas
+awriterandjournalist.6Wecanuseafireblanket. Write'who',"which'or'where?.
+Key:2who,3which,4where,5who,6where,7where,8where, LEAB27.ACTIVITY8
+9who,10where Writequestionsforyourquizinyournotebook.
+AB31.ACTIVITY2 Key:Pupils'ownanswers
+NowfindthewordsfromActivity1.
+Unit3
+Key:2pilot,3ticket,4theatre,5cook,6museum,7airport,8bank,
+AB28.ACTIVITY19mechanic,10bridge
+Read and answerthequestions.EEJAB31.ACTIVITY3
+Key:1three,2twice,3thirteen
+Writeadefinitionof thesewords.
+Key(possibleanswers):1Aplacewhereyoucancatchabus.
+AB28.ACTIVITY2
+2Someonewhohelpssickpeopleinhospital.
+Tick(v)orcross(X)thesentences.
+AB31.ACTIVITY4 Key:1X,2J,3X,4x
+Puttheseplacesonyourmap.
+AB28.ACTIVITY3
+Key:Pupils'ownanswers
+Read and completethesentences.
+Key:2right,3straighton,4onthecorner,5left,6alongLEEAB31.ACTIVITY5
+Nowwritedirectionsfrom thecastletothreeplaceson
+AB29.ACTIVITY1
+themap.
+Followthedirectionsandwritethemessage.
+Key:Pupils'ownanswers
+Key:Londonisthebiggestcityin theUK.Therearelotsofinteresting
+placestoseeandeveryyear29millionpeoplevisitit.
+BEAB31.ACTIVITY6
+AB29.ACTIVITY2Askyourfriendtofollowyourdirections.
+Putthesebuildingsonthemap. Key:Pupils'ownanswers
+Key:Fromlefttoright:castle,cinema,library,school,firestation,
+AB32.ACTIVITY1
+stadium
+Matchtomakewords.Listen and check.
+AB29.ACTIVITY3
+Key:2street,3sportsstadium,4skyscraper,5school,6square
+FindthesebuildingsinActivity5.
+AB32.ACTIVITY2
+Key:1thelibrary,2thestadium
+Listenandcircle.
+AB29.ACTIVITY4
+Key:2skyscraper,3stairs,4stand,sportsstadium,5skating,street
+Nowwritetwosetsofdirectionsforafriendtofollow
+AB32.ACTIVITY3
+inyournotebook.
+Listenandmatch.
+Key:Pupils'ownanswers
+Key:2c,3a,4b
+AB30.ACTIVITY1
+AB32.ACTIVITY4
+Lookandcompletethewords.
+Readtheposter.Thenwriteaboutaplacetovisitin
+Key:2restaurant,3theatre,4policestation,5castle,6airport
+yourtownorcity.
+AB30.ACTIVITY2
+Key:Pupils'ownanswers
+Completethetable.Lookin thePupil's Booktofind
+EEJAB33.ACTIVITY1
+thenamesof theplaces.
+Key:10.30:WentforaboattripontheRiverThames.12.45:HadaRead and answer.
+picniclunchinHydePark.2.30:Wentto thenewGlobeTheatre.Key:2HemeansAlexandria.3TheyaregoingtoflytoAlexandria.
+4.30:Wenttolookat theTowerofLondon.5.30:Tookataxifrom4Thereisacave.5Thereissecretwriting.6BrutusGrabbeisthe
+TowerBridgeto thehotel.5.50:Arrivedat theirhotel.
+taxidriver.
+T100Activity BookAnswer Keys
+
+### Page 209
+
+Activity BookAnswer Keys
+AB33.ACTIVITY2ElAB37.ACTIVITY1
+Writequestionsand answersaboutAkash'sday.
+Whosaidit?Read and match.
+Key:b3,c3,d4,e1,f2Key:2WhatwasAkashdoingathalfpastfour?Hewasdoinghis
+homework.3WhatwasAkashdoingatquarterpastfive?Hewas
+AB33.playingfootball.4WhatwasAkashdoingathalfpastsix?Hewas
+havingashower.5WhatwasAkashdoingateighto'clock?Hewas
+Doyouremember?
+havingdinner.6WhatwasAkashdoingattenpastten?Hewas
+Key:2hotel,3across,4left,5and6Pupils'ownanswers brushinghisteeth.
+AB33.EAB37.ACTIVITY2
+CandoRead and completethetable.
+Key:Pupils'ownanswersKey:
+OliverFreyaKatyKito
+AB34.ACTIVITY1Name
+Clothesredsweater,shortskirt,jeans,T-shirt
+grey Read and choose.
+longscarfgreenshoestrousers,
+Key:faster,most,better,quickerblueshirt
+Where?playgroundclassroomoutside
+#EAB34.ACTIVITY2 playground
+Whattalkingtoreadingaplaying
+Plantowriteanadvert.Completetheinformation
+friends bookfootball
+doing?
+aboutamodeoftransport.
+Whobrokethechair?Katy.
+Key:Pupils'ownanswers
+AB38.ACTIVITY1
+AB34.ACTIVITY3
+Choosedatesfrom theboxtolabelthepictures.
+Useyournotestocreateanadvertfor thetransport.
+Key:214April1912,36May1937,410October1780,
+Key:Pupils'ownanswers526August1883,628December1908
+AB34.ACTIVITY4EEAB38.ACTIVITY2
+Didyou...Read and writethedates.
+Key:Pupils'ownanswersKey:2Thetwenty-second,3Thetwenty-fifth,4Thetwenty-ninth,5
+Thetwenty-fourth,6Thetwenty-seventh
+AB35.ACTIVITY1
+AB38.ACTIVITY3
+Listen and write.Thereisoneexample.
+Completethesentences.
+Key:1Windsor,2Museum,302075414672,4Old,5halfpastthree
+Key:2March,3May,4July,5November,6December
+Unit4
+AB38.ACTIVITY4
+AB36.ACTIVITY1 Lookandcompletethemonths.Puttheminorder.
+Matchthepictureswith thetext.Key:4April,6June,9September,10October,3March,12December,
+Key:Fromlefttoright:3,6,5,1,2,45May,7July,1January,11November,8August,2February
+AB39.ACTIVITY1 EEAB36.ACTIVITY2
+Answerthequestions. Write theverbsin thetable.Look at thespelling.
+Key: Key:Pupils'ownanswers
+takingsailingrunning
+AB39.ACTIVITY2
+moving,living,enjoying,shouting,cutting,stopping,
+Matchthewordswith thepictures.
+wakingup,losingcooking,carryingswimming,getting
+Key:6,1,8,3,4,2,5,7
+AB36.ACTIVITY3
+AB39.ACTIVITY3
+Read and choosetherightwords.
+Nowmatchthewordsandpictureswith thedefinitions.
+Key:2climbing,3rang,4was,5when
+Key:b3,c5,d8,e7,f6,g2,h4
+Activity BookAnswer KeysT101
+
+### Page 210
+
+Activity BookAnswer Keys
+AB40.ACTIVITY1EEAB42.ACTIVITY3
+Followthe/ei/sounds.Listen and check.Useyournotestowriteanemailtoafriendabout
+Key:theplace.
+lazystraightlakeKey:Pupils'ownanswers
+wavetrain
+stationsafemotorway
+AB42.ACTIVITY4
+Aprildangerous breakwaiter
+Didyou...
+rainbowbrave
+surname
+Key:Pupils'ownanswers
+emailtodayKaty
+AB43.ACTIVITY1
+BEAB40.ACTIVITY2
+Emma'stalkingtoherfriendDavidaboutwhathe
+didlastnight.WhatdoesDavidsaytoEmma?Read
+Write thewordsnext to theirvowelsounds.Listentheconversationandchoosethebestanswer.Writea
+Key:A:grey,rain,skate;E:knee,please,feet;I:kind,dry,light; letter(A-E)foreachanswer.Thereisoneexample.
+O:snow,toes,throw;U:glue,food,do
+Key:1B,2E,3A,4C
+AB40.ACTIVITY3
+ReviewUnits3and4
+UsethewordsfromActivity2tomaketherhymes.
+AB44.ACTIVITY1 Listen and check.
+Key:2light,3toe,4doReadthestory.Choosewordsfrom theboxto
+completethesentences.
+FEAB40.ACTIVITY4
+Key:2restaurant,3quarter,4left,5wasn't,6walking
+Read,lookand answer.Yourwordsdon'thave
+AB44.ACTIVITY2 torhyme.
+Key:Pupils'ownanswersChooseatitleforthisepisodeofFriendly.
+Key:aThebestday
+AB41.ACTIVITY1
+AB44.ACTIVITY3
+Read and answer.
+Key:2It'scalledSirius.3Itwas21July.4WhentheywerelookingatFindtheoddoneout.
+thestars.5Avolcaniceruption.6Atsunami. Key(possibleanswers):2Taxibecauseit'savehicle/itisn'taplaceor
+building.3Stadiumbecauseit'saplaceorbuilding/itisn'tadirection.
+AB41.ACTIVITY24Tsunamibecauseit'sadisaster/itisn'tweather.5Helpbecauseit'sin
+Completethesentencesfrom thestory.Matchthem
+ampresent/itisn'tin thepast.6Thursdaybecauseit'sadayitisn't with thepictures.
+Key:2storm,3dangerous,4secret,5hot,6lightEEAB45.ACTIVITY4
+Fromlefttoright:5,2,1,3,6,4
+Completethesentences.Countandwritetheletters.
+AB41.Key:2hit(3),3outside(7),4October(7),5fire(4),6airport(7),
+7fog(3),8August(6),9storm(5),10museum(6),11map(3),
+Doyouremember?
+12corner(6),13bridge(6),14January(7)
+Key:2lightning,3,4,5and6Pupils'ownanswers
+AB41.
+Cando
+Key:Pupils'ownanswers
+AB42.ACTIVITY1
+Read and match.
+Key:2d,3c,4a
+AB42.ACTIVITY2
+Plantowriteanemail.Completetheinformation
+aboutafamousplaceyouvisited.
+Key:Pupils'ownanswers
+T102Activity BookAnswer Keys
+
+### Page 211
+
+Activity BookAnswer Keys
+AB45.ACTIVITY5LEEAB47.ACTIVITY2
+Nowcompletethecrossword.Write themessage.Read,lookandlabelthepicture.
+Key:Key:2windowsmadeofwaterbottles,3roofmadeofgrass,
+4leavesoverbalcony,5doormadeofwood
+mLEEAB47.ACTIVITY3
+idgRead and completethetext.
+b
+Key:2gold,3bottles,4stone,5bridges,6thousand
+AB48.ACTIVITY1
+e
+IslildeChoosewordsfrom theboxtolabelthepictures.
+bKey:2wool,3card,4goldandsilver,5metal,6plastic
+AB48.ACTIVITY2
+myselm Findandwriteeightmaterials.
+Key:2silver,3plastic,4wood,5card,6paper,7metal,8wool
+tormEEAB48.ACTIVITY3
+Message:Streetsahead!
+Write thewords.
+Key:2silver,3fur,4glass,5wool,6gold,7paper,8card LEAB45.ACTIVITY6
+Quiztime!EEAB48.ACTIVITY4
+Key:1ThebusiestairportisHeathrow.2Thecable-carsystemin
+Medellínwasbuiltin2004.3Shewaslisteningtomusicontheradio.Look at thelettersontheclockandwritethewords.
+Key:2wood,3card,4metal,5silver,6card
+4Wecall themhurricanes.5Theyarein thePacificRingofFire.
+AB49.ACTIVITY1
+AB45.ACTIVITY7
+Read.Changeonelettertowriteanewword.
+Writequestionsforyourquizinyournotebook.
+Key:rice,nice,nine,mine,line,like,live,love,move,more,wore,work,
+Key:Pupils'ownanswers
+word,wood,wool
+Unit5LEEAB49.ACTIVITY2
+AB46.ACTIVITY1Nowwritethecluesforthispuzzle.
+Key:Pupils'ownanswers Matchthewordswith thepictures.
+Key:2grass,3stone,4paper,5bricks,6leaves
+AB49.ACTIVITY3
+AB46.ACTIVITY2 Find8mistakesin thetext.
+Read and orderthewords.Key:SeeActivity4Key
+Key:2Thatskirtisn'tmadeofchocolate.3What'syoursweatermade
+BEAB49.ACTIVITY4
+of?4IsyourT-shirtmadeoffur?5Aretheirshoesmadeofwood?
+Nowwritethetextcorrectly.
+6Hisclothesaremadeofpaper.
+Key:Bottlesaremadeofglassorplastic.Tablesandchairscanbe
+AB46.ACTIVITY3
+madeofwood,plasticormetal.PeopleonEarthlikereadingbooks,
+Correctthesentences.comicsandmagazines/newspapers.Thesearemadeofcardand
+paper.Earthpeoplegetwoolfromsheep.I'mgoingtovisitEarthnext
+Key:2hasis,3aren'tisn't4offof,5madesmade,6isare
+November.Iwanttogetalovelybigbraceletmadeofgold/silver/
+wood/plastic/metal.IcanwearitwhenIgotoparties.
+AB46.ACTIVITY4
+Whataretheymadeof?Lookandwrite. LEEAB50.ACTIVITY1
+Key:2They'remadeofwood.3It'smadeofstone.4It'smadeoffur.Listen and complete.
+5It'smadeofpaper.6They'remadeofgrass.
+Key:2Comeon,3Lookout,4a,idea,5You'rea
+AB47.ACTIVITY1
+AB50.ACTIVITY2
+Write thecorrectsentences.
+Lookandmatch.Thenlistenandcirclethe
+Key:1Ourhouseismadeofstone.2Theboatismadeofwood.
+3Mybook'smadeofpaper.4Theirtyresaremadeofrubber.connectedwords.
+Key:2twoglasseyes,3purpleicecream,4lotfredapples,
+5annsectmadeofsugar
+Activity BookAnswer KeysT103
+
+### Page 212
+
+Activity BookAnswer Keys
+AB50.ACTIVITY3LEEAB54.ACTIVITY2
+ChooseaphrasefromActivity1.Listen and check.Correctthesentences.
+Key:2Comeon!3I'vegotagreatidea!Niceone!4Lookout!Key:2feelsfeel,3looklikeslookslike,4don'tdoesn't,5smellssmell,
+6doesn'tdon't
+AB50.ACTIVITY4
+AB54.ACTIVITY3
+Completethecomicstrip.Addspeechbubblesusing
+phrasesfromActivity1.Read and completetheemail.
+Key:2exciting,3shouting,4feel,5hear,6quickly,7felt
+Key:Pupils'ownanswers
+EEJAB55.ACTIVITY1
+AB51.ACTIVITY1
+Howdotheylook?Write theanswers.
+Read and answer.
+Key:2Theylookcold.3Shelooksill/sick.4Theylookhot.
+Key:2It'smadeofplastic.3Thesleepingsnake.4Becausehe'san
+5Helooksfrightened.6Shelooksthirsty.
+excellentwatchdog.5They'remadeofglass.6Hewantsgold.
+AB55.ACTIVITY2
+AB51.ACTIVITY2
+Read.Whatarethey?
+Read and orderthetext.
+Key:2apea,3alemon,4tea,5sausages,6atiger
+Key:Fromlefttoright:2,3,1,5,8,6,7,4
+AB55.ACTIVITY3
+AB51.
+Sensesquiz.Read and answer.
+Doyouremember?
+Key:2Ournose.3Oureyes.4Ourears.5Ourhands/fingers.
+Key:2wool,3metals,4of,5star,6minute
+6,7and8Pupils'ownanswers
+AB51.
+AB56.ACTIVITY1
+Cando
+Lookandcompletethewords.
+Key:Pupils'ownanswers
+Key:2salt,3knife,4fork,5spoon,6plate
+AB52.ACTIVITY1
+AB56.ACTIVITY2
+Readandcircletheadverbs.
+Lookandfindthewords.
+Key:cleverly,brightly,gently
+Key:Foodwords:salt,tomato,egg,pepper,rice,yoghurt,flour,lemons;
+Verbs:taste,eat,getup,enjoy,takeoff,tell,smell;Thingsweeatwith:
+BEJAB52.ACTIVITY2
+fork,knife;Preposition:off;Somewherewegotoeat:restaurant
+Plantowriteareview.Completetheinformation
+AB56.ACTIVITY3 aboutaninterestingsculpture.
+Key:Pupils'ownanswersRead and writetheanswersin thepuzzle.
+Key:2fork,3salt,4pizza,5plate,6flour,7knife,8spoon
+AB52.ACTIVITY3Mysteryvegetable:potatoes
+Useyournotestowriteareviewof thestructure.
+AB57.ACTIVITY1
+Key:Pupils'ownanswers
+Read and completethetext.
+AB52.ACTIVITY4 Key:2Italy,3pizzas,4made,5cheese,6meal,7taste,8top,9cook,
+10largest,11metres,12flour,13900
+Didyou...
+Key:Pupils'ownanswers BEAB57.ACTIVITY2
+Read and orderthetext.
+AB53.ACTIVITY1
+Key:8,2,1,5,6,4,7,9,10,3 Whosethingsarethese?Listen and writealetterin the
+box.Thereisoneexample.EJAB58.ACTIVITY1
+Key:RobertA,EmmaF,RichardB,KatyD,MichaelC Listenandcirclethestressedwords.
+Key:1sandwiches;2fruit,snackbox;3Suzie,stomach-ache; Unit6
+4guitar,class
+AB54.ACTIVITY1
+LEJAB58.ACTIVITY2
+Read and orderthewords.
+Listenagainandcomplete.
+Key:2Itlookslikeit'sgoingtorain.3Thatsoundslikeyoursmartphone.
+Key:1sandwiches,2I'mtakingfruitinmysnackboxtoday!
+4Whatdoesthistoymousefeellike?5Hercaketasteslikecoffee.
+3Suzie'snotfeelingwell.She'sgotastomach-ache.
+6Whatdoesmypicturelooklike?
+4I'mplayingmyguitarin front ofmyclasstomorrow.
+T104Activity BookAnswer Keys
+
+### Page 213
+
+Activity BookAnswer Keys
+ReviewUnits5and6
+AB58.ACTIVITY3
+Listen and complete. LEEAB62.ACTIVITY1
+Key:balloons,cake,candles,friends,fun,hug,familyReadthestory.Choosewordsfrom theboxto
+completethesentences.
+AB58.ACTIVITY4
+Key:2like,3made,4plastic,5felt,6pizza
+Look at thepicturesandwrite.
+AB62.ACTIVITY2
+Key:Pupils'ownanswers
+ChooseatitleforthisepisodeofFriendly.
+AB59.ACTIVITY1
+Key:bAsweetdress
+Read and answer.
+AB62.ACTIVITY3 Key:2Therearespidersandasnakeinsidethesnakebowl.3Diggory
+useshisbelttogetBrutusoutof thesnakebowl.4Diggoryhas(got)Findtheoddoneout.
+TheBaloneyStonenow.5Thedogisthedoor.6BrutuspushesEmily
+Key(possibleanswers):2Woolbecauseitisn'tfood.3Eyesbecause into thesnakebowl.
+theyaren'taverb/sense.4Braceletbecauseyoudon'teatwithit.
+BEJAB59.ACTIVITY25Stonebecauseitdoesn'tcomefromananimal.6Glassbecauseit
+doesn'tcomefromtrees.
+Correctthesentences.
+AB63.ACTIVITY4
+Key:2Thedangerousancienttrapiscalledasnakebowl.3Brutus
+hatesspiders.4Thesnakewokeup.5DiggoryusedhisbelttohelpCompletethesentences.Countandwritetheletters.
+Brutusoutof thesnakebowl.6Brutusthoughtthedogwasthedoor.
+Key:2taste(5),3knife(5),4Wool(4),5weak(4),6like(4),7ears(4),
+8spoon(5),9Silver(6),10plastic(7),11Wood(4),12made(4), EEAB59.
+13thirsty(7),14plate(5)
+Doyouremember?
+AB63.ACTIVITY5 Key:2like,3fork,4oven,5put,hand,box,6what,feel
+Nowcompletethecrossword.Write themessage.
+BEAB59.
+Key:
+Cando
+Key:Pupils'ownanswers
+hty
+f EElAB60.ACTIVITY1
+Readandcirclethesoundwords.e
+Key:roaring,honking,ringinge
+m
+AB60.ACTIVITY2
+Plantowriteapoem.Completetheinformationabout >e
+eak
+soundsyouloveandhate.
+Key:Pupils'ownanswers $P°on
+AB60.ACTIVITY3
+Message:Soundslikefun!
+Useyournotestowriteapoem.
+AB63.ACTIVITY6
+Key:Pupils'ownanswers
+Quiztime!
+AB60.ACTIVITY4
+Key:1Lenny'sspiderismadeoffur.2It'smadeofglassbottles.
+Didyou...
+3YoucanseeitinSwitzerland.4StrongbluecheesesmellslikeLenny's
+Key:Pupils'ownanswers socks.5Itmakespizzas.6Avolcanoeruptingistheloudestsound.
+AB61.ACTIVITY1ElAB63.ACTIVITY7
+Look at thepictureandreadthestory.WritesomeWritequestionsforyourquizinyournotebook.
+wordstocompletethesentencesabout thestory.YouKey:Pupils'ownanswers
+canuse1,2,3or4words.
+Unit7
+Key:1abrother,2wenttoan,3people,4looked,5painting
+AB64.ACTIVITY1
+Read and match.
+Key:3,5,1,6,4,2
+Activity BookAnswer KeysT105
+
+### Page 214
+
+Activity BookAnswer Keys
+AB64.ACTIVITY2LEEAB67.ACTIVITY3
+Thinkandwrite'should'or'shouldn't. Nowmakeaquizforyourfriends.
+Key:2shouldn't,3should,4should,5shouldn't,6shouldKey:Pupils'ownanswers
+AB64.ACTIVITY3 EEAB67.ACTIVITY4
+Correctthesentences. Read and orderthestory.
+Key:2Weshouldwalkonthepaths.3Weshouldn'tdropourrubbish.
+Key:4,8,1,3,6,5,2,7
+4Weshouldalwaysusebins.5Weshouldn'tplaywithanimalsinfields.
+6Weshouldn'tdrinkwaterfromrivers.LEAB68.ACTIVITY1
+Listenandcirclethestressedwords.
+AB65.ACTIVITY1
+Key:1beach,2pickup,rubbish,3putplasticrubbish,yellowbins,
+Matchtheproblemswith thecorrectadvice.
+4thecouncil,bags,5shouldn't,rubbish,beach,6Where,peoplethrow,
+Key:2b,3a,4e,5c,6drubbish
+AB65.ACTIVITY2 LEAB68.ACTIVITY2
+Thinkandwriteadvice. Circletocompletetherules.
+Key:Pupils'ownanswersKey:are,arenot,are
+AB65.ACTIVITY3EEAB68.ACTIVITY3
+Answerthequestions.Listen and complete.
+Key:Shall,we,can,Let's,can,Whydon't Key:Pupils'ownanswers
+AB66.ACTIVITY1LEEAB68.ACTIVITY4
+Choosewordsfrom theboxtolabelthepictures.CompleteLola'smessage.
+Key:2Siberiantiger,3Nine-spottedladybird,4Lehmann'spoisonKey:2clean,3photos,4newspaper,5clean-up,6Great
+frog,5Purplespottedbutterfly
+AB69.ACTIVITY1
+AB66.ACTIVITY2
+Read and answer.
+Lookandcompletethewords.
+Key:2Becauseit'soldandnotverystrong.3Ittakesthemto the
+Key:2butterfly,3insect,4spot,5stripe,6fur,7tail,8body,9beetlefamousbutterflyroomofQueenHetepheres.4They'reorangeand
+blackstripedwithwhitespotson theirwings.5Heshouldn'ttouch
+AB66.ACTIVITY3anything.6Thereareyoungbutterflies/insectsinside.
+Nowmatchthewordswith thedefinitions.
+AB69.ACTIVITY2
+Key:2fur,3wings,4tail,5body,6butterfly,7insect,8spot,9stripe
+Read and orderthetext.
+AB66.ACTIVITY4Key:Fromlefttoright:4,1,8,7,3,6,2,5
+Write thewordsin thetable.
+AB69.
+Key:
+Doyouremember?
+adjectivesverbsprepositionsnouns
+Key:2shouldn't,3photos,4stripes,5shouldn'tthrow,6shouldtheydo
+funny,extinct,become,through,into,spot,
+over,acrossextinction,EElAB69. spotted,stripedrecycle,appear,
+explorewing,stripe
+Cando
+Pupilscanwritemorewordsforeachgroupin theirnotebooks
+Key:Pupils'ownanswers
+AB67.ACTIVITY1
+LEJAB70.ACTIVITY1
+Matchthepicturesofendangeredanimalswith the
+words.Readandunderlinefactswithwhen.
+Key:...whentheyarescared,theirspikesriseuptoprotectthem....
+Key:2c,3e,4g,5d,6b,7f,8h
+whenhumansusepesticidestokillinsects,therearefewerinsectsfor
+thehedgehogstoeat.Whenhedgehogscomeintoyourgarden,you
+AB67.ACTIVITY2
+shouldgivethemcatordogfood...Whenhedgehogsdrinkmilk,they
+Nowfind outonefactabouteachof theendangeredgetverysick...
+animalsinActivity1.
+Key:Pupils'ownanswers
+T106Activity BookAnswer Keys
+
+### Page 215
+
+Activity BookAnswer Keys
+AB70.ACTIVITY2LEEAB73.ACTIVITY5
+Plantowriteareport.CompletetheinformationNowanswerthequestions.
+aboutanendangeredanimal.Key:2She'swonacup.3He's/She'sdroppedsomeeggs.4He'scuthis
+hair.5They'vevisitedtheTowerofLondon.6She'scleanedthefloor.
+Key:Pupils'ownanswers
+AB74.ACTIVITY1
+AB70.ACTIVITY3
+Lookandcompletethewords.
+Useyournotestowriteareportabout the
+Key:2snowboarding,3sledging,4cycling,5athletics,6golf endangeredanimal.
+Key:Pupils'ownanswersLEEAB74.ACTIVITY2
+Write theseasons.
+AB70.ACTIVITY4
+Key:2spring,3autumn,4winter
+Didyou...
+(Note:Thisdoesnotapplyto thetropics.)
+Key:Pupils'ownanswers
+AB74.ACTIVITY3
+AB71.ACTIVITY1
+Write thesportswordsin thetable.
+Listen and drawlines.Thereisoneexample.
+Key:
+Key:George-next toHarry,Betty-girleatinganapple,Katy-girl
+wintersportsballsportsothersports
+drinkingorangejuice,Holly-next tokangaroos,spotteddress,
+iceskatingsailing Richard-inshorts,subjectofphotosoccer
+sledgingcycling
+Unit8 tabletennis
+skiingbasketballhorseriding
+AB72.ACTIVITY1icehockeytennisathletics
+Aretheseverbsregularorirregular?Write'R'or'I'.
+AB74.ACTIVITY4
+Key:R:believe,stop,play,jump,finish,wash;I:make,meet,catch,win
+Whatarethesports?Write thewordsin thepuzzle.
+AB72.ACTIVITY2
+Key:2golf,3soccer,4skating,5sledging,6cycling
+Makenegativesentences.Mysterysport:hockey
+Key:2Shehasn'twonaprize.3Theyhaven'tplayedbasketball.
+AB75.ACTIVITY1
+4Hehasn'tclimbedthehighestmountain.5Youhaven'twonthegame.
+6Wehaven'tmadeakite. Write thesports.
+Key:2basketball,3snowboarding,4sailing,5waterskiing,6golf
+AB72.ACTIVITY3
+EAB75.ACTIVITY2 Matchthepictureswith thetext.
+Key:Fromlefttoright:5,2,1,4,3,6Nowwritedefinitionsforsixmoresports.
+Key:Pupils'ownanswers
+AB73.ACTIVITY1
+Answerthequestions. ElAB75.ACTIVITY3
+Key:21,3p,4h,5a,6b,7e,8tRead and completethetable.
+What'stheword?alphabet
+Key:
+LEJAB73.ACTIVITY2 NameRichardSallyRobert
+123
+Nowmakeyourwordpuzzle.
+Housenumber
+Key:Pupils'ownanswersThingfor the carrotscarfhat
+snowman
+AB73.ACTIVITY3
+Write thecorrectformof theverbsin theemail.ElAB75.ACTIVITY4
+Key:2talked,3studied,4finished,5happened,6decided,7stopped, Choosethestory.Thendrawyoursnowmaninyour
+8started,9raced,10won
+notebook.
+AB73.ACTIVITY4Key:Pupils'ownanswers
+Look at thepictures.Write thequestions.
+AB76.ACTIVITY1
+Key:2Whathasshedone?3Whathashe/shedone?4Whathashe
+done?5Whathavetheydone?6Whathashedone?Circlethewordwithadifferent-edsound.Listenand
+check.
+Key:2arrived,3cleaned,4fetched,5painted
+Activity BookAnswer KeysT107
+
+## Consolidation and Extension Activities
+
+### Page 216
+
+Activity BookAnswer Keys
+ReviewUnits7and8
+AB76.ACTIVITY2
+BEAB80.ACTIVITY1
+Listenandcirclethecorrect-edsound.
+Key:2/t/,3/d/,4/t/,5/t/,6/d/,7/t/Readthestory.Chooseawordfrom thebox.Write the
+AB76.ACTIVITY3correctwordnext tonumbers1-6.
+Key:2ride,3were,4skis,5sledge,6snowman
+Matchandwriteforeachpicture.
+Key:1Wouldyoulikesomehelp?2Icancleanthekitchen.EElABSO.ACTIVITY2
+3You'rewelcome!4Let'sworktogether!
+ChooseatitleforthisepisodeofFriendly.
+AB76.ACTIVITY4Key:bSnowydisaster!
+Read and completewithaverbfromActivity1.Listen
+AB80.ACTIVITY3
+andcheck.Matchthequestionswith theanswers.
+Key:2cleaned,3washed,4worked
+Key:5,6,2,1,3,4
+BEAB77.ACTIVITY1
+AB81.ACTIVITY4
+Read and answer.
+Completethesentences.Countandwritetheletters.
+Key:2No,hehasn't.3Theyinventedhockeyandhandball.4Hesentit
+Key:2ever(4),3extinct(7),4done(4),5spotted(7),6have(4), from thesnakebowl.5Itsaysthatyoucan'ttakethetreasureandlive.
+7should(6),8dinosaur(8),9wings(5),10jumped(6),11Games(5),
+12stripes(7),13fur(3),14golf(4) EEAB77.ACTIVITY2
+Whosaidit?Read and match.EEAB81.ACTIVITY5
+Key:b3,c4,d1,e1,f2 Nowcompletethecrossword.Write themessage.
+AB77.Key:
+Doyouremember?
+d
+Key:2won,3played,4Summer,5and6Pupils'ownanswers
+Gme a>
+AB77. e
+Cando
+Key:Pupils'ownanswerstli
+m tr
+AB78.ACTIVITY1
+Read and complete.
+Key:2Secondly,3Anotherreason,4Lastly
+AB78.ACTIVITY2 Message:Highfive
+Plantowritealeaflet.Completetheinformation
+AB81.ACTIVITY6
+aboutanamazingsport.
+Quiztime!
+Key:Pupils'ownanswers
+Key:1Theyshouldrecycleit.2Abeetledoes.3Theylaytheireggson
+AB78.ACTIVITY3beaches.4Lennyhasn'twonanyprizes.5Theygoskiingin thewinter.
+6Yourheartdoes. Useyournotestowritealeafletabout thesport.
+Key:Pupils'ownanswersBEAB81.ACTIVITY7
+Writequestionsforyourquizinyournotebook.
+AB78.ACTIVITY4
+Key:Pupils'ownanswers
+Didyou...
+Key:Pupils'ownanswersUnits1&2Values
+AB82.ACTIVITY1 LEAB79.ACTIVITY1
+Read and choosetheanswer. Readthetext.Choosetherightwordsandwritethem
+onthelines.Key:Pupils'ownanswers
+Key:1These,2in,3are,4skiing,5people,6race,7third,
+AB82.ACTIVITY2
+8exciting,9of,10more
+Writeaclasscontract.
+Key:Pupils'ownanswers
+T108Activity BookAnswer Keys
+
+### Page 217
+
+Activity BookAnswer Keys
+Units3&4Values
+AB86.ACTIVITY4
+AB83.ACTIVITY1 Read and orderthewords.
+Read and orderthetext.Key:2WasSarahskiingin themountains?3Iwasn'thavingabath.
+4Davidwassailingtoanisland.5EmmaandHarrywererunning
+Key:4,8,14,2,11,6,13,3,7,10,9,12,1,15,5
+throughthepark.6Wereyouwaitingat thebusstop?
+AB83.ACTIVITY2
+AB87.ACTIVITY5
+Writeanemailtothankthefirefighters.
+Answerthequestions.
+Key:Pupils'ownanswers
+Key:2It'smadeofpaper.3They'remadeofleather.
+4It'smadeofwool.5They'remadeofglass.6It'smadeofgold.
+Units5&6Values
+AB87.ACTIVITY6
+AB84.ACTIVITY1
+Completethesentences.
+Read and answerthequestions.
+Key:2like,3cheese,4feel,5It
+Key:1Becausethisistherightthingtodo.2Itcanmakepeoplefeel
+badorunhappy.3Wecanchooseourwordsverycarefullyandthink
+AB87.ACTIVITY7
+beforewespeak.
+Read and write'Yes,youshould?or'No,youshouldn't?
+AB84.ACTIVITY2
+Key:2No,youshouldn't.3Yes,youshould.4No,youshouldn't.
+Imagineasituationandwriteaboutchoosingyour5Yes,youshould.6No,youshouldn't.
+wordscarefully.
+AB87.ACTIVITY8
+Key:Pupils'ownanswers
+Writequestionsand answers.
+Units7&8Values Key:2Havetheyeverenteredacompetition?No,theyhaven't.
+3Hasheeverplayedtabletennis?No,hehasn't.4Havetheyever
+AB85.ACTIVITY1madeasnowman?Yes,theyhave.5HaveyoueverseentheOlympics?
+No,Ihaven't.
+Write thesentencesandquestions.
+Key:2Ididn'ttellthetruth.3Whoshouldhespeakto?4Mybestfriend
+cheatsinexams.4I'vemadeareallybigmistake.5WhatshouldIdo?
+AB85.ACTIVITY2
+Readtheletterand answerthequestions.
+Key:Pupils'ownanswers
+AB85.ACTIVITY3
+WriteareplytoLucas.
+Key:Pupils'ownanswers
+Grammar reference
+AB86.ACTIVITY1
+Write thetimes.
+Key:2quartertoeight,3fivetoeight,4fivepasteight,
+5twenty-fivepasteight,6tentonine
+AB86.ACTIVITY2
+Read and write.
+Key:2No,sheisn't.She'sgoingtoeatsomemeat.3No,heisn't.
+He'sgoingtohavelunchathome.4No,wearen't.We'regoingtoget
+uplate.5No,I'mnot.I'mgoingtobuyanewcomic.6No,itisn't.It's
+goingtosnow.
+AB86.ACTIVITY3
+Read and choosetherightwords.
+Key:2past,3right,4across,5left,6corner
+Activity BookAnswer KeysT109
+
+### Page 218
+
+Consolidation andExtension activities
+Welcome UnitBothpairsthenracetofindthewordin thedictionary.Thepairwho
+findthewordfirstreadoutthedefinitionand'win'theword.The
+Page4 gamecontinuesuntilall thewordshavebeenwon.
+• Consolidationactivity:Makingfriends
+Page7
+Makepairs.Ifpossible,pairpupilswhodon'tknoweachothervery
+• Consolidationactivity:Schoolsong
+well.Elicitsomequestionstofind outpersonalinformation,e.g.
+When'syourbirthday?Wheredoyoulive?HaveyougotbrothersPupils workin groupsoffourtowriteanewversefor theSchool
+song.Monitorandhelpthedifferentgroups.Somegroupsmayonly andsisters?What'syourfavouriteband?Eitherdothisorally,or
+writethequestionson the board.Individually,pupilschooseandwanttochangeafewwords;othersmayfeelconfidentenoughto
+writesixquestionstoasktheirpartneronapieceofpaper.Theyrewritetheverse.
+thentakeitinturnstoaskand answer.TheywritetheanswersunderGroupsperformtheirverses,e.g.GroupAsingtheirverse;
+thequestions.Theywritetheirpartner'snameat thetopof thethewhole classsingsachorus;GroupBsingtheirverse;thewhole
+paper,decorateitand thendisplayiton the board.classsingsachorus,andsoonaroundtheclass.
+• Extensionactivity:Wordrace•Extensionactivity:Wordpoems
+Demonstratetheactivityfor theclass.Chooseaschoolsubjectand Materials:Onelargepieceofpaperforeachgroupof
+fourpupilswritethewordverticallyon the boardwith thefirstletterat thetop
+and thelastat thebottom.Elicit/Writeawordorphraseforeach
+ThisisanextensionofActivity Bookpage4Activity1.Dividethe
+onesothepoemlookslikethis:
+classintogroupsoffour.Givealargepieceofpapertoeachgroup.
+Theydivideitintofour.Tell pupilsyouwillgivethemtimelimitstoMultiply
+writeotherlists,asinActivity1.Eachtimeyousayacategory,giveAdd
+pupilstwominutestowriteasmanywordsastheycanthinkofinThat's
+onepartof thepaper.Remindelpupils onthemtodoinityouquietlysaysothecotorotherieHardfor
+groupsdon'thear.Attheendof theactivity,groupsswappapersSomepeople
+withothergroups.Brainstormmindmapsonto theboard foreach
+Pupils workin groupsoffourtocreatetheirownpoemsusingother
+category.Pupilscanbecreative,butyoumustdecideiftheirwords
+subjects.Groupsdisplaytheirpoemsfor theclass.
+areacceptableornot.Thegroupswith themostwordsineachof
+thecategoriesarethewinners.Suggestedcategories:thingswePage8
+eat,thingswedrink,thingswecarry,thingsweride,thingsweplay, •Consolidationactivity:Aboutoursummerholiday
+thingswelookafter.Pupils workin groupsoffour.Theylookat theinformationthey
+foundoutabout theirclassmatesinPupil's BookActivity5.Together, Page5
+theycreateaposterabout thesummeractivitiestheirclassmatesdid
+• Consolidationactivity:Profiles
+andwritesentencesunderneathaboutwhat theyfound,e.g.Juan
+PupilsusetheinformationtheyfoundoutaboutinPupil's Book
+andAliciatravelledbytrain.Groupstakeitinturnstocometo the
+Activity4towriteashortprofileof theirpartner.Theyusethenotes
+front,holduptheirposterandreadouttheirsentencesto theclass.
+inPupil's BookActivity4tohelpthem.Remindthemtousethethird
+Displaythepostersonthewall.
+person,e.g.Shelikesriding...Pupilsdisplaytheirtexts.
+• Extensionactivity:Answeringquestions
+• Extensionactivity:Mimegame
+Putpupils intopairsorgroupsoffour.Theyreadthroughthe
+Introducethegamebymimingoneof theactivitiesfrom thelesson,
+questionseachof themwroteforActivity BookActivity4andtry
+e.g.playingthepiano.Chooseeightpupils tocometo thefront.
+tocorrectanymistakes.Remindthemtousepencilandnotpenon
+Togethertheyveryquietlychooseeightactivitiestomimeto the
+eachother'swork.Tell pupilsthatthisisacooperativeactivity,not
+class.Theytakeitinturnstomimetheactivities(theycaninclude
+acompetitiveone:theyaretryingtohelpeachother.Pupilsthen
+activitieswhicharenotfrom thelesson).Theclasswatchandsilently
+answerthequestionsonapieceofpaper.
+writetheactivitiesin theirnotebooks.Theydon'tspeak.Pupilsswap
+notebookswith a partner.TheeightpupilsredotheirmimesinturnPage9
+and theclasssaystheactivity.Pupilscorrecttheirpartner'swork. •Consolidationactivity:Roleplay
+Repeatwithanothereightpupilsandeightnewactivities.
+Makegroupsofthree.Pupils readthroughthePupil's Bookstoryin
+theirgroups.Theytaketurnstobethethreedifferentcharacters. Page6
+Moreconfidentpupilscanrole-playthestoryin front of theclass.
+• Consolidationactivity:Blogpage
+• Extensionactivity:Secretmessage
+Pupils workin groupsoffourtocreatetheirownblogpageabout
+theirschool,usingthetextsandphotosonthePupil's BookpageasThisisanextensionofActivity Bookpage9Activity4.Putpupils
+intopairs.TellthemtoopentheirActivity Booksatpage9andfocus
+amodel.Theyshouldincludedrawingsandtext.Displaytheposters
+aroundtheclass.Decidewhowins'theprize'.themonthecodeinActivity4.Remindthemofhowthecodeworks.
+Dictateasimplemessageincodefor themtowritedownand then
+• Extensionactivity:Dictionarygame
+workoutthesecretmessage.Checkanswers.Thengivepupilsa
+Materials:Adictionaryforeachpairofpupils
+timelimitfor themtowriteasecretmessageincodeforanother
+Elicitall theschool wordsfrom thelesson(includingschoolsubjects)pair.Pairsswappapersandusethecodetohelpthemwritethe
+andwritethemasamindmapon the board.Pupils copythemindsecretmessage.
+mapinto theirnotebooks.Inpairs,pupilswriteeachwordfrom
+themindmaponaseparatepieceofpaper.Theythenarrangethe
+wordsinalphabeticalorder.Pairscheck withpairs.Ingroupsoffour,
+pupilsplaceonesetofwordcardsdownon theirdesks.Handout
+dictionaries:oneforeachpair.Pairstaketurnstoturnoveraword.
+T110Consolidation andExtension activities
+
+### Page 219
+
+Consolidation andExtension activities
+Unit1•Extensionactivity:MakingaTVprogramme
+Pupils workin groupsoffour.TheychooseaTVprogrammethey
+Page10
+knowwell,e.g.aseries,aquiz,acomedyoranewsprogramme.
+• Consolidationactivity:MatchinggameTheywriteashortscript,toincludeallfourpupils in thegroup.
+Materials:Twosheetsofdifferent-colouredpaper/cardfor Theyrehearsetheirscripts.Monitorandhelpgroupsatthisstage,
+eachpairofpupilsprovidinginputonlanguageandcontent.Whenall thegroups
+areready,theyperformtheirprogrammeextractsfor theclass.
+Dictatethefollowingtimestopupils:2.15,10.30,4.10,5.40,6.45,
+Youcouldphotographorfilmtheirefforts.
+12.30,11.25,7.55.Handouttwosheetsofcolouredpaper/card,
+onewhite,oneblue,toeachpair.Theydivideand thencuteachone Page13
+intoeightsquares.Onthewhitepaper/cardtheywriteeachtimein •Consolidationactivity:Readingrace
+words,e.g.quarterpasttwo;ontheblueonetheydrawclocksto
+Materials:Acopyof theTVpagefromanewspaper/TV
+showthedifferenttimes.
+magazineforeachgroupoffour.Tenquestionsabout the
+Makegroupsoffour.Pupilsputtheircardsfacedownonthetable
+programmes,e.g.What'sonat8.30onChannel5?What'sthe
+andmixthemaround.Theytaketurnstoturnoveronewhiteand
+nameof thenewsprogramme?Whattime'sthequizshowon?
+onebluecard.Thepupilsaysthetimeoneachonealoud.Ifthey
+Onesetofquestionsforeachgroupoffour.
+matchand thepupilhassaidthemcorrectly,he/shekeepsthepair.
+Iftheyarenotamatchorifthepupilhasmadeamistake,thenhe/Makegroupsoffour.Giveeachgrouptheirquestions(seepageT13)
+andgivethemreadingtime.PutcopiesofanewspaperTVschedule sheturnsthecardsfacedownagain.Playcontinuesuntilall thecards
+onthewallwheregroupscannotreadthemfrom theirdesks.Tellthe
+classtherulesanddemonstratetheracewithanexamplequestion. •Extensionactivity:Myday
+Pupils workindividuallyandwriteasequencesimilartoActivity BookRules:Thegroupsreadthefirstquestion.Thenonepupilfromeach
+groupgoesto theTVscheduletofindananswer.Theyhaveto
+Activity3for theirdayin theirnotebooks.Theywritethesentences
+remembertheanswer,comebackto theirgroupandtellthemfor
+ondifferentlines.Attheendofeachsentence,theydrawaclock
+themtorecorditon theirpaper.Onlyonepupilcanbeawayfrom showingthetime.Theyswaptheirnotebookswith a partnerand
+thegroupatanyonetime.Pupilstaketurnsasthe'runner'and the checkeachother'swork.
+'writer'.Starttherace.Notethetimethateachgroupfinishes(let
+Page11 themallfinish).Groupsswappapers.Correctas a classforgroupsto
+• Consolidationactivity:Talkingaboutyesterdaymarkeachother's answers.Thegroupwith themostcorrect answers
+Materials:Stripsofpaperforpupils towriteon(fourforeach(includingspelling)isthewinner.
+pairofpupils)•Extensionactivity:Presentations
+PupilsusetheinformationfromActivity BookActivity3toprepareand
+WriteTodayinaboxon the boardwith thefollowingverbs
+giveshortoralpresentationsto theclass(onetotwominutes).They
+underneath:have,start,catch,finish,getdressed,go,begin,come,
+shouldmakenotesbeforetheirpresentationandcanusethesewhen wakeup,getup,eat,drink,put,take.WriteYesterdayinaboxon
+theyarespeaking,buttheyshouldn'twritethecompletetexttoread theboard andelicitoneexamplefrom thelist,e.g.have-had,and
+writehadin thebox.Pupils workin pairstowritetheotherwordsinaloud.Youcanspreadthepresentationsoverseveraldays,orpupils
+canpresentinsmallgroups. thepast.Elicitfrompairsandcompletetheboxon the board.
+Intheirpairs,pupilswritefoursentencesonstripsofpaperaboutPage14
+thetimetheydo/didthingsin theday:twoin thepresentandtwo •Consolidationactivity:Minimalpairs
+in thepast.Collectthestripsofpaper.Makefourteams.Theyline
+Putatimeronforoneminuteandaskpupils,in pairs,toquickly
+up,with thepupilat thefrontfacingtheboard.Cleantheboard
+writeasmanywordsastheycanthatstartorendwithchorsh.Ask
+andwriteYesterdayononesideandTodayontheother.Readout pupils to thencomparetheirlistwithanotherpair,tickingwords
+asentenceatrandom.Accordingtowhetherthesentenceisin the
+incommonandaddinganynew words.Drawtwocolumnsonthe
+presentorthepast,thepupils at thefrontofeachteamrunand
+boardwithchandsh.Writeuppupils'ideas.
+touchthecorrectwordon the board.Thefirsttodosowinsapoint
+Write thefollowingwordpairs(seeActivity Book)on the boardin
+for theirteam.Therunnersgoto thebackof theline.Continuewith
+twocolumns: theothersentencesuntileveryonehashadatleastoneturn. 1
+2
+Page12cheap
+sheep
+• Consolidationactivity:TVprogrammesurveychair
+share
+Elicitthequestionforfindingoutfavouriteprogrammesfrompupils choose
+shoes
+(What'syourfavouriteTVprogramme?)Elicitpossibleresponses,shipschips
+e.g.thenameof theprogrammeorIdon'thaveone. watches
+washes
+Pupilsprepareafive-columnxseven-rowsurveytable.TheywriteAsyousayoneof thewordsineachpair,askpupils toholdupone
+Questionat thetopofcolumn1,andNameat thetopof theother
+ortwofingerstoindicatethewordyouaresaying.Youcanthenask
+fourcolumns.Downtheleft-handsidetheywritesixquestionsvolunteerstotaketurnstosayonewordfromarhymingpaironthe
+toasktheirfriends.MakesuretheynoticethatwesayWhat's
+board for theclasstoidentify.Pupilscanalsoplaythegamewitha
+yourfavouriteTVsports/cartoon/news/quizprogramme?butwepartner.Youcanchangewhat theyhavetodoeachtimetomakeit
+sayWhat'syourfavouriteTVseries/documentary?(withoutusing morefun,e.g.standupfor1,sitdownfor2.
+programme).
+Pupilsmovearoundtheclass,askingthesixquestionsoffour
+friends.Theynotetheiranswers.Discusswith theclasswhichtheir
+favouriteprogrammesare.
+Consolidation andExtension activitiesT111
+
+### Page 220
+
+Consolidation andExtension activities
+Page15•Extensionactivity:Numbercode
+• Consolidationactivity:RoleplayShowpupilshowtocreatetheirownnumbercodefor theletters
+of thealphabet.TheywritethelettersAtoZinarowandnumbers Makegroupsoffive.Pupilsdecideon theirrolesand thenread
+throughtheDiggoryBonesstoryin theirgroups.Theyextendpartsaboveeachletterinanyordertheywant,e.g.justevennumbers
+(A=2,B=4,C=6,etc),orstartingat26(A=26,B=25,etc). of thestoryastheywish,e.g.theinterviewwithDiggory.They
+prepareandpractisetheirroleplaysasagroupandperformtheirPupils workin pairs.Theymakeuptheircodeand theneachwrite
+amessagein thecode(bywritingthenumbersthatrepresentthe storiesfor thewhole class.
+letters).Thentheyswapmessagesanddecodethem. •Extensionactivity:Thenews
+Pupils workin pairs.Theyusetheinformationfrom thepreviousPage19
+episode,thisepisodeand theirimaginationtoextendthenewsitem •Consolidationactivity:Songtime
+about theprofessorandTheBaloneyStone,sothatitlastsabout
+Brainstormideasforotherversesfor thesong,e.g.goingtowork
+oneminute.Setupanewsdeskat thefrontof theclassfor thepairs
+allnight,anddoitright/teachthemsums,andmakeitfun.Pupils
+toreadtheirnewsitems.Voteas a classfor thebest,funniestor
+workinthrees.Theyrewriteaverseandillustrateitwithanamusing
+mostimaginativenewsitem.
+picture.Groupssingtheirversesanddisplaytheirwork.
+Page16•Extensionactivity:Mydiary
+• Consolidationactivity:WritingtogetherPupils writetheirownimaginarydiaries(usingTanaz'sinActivity
+Putpupils intopairsorgroupsoffour.TheyreadthroughtheBookActivity3asamodel)for thenextweekend.Theyincludetimes
+andalsoaddtheirownideas.Pupils workin pairs.Pupilstaketurns messageseachof themwroteforActivity BookActivity4andtry
+tocorrectanymistakes.Remindthemtousepencilandnotpenontoaskand answerabouteachother'sdiariesandwriteanotein their
+diaryaboutwhat theirpartnerisdoingwhen. eachother'swork.Tell pupilsthatthisisacooperativeactivity,not
+acompetitiveone:theyaretryingtohelpeachother.Pupilsthen
+Page20
+• Consolidationactivity:Disappearingtext
+Page17This activityusesoneof thetextsfromPupil's BookActivity1.Either
+• Consolidationactivity:Naturedocumentariesvocabulary writeoneof theshortertextsorpartofoneof thelongertextson
+Elicitthenew wordsandphrasesfrom thetwolessonsonnaturetheboardin thelesson,orrevealthetextyouwroteon the board
+documentariesonto theboard.Checkpupilsunderstand themandbeforehand.Ask pupils toreaditaloudinturnwith(withbooks
+closed).Erasethejobsfrom thetext.Ask pupils toreaditaloud knowhowtosaythem.Intheirvocabularybooks,pupilswritethe
+headingNaturedocumentaries.Theywritethenew words,phrasesagain,fillingin thewordswhichhavebeenerased.Continue,erasing
+adifferentclassofwordseachtimeuntilthereareonlyafewwords andexpressionsfrom thelessons,eitherasamindmaporasalist.
+Atthebottomof thepage,theywritesomeof thethingstheydidinleft,e.g.propernouns.
+thelessons,e.g.Ilearntabouthownaturedocumentariesaremade.•Extensionactivity:Famouspeople'slives
+Imademyownpresentation.Iftime,pupilscanillustratethepage.Elicitnamesoffamouspeoplefrom thepupils'homecountry,e.g.
+• Extensionactivity:Definitionscooks,actors,writers,sportspeople.Chooseoneof thepeopleyou
+arefamiliarwithandelicitwhatpupilsknowabouthis/herlife.Write Playavocabularydefinitionsgame.Writeon the board:documentary,
+notesabout theperson'slifeon the board.Pupilsusethenotesto drone,specialeffects,migration,extinct,technology.Putpupils into
+writeashortbiographyof thepersonin theirnotebooks,similarto teams.Giveadefinitionofeachword;thefirstteamtoputuptheir
+handandsaythecorrectwordwinsthepoint.Theteamwith thetheonesonPupil's Bookpage20.
+mostpointswinsthegame.
+Page21
+Definitions: •Consolidationactivity:Predictions
+Newandimprovedequipmenttohelpusdothingsbetterand
+Pupils workin groupsofsix.TheydrawatableliketheoneinPupil's
+moreeasily(technology) BookActivity4,puttingtheirnameat thetopof thelistand then
+Movingtoadifferentplaceinalargegroup(migration)
+theirfriends'namesdowntheside.Theyhaveanextracolumnon
+Ananimalthatdoesn'texistanymore(extinct)theright(for thejobs).Brainstormideasontoamindmapabout
+Somethingthatfliesandfilmsin theair(drone) whatpupilslovedoing,togivethemideas.Pupils writewhat they
+Adesignercancreatethesetomakesomethinglookreal(speciallovedoingin thecolumnnext to theirownname.Elicit/Providethe
+effects)questions:Whatdoyoulovedoing?Whatareyougoodat?Pupils
+AfactualTVprogramme(documentary)taketurnstoaskthequestionsof theothersin theirgroupandto
+notetheanswersin themiddlecolumn.Pupilsusetheinformationto
+Unit2completethethirdcolumnalone.Thentheydiscusstheirpredictions
+asagroup,e.g.Ithinkyou'regoingtobe...Discusspupils' Page18
+predictionsforeachotheras a class.
+• Consolidationactivity:Sentenceparts
+• Extensionactivity:Guessthejob
+Pupils workin pairs.Theywriteatleastsixsentencesusinggoing
+Play theaudiofromPupil's BookActivity1again.Pupils workin
+to,toincludequestions,negativesandaffirmatives.Theywriteeach
+oneonastripofpaperandcutitup.Theyswaptheirsentenceswithpairs.Theywriteashortdialogue,whichgivescluesaboutajob,but
+whichdoesn'tsayexactlywhatitis.Encouragepupils tobecreative
+anotherpair,whotrytosequencethemcorrectly.
+andfunny.Pairsrole-playtheirdialoguesfor theclasstoguess
+thejob.
+T112Consolidation andExtension activities
+
+### Page 221
+
+Consolidation andExtension activities
+Page22•Extensionactivity:PhoningPeter
+• Consolidationactivity:What'sthejob?Tell pupilstheyaregoingtowritethetelephoneconversation
+betweenSarahandPeter(seePupil's BookActivity1).Givethem PupilsusethetextstheywroteforPupil's Bookpage21Activity6in
+aguessinggame.Theylookbackthroughtheirtextsandcrossouttimetore-readtheconversationin thePupil's Bookfirstandelicit
+thethingsthatSarahneedstoaskPeter.Write thebeginningof the theactualjob.Askforsixvolunteers.Theycometo thefront.The
+pupilstaketurnstoreadtheirtextsaloud.Therestof theclasslistenphonecallon the board:
+insilenceandwritedownwhat theyguessthejobis.Theydothis
+Peter:Hello?
+forallsix.Attheend,check theanswers with thepupils at thefront. Sarah:Hi,Peter.It'sSarah....
+Repeatwithsixmorevolunteers.
+Pupils workin pairstocontinuetheconversation.Tellthemtouse
+theirimagination.(WillPetersay'yes'or'no'?Hashegotadifferent Page23
+suggestionaboutwheretogo?)Monitorandhelpwithlanguage. •Consolidationactivity:Roleplay
+Pupils practisetheirphonecall.Askvolunteerpairstoperformtheir
+Makegroupsoffive.Pupilsdecideon theirrolesand thenread
+throughthestoryin theirgroups.Theyextendpartsof thedialoguecallfor theclass.
+in theirgroupsastheywish,e.g.SirDougcangoto thelibrarytoo.Page27
+Theyprepareandpractisetheirroleplaysasagroupandperform •Consolidationactivity:Vocabularyreview
+theirstoriesfor thewhole class.
+PupilslookbackthroughUnits1and2,checkingtheyhavenotedall
+• Extensionactivity:Jobalphabetthekeyvocabularyin theirvocabularybooks.Theywriteanexample
+Pupilsdivideapieceofpaperinto26squares.Theywritealettersentenceforanywordstheyfinddifficulttoremember.Finally,they
+of thealphabetin thecornerofeachsquare.Thesquaresshouldcreatemindmapsfor theunitthemes:TVprogrammesandJobs.
+eachbebigenoughtowriteatleastonewordin.Atthetopof the•Extensionactivity:Gamesandactivities
+page,theywriteJobs.Pupilslookbackthroughtheunittofindall
+Pupilschooseoneof thegamesoractivitiesfromUnits1and2to
+thejobstheycanwhichbeginwithdifferentlettersof thealphabet.
+doagain.
+Theywritethewordsin theappropriateplaces.Pupils discuss
+andcompare.Unit3
+Page24Page28
+• Consolidationactivity:Drawandlabel•Consolidationactivity:Followingdirections
+Pupils drawandlabeltheirownfiretriangle,similarto theoneinOrganisethetablesin theclassroomsothat thereare'roads'for
+Pupil's BookActivity2.Theyshouldaddexamplesofthingsthatcan
+pupils towalkalongandcornersandturnings.Placelabelsonsome
+beusedasfuel,e.g.coal,wood,paper,gasandoil.of thetables,e.g.museum,station,supermarket.
+• Extensionactivity:TheGreatFireofLondon
+Demonstratetheactivitybygivingsimpledirectionsforapupilto
+Makegroupsoffour.Pupilsusereferencebooksand/ortheinternet
+follow.Inpairs,pupilswriteashortsetofdirectionsforanotherpupil
+about theGreatFireofLondon.Givethemthefollowingquestions:tofollowaroundtheclass.AllpupilsstartwithYouareoutside/at
+Wherewasthefire?Whendidithappen?Wherediditstart?Whydid the(place)and theyhavetotakethepersontoacertainplacein the
+thefiregetsobig?Howmanydaysdiditlast?Whichfamouswriter 'city'(classroom).Theycanchoosewheretostart.Writeprompts
+sawthefireandwroteaboutit?
+on the board,e.g.Takethe..,Turn...Pairstaketurnstogive
+Pupilsfind outtheinformationin theirgroupsandtransferitontodirectionstoanotherpupil.
+aposter.Theycandrawpictures.Displaythepostersonthewall. •Extensionactivity:Nowdrawthemap
+Pupilswalkaroundtheroomandlookatall theposters.TheyfindPupils workin pairsanddrawandlabelamapof thepartof thecity
+what theythinkisthemostinterestingfactabout thefireandwriteit asdescribedinActivity BookActivity1.Theycanaddto themap,
+butall thefeaturesmentionedin thetextmustbethereandcorrect.
+Pupilsswapmaps.Readthetextaloudto theclass.Theyfollowon Page25
+thefriend'smap,asiftheyarethebusdriver,tocheck.
+• Consolidationactivity:Safetyvocabulary
+Page29 Elicitthenew wordsandphrasesfrom thetwolessonsonsafety
+proceduresonto theboard.Checkpupilsunderstand themand•Consolidationactivity:Correctthemistakes
+knowhowtosaythem.Intheirvocabularybooks,pupilswritetheFocus pupils onthemapinPupil's BookActivity2.Tellthemyou
+headingSafetyprocedure.Theywritethenew words,phrasesand
+aregoingtogivethemsomedirectionstofollow.Forexample,
+expressionsfrom thelessons,eitherasamindmaporasalist.Atsay:Gostraighton.Takethethirdstreeton the right.Walkpast
+thebottomof thepage,theywritesomeof thethingstheydidin theshoeshopand thesweetshop.Turnright.Gostraightacross
+thelessons,e.g.Ilearntabouthowtousefiresafely.ImadeaposterGreenStreet.Goto thecornerofBlueStreetand thebankison
+aboutforestfiresafety.
+theleft.(Wrong:Thebankison the right.Thebicycleshopison
+theleft.)Pupils listenandfollowthedirectionstofindthemistakes.
+ReviewUnits1and2
+Alternatively,writethedirectionson the board forpupils toreadand
+follow.Theycheckin pairs.Check with theclass. Page26
+• Extensionactivity:Howtogetthere •Consolidationactivity:Songsandchants
+Tell pupilsthatafriendisgoingtovisittheirhouseorschooland Singoneof thesongsordooneof thechantsfromUnits1and2.
+needsdirectionsfrom,e.g.thetrainstationorthebusstop.Provide
+asimpleemailformaton the board for themtocomplete:
+Consolidation andExtension activitiesT113
+
+### Page 222
+
+Consolidation andExtension activities
+Hi(name)Page34
+It'sgreatthatyouarecomingtovisit.Herearethedirections•Consolidationactivity:Publictransport
+soyoucanfindmyhouse/schooleasily.
+Putpupils intopairstotesteachotheronthethreeformsofpublic
+Youstartat...(linesfordirections)transportfrom thelesson.Askthemtotaketurnstosaythenameof
+Here'smymobilenumberincaseyougetlost. thetransportationfor theirpartnertosaytheadvantagesofusing
+Goodluckandseeyousoonit.Remindthemtoconsideradvantagesfor thepassengers(speed,
+(Name)comfort,etc.)alongsideadvantagesfor theenvironment.
+Page35
+• Consolidationactivity:Londonposters•Consolidationactivity:Whatwedidfor theproject
+ReviewwhatpupilsthoughtwerethemostexcitingthingsaboutPupilsreflectonand thenwriteaboutwhat theydidfor the
+Londonfrom theWarmerandfrom thereading.Tell pupilstheyareproject:what theytalkedabout,howtheydecidedon theirmode
+goingtomakeaposter,in groupsoffour.Theposteristopromoteoftransportandwhy,theprocessofdrawinganddescribingtheir
+Londonandtomakepeopleof theiragewanttogothere,soithasdesign(wasitdifficult?),thenametheychoseandwhy.
+tobeexciting,colourfulandinteresting.Pupilscanusereference•Extensionactivity:Transportvocabulary
+booksand theinternettofindinformation.Theycanprintpictures
+Elicitthenew wordsandphrasesfrom thetwolessonsoncitylife
+offtheinternet,buttheyhavetowritetheirowntext.Givethem
+andtransportonto theboard.Checkpupilsunderstand themand
+planningandresearchtimeand thentimetopreparetheirposters.
+knowhowtosaythem.Intheirvocabularybooks,pupilswritethe
+Displaythepostersaroundtheclassroomortheschool.
+headingCities.Theywritethenew words,phrasesandexpressions
+from thelessons,eitherasamindmaporasalist.Atthebottomof Page31
+thepage,theywritesomeof thethingstheydidin thelessons,e.g.
+• Consolidationactivity:Drawingamap
+Ilearntaboutdifferentmodesoftransport.Idesignedanunusual
+Pupils drawamaptoillustratetheirdirectionsfromPupil's Book
+newmodeoftransport.
+Activity4.Theythenwritethedirectionsunderneathit.
+• Extensionactivity:TenquestionsUnit4
+Inpairs,pupilsmakeaquickmindmapofall thejobstheycan
+Page36
+remember,thensecretlychooseoneof them.Pairstaketurns
+• Consolidationactivity:Roleplay tocometo thefront.Therestof theclasscanasktenyes/no
+questionstoguesstheirjob.Iftheclassdonotguessinten,theDisplaytheVideoScriptfromPupil's BookActivity1on the board.
+pairofpupilsgainsonepoint.Iftheclassdoguess,thepairwhoMakegroupsoffour.Pupilstaketurnstobethedifferentcharacters
+guesscorrectlywinonepoint. androle-playthestory.
+• Extensionactivity:Timeline
+Page32
+PupilsputthesentencesfromActivity BookActivity3on timelines,
+• Consolidationactivity:Roleplay
+usingthesamecoloursasbefore.
+Putpupils intopairs.PupilAisavisitorto theirtown/cityandwants
+toknowthebestplacestovisit.PupilBlivesin thetown/city.Page37
+He/SheusesthenotesmadeinPupil's BookActivity5torecommend•Consolidationactivity:Palmsupordown?
+thebestplacetovisit.GivepupilstimetopreparebeforetheirrolePupils workindividuallyandwritesentencesaboutthingstheywere
+play.Whentheyhavefinished,askpupils toswaprolesanddothe doing/thathappenedto themduring thepreviousweek.Some
+roleplayagain.mustbetrue;otherscanbefalse.Theywritesixsentencesinall.
+Supplysomeexamples,e.g.IwasshoppingwithmymumwhenI
+sawatigerinatree.Makegroupsoffour.Pupilstaketurnstoread
+• Consolidationactivity:Roleplay
+theirsentencesto thegroup.Thepupilsguesstrueorfalse,butthey
+Makegroupsoffour.Pupilsdecideon theirrolesand thenread don'tsayit.Theyputonehanddownonthetable,palmupfortrue,
+throughthestoryin theirgroups.Theyextendpartsof thedialogue palmdownforfalse.Correctguesseswinapoint.Elicitthestrangest
+in theirgroupsastheywish,e.g.SirDougcangotoEgypttoo/ truesentencesfrompupils at theend.
+Brutusisdoingadifferentjob.Theyprepareandpractisetheirrole
+• Extensionactivity:Survey
+playsasagroupandperformtheirstoriesfor thewhole class.
+Pupilsprepareafive-columnxseven-rowsurveychartin their
+• Extensionactivity:Followingdirections
+notebooks.Pupils writesixquestionsin theleft-handcolumn,
+Organisethetablesin theclassroomsothat thereare'roads'beginningWhatwereyoudoingat..?andaddingtimes.They
+forpupils towalkalongandcornersandturnings(similarto interviewfourpeople,writetheirnamesat thetopand thenwritetheir
+Consolidationactivityforpage28).Pupilsmakelabelsforplacesinanswersin therelevantcolumnusingthepast continuous.
+thecityandplacethemonsomeof thetables,e.g.museum,station,
+supermarket.Demonstratetheactivitybygivingsimpledirections Page38
+forapupiltofollow.Inpairs,pupilswriteasetofdirectionsfor•Consolidationactivity:Importantdatesinmylife
+anotherpupiltofollowaroundtheclass.PupilscanstarttheDrawalifetimelineon the board foranimaginarypupil(Sylvia).
+directionswherevertheylike,e.g.Youareoutsidethemuseum/at Marksixdatesalongthetimeline,e.g.Bornon27June2012,Baby
+theschool,and theyhavetotaketheirpartnertoacertainplaceinbrotherbornin2015,StartedschoolinSeptember2017,Learntto
+the'city'(classroom).Writepromptson the board,e.g.Takethe.., swiminFebruary2018,Movedhouseon31October2020,Gotmy
+Turn...Pairstaketurnstogivedirectionstoanotherpupil.petdogFrankieon25December2022.
+T114Consolidation andExtension activities
+
+### Page 223
+
+Consolidation andExtension activities
+Elicitsentencesfrom theclassaboutSylvia'slife.Checktheysaythewritethewordsunderneath(scramblingtheletters).Pupilsswap
+dayscorrectly(useofin,on,pronunciationofmonths,ordinals,years,wordsearcheswith theirpartnerandfindthetenwords.Pairsthen
+etc.)Pupils workindividually.Theydrawatimelinefor themselvesinreviewthewordsfrombothwordsearchestogether.
+theirnotebooksandmarksixpointsalongit.Makegroupsoffour.
+Page43
+Pupilstaketurnstotelleachotherabout theeventsin theirlives.
+Theyfind outiftheyhaveanydatesoreventsincommon.Pupils•Consolidationactivity:Spotthemistake
+writesentencesabout thesixeventsin theirlivesunderthetimeline.Pupils workin pairs.PupilAcloseshis/herbook.PupilBstarts
+readingoneof thetextsfrom thePupil's Bookpage.He/Shemakes •Extensionactivity:Datebingo
+adeliberatemistake,e.g.InIceland,youcanseegeysers,whichare
+Write16completedateson the board,e.g.15October2003.Pupils
+holesin thegroundthatblastoutjetsoflavaandsteam.WhenPupil
+drawa2x2bingogridin theirnotebooksandchoosefourof the
+Acorrectlyspotsthemistake,he/shegainsapoint.PupilBcontinues
+16dates.Theywriteoneineachsquarein theirnotebooks.Callout
+untiltheendof thetext.Thenpupilsswaproles.
+thedatesatrandom.Pupilscrossoutonesthat theyhear.Thefirst
+• Extensionactivity:Naturallandscapesvocabulary
+pupiltocrossoutallfouristhewinner,iftheycanthensayallfour
+datescorrectly.Elicitthenew wordsandphrasesfrom thetwolessonsonthenatural
+landscapesonto theboard.Checkpupilsunderstand themand
+Page39 knowhowtosaythem.Intheirvocabularybooks,pupilswritethe
+• Extensionactivity:Theotherhemisphere
+headingNaturallandscapes.Theywritethenew words,phrasesand
+Materials:Worldmaporglobeexpressions,eitherasamindmaporasalist.Atthebottomof the
+page,theywritesomeof thethingstheydidin thelessons,e.g.I
+Displayaworldmaporshowpupilsaglobe.Teachthenorthern
+learntwhatcausesvolcanoes.IlearnthowIcelandusespowerfrom
+hemisphereand thesouthernhemisphere.Ask pupilsiftheyhave
+watertomakeelectricity.
+evervisitedfriendsorrelationsin theotherhemisphere.Ifthey
+have,askthemwhat theweatherwaslikein themonththeyvisited. ReviewUnits3and4
+Write themonthsof theyearhorizontallyon the board.Abovethe
+months(for thenorthernhemisphere),markin theseasons.BelowPage44
+themonths(for thesouthernhemisphere),markin theseasons.•Consolidationactivity:Songsandchants
+Ask pupils,e.g.Whenit'ssummerforus,whatseasonisitin the
+Singoneof thesongsordooneof thechantsorrhymesfromUnits3
+southern/northernhemisphere?(winter).Whatdoyouthinkpeople
+dothen?Repeatforanotherseason.Pupils copythechartinto theirand4.
+notebooks.Inpairs,theydiscusswhatpeopledoin thedifferentPage45
+monthsin theotherhemisphere.Checkpupilsareusingthepresent •Consolidationactivity:Vocabularyreview
+simple.Elicittheirideas.
+PupilslookbackthroughUnits3and4,checkingtheyhavenotedall
+thekeyvocabularyin theirvocabularybooks.Pupilscancheckand Page40
+compare.Theywriteanexamplesentenceforanywordstheyfind
+• Consolidationactivity:Recordinginformation
+difficulttoremember.Finally,theycreatemindmapsfor theunit
+Pupils writesentencesabout theirpartner's answersto thequiz
+themes:City lifeandDisasters.
+questionsinPupil's BookActivity4,e.g.Felipedidn'tcometoclass
+• Extensionactivity:Games
+on timebecausehemetatigerwhenhewaswalkingtoschool.
+Pupilschooseoneof thegamesfromUnits3and4toplay.
+Page41
+Unit5
+• Consolidationactivity:Roleplay
+Makegroupsofthree.Pupilsdecideon theirroles.Play theaudioofPage46
+theDiggoryBonesstory.Pupilsrepeatinrole.Theyreadthroughthe •Consolidationactivity:Roleplay
+storyin theirgroups.Theyrepeattwicemore,changingroleseachtime.
+DisplaytheVideoScriptfromPupil's BookActivity1on the board.
+• Extensionactivity:Birthdaychart
+Makesureallpupilscanseeit.Makegroupsofthree.Theytake
+Materials:Onelargepieceofpaper,smallpiecesofpaper,turnstorole-playthestory,usingmime,e.g.for thespider.
+stickytack •Extensionactivity:What'sitmadeof?
+Drawthelargestcircleyoucanonthepaper.DrawasmallcircleinPupils workin groupsoffour.Theyeachselectsixthings(from their
+thecentreandwriteBirthdaysinsideit.Connecttheinnerto thebags,theirclothes,etc.)toaskquestionsusingmadeof.Iftheyare
+outercirclewith12lines(making12segments).Labeleachof thesenotsurewhat theobjectismadeoforhowtosayitinEnglish,they
+ontheouteredgewith thenameofamonth. cancheck withyou/theirdictionaries.Pupilstaketurnstoasktheir
+Displaythebirthdaychart.Tell pupilswhenyourbirthdayis,writefriendsin theirgroupsabout theobjectstheyhavechosen,e.g.
+thedateandyournameonapieceofpaperandstickitin theWhat'smywatchmadeof?Attheendof theactivity,elicitwhat the
+appropriatesegmentof thebirthdaychart.Pupils workin pairs.Theymostcommonmaterialin theirgroupwas.
+asktheirpartnerwhentheirbirthdayisandwritetheirnameand
+Page47
+thedateonasmallpieceofpaper.Pupilsthenstickthepaperin the
+• Consolidationactivity:Myimaginaryhouse
+correctpartof thebirthdaychart.Discusswith theclass,e.g.Look.
+TherearenobirthdaysinFebruary.HowmanyofyouhavebirthdaysBrainstormideaswithpupilsastowhathousesaremadeof.Explore
+manydifferentpossibilitiesfromaroundtheworldwith theclass. inApril?
+Individually,pupilsdrawapictureofanimaginaryhouseoronefrom
+Page42somewherein theworldandwriteatextaboutit,usingthetext
+• Consolidationactivity:MyownwordsearchfromActivity BookActivity2asamodel.Pupilsswaptextsandread
+PupilslookbackthroughUnit4tofindtenwordsconnectedwith about theirpartner'shouse.
+disasters.Theymakeawordsearchincludingthetenwordsand
+Consolidation andExtension activitiesT115
+
+### Page 224
+
+Consolidation andExtension activities
+• Extensionactivity:Whosaidit?
+• Consolidationactivity:Naturalorman-madeMaterials:Stripsofpaperforpupils towriteon(sixfor
+Pupilseachmakealistof theclothesandobjectsthat theyare
+wearing,e.g.watch,jewellery,glasses.Nextto theobject,theywrite Pupilslookbackthroughtheepisodesof theDiggoryBonesstory.
+whatit'smadeof.ThentheycategorisetheinformationintotwoInpairs,theyfindsixshortphrasesthatpeoplesaid.Theywrite
+columns:man-madeandnatural,andseewhichtheyhavemoreof. thephrasesonsixstripsofpaper.Collectthestripsfrompupils.
+Pupils comparewith theirfriends.Makefourteams.Teamsallocatenumbersto theirteammembers,
+• Extensionactivity:Oddonesoutstartingfrom1.Ifthesmallestteamhas,e.g.sixmembers,and the
+othershaveseven,thenthelargerteamswillnumber1-6and then Demonstratetheactivityforpupils.Writeon the board:car,
+jewellery,ruler,shoes.Elicitwhichistheoddoneout:theremaybestartat1again.Selectastripandcallanumberatrandom,e.g.
+morethanoneanswer,e.g.shoescan'tbemadeofmetal,butthe Four.Ateammemberwiththatnumberhastoanswer.Readoutthe
+otherscan;carscan'tbemadeofwood,buttheotherscan.quotationfrom thestory.Thefirsttoanswercorrectlywith thename
+Pupils workin pairs.Theywritealistofsixoddonesout(fourof thespeakerwinsapointfor theirteam.Repeat,callingadifferent
+choicesineachline)onpaper.Intheirnotebooks,theywritetheirnumberandreadinganewquotationeachtime.Iftherearetwo
+answerforeachone.Theyswappaperswithanotherpairandnumber1sinateam,onlyonecanansweratanyonetime.
+taketurnstosaywhichtheythinkistheoddoneoutforeachline.
+Page52
+Encouragepupils tobeinventive.Monitorandhelp.
+• Consolidationactivity:Definitions
+Page49Playavocabularydefinitionsgame.Write theseeightwordsonthe
+• Consolidationactivity:Findingoutboard:exhibition,environment,pollution,illusion,sculptor,recycling,
+sculpture,waste.Putpupils intothreeorfourteams.Youaregoing Writeasourcematerialon the board,e.g.wool.Asktheclasshow
+manythingstheycanthinkofthataremadeofwool,orhavewooltogiveadefinitionofsixof thesewords,andteamsputuptheir
+handsassoonastheyknowtheanswer.Choosethefirstteamtoput aspartof theircontent.Elicittheirideas,e.g.clothes,mattresses,
+blankets.Makegroupsoffour.Eachgroupneedsaccessto theuptheirhandandaskthemtosaytheirchoicefrom thewordsonthe
+board.Theygetonepointiftheyarecorrect.Continuewithallsix internetorschoollibrary.Giveeachgroupasourcematerialto
+research:theyhavetofindasmanythingsastheycanthataremadedefinitions.Twowordsarenotused.Theteamwith themostpoints
+of/containthatmaterial.Suggestedsourcematerials:metal,trees,winsthegame.
+wool,animals(butnottheirfur/hair),plantsorpartsofplants(not Definitions:
+trees).Pupilshaveabouttenminutestodotheirresearch.TheyVisualartin theformofanobjectoranidea.(sculpture)
+collatetheirinformationontoaposterandpresenttheirfindingsto Somethingthatisnotwhatitseemstobe.(illusion)
+theclass.Aneventwhereyoucangoandseesculptures.(exhibition)
+• Extensionactivity:MaterialchainsProblemsinourenvironmentbecauseofthingslikewaste.(pollution)
+Pupils workin groupsofthreetomakematerialchains.TheyworkonUsingthingsagainforadifferentpurpose.(recycling)
+onepieceofpaper.Theystartbywritingamaterial,e.g.wood,andThenaturearoundus,likeplants,animals,waterandair.(environment)
+drawanovalarounditlikealinkinachainin thecentreof thepaper.
+Page53
+Pupilstakeitinturnstomakeanotherlink,eitherto theleftorto the
+• Consolidationactivity:Sculpturesvocabulary
+right,withsomethingthat'smadeof/from thematerial,e.g.paper,or
+that theobjectcomesfrom.Forexample,thelinkfrompapercouldElicitthenew wordsandphrasesfrom thetwolessonsonsculptures
+onto theboard.Checkpupilsunderstand themandknowhowtosay
+beplants(leaves-papyrus)aspapercanbemadefromthattoo.Give
+pupilsthinkingtimeastheyplaythegame.Itwillencouragethemto them.Intheirvocabularybooks,pupilswritetheheadingSculptures.
+Theywritethenew words,phrasesandexpressionsfrom thelessons, thinklaterally.Providesuggestions.
+eitherasamindmaporasalist.Atthebottomof thepage,they
+Page50writesomeof thethingstheydidin thelessons,e.g.Ilearnthowto
+• Consolidationactivity:Memorygamedescribeasculptureandtalk abouthowitmakesmefeel.Imadea
+sculpturefrom... Reviewvocabularybyplayingamemorygame.Insmallgroups,
+pupilsplayagamewhereeachpupiladdsoneitemtheybought
+Unit6
+at theshop,repeatingtheitemsothermembersof thegrouphave
+saidbeforethem.Forexample:PupilA:Iwentto theshopand
+Page54
+boughtachocolatemouse.PupilB:Iwentto theshopandbought
+• Consolidationactivity:Feeliebag
+achocolatemouseandarubbersnake.
+Materials:Ablackcanvasorcottonbag,someobjectsfor
+pupils tofeelwhichtheywon'timmediatelyguess,e.g.an
+• Consolidationactivity:Adifferentending orange,afurryspider,asock,anut,agrape,aleaf,awig
+Makegroupsofthree.Play theaudioof theDiggoryBonesstory. Putobjectsinafeeliebagbeforethelessonsopupilsdon'tsee
+Pupilsrepeatinrole.Pupilsthenworktogethertorewritethefinalthem.Invitepupils to thefrontinturn.Theyputtheirhandin the
+twoframes.Theywritethenewstoryin theirnotebooks.They feeliebag(withoutlooking)andfeelforoneobject.Theydescribeit
+thenpractisetheroleplay.Groupsperformtheirroleplaysfor theusingthekeylanguage,e.g.Itfeelslikeananimal.
+Page55
+• Consolidationactivity:Whatthingslookedlike
+Pupilsreviewwhat theyand theclasssaidforPupil's BookActivity4.
+Intheirnotebooks,theywritesentencesforeachpicturein the
+activity,e.g.Ithinkpicture6lookslike(atelescope).
+T116Consolidation andExtension activities
+
+### Page 225
+
+Consolidation andExtension activities
+• Extensionactivity:RiddlesPage58
+Write thepromptsforariddleon the boardlikethis:•Extensionactivity:Writingtogether
+look/sound/taste/feellikePutpupils intogroupsoffour.Theyreadthroughthepoemseachof
+themwroteforPupil's BookActivity5andtrytocorrectanymistakes.
+Iam.
+Remindthemtousepencilandnotpenoneachother'swork.Tell
+Icomein(colours).
+pupilsthatthisisacooperativeactivity,notacompetitiveone:they
+Youcanaretryingtohelpeachother.Pupilsthenrewritetheirownpoemsona
+Ialways/sometimes/never.pieceofpaperfordisplay.
+WhatamI?
+Page59
+Pupils workin pairs.Theywriteariddleonapieceofpaper.Pairs•Consolidationactivity:Roleplay
+puttheirriddlesonthewalls.Numberthem.Pupilsgoaroundthe Makegroupsofthree.Pupilsdecideon theirroles.Play theaudio
+classroom,readingtheriddlesandwritingthenumberof theriddle
+of theDiggoryBonesstory.Pupilsrepeatinrole.Theythenread
+and theirguessof theanswerin theirnotebooks.Attheendof the
+throughthestoryin theirgroups.Theyrepeattwicemore,changing
+activity,thepairwhowroteeachriddlegivethecorrect answersothe
+roleseachtime.Pupilsdecideonfinalrolesandpractisetheirrole
+classcancheck.
+playsasagroupand/orperformtheirroleplaysfor thewhole class.
+Page56•Extensionactivity:Feeliebag
+Play theFeeliebaggameagainwithpupils.SeeConsolidation •Consolidationactivity:Myfavouritepizza
+Pupilsusethemodelin thereadingtextinPupil's BookActivity1activityforpage54.
+towriteanaccountofhowtomaketheirfavouritepizza.TheycanPage60
+illustratetheirwritingwithapictureof theirpizza.
+• Consolidationactivity:Soundsandwords
+• Extensionactivity:Pizzaroleplay
+Putpupils intopairs.Askthemtotaketurnsmakingdifferentsounds.
+Pupilsaregoingtoordertheirfavouritepizzaoverthephone.Elicita
+Eachtimetheyhearasound,theywritedownhowtheythinkthe
+sampleconversationonto theboard forpupils touse,e.g.soundscouldappearasaword.Allowalittleimaginationwiththis
+activity.Tellthemthat,ifthereisawordtheyknowthatrepresents
+Hello.AcePizzashere.
+Hi.I'dliketoorderapizza,please.thesound,e.g.clang,bang,whoosh,theyshouldwriteitdown,but
+Fine.Goahead.theycanalsocomeupwith theirownwords.Aftertheactivity,invite
+Well,I'dlike(mushrooms,greenpepper)andlotsof(cheese)butpupils tostandupandmakeanoise.Thenaskavolunteertowrite
+no(onions).Idon'tlike(onions).thesoundtheyhearon the board.
+Right.That's(repeatsorderbutwithamistake).
+Page61
+No,l'dlike(repeatsagain).
+• Consolidationactivity:Soundvocabulary
+Gotit.(repeatscorrectly)
+Elicitthenew wordsandphrasesfrom thetwolessonsonsound Doyouwantanythingtodrink?
+wavesonto theboard.Intheirvocabularybooks,pupilswritethe
+Yes,please.(Anorangejuice.)
+headingSoundwaves.Theywritethenew words,phrasesand
+Andwhat'stheaddressfordelivery?
+expressionsfrom thelessons,eitherasamindmaporasalist.At
+(givesaddress)
+thebottomof thepage,theywritesomeof thethingstheydidin
+Fine.It'llbeaboutquarterofanhour.
+Pulsiprime.Mardthendopupilanalpaytheoversations
+favouritesounds.
+for theclass.
+ReviewUnits5and6
+Page57
+Page62 •Consolidationactivity:Myfavouriterecipe
+• Consolidationactivity:Songsandchants Elicitandwriteupthekeywordsfrom therecipe,e.g.mix,put,roll,
+take,add,cut.Addotherwordspupilsmightneed,e.g.weigh.AskSingoneof thesongsordooneof thechantsfromUnits5and6.
+pupils togetouttherecipestheybroughtwith them.Goaround
+Page63
+theroom,lookingat thedifferentrecipes.Choosetheleastcomplex
+• Consolidationactivity:Vocabularyreview ones.Pupils workin groupsoffour.Theyworktogethertowriteone
+ortwoof therecipesfrom theirgroupinEnglish.HelpthegroupsPupilslookbackthroughUnits5and6,checkingtheyhavenoted
+all thekeyvocabularyin theirvocabularybooks.Pupilscancheck withkeywordsandsimplifyrecipesifnecessary.Groupsswaptheir
+recipeswithothergroupsandreadthedifferentrecipes.andcompare.Theywriteanexamplesentenceforanywordsthey
+finddifficulttoremember.Finallytheycreatemindmapsfor theunit •Extensionactivity:Recipewordmaps
+themes:Material thingsandSenses.
+WriteIngredientsononesideof theboard andProcessesonthe
+other.Drawacircleroundeachone.Elicitoneortwoingredients•Extensionactivity:Games
+fromthisand theprevious lesson,e.g.flour,eggs,andstartamindPupilschooseoneof thegamesfromUnits5and6toplay.
+mapforIngredients.DothesameforProcesses,eliciting,e.g.mix,
+cut.Inpairs,pupilsmakemindmapsofall theingredientsand
+processesfromthisandprevious lessonsin theirnotebooks.
+Consolidation andExtension activitiesT117
+
+### Page 226
+
+Consolidation andExtension activities
+Unit7tensecondstoanswer.Awardonepointfor thefirstteammemberto
+answercorrectly.Repeatwithotherdefinitions.
+Page64
+Page67
+• Consolidationactivity:Roleplay
+• Consolidationactivity:Theschoolenvironment
+DisplaytheVideoScriptfromPupil's BookActivity1on the board.
+Focus pupils ontheYoucan...sectionofPupil's BookActivity3.Tell
+Makesureallpupilscanseeit.Makegroupsoffour.Play thevideo
+againastheyreadsilently.Pupilstaketurnstorole-playthestoryin themtoimaginetheyhavetomakesuggestionsabout theschool.
+Elicitsomeideasforprotectinghabitat,recycling,etc.Pupils workin theirgroups.Moreconfidentgroupscanperformtheirroleplaysfor
+theclass.groupsoffour.Theyproduceaposterfordisplayin theschoolabout
+waysoflookingafterthenaturalworldin theschoolandprotecting
+• Extensionactivity:Moresentencehalves
+theenvironment.Theypresenttheirideasasin themodel,i.e.You
+Inpairs,pupilsusethesentencestemsfromPupil's BookActivity3
+can...Groupspresenttheirpostersto theclassbeforetheyare
+andcompletethemwith theirownideas.Forsentence1,theyneed
+displayed.
+toaddsoto thestemsoitreads:It'sveryhot,so...Makegroups
+• Extensionactivity:Endangeredanimals
+offour(twopairs).Pupilstaketurnstoreadtheirshould/shouldn't
+sentencesto theotherpairandcheck theymakesenseandareDividetheclassintoeight.Giveeachgrouponeof theendangered
+animalsfromActivity BookActivity2.Theyusereferencebooks/
+grammaticallycorrect.
+theinternettofind outasmuchastheycanaboutit.Theyco-write
+Page65ashorttextonthecomputerabout theanimal(description,habitat,
+• Consolidationactivity:Writtenadvicewhyit'sendangered,etc.)andinsertapicture.Printoutall thetexts
+tomakeaclass booklet. Write thesixrequestsforadvicefromActivity BookActivity1on
+theboard.Pupils copythepromptsinto theirnotebooks.Foreach
+Page68
+prompt,theywriteonepieceofadvicewithshouldandonewith
+• Consolidationactivity:Sentencestress
+shouldn't.Encouragethemtothinkofnewideas(notjusttousethe
+Playaclasssentencedrillinggame.SayPeopleshouldn'tclimb advicefrom theActivity Bookactivity).Whenpupilshavefinished
+writing,putthemin pairstocompareanswers.Askeachpairtotelltrees.Asktheclass to repeat thesentencewith thecorrectstress
+onshouldn't.Saypickflowersandencouragetheclass to repeat the
+theclasstheirbestpieceofadvice.
+sentence,butthistimesubstitutingclimbtreeswithpickflowers.
+• Extensionactivity:Helpingeachother
+Continuethegame,addingmoresubstitutesentenceendings.
+Elicitsomeotherproblems,usingtheideasinActivity BookActivity4
+Changethesentencesto theaffirmativeandrepeat thedrillwith the
+asexamples.Theproblemscanberealorfunny.Usingthetextsfrom
+stressontheverbfollowingshould.SayPeopleshouldtakerubbish
+Activity BookActivity4asamodel,pupils individuallywriteaDear
+home.Encouragetheclass to repeatwith thecorrectstresspattern.
+Pamelaletteronapieceofpaper,leavingroomfor theanswerat the
+bottom.PupilsfoldtheirlettersinhalfandswapletterswithanotherPage69
+pupilin theclass.Theywriteanswerstoeachother'slettersat the •Extraactivity:Roleplay
+bottomof thepaper,usingshouldorshouldn't.Pupilsswapletters
+Makegroupsofthree.Pupilsdecideon theirroles.Play theaudio
+againandreadtheanswers. of theDiggoryBonesstory.Pupilsrepeatinrole.Theyreadthrough
+Page66thestoryin theirgroupstwicemore,changingroleseachtime.Pupils
+decideonfinalrolesandpractisetheirroleplaysasagroupand/or •Consolidationactivity:Wheredotheylive?
+performtheirroleplaysfor thewhole class.
+Materials:Alargeworldmap,anA4photocopyofamapof
+theworldforeachpupil,smallpiecesofpaperPage70
+Displayamapof theworldandelicit thenamesof thepartsof the•Consolidationactivity:Animalhabitats
+Tell pupilstheyaregoingtothinkinmoredetailabout theeffectthat worldpupilsreadaboutinPupil's BookActivity1.Write themonthe
+board.Ask pupils tocomeandshowyouwherethecountriesaredestroyinghabitathasonanimals.Askwhatbasicthingshumans
+onthemap.HandoutA4worldmapstopupilssotheycanfindthe needtosurvive,e.g.food,shelter,familyprotectionandwritethese
+countrieson theirmaps.Pupils workindividually.Theywritesimplecategorieson the board forpupils toreferto.Putpupils intogroups.
+Askthemtorelatethesameideastoanimalsindifferenthabitats factsabouteachendangeredanimalfromPupil's BookActivity1on
+smallpiecesofpaper.Provideamodelforpupils on the board,e.g.anddiscuss.Iftimeallows,encouragethemtofind outmoreonthe
+Animal:SiberiantigerHabitat:forestsinSiberiasubjectbylookingforinformationonline.Askeachgrouptotellthe
+classabout theirideasforadifferentcategoryon the board.Discuss
+Description:stripedfurStatus:endangered
+as a class.
+Pupilsdothesameforeachanimalthat'smentionedin thetext.They
+• Extensionactivity:Find outandwriteaboutanextinct
+stickthepaperontheedgeof themapanddrawalinefrom the
+animal
+paperto thecountryonthemap.
+Putpupils intogroupsofthreeandtellthemtheyaregoingto
+• Extensionactivity:Guessinggame
+researchoneextinctanimalandpresenttheirfindingsto theclass.
+Provideadefinitionofananimalforpupils toguess,e.g.I'mthinking
+Providegroupswithoneanimalnameeachtoresearchfor their
+aboutasmallanimal.It'snotaninsect.It'sgoteightlegs.Itlivesin
+presentation,e.g.Tasmaniantiger,Dodobird,Sabre-toothedtiger,
+housesandoutside.Sometimestheseanimalsareveryhairy.(spider).
+Irishelk,Goldentoad,Quagga,Passengerpigeon,Mammoth.Elicit
+Pupilsthenworkin pairstowriteadefinitiononpaperofanother
+and thenwritepointson the board tohelppupils with theirresearch:
+animal.Theywritetheanimalinbrackets.Collectthepiecesofpaper
+animal'sname,typeofanimal,whereitlived,whatitlookedlike,
+forateamgame.Makethreeteams.Pupilsnumberthepeoplein
+whatitate,whyitbecameextinct.Handoutreferencebooksor
+theirteam,startingat1.Chooseadefinitionandcalloutanumberat
+allowpupilstimetoaccesstheinternetfor theirresearch.Remind
+random.Thepupils withthatnumberin theteamscananswer.The
+pupilsthat theyshouldeachpresentpartof thepresentation.After
+othersmustkeepsilent.Readthedefinitionandgivethethreepupils
+thepresentations,find outifthereisacommonreasonfor the
+extinctionof theanimalsthatpupilsresearched.
+T118Consolidation andExtension activities
+
+### Page 227
+
+Consolidation andExtension activities
+Page71Page73
+• Consolidationactivity:Makeawordsearchpuzzle•Consolidationactivity:Talkingaboutactions
+Tell pupilstheyaregoingtomakeawordsearchpuzzleandtesttheirReferbacktoPupil's Bookpage73Activity2andsaythatyou're
+classmatestoseeiftheycanfindhiddenanimalnamesin thepuzzle.goingtoplayagame.Demonstrate,e.g.pickupaboardpento
+Modeltheactivitybybeginninganexampleon the board.There'selicitYou'regoingtowriteon the board.Writeon the board toelicit
+noneedtocreatethecompletepuzzle,butthiswillshowpupilsYou'rewritingon the board.Moveawayfrom theboard toelicit
+whattodo.Drawa10x10gridon the board.Write thenameofanYou'vewrittenon the board.Ingroupsofthree,pupilsthinkofat
+animalhorizontally,verticallyordiagonallyin thegrid(seeexampleleasttwomimestheycandotopractisethissequenceofstructures.
+below).Addtwomoreexamplesofanimals-ifthefirstanimalwasTheyworkquietlysotheothergroupsdon'thear.Groupstaketurns
+horizontal,writethesecondvertically.Wordscansharelettersbuttomimeoneof theirsequences.Thenelicitsentencesfrom therest
+of theclassforeachstageof theaction.
+don'thaveto.
+• Extensionactivity:Whatwe'vedonein thelesson
+Pupils workin pairsandwriteatleastsixsentencesaboutwhat they
+RNGUNhavedonein thelesson.Tellthemtostartatleastonesentence
+withI,onewith thenameofonefriend,onewith thenameoftwo
+ormorefriendsandanotherwithWe.Allthesentencesshouldbe
+RW
+in thepresent perfect.Puttwopairstogethersotheycancompare
+Hsentences.
+FPage74
+• Consolidationactivity:Whenpeopledosports FL
+PupilstransfertheinformationinPupil's BookActivity1intoatable
+E
+in theirnotebooks,showingwhenpeopledodifferentsports.
+• Extensionactivity:Unusualsports
+Materials:Referencebooks/theinternet,alargesheetof
+paperforeachpairofpupils,colouredmarkers
+Tell pupils todrawasimilargridin theirnotebooksand thenwrite
+Find outifpupilsknowaboutanyunusualsportsfrom theirregion
+sixanimalnames,horizontally,verticallyordiagonally.Oncethey
+orotherpartsof theworld.Makealisttogether,addingyour
+havetheiranimals,tellthemtowriterandomlettersin theremaining
+suggestions.Tellthemtheyaregoingtoresearchanunusualsport.
+squarestodisguisetheanimalnames.Putpupils intopairsandask
+Pupils workin pairs.Pupilsusereferencebooks/theinternetto
+themtoswaptheirwordsearchpuzzlesfor theirpartnertofindand
+find outinformationabout theirsport,e.g.whichcountries/seasons
+circlethehiddenwords.
+it'splayedin,howmanypeopleplayit,whereit'splayed,e.g.ona
+• Extensionactivity:Subjectvocabulary
+court,ifit'sateamsport,ifit'splayedwithracketsand/orballs,how
+Elicitthenew wordsandphrasesfrom thetwolessonsonit'sscored.Theywritethenameof thesportat thetopofaposter
+endangermentandconservationonto theboard.Checkpupils andfindapictureof thesporttoputin thecentre.Thentheywrite
+understand themandknowhowtosaythem.Intheirvocabularytheinformationtheyfoundoutaroundthepicture.Pupilsdisplay
+books,pupilswritetheheadingEndangermentandconservation. theirposters.
+Theywritethenew words,phrasesandexpressionsfrom thelessons,
+eitherasamindmaporasalist.Atthebottomof thepage,theyPage75
+writesomeof thethingstheydidin thelessons,e.g.Ilearntwhy•Consolidationactivity:Holidaystories
+someanimalsareendangered.Ilearntwhyitisimportanttoprotect Materials:Smallpicturesfromholidaybrochurestoenable
+endangered species.pupils tomakeupstories-youwillneedaboutfivepictures
+foreachgroupoffourpupils. Unit8
+Tell pupilsyouhavesomepicturesfor themaboutholidaysand
+Page72 that theyhavetomakeupastoryusingthepictures.Theycanadd
+• Consolidationactivity:Findthepresent perfect scenesinbetweenthepicturesiftheylike(theydon'tneedtodraw
+Handoutphotocopiesof theVideoScript(seeTeacher Resources)them).Putpupils intofoursandhandoutasetofpicturestoeach
+group.Theyinventastoryaroundthepictures,addingcharacters fromPupil's BookActivity1.Tell pupils tounderlineall theusesof
+thepresent perfectin thetext.Theyworkin pairs.DisplaytheVideoandnames.Theypractisetellingthestoryusingthepast.Goround
+theclassandlistento thegroups'stories. Scripton the whiteboard andgothroughtheanswerscarefullywith
+theclass,underliningtheexamples.•Extensionactivity:Mindmaps
+• Extensionactivity:InmylifePupilsextendthesportsmindmapstheystartedat thebeginningof
+Brainstormwithpupilssomeof themoreunusualthingstheyhavetheunittoincludeall thesportswordstheylearntin thesubsequent
+donein theirlives,e.g.wonaswimmingprize,climbedamountain,lessons.
+beensnowboarding.Pupilsheadthepagein theirnotebooksIn
+mylifeand thenwriteatleastsixthingsthey'vedonein theirlives.
+Pupilsthenmakegroupsofthreeandtaketurnstotelltheirfriends
+thingsthey'vedone.Discussas a classbyaskingonepupilinagroup
+totellyousomeof thethingstheotherpupils in theirgrouphave
+done,usingHe/Shehas...
+Consolidation andExtension activitiesT119
+
+### Page 228
+
+Consolidation andExtension activities
+Page76Page81
+• Consolidationactivity:Writingtogether•Consolidationactivity:Vocabularyreview
+Pupils writeapersonalreportonhowtheybuiltabridgeandPupilslookbackthroughUnits7and8,checkingtheyhavenotedall
+completedtheteamworkchallengeinPupil's BookActivity5.Theythekeyvocabularyin theirvocabularybooks.Pupilscancheckand
+shouldtalk aboutwhat theyusedtomakethebridge,howtheycompare.Theywriteanexamplesentenceforanywordstheyfind
+madeit,whatwaseasyandwhatwasmoredifficult.Theyusethedifficulttoremember.Finally,theycreatemindmapsfor theunit
+connectorsfirst,then,next,lastly.Pupils writethefirstdraftand themes:Natural worldandWorld of sport.
+thenswapwith a partnerforcorrection.Tell pupilsthatthisisa •Extensionactivity:Games
+cooperativeactivity,notacompetitiveone:theyaretryingtohelp
+Pupilschooseoneof thegamesfromUnits7and8toplay.
+eachother.Pupilsthenrewritetheirownreportsin theirnotebooks.
+• Extensionactivity:-edendingsValues
+Pupils workin pairs.Theylookbackthroughthelessonandfindall the
+Page82
+verbsin thePupil's Bookandin theActivity Bookwhichhave-edat
+theendof thepast simpleorpastparticiple.Foreachverb,theywork• Consolidationactivity:Contractfor theteacher
+Pupils workin pairs.Theywriteacontractfor theteacher,basedon outwhetherthelettersarepronounced/t/,/d/or/id/.Theycheck
+theirlistsin pairsand thenas a class.theonetheywroteforActivity BookActivity2.Monitorandhelpwith
+newvocabulary.Chooseyourfavouritesentencesfrom thecontracts
+Page77
+andinvitepupils tosharethemwith theclass.
+• Consolidationactivity:Diggory'semail •Extensionactivity:Makerules
+Brainstormideaswith theclassaboutDiggory'semail,e.g.ittoldSir Materials:Thefollowingsentencehalveswrittenonseparate
+Dougwhatwashappening,wheretheywere,aboutBrutus,tocome
+piecesofpaper(onesetof14piecesofpaperforeachpairof
+quickly,tobringthepolice.Pupils workin pairstowritetheemail pupils):Ishouldarrive/on time./Ishouldn'tforget/thethings
+fromDiggory.
+Ineedforclass./Ishouldeat/agoodbreakfast./Ishould
+• Extensionactivity:Roleplaylisten/to theteacher./Ishouldn't/talktomyfriends./
+Materials:Acopyof theAudioScriptforeachepisodeof theIshouldgotobed/earlyonschoolnights./Ishouldn'teat/
+DiggoryBonesstory inclass.
+Dividetheclassintoninegroups.Eachgrouptakesoneof theGiveoutsentencehalvestoeachpairofpupils(onesetof14pieces
+episodesof theDiggoryBonesstoryfrom thePupil's Booktoofpaperperpair).Pupilsputthesentencestogether.Earlyfinishers
+canwritethecompletedsentencesin theirnotebooks.Check with
+theclass.
+Page83
+restof theclass.
+• Consolidationactivity:Whichjob?
+Page78
+Materials:Fivepiecesofpaper(A5size)foreachpupil
+• Consolidationactivity:Myfavouritesport
+Givefivepiecesofpapertoeachpupil.Tellthemtowriteadifferent
+Putpupils intopairs.Haveonepupilineachpairdefineaerobic
+jobfrom thelessononeachpieceofpaperasfollows:doctor,nurse,
+sportand thewaythebodyworkstoproduceenergy.Havethe
+ambulancedriver,policeofficer,firefighter.Sayasentenceabout
+secondpupilineachpairdothesameforanaerobicsport.Thenput
+oneormoreof thejobs.Pupilsholduponeormoreof theirpieces sorobeor.Thepur pupils intosmallgroupsandhavethemtaketurnstodescribetheir
+ofpapertomatchthesentence.Examplesentences(answersin
+favouritesport.Theyexplain therulesof thesportandsayifthe
+brackets):Theyworkinahospital.(nurse,doctor);Theysometimes
+sportisaerobicoranaerobic.Encouragethemtosayhowtheyfeel
+workatnight.(all thejobs);Theyrescuepeoplefromtraffic
+whenplayingthesport.
+accidents.(ambulancedriver,firefighter,policeofficer);Theyhaveto
+Page79drivequicklyforwork.(ambulancedriver,firefighter,policeofficer);
+Theyoperateonpeople.(doctor);Theyaren'tafraidofheights. •Extensionactivity:Sportsvocabulary
+(firefighter);Theyrunafterthieves.(policeofficer);Theyinterview
+Elicitthenew wordsandphrasesfrom thetwolessonsonaerobic
+people.(policeofficer)
+andanaerobicexerciseonto theboard.Intheirvocabularybooks,
+pupilswritetheheadingAerobicandanaerobicexercise.Theywrite•Extensionactivity:Role-playemergencycall
+thenew words,phrasesandexpressionsfrom thelessons,eitheras Write thefirstlineofanemergencyphonecallon the board,as
+amindmaporasalist.Theywritesomeof thethingstheydidinfollows:
+Hello.Whichservicedoyouneed-police,fireorambulance? thelessons,e.g.Ireadabouthowpeopletrainfordifferentkindsof
+sports.Ilearntaboutaerobicandanaerobicsports.ImadeaposterPupils workin pairstowritetherestof theconversation.Tellthem
+aboutasport.that theoperator(thefirstpersontotalk)needstofind outwhathas
+happenedandwherethepersonlives.Writesomeusefulphrasesfor
+ReviewUnits7and8
+theoperatoron the board,e.g.Don'tworry.Pleasecalmdown.It's
+goingtobeOK.Monitorandhelpwith thewriting.Whenyouhave
+Page80
+checkedtheirwork,pupilsrole-playtheirconversationin thesame
+• Extraactivity:Songsandchants
+pairs.Askvolunteerstoperformtheirroleplayfor theclass.
+Singoneof thesongsordooneof thechantsfromUnits7and8.
+T120Consolidation andExtension activities
+
+### Page 229
+
+Consolidation andExtension activities
+Page84Page90
+• Consolidationactivity:Quizquestion•Extensionactivity:Collaborativecolouring
+Pupils workin pairs.Theywriteaquestionaboutamoraldilemma,Inpreparation,theteachershouldmakeasimpleline-drawingoftwo
+withthreeoptions(a,b,c),similarto theonesin thequizinPupil'smonsters(MonsterAandMonsterB)andphotocopyoneperpupil.
+BookActivity1.Monitorandhelpwithlanguage.PairsswaptheirPupils workin pairsasPupilAandPupilB.PupilAcoloursMonsterA
+questionswithanotherpair,whodecidewhichoptiontheywouldandPupilBcoloursMonsterB.Giveatimelimit.WithPupilAfacing
+choose.Theyexchangeideas.PupilB,Adescribeshowtocolourtheirmonster,e.g.Colourthe
+• Extensionactivity:Truthorwhitelie? eyesgreen.Colourthehairyellowwithpinkspots.PupilBlistens
+andcolours.ThenBdescribestheirmonstertoAtocolour.Atthe
+Youwillneedalargespacesuchasagymnasiumforthis activity.
+endof theactivity,pupilscomparetheirmonsterwith theirpartner's
+Drawalongwhitelineorusewhitetapetoseparatethespaceinto
+tocheck theyarecolouredin thesameway. twohalves.Pupilsallstandontheline.Point toonesideof theline
+andsayThissideisfortellingthetruth.Point to theothersideand Page91
+sayThissideisfortellingalittlewhitelie.Remindpupilswhatwhite
+• Extensionactivity:Groupingwords
+liemeans.
+Describeasituation,similarto theonesin thequizinPupil's Book AssiosafectsiTonfourtonics,osethesefelion,natupis
+Activity1,e.g.Yourgrandmothergivesyouahatshehasmadefor
+needsandinterests.)Givepupils6smallpiecesofpapereachand
+yourbirthday.Youdon'tlikeit.Pupilshavetodecideiftheywould
+pupilswriteonewordtodowith theirtopiconeachpieceofpaper,
+tellthetruthortellawhitelieinthatsituation,andjumpto the
+e.g.forsports,theycouldwriteskiing,sledging,badminton.When
+appropriatesideof theline.Seehowmanypupilsenduponeachthepupilshavewrittenawordoneachpieceofpaper,putthem
+sideof thelineandaskindividualstoexplain theirchoice.Repeat
+intogroupswithpeoplewithadifferenttopic.Askthemtomixtheir
+withdifferentsituations.
+piecesofpapertogether,thenworktogethertocategorisethe
+wordsintogroupsandguessthetopicforeachgroup.
+Page85
+• Consolidationactivity:AskBettyandRobertPage92
+Pupilsdoaroleplayin groupsofthree.Onepupilplaystheroleof •Extensionactivity:Fillthegap
+anintervieweronaTVprogramme.TheothertwopupilsareBetty
+Writequestion1fromActivity2on the board.Elicito therwords
+andRobert(theAgonyAuntandUnclefrom thePupil's Book).Give
+whichcouldfitin thespace,e.g.classorquiz.Putpupils in pairsand
+pupilstimetopreparefor theroleplay-the'interviewer'thinksof
+askthemtothinkofalternativewordswhichcouldfillthegapsin
+questionstoaskBettyandRobert(about theirlives,theirwork,the questions2-7.Awardpointsforeachpossibleanswer.Thepairwith
+advicetheygive).BettyandRobertinventapersonallife.Arethey
+themostpointswin.
+husbandandwife,brotherandsister,ordotheyjustworktogether?
+Whatdidtheystudy?Dotheyalwaysagreeonadvice?MonitorandPage93
+helpwith theplanningstage.Pupilsthenactouttheinterviewin•Extensionactivity:Sentencejigsaws
+theirgroups. Givepupilslargestripsofpaperandaskthemtochoosetheir
+• Extensionactivity:Postersfavouritesentencefrompage93andcopyitonto thepaper,leaving
+Remindpupilsof thesubjectofRichard'sproblemletterin thePupil'slargespacesbetweeneachword.(Alternatively,theteachercould
+Book(cheating).Pupils workin groupsofthreeorfour.Giveeachassignpupilssentencesfrom thetext.)Remindthemtoincludethe
+groupalargepieceofpaper.Askthemtodesignaposterwith thecorrectpunctuation.Pupilsthenripthesentenceupsoeachsmall
+titleDon'tcheat.Theydrawapicturetoillustrateasituationwherepieceofpaperhasonewordonit.Theythenputthepiecesofpaper
+someoneischeating(atschool,inagameorasport).Theywriteaon theirtableorchair.Pupilsthenwalkaroundtheclass,arranging
+captioninEnglish,e.g.It'sbettertoworkhard.Displaythefinishedthesentences,checkingwith theteacher,thenmixingthemupfor
+postersin theclassroom.thenextpupil.
+Exam FolderPage94
+• Extensionactivity:Comparingrooms
+Page88
+Inpairs,pupilsdescribetheirlivingroom.Theytrytofindfour
+• Extensionactivity:Mimingmirrorssimilaritiesandfourdifferencesbetweentheirlivingrooms.
+Inpairs,pupilsstandface-to-faceasiftheyarelookingateach
+Page95
+otherin themirror.Onepupilistherealperson,and theotheris
+thereflection.Thereflectionmustcopytheirpartner'smovements.•Extensionactivity:Interviewaboutajourney
+Therealpersonmimesanactivity,e.g.eatinganice-cream,and theWrite thefollowingquestionson the board:Wheredidyougo?
+reflectioncopiestheirpartner.Theythenguesstheactivity,e.g. Howdidyoutravel?Whattimedidyouleave?Whatdidyousee?
+You'reeatinganice-cream.Whatdidyoulikethemost?Ask pupils tothinkaboutajourney
+theyhavehadandwriteshort answersto thequestionsin their
+notebooks.Pupilsthenwalkaroundtheclass,askingand answering
+• Extensionactivity:Falsedescriptionsthequestions.Setatimelimit.Forfeedback,asktheclasssome
+Inpairs,pupilsshouldchooseapagefrom theirPupil's Bookwithquestionsaboutwhat theirclassmatesdid.
+lotsofphotos.Givethematimelimit.Theythentaketurnsto
+describethephotosincorrectlyand theirpartnerneedstogivethe
+corpagdesagiosplayingonpage75,aboy'splayinggolf.B:No,
+Consolidation andExtension activitiesT121
+
+### Page 230
+
+Acknowledgments
+Theauthorsandpublishersacknowledgethefollowingsourcesofcopyright
+materialandaregratefulfor thepermissionsgranted.Whileeveryefforthas
+beenmade,ithasnotalwaysbeenpossibletoidentifythesourcesofall the
+materialused,ortotraceallcopyrightholders.Ifanyomissionsarebroughtto
+ournotice,wewillbehappytoincludetheappropriateacknowledgmentson
+reprintingandin thenextupdateto thedigitaledition,asapplicable.
+Screenshots
+ScreenshotstakenfromKid'sBoxNew GenerationLevel5&Level6,FunSkills
+Practice ExtraLevelA2andPowerUpPractice ExtraLevel4.
+Photography
+ThefollowingphotosaresourcedfromGettyImages:
+Intro:STEVENMCDOWELL/SciencePhotoLibrary;gorodenkoff/iStock/Getty
+ImagesPlus;shironosov/iStock/GettyImagesPlus;Wavebreakmedia/iStock/
+GettyImagesPlus.
+Thefollowingphotosaresourcedfromothersources.
+Intro:TheAuthors(CarolineNixonandMichaelTomlinson)andLianeGrainger;
+BookcovertakenfromTheCambridgeLifeCompetenciesFramework.
+CommissionedphotographybyTiffanyMumford,StephenNobleand
+DuncanYeldhamforCreativeListening.
+Illustration
+MorenoChiacchiera(Beehive);QBSLearning.
+DesignandTypeset
+BlooberryDesign
+FreelancerEditors
+GlenysDavis;HilaryRatcliff;SarahJaneLewis.
